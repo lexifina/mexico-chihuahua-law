@@ -911,6 +911,13 @@ IV.- El Ministerio Público en todos los casos.
 377.- La adopción quedará consumada una vez que cause ejecutoria la resolución que la autorice.
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
+D) ADOPCION INTERNACIONAL
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
+Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 B) ADOPCION SIMPLE
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 379.- La adopción simple confiere al adoptado la posición del hijo consanguíneo, pero no crea vínculo de parentesco entre aquél y la familia biológica del adoptante, sino a los efectos expresamente determinados en este Código.
@@ -944,13 +951,6 @@ C) ADOPCION PLENA
 384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-D) ADOPCION INTERNACIONAL
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
-Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
 TITULO OCTAVO
 DE LA PATRIA POTESTAD
 CAPITULO I
@@ -2663,6 +2663,17 @@ DE LA INSTITUCION DE HEREDERO
 CAPITULO VII
 DE LOS LEGADOS
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION SEGUNDA
+DEL LEGADO DE BIEN PROPIO
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1321.- No produce efectos el legado que el testador hace de bien propio, individualmente determinado, que al tiempo de su muerte no se halle en su herencia. Sin embargo, si el bien designado existe en la herencia en menor cantidad o número que los designados en el testamento, tendrá derecho el legatario a lo que hubiere.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1322.- Cuando el legado es de bien específico y determinado, propio del testador, el legatario adquiere su propiedad desde que aquél muere y desde entonces también hace suyos los frutos pendientes y futuros, a no ser que el testador haya dispuesto lo contrario.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1323.- Desde la muerte del testador, el riego es a cargo del legatario. Si se pierde, aumenta o deteriora el bien legado con posterioridad a la muerte del testador, el riesgo es para el legatario, salvo que el testador hubiere dispuesto otra cosa.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1324.- Cuando el testador, no obstante saber que el bien no le pertenece por entero, lo lega sin declarar de un modo expreso que sabía que era parcialmente de otro, el legado sólo será válido en la parte que corresponda al testador. Para la parte ajena, en su caso, se observará lo dispuesto en el capítulo siguiente.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION PRIMERA
 DISPOSICIONES GENERALES
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
@@ -2730,16 +2741,14 @@ Siendo varios los legatarios respecto de un mismo bien, cualquiera podrá ejerce
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1320.- Si el legatario a quien se impuso algún gravamen no recibe todo el legado, se reducirá la carga proporcionalmente, y si sufre evicción podrá repetir lo que haya pagado.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION SEGUNDA
-DEL LEGADO DE BIEN PROPIO
+SECCION CUARTA
+DEL LEGADO DE BIEN HIPOTECADO O DADO EN PRENDA
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1321.- No produce efectos el legado que el testador hace de bien propio, individualmente determinado, que al tiempo de su muerte no se halle en su herencia. Sin embargo, si el bien designado existe en la herencia en menor cantidad o número que los designados en el testamento, tendrá derecho el legatario a lo que hubiere.
+1335.- Si el bien legado se encuentra en la herencia y está hipotecado o dado en prenda, o lo fuere después de otorgado el testamento, la redención o desafectación serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1322.- Cuando el legado es de bien específico y determinado, propio del testador, el legatario adquiere su propiedad desde que aquél muere y desde entonces también hace suyos los frutos pendientes y futuros, a no ser que el testador haya dispuesto lo contrario.
+1336.- En caso de que no se realice el pago a cargo de la herencia conforme al artículo anterior y lo hiciere el legatario, quedará subrogado en el lugar y derechos del acreedor para reclamar contra los herederos.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1323.- Desde la muerte del testador, el riego es a cargo del legatario. Si se pierde, aumenta o deteriora el bien legado con posterioridad a la muerte del testador, el riesgo es para el legatario, salvo que el testador hubiere dispuesto otra cosa.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1324.- Cuando el testador, no obstante saber que el bien no le pertenece por entero, lo lega sin declarar de un modo expreso que sabía que era parcialmente de otro, el legado sólo será válido en la parte que corresponda al testador. Para la parte ajena, en su caso, se observará lo dispuesto en el capítulo siguiente.
+1337.- Cualquiera otra carga o gravamen a que se halle afecto el bien legado, se transmite junto con éste al legatario; las rentas y los réditos devengados hasta la muerte del testador son a cargo de la herencia, salvo que en el testamento se disponga otra cosa.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION NOVENA
 DEL LEGADO DE ALIMENTOS
@@ -2751,59 +2760,6 @@ DEL LEGADO DE ALIMENTOS
 1352.- Si el testador acostumbró en vida dar al legatario cierta cantidad de dinero por vía de alimentos, se entenderá legada la misma cantidad, si no resultare en notable desproporción con la cuantía de la herencia.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1353.- En el caso de la última parte del artículo anterior, y cuando el testador no haya señalado el monto de los alimentos, se estará a las reglas generales establecidas por este Código sobre la materia.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMA
-DEL LEGADO DE EDUCACION
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1354.- En el legado de educación, si el testador no fija el plazo, subsiste por el tiempo normal de estudio de una carrera profesional o de aprendizaje de un oficio.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION QUINTA
-DEL LEGADO DE BIEN INDETERMINADO
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1338.- El legado de bien indeterminado, pero comprendido en género determinado, será válido aunque en la herencia no haya bien alguno de este género.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1339.- En el caso del artículo anterior, si los bienes existen en la herencia, la elección corresponde al que deba pagar el legado, o en su caso al albacea, quien cumple con entregar uno de mediana calidad, pudiendo, en caso contrario, comprar uno de esa misma calidad o abonar al legatario el precio correspondiente, previo convenio o dictamen de peritos.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1340.- Cuando el testador conceda expresamente la elección al legatario, éste podrá si en la herencia hubiere varios bienes del género determinado, escoger el mejor, pero si no los hubiere, sólo podrá exigir uno de mediana calidad o el precio que corresponda a éste.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1341.- Si el bien indeterminado fuere inmueble, solo valdrá el legado si en la herencia existen varios del mismo género y para la elección se observarán las reglas establecidas en los dos artículos anteriores. De no existir tales bienes en la herencia, el legado no será válido, a menos que en el testamento se disponga que se compre un bien de tales características o se abone el precio al legatario.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2000)
-SECCION OCTAVA
-DE LOS LEGADOS ALTERNATIVOS
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1345.- En los legados alternativos la elección corresponde al heredero, si el testador no la concede expresamente al legatario.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1346.- En el supuesto de que la elección corresponda a un heredero y no se hubiere precisado el bien a entregar, al no existir un acuerdo con el legatario, deberá entregarse uno cuyo valor se aproxime al término medio entre los bienes de mayor y menor valor.
-Lo mismo se aplicará si la elección corresponde al legatario, respecto a la persona que deba cumplirlo.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1347.- En los legados alternativos se observará, además, lo dispuesto para las obligaciones alternativas.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1348.- En los casos en que el legatario que tenga derecho de hacer la elección no pudiere hacerla, la harán su representante legítimo o sus herederos.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1349.- Si en el plazo que se hubiere señalado, la persona que tenga derecho de hacer la elección no la realizara, podrá el Juez efectuarla a petición de parte interesada.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION SEXTA
-DEL LEGADO DE BIEN DETERMINADO
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1342.- En el legado de bien determinado, el heredero debe entregar al legatario el mismo bien legado y en caso de pérdida, se observará lo dispuesto por este Código para las obligaciones de dar un bien de esa característica.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION SEPTIMA
-DEL LEGADO DE DINERO O DE UN BIEN DEPOSITADO
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1343.- Los legados de dinero deben pagarse en esa especie, y si no hay en la herencia, con el producto de los bienes que al efecto se venda. La venta podrá evitarse por quien debe pagar el legado entregando a aquél la cantidad de dinero que corresponda.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1344.- El legado de un bien o cantidad depositados en lugar designado, sólo subsistirá en la parte que se encuentre en éste, a menos que el testador dispusiere de otra cosa.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMOTERCERA
-DEL LEGADO DE CREDITO
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1359.- El legado de un crédito perteneciente al testador, sólo produce efecto en la parte del crédito que esté insoluta al abrirse la sucesión, a menos que el testador dispusiere expresamente otra cosa.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1360.- En el caso del artículo anterior, el que deba cumplir el legado entregará al legatario el título que compruebe el crédito, y le cederá las acciones que en virtud de él corresponderían al testador.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1361.- Cumplido lo dispuesto en el artículo que precede, el que debe pagar el legado queda libre de la obligación de saneamiento y de cualquiera otra responsabilidad, ya provenga ésta del mismo título, de insolvencia del deudor o de sus fiadores, o de otra causa.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1362.- La entrega de títulos a que se refieren los artículos 1360 y 1364, comprende los intereses que por el crédito o deuda se deban a la muerte del testador y subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION DECIMOPRIMERA
 DEL LEGADO DE PENSION
@@ -2823,14 +2779,10 @@ DE LOS LEGADOS DE DERECHOS REALES
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1358.- Si el bien legado estuviere sujeto a usufructo, uso, habitación, servidumbre o derecho de superficie, el legatario deberá prestarlos hasta que legalmente se extingan, sin que el heredero tenga obligación de ninguna clase.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION CUARTA
-DEL LEGADO DE BIEN HIPOTECADO O DADO EN PRENDA
+SECCION SEXTA
+DEL LEGADO DE BIEN DETERMINADO
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1335.- Si el bien legado se encuentra en la herencia y está hipotecado o dado en prenda, o lo fuere después de otorgado el testamento, la redención o desafectación serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1336.- En caso de que no se realice el pago a cargo de la herencia conforme al artículo anterior y lo hiciere el legatario, quedará subrogado en el lugar y derechos del acreedor para reclamar contra los herederos.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1337.- Cualquiera otra carga o gravamen a que se halle afecto el bien legado, se transmite junto con éste al legatario; las rentas y los réditos devengados hasta la muerte del testador son a cargo de la herencia, salvo que en el testamento se disponga otra cosa.
+1342.- En el legado de bien determinado, el heredero debe entregar al legatario el mismo bien legado y en caso de pérdida, se observará lo dispuesto por este Código para las obligaciones de dar un bien de esa característica.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION TERCERA
 DEL LEGADO DE BIEN AJENO
@@ -2854,6 +2806,70 @@ DEL LEGADO DE BIEN AJENO
 1333.- Es válido el legado hecho a un tercero, de bien propio del heredero o de un legatario, cuando éstos aceptan la herencia en esas condiciones. En este caso, el heredero o legatario, deberán entregar el bien legado o su precio.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1334.- En el caso del artículo anterior, si el testador ignoraba que el bien fuese propio del heredero o del legatario, será nulo el legado.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2000)
+SECCION OCTAVA
+DE LOS LEGADOS ALTERNATIVOS
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1345.- En los legados alternativos la elección corresponde al heredero, si el testador no la concede expresamente al legatario.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1346.- En el supuesto de que la elección corresponda a un heredero y no se hubiere precisado el bien a entregar, al no existir un acuerdo con el legatario, deberá entregarse uno cuyo valor se aproxime al término medio entre los bienes de mayor y menor valor.
+Lo mismo se aplicará si la elección corresponde al legatario, respecto a la persona que deba cumplirlo.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1347.- En los legados alternativos se observará, además, lo dispuesto para las obligaciones alternativas.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1348.- En los casos en que el legatario que tenga derecho de hacer la elección no pudiere hacerla, la harán su representante legítimo o sus herederos.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1349.- Si en el plazo que se hubiere señalado, la persona que tenga derecho de hacer la elección no la realizara, podrá el Juez efectuarla a petición de parte interesada.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION DECIMA
+DEL LEGADO DE EDUCACION
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1354.- En el legado de educación, si el testador no fija el plazo, subsiste por el tiempo normal de estudio de una carrera profesional o de aprendizaje de un oficio.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION QUINTA
+DEL LEGADO DE BIEN INDETERMINADO
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1338.- El legado de bien indeterminado, pero comprendido en género determinado, será válido aunque en la herencia no haya bien alguno de este género.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1339.- En el caso del artículo anterior, si los bienes existen en la herencia, la elección corresponde al que deba pagar el legado, o en su caso al albacea, quien cumple con entregar uno de mediana calidad, pudiendo, en caso contrario, comprar uno de esa misma calidad o abonar al legatario el precio correspondiente, previo convenio o dictamen de peritos.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1340.- Cuando el testador conceda expresamente la elección al legatario, éste podrá si en la herencia hubiere varios bienes del género determinado, escoger el mejor, pero si no los hubiere, sólo podrá exigir uno de mediana calidad o el precio que corresponda a éste.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1341.- Si el bien indeterminado fuere inmueble, solo valdrá el legado si en la herencia existen varios del mismo género y para la elección se observarán las reglas establecidas en los dos artículos anteriores. De no existir tales bienes en la herencia, el legado no será válido, a menos que en el testamento se disponga que se compre un bien de tales características o se abone el precio al legatario.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION SEPTIMA
+DEL LEGADO DE DINERO O DE UN BIEN DEPOSITADO
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1343.- Los legados de dinero deben pagarse en esa especie, y si no hay en la herencia, con el producto de los bienes que al efecto se venda. La venta podrá evitarse por quien debe pagar el legado entregando a aquél la cantidad de dinero que corresponda.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1344.- El legado de un bien o cantidad depositados en lugar designado, sólo subsistirá en la parte que se encuentre en éste, a menos que el testador dispusiere de otra cosa.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION DECIMOTERCERA
+DEL LEGADO DE CREDITO
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1359.- El legado de un crédito perteneciente al testador, sólo produce efecto en la parte del crédito que esté insoluta al abrirse la sucesión, a menos que el testador dispusiere expresamente otra cosa.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1360.- En el caso del artículo anterior, el que deba cumplir el legado entregará al legatario el título que compruebe el crédito, y le cederá las acciones que en virtud de él corresponderían al testador.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1361.- Cumplido lo dispuesto en el artículo que precede, el que debe pagar el legado queda libre de la obligación de saneamiento y de cualquiera otra responsabilidad, ya provenga ésta del mismo título, de insolvencia del deudor o de sus fiadores, o de otra causa.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1362.- La entrega de títulos a que se refieren los artículos 1360 y 1364, comprende los intereses que por el crédito o deuda se deban a la muerte del testador y subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION DECIMOQUINTA
+DEL LEGADO GENERICO DE LIBERACION DE DEUDAS
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1365.- El legado genérico de liberación o remisión de las deudas, comprende sólo las existentes al tiempo de otorgarse el testamento y no las posteriores, salvo que el testador dispusiere otra cosa.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1366.- El legado que únicamente consiste en la liberación o cancelación de una garantía, sólo extingue ésta, pero no la obligación principal, a menos que así se establezca expresamente.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1367.- Lo dispuesto en el artículo anterior es aplicable al legado de fianza, ya sea hecho a favor del deudor o del fiador.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION DECIMOCUARTA
+DEL LEGADO DE DEUDA ESPECIFICA
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1363.- El legado de una deuda hecha al mismo deudor extingue la obligación, y el que debe cumplir el legado está obligado, no solamente a dar al deudor la constancia del pago, sino también a liberar y cancelar las garantías y cargas que se hubiesen constituido por el deudor a un tercero.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1364.- Legado el título de una deuda, se entiende legada ésta.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION DECIMOSEXTA
 DEL LEGADO A FAVOR DE ACREEDOR
@@ -2869,22 +2885,6 @@ DEL LEGADO A FAVOR DE ACREEDOR
 1374.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
 1375.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
 1376.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMOCUARTA
-DEL LEGADO DE DEUDA ESPECIFICA
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1363.- El legado de una deuda hecha al mismo deudor extingue la obligación, y el que debe cumplir el legado está obligado, no solamente a dar al deudor la constancia del pago, sino también a liberar y cancelar las garantías y cargas que se hubiesen constituido por el deudor a un tercero.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1364.- Legado el título de una deuda, se entiende legada ésta.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMOQUINTA
-DEL LEGADO GENERICO DE LIBERACION DE DEUDAS
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1365.- El legado genérico de liberación o remisión de las deudas, comprende sólo las existentes al tiempo de otorgarse el testamento y no las posteriores, salvo que el testador dispusiere otra cosa.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1366.- El legado que únicamente consiste en la liberación o cancelación de una garantía, sólo extingue ésta, pero no la obligación principal, a menos que así se establezca expresamente.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1367.- Lo dispuesto en el artículo anterior es aplicable al legado de fianza, ya sea hecho a favor del deudor o del fiador.
 (REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)
 CAPITULO VIII
 DE LAS SUBSTITUCIONES TESTAMENTARIAS
@@ -5375,31 +5375,46 @@ TITULO DECIMOPRIMERO
 DE LAS ASOCIACIONES Y DE LAS SOCIEDADES
 CAPITULO I
 DE LAS ASOCIACIONES
-2568.- Cuando varios individuos convinieren en reunirse, de manera que no sea enteramente transitoria, para realizar un fin común que no éste prohibido por la ley y que no tenga carácter preponderantemente económico, constituyen una asociación.
-2569.- El contrato de asociación debe constar por escrito; pero se hará constar en escritura pública cuando algún asociado transfiera a la asociación bienes cuya enajenación deba hacerse en esa forma.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2568.- La asociación civil es una persona moral que se constituye mediante contrato por el que dos o más personas convienen en reunirse de manera que no sea enteramente transitoria, para realizar un fin común, lícito, que no tenga carácter preponderantemente económico.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2569.- El contrato de asociación debe constar por escrito; pero cuando se transfieran a la asociación bienes inmuebles, entonces se observará la forma requerida para la enajenación de los mismos.
+El contrato de asociación contendrá por lo menos las menciones siguientes:
+a).- El nombre y domicilio de los asociados;
+b).- La razón social;
+c).- El domicilio de la asociación;
+d).- El objeto social;
+e).- El patrimonio de la asociación;
+f).- Las facultades de la asamblea;
+g).- Las atribuciones de la dirección; y
+h).- Los derechos y obligaciones de los asociados.
 2570.- La asociación puede admitir y excluir asociados.
 2571.- Las asociaciones se regirán por sus estatutos, los que deberán ser inscritos en el Registro Público para que produzcan efectos contra tercero.
 2572.- El poder supremo de las asociaciones reside en la asamblea general. El director o directores de ellas tendrán las facultades que les conceden los estatutos y la asamblea general, con sujeción a estos documentos.
 2573.- La asamblea general se reunirá en la época fijada en los estatutos o cuando sea convocada por la dirección. Esta deberá citar a asamblea cuando para ello fuere requerida por lo menos por el cinco por ciento de los asociados, o si no lo hicieren, en su lugar lo hará el juez de lo civil a petición de dichos asociados.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
 2574.- La asamblea general resolverá:
-I.- Sobre la admisión y exclusión de los asociados;
+I.- Sobre la admisión y exclusión de los asociados. La dirección podrá ejercer provisionalmente esta facultad, sujetándose el acuerdo respectivo a su ratificación por la asamblea;
 II.- Sobre la disolución anticipada de la asociación o sobre su prórroga por más tiempo del fijado en los estatutos;
-III.- Sobre el nombramiento de director o directores cuando no hayan sido nombrados en la escritura constitutiva;
+III.- Sobre el nombramiento de director o directores cuando no hayan sido nombrados en la escritura constitutiva, o los nombrados ya no ejerzan dicho cargo;
 IV.- Sobre la revocación de los nombramientos hechos;
-V.- Sobre los demás asuntos que le encomienden los estatutos.
-2575.- Las asambleas generales sólo se ocuparán de los asuntos contenidos en la respectiva orden del día.
-Sus decisiones serán tomadas a mayoría de votos de los miembros presentes.
+V.- Sobre los demás asuntos que le encomienden la Ley o los estatutos.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2575.- Las asambleas generales sólo se ocuparán de los asuntos contenidos en el respectivo orden del día.
+Sus decisiones serán tomadas por mayoría de votos de los miembros presentes, salvo disposición en contrario.
 2576.- Cada asociado gozará de un voto en las asambleas generales.
 2577.- El asociado no votará las decisiones en que se encuentren directamente interesados él, su cónyuge, sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
 2578.- Los miembros de la asociación tendrán derecho de separarse de ella, previo aviso dado con dos meses de anticipación.
 2579.- Los asociados sólo podrán ser excluidos de la sociedad por las causas que señalen los estatutos.
-2580.- Los asociados que voluntariamente se separen o que fueren excluidos, perderán todo derecho al haber social.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2580.- Los asociados que voluntariamente se separen o que fueren excluidos, perderán todo derecho al patrimonio social, salvo pacto en contrario que se consigne en los estatutos.
 (REFORMADO, P.O. 26 DE ENERO DE 2000)
 2581.- Los asociados tienen derecho de vigilar que las cuotas se dediquen al fin que se propone la asociación y con ese objeto pueden examinar los libros de la contabilidad y demás papeles de ésta.
 (REFORMADO, P.O. 26 DE ENERO DE 2000)
 2582.- La calidad de asociado es intransferible.
+(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE ABRIL DE 2003)
 2583.- Las asociaciones, además de las causas previstas en los estatutos, se extinguen:
-I.- Por consentimiento de la asamblea general;
+I.- Por consentimiento de las dos terceras partes de la asamblea general;
 II.- Por haber concluido el término fijado para su duración o por haber conseguido totalmente el objeto de su fundación;
 III.- Por haberse vuelto incapaces de realizar el fin para que fueron fundadas;
 IV.- Por resolución dictada por autoridad competente.
@@ -5408,107 +5423,170 @@ IV.- Por resolución dictada por autoridad competente.
 CAPITULO II
 DE LAS SOCIEDADES
 DISPOSICIONES GENERALES
-2586.- Por el contrato de sociedad los socios se obligan mutuamente a combinar sus recursos o sus esfuerzos para la realización de un fin común, de carácter preponderantemente económico, pero que no constituya una especulación.
-2587.- La aportación de los socios puede consistir en una cantidad de dinero u otros bienes, o en su industria. La aportación de bienes implica la transmisión de un dominio a la sociedad, salvo que expresamente se pacte otra cosa.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2586.- La Sociedad Civil es una persona moral que se constituye por contrato celebrado entre dos o más personas, quienes se obligan a aportar bienes o servicios para la realización de un fin común, lícito, de carácter preponderantemente económico, sin que constituya una especulación comercial.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2587.- La aportación de los socios puede consistir en una cantidad de dinero u otros bienes, o en su industria. La aportación de bienes implica la transmisión del dominio de los mismos a la sociedad, salvo que expresamente se pacte otra cosa.
 2588.- El contrato de sociedad debe constar por escrito; pero se hará constar en escritura pública, cuando algún socio transfiera a la sociedad bienes cuya enajenación deba hacerse en escritura pública.
-2589.- La falta de forma prescrita para el contrato de sociedad, sólo produce el efecto de que los socios puedan pedir, en cualquier tiempo, que se haga la liquidación de la sociedad conforme a lo convenido, y a falta de convenio, conforme al Capítulo V de esta Sección; pero mientras que esa liquidación no se pida, el contrato produce todos sus efectos entre los socios y éstos no pueden oponer a terceros que hayan contratado con la sociedad, la falta de forma.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2589.- La falta de forma prescrita para el contrato de sociedad, sólo produce el efecto de que los socios puedan pedir, en cualquier tiempo, la disolución y que se haga la liquidación de la sociedad conforme a lo convenido, y a falta de convenio, conforme al Capítulo VII de esta Sección; pero mientras que esa liquidación no se realice, el contrato produce todos sus efectos entre los socios y éstos no pueden oponer a terceros que hayan contratado con la sociedad, la falta de forma.
 2590.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
 2591.- El contrato de sociedad debe contener:
-I.- Los nombres y apellidos de los otorgantes que son capaces de obligarse;
-II.- La razón social;
-III.- El objeto de la sociedad;
-IV.- El importe del capital social y la aportación con que cada socio debe contribuir.
-Si falta alguno de estos requisitos se aplicará lo que dispone el artículo 2589.
-2592.- El contrato de sociedad debe inscribirse en el Registro de Sociedades Civiles para que produzca efectos contra tercero.
+a).- El nombre y domicilio de los socios;
+b).- La razón social;
+c).- El domicilio de la sociedad;
+d).- El objeto social;
+e).- El patrimonio de la sociedad;
+f).- Las facultades de la asamblea;
+g).- Las atribuciones de la administración; y
+h).- Los derechos y obligaciones de los socios.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2592.- El contrato de sociedad debe inscribirse en el Registro Público de la Propiedad para que produzca efectos contra tercero.
+Si no se inscribe, el contrato de la sociedad sólo surtirá efectos entre los socios, pero los terceros podrán aprovecharse de la existencia de la Sociedad y de los términos del pacto social, sin que se les puedan oponer en su perjuicio.
 (REFORMADO, P.O. 26 DE ENERO DE 2000)
 2593.- Las sociedades de naturaleza civil que realicen habitualmente actos de comercio quedarán sujetos en cuanto a dichos actos a la legislación mercantil y fiscal que corresponda, sin perjuicio de las sanciones que procedan.
 2594.- Será nula la sociedad en que se estipule que los provechos pertenecen exclusivamente a alguno o algunos de los socios y todas las pérdidas a otro u otros.
 2595.- No puede estipularse que a los socios capitalistas se les retribuya su aporte con una cantidad adicional, haya o no ganancias.
-2596.- El contrato de sociedad no puede modificarse sino por el consentimiento de las dos terceras partes de los socios, o por la mayoría que establezcan los estatutos.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2596.- El contrato de sociedad no puede modificarse sino por el consentimiento de las dos terceras partes de la asamblea general, o por la mayoría que establezcan los estatutos.
 2597.- Después de la razón social se agregarán estas palabras: "Sociedad Civil", o su abreviatura S. C.
 2598.- La capacidad para que las sociedades adquieran bienes raíces, se regirá por lo dispuesto en el artículo 27 de la Constitución Federal y en sus leyes reglamentarias.
 2599.- No quedan comprendidas en este Título las sociedades cooperativas, ni las mutualistas, que se regirán por las respectivas leyes especiales.
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE ABRIL DE 2003)
 CAPITULO III
+DE LA ASAMBLEA
+(ADICIONADO, P.O. 30 DE ABRIL DE 2003)
+2599 BIS.- La asamblea general resolverá:
+I.- Sobre la admisión y exclusión de los socios;
+II.- Sobre la disolución anticipada de la sociedad o sobre su prórroga por más tiempo del fijado en los estatutos;
+III.- Sobre el nombramiento del administrador o administradores, cuando no hayan sido nombrados en la escritura constitutiva, o los nombrados ya no ejerzan dicho cargo;
+IV.- Sobre la revocación de los nombramientos hechos; y
+V.- Sobre los demás asuntos que le encomienden la ley o sus estatutos.
+(ADICIONADO, P.O. 30 DE ABRIL DE 2003)
+2599 TER.- La asamblea general se reunirá ordinariamente en las fechas que para tal efecto se fijen en los estatutos y, de manera extraordinaria, cuando sea convocada por el administrador o los administradores, siempre y cuando así sea solicitado por lo menos por el veinticinco por ciento de los socios; si a pesar de la solicitud no se hace la convocatoria, el juez de lo civil podrá hacerlo a petición de dichos socios. Salvo que en los estatutos se fije una cantidad más elevada, en las reuniones de la asamblea general deberán encontrarse los socios que representen la mayoría del capital social y sólo podrán tratarse en ellas los asuntos contenidos en el respectivo orden del día.
+Los acuerdos de la asamblea general se tomarán por mayoría, excepto cuando expresamente se establezca otra cosa. Para la votación se tomará en cuenta la proporción de sus aportaciones, pero si una sola persona representa el mayor interés y se trata de sociedades de más de tres socios, se necesitará por lo menos el voto de la tercera parte de éstos. El voto de los socios industriales se computará, en primer término, de acuerdo al valor de su aportación; si ésta no se estimó, se calculará con la cuota que deba recibir por su industria y, si ésta no se hubiese designado, se observarán las mismas reglas que para efecto de la liquidación dispone el artículo 2630. Si el socio industrial participa además con capital, se considerará por separado de la industria para efecto de la votación.
+(REUBICADO, P.O. 30 DE ABRIL DE 2003)
+CAPITULO IV
 DE LOS SOCIOS
-2600.- Cada socio estará obligado al saneamiento para el caso de evicción de las cosas que aporte a la sociedad como corresponde a todo enajenante, y a indemnizar por los defectos de esas cosas como lo está el vendedor respecto del comprador; mas si lo que prometió fue el aprovechamiento de bienes determinados, responderá por ellos según los principios que rigen las obligaciones entre el arrendador y el arrendatario.
-2601.- A menos que se haya pactado en el contrato de sociedad, no puede obligarse a los socios a hacer una nueva aportación para ensanchar los negocios sociales. Cuando el aumento del capital social sea acordado por la mayoría, los socios que no estén conformes pueden separarse de la sociedad.
-2602.- Las obligaciones sociales estarán garantizadas subsidiariamente por la responsabilidad ilimitada y solidaria de los socios que administren; los demás socios, salvo convenio en contrario, sólo estarán obligados con su aportación.
-2603.- Los socios no pueden ceder sus derechos sin el consentimiento previo y unánime de los demás coasociados; y sin él tampoco pueden admitirse otros nuevos socios, salvo pacto en contrario, en uno y en otro caso.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2600.- Cada socio es deudor de la sociedad respecto de lo que se ha obligado a aportar a la misma. Queda también sujeto a responder de los vicios ocultos y de la evicción en cuanto a las cosas ciertas y determinadas que haya aportado a la sociedad, en los mismos casos y de igual modo que lo está el vendedor respecto al comprador.
+Si sólo aportó el uso o aprovechamiento de un bien, queda obligado en los mismos términos en que lo está el arrendador.
+El socio que se ha obligado a aportar una suma de dinero y no lo hiciere, está obligado al pago de los intereses desde el día en que debió aportarla, sin perjuicio de indemnizar por los daños que hubiese causado.
+Lo mismo tiene lugar respecto a las sumas que hubiese recibido de la caja social y tenga la obligación de restituir.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2601.- No puede obligarse a los socios a hacer una nueva aportación para ensanchar los negocios sociales, a menos que así se haya pactado en el contrato de sociedad. En este caso, cuando el aumento del capital social sea acordado por la mayoría, los socios que no estén conformes pueden separarse de la sociedad.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2602.- Los socios, salvo convenio en contrario, responderán de las obligaciones sociales hasta por el monto de sus aportaciones.
+Los socios que administren responderán solidariamente de las obligaciones sociales hasta por un monto igual a tres veces la aportación del mayor socio capitalista.
+Sin embargo, si la administración fuere realizada con dolo o mala fe, la responsabilidad de los socios administradores será ilimitada.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2603.- Los socios no pueden ceder sus derechos sin el consentimiento previo y de cuando menos las dos terceras partes de la asamblea; y sin él tampoco pueden admitirse otros nuevos socios, salvo pacto en contrario, en uno y en otro caso.
 2604.- Los socios gozarán del derecho del tanto. Si varios socios quieren hacer uso de este derecho, les competerá en la proporción que representen.
 El término para hacer uso del derecho del tanto, será de 8 días, contados a partir de la fecha en que reciban la notificación del que pretende enajenar, la que se hará en los términos que establezcan los estatutos o en su defecto en la forma prevenida por el artículo 935 de este Código.
-2605.- Para que algún socio pueda ser excluido de la sociedad se requiere el acuerdo mayoritario de los socios y por causa grave prevista en los estatutos.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2605.- Ningún socio puede ser excluido de la sociedad sino por el acuerdo de cuando menos las dos terceras partes de la asamblea general y por causa grave prevista en los estatutos.
 2606.- El socio excluido es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte del capital y utilidades de aquél, hasta concluir las operaciones pendientes al tiempo de la declaración, debiendo hacerse hasta entonces la liquidación correspondiente.
-CAPITULO IV
+(REUBICADO, P.O. 30 DE ABRIL DE 2003)
+CAPITULO V
 DE LA ADMINISTRACION DE LA SOCIEDAD
 2607.- La administración de la sociedad puede conferirse a uno o más socios. Habiendo socios especialmente encargados de la administración, los demás no podrán contrariar ni entorpecer las gestiones de aquéllos, ni impedir sus efectos. Si la administración no se hubiese limitado a alguno de los socios, se observará lo dispuesto en el artículo 2617.
 2608.- El nombramiento de los socios administradores, no priva a los demás socios del derecho de examinar el estado de los negocios y de exigir a este fin la presentación de libros, documentos y papeles, con el objeto de que puedan hacerse las reclamaciones que estimen convenientes. No es válida la renuncia del derecho consignado en este artículo.
-2609.- El nombramiento de los socios administradores, hecho en la escritura de sociedad, no podrá revocarse sin el consentimiento de todos los socios, a no ser judicialmente, por dolo, culpa o inhabilidad.
-El nombramiento de administradores, hecho después de constituida la sociedad, es revocable por mayoría de votos.
-2610.- Los socios administradores ejercerán las facultades que fueren necesarias al giro y desarrollo de los negocios que formen el objeto de la sociedad; pero salvo convenio en contrario necesitan autorización expresa de los otros socios:
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2609.- El nombramiento de los socios administradores, hecho en la escritura de sociedad, no podrá revocarse sin el consentimiento de cuando menos las dos terceras partes de la asamblea general, a no ser judicialmente, por dolo, culpa o inhabilidad.
+El nombramiento de administradores, hecho después de constituida la sociedad, es revocable por mayoría de votos. Toda revocación o nombramiento deberá anotarse en el Registro Público.
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 2003)
+2610.- Los socios administradores ejercerán las facultades que fueren necesarias al giro y desarrollo de los negocios que formen el objeto de la sociedad; pero salvo convenio en contrario necesitan autorización expresa de la asamblea:
 I.- Para enajenar los bienes de la sociedad, si ésta no se ha constituido con ese objeto;
 II.- Para darlos en prenda, hipotecarlos o gravarlos con cualquier otro derecho real;
-III.- Para tomar capitales prestados.
-2611.- Las facultades que no se hayan concedido a los administradores, serán ejercitadas por todos los socios, resolviéndose los asuntos por mayoría de votos. La mayoría se computará por cantidades, pero cuando una sola persona represente el mayor interés y se trate de sociedades de más de tres socios, se necesita por lo menos el voto de la tercera parte de los socios.
-2612.- Siendo varios los socios encargados indistintamente de la administración, sin declaración de que deberán proceder de acuerdo, podrá cada uno de ellos practicar separadamente los actos administrativos que crea oportunos.
+(REFORMADA, P.O. 30 DE ABRIL DE 2003)
+III.- Para tomar capitales prestados, y
+(ADICIONADA, P.O. 30 DE ABRIL DE 2003)
+IV.- Cuando así lo establezcan los estatutos.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2611.- Las facultades que no se hayan concedido a los administradores, serán ejercitadas por la asamblea general, resolviéndose estos asuntos en los términos del artículo 2599.
+(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE ABRIL DE 2003)
+2612.- Siendo varios los socios encargados indistintamente de la administración, sin declaración de que deberán proceder de acuerdo, podrá cada uno de ellos practicar separadamente los actos administrativos que crea oportunos; sin embargo, cualquiera de ellos puede oponerse a las operaciones del otro cuando éstas sean perjudiciales para la sociedad. En este caso, la oposición se realizará antes de que las operaciones hayan producido efectos legales. De la oposición conocerá la asamblea.
 2613.- Si se ha convenido en que un administrador nada pueda practicar sin concurso de otro, solamente podrá proceder de otra manera, en caso de que pueda resultar perjuicio grave e irreparable a la sociedad.
 2614.- Los compromisos contraídos por los socios administradores en nombre de la sociedad, excediéndose de sus facultades, si no son ratificados por ésta, sólo obligan a la sociedad en razón del beneficio recibido.
 2615.- Las obligaciones que se contraigan por la mayoría de los socios encargados de la administración, sin conocimiento de la minoría, o contra su voluntad expresa, serán válidas pero los que las hayan contraído serán responsables a la sociedad de los perjuicios que por ellas se cause.
-2616.- El socio o socios administradores están obligados a rendir cuentas siempre que lo pida la mayoría de los socios, aun cuando no sea la época fijada en el contrato de sociedad.
-2617.- Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría, observándose, respecto de éstas lo dispuesto en el artículo 2611.
-CAPITULO V
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2616.- El socio o socios administradores están obligados a rendir cuentas siempre que lo pidan los socios que representen por lo menos la tercera parte del capital social, aún cuando no sea la época fijada en el contrato de sociedad.
+(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE ABRIL DE 2003)
+2617.- Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría en los términos de lo dispuesto en el artículo 2599 Ter.
+Siempre que haya varios administradores los terceros podrán emplazar a cualquiera de ellos para exigir el cumplimiento de las obligaciones sociales, salvo que en el Registro Público conste expresamente a cual de los administradores se les podrá formular tal exigencia.
+El administrador mientras lo sea, se considera como órgano de la sociedad y no podrá, por tanto, separarse de la representación de la misma ni de las obligaciones inherentes a este carácter.
+(REUBICADO, P.O. 30 DE ABRIL DE 2003)
+CAPITULO VI
 DE LA DISOLUCION DE LAS SOCIEDADES
 2618.- La sociedad se disuelve:
 I.- Por haberse cumplido el término fijado en el contrato de sociedad;
 II.- Por la realización completa del fin social, o por haberse vuelto imposible la consecución del objeto de la sociedad;
 III.- Por acuerdo de los socios tomado de conformidad con el contrato social, y no encontrándose previsto en el mismo, por el voto de las dos terceras partes de los socios;
-IV.- Por la muerte o incapacidad de uno de los socios que tenga responsabilidad ilimitada por los compromisos sociales, salvo que en la escritura constitutiva se haya pactado que la sociedad continúe con los sobrevivientes o con los herederos de aquél;
-V.- Por la muerte del socio industrial, siempre que su industria haya dado nacimiento a la sociedad;
-VI.- Por la renuncia de uno de los socios, cuando se trate de sociedades de duración indeterminada y los otros socios no deseen continuar asociados;
-(ADICIONADA, P.O. 26 DE ENERO DE 2000)
-VII.- Cuando se formare para un objeto ilícito. En este caso se declarará la nulidad a solicitud de cualquiera de los socios o un tercero interesado;
+(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE ABRIL DE 2003)
+IV.- Por la muerte o incapacidad de uno de los socios administradores, salvo que en la escritura constitutiva se haya pactado que la sociedad continúe con los sobrevivientes o con los herederos de aquél;
+(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE ABRIL DE 2003)
+V.- Por la muerte del socio industrial, siempre que su industria haya dado nacimiento a la sociedad; a menos que la asamblea decidiera, por las dos terceras partes de los socios presentes, continuar las operaciones de la sociedad;
+(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE ABRIL DE 2003)
+VI.- Por la renuncia de uno de los socios, cuando se trate de sociedades de duración indeterminada y los otros socios no quieran continuar asociados. En este caso, la asamblea decidirá por el voto de las dos terceras partes de los socios presentes si continúa la sociedad; y
+(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE ABRIL DE 2003)
+VII.- Cuando se formare para un objeto ilícito. En este caso se declarará la nulidad a solicitud de cualquiera de los socios o un tercero interesado, oyendo en juicio a quien represente a la sociedad;
 VIII.- Por resolución judicial.
 (REFORMADO, P.O. 26 DE ENERO DE 2000)
 Para que la disolución surta efecto contra terceros, es necesario que se inscriba en el Registro Público de la Propiedad.
 2619.- Pasado el término por el cual fue constituida la sociedad, si ésta continua funcionando, se entenderá prorrogada su duración por tiempo indeterminado, sin necesidad de nueva escritura social, y su existencia puede demostrarse por todos los medios de prueba.
 2620.- En el caso de que a la muerte de un socio, la sociedad hubiere de continuar con los supervivientes, se procederá a la liquidación de la parte que corresponda al socio difunto, para entregarla a su sucesión. Los herederos del que murió tendrán derecho al capital y utilidades que al finado correspondan en el momento en que murió y, en lo sucesivo, sólo tendrán parte en lo que dependa necesariamente de los derechos adquiridos o de las obligaciones contraídas por el socio que murió.
-2621.- La renuncia se considera maliciosa cuando el socio que la hace se propone aprovecharse exclusivamente de los beneficios o evitarse pérdidas que los socios deberían de recibir o reportar en común con arreglo al convenio.
-2622.- Se dice extemporánea la renuncia, si al hacerla, las cosas no se hallan en su estado íntegro y la sociedad puede ser perjudicada con la disolución que originaría la renuncia.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2621.- Lo dispuesto en el artículo anterior se aplicará en lo conducente para el socio que se vuelve incapaz o que renuncia.
+(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE ABRIL DE 2003)
+2622.- La renuncia se considera maliciosa cuando el socio que la hace se propone aprovecharse exclusivamente de los beneficios o evitarse pérdidas que los socios deberían de recibir o reportar en común con arreglo al convenio.
+Se dice extemporánea la renuncia, si al hacerla, las cosas no se hallan en su estado íntegro y la sociedad puede ser perjudicada con la disolución que originaria la renuncia.
 2623.- La disolución de la sociedad no modifica los compromisos contraídos con terceros.
-CAPITULO VI
+(REUBICADO, P.O. 30 DE ABRIL DE 2003)
+CAPITULO VII
 DE LA LIQUIDACION DE LA SOCIEDAD
 2624.- Disuelta la sociedad, se pondrá inmediatamente en liquidación, la cual se practicará dentro del plazo de seis meses, salvo pacto en contrario.
 Cuando la sociedad se ponga en liquidación, debe agregarse a su nombre las palabras: "en liquidación".
 2625.- La liquidación debe hacerse por todos los socios, salvo que convengan en nombrar liquidadores o que ya estuvieren nombrados en la escritura social.
-2626.- Si cubiertos los compromisos sociales y devueltos los aportes de los socios, quedaren algunos bienes, se considerarán utilidades, y se repartirán entre los socios en la forma convenida. Si no hubo convenio, se repartirán proporcionalmente a sus aportes.
-(ADICIONADO, P.O. 26 DE ENERO DE 2000)
-En el caso de la fracción VII del artículo 2618, las utilidades se aplicarán al fondo de la Beneficencia Pública del Estado.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2626.- En primer lugar se cumplirán las obligaciones que hubiere contraído la sociedad con terceros; en segundo lugar, se hará devolución a los socios de sus aportaciones. Si aún quedaren bienes, se considerarán utilidades, y se repartirán entre los socios en la forma convenida. Si no hubo convenio, se repartirán proporcionalmente a sus aportaciones.
+En el caso de que la sociedad se hubiere formado para un objeto ilícito, las utilidades se aplicarán al fondo de la Beneficencia Pública del Estado.
 2627.- El capital social y las utilidades sólo pueden repartirse después de la disolución de la sociedad y previa la liquidación respectiva, salvo pacto en contrario.
-2628.- Si al liquidarse la sociedad no quedaren bienes suficientes para cubrir los compromisos sociales y devolver sus aportes a los socios, el déficit se considerará pérdida y se repartirá entre los asociados en la forma establecida en el artículo 2626.
+(ADICIONADO, P.O. 30 DE ABRIL DE 2003)
+La asamblea puede acordar la entrega de anticipos a cuenta de utilidades.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2628.- Si al liquidarse la sociedad no quedaren bienes suficientes para cubrir los compromisos sociales y devolver sus aportaciones a los socios, el déficit se considerará pérdida y se repartirá entre los asociados en forma proporcional a sus aportaciones.
 2629.- Si sólo se hubiere pactado lo que debe corresponder a los socios por utilidades, en la misma proporción responderán de las pérdidas.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
 2630.- Si alguno de los socios contribuye sólo con su industria, sin que ésta se hubiere estimado, ni se hubiere designado cuota que por ella debiera recibir, se observarán las reglas siguientes:
 I.- Si el trabajo del industrial pudiera hacerse por otro, su cuota será la que corresponda por razón de sueldos u honorarios y esto mismo se observará si son varios los socios industriales;
 II.- Si el trabajo no pudiere ser hecho por otro, su cuota será igual a la del socio capitalista que tenga más;
-III.- Si sólo hubiere un socio industrial y otro capitalista, se dividirán entre sí por partes iguales las ganancias;
+III.- Si sólo hubiere un socio industrial y otro capitalista, se dividirán entre sí por partes iguales las utilidades. En este caso deberán considerarse los anticipos, si los hubo;
 IV.- Si son varios los socios industriales y están en el caso de la fracción II, llevarán entre todos la mitad de las ganancias y la dividirán entre sí por convenio y, a falta de éste por decisión arbitral.
 2631.- Si el socio industrial hubiere contribuido también con cierto capital, se considerarán éste y la industria separadamente.
-2632.- Si al terminar la sociedad en que hubiere socios capitalistas e industriales, resultare que no hubo ganancias, todo el capital se distribuirá entre los socios capitalistas.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2632.- Si al terminar la sociedad en que hubiere socios capitalistas e industriales, resultare que no hubo utilidades, todo el capital se distribuirá entre los socios capitalistas.
 2633.- Salvo pacto en contrario, los socios industriales no responderán de las pérdidas.
-(REFORMADA SU DENOMINACION, P.O. 26 DE ENERO DE 2000)
-CAPITULO VII
+(REUBICADO, P.O. 30 DE ABRIL DE 2003)
+CAPITULO VIII
 DE LAS PERSONAS MORALES EXTRANJERAS DE NATURALEZA PRIVADA
 (REFORMADO, P.O. 26 DE ENERO DE 2000)
 2634.- La existencia, capacidad para ser titular de derechos y obligaciones, funcionamiento, transformación, disolución, liquidación y fusión de las personas morales extranjeras de naturaleza privada se regirán por el derecho conforme al cual fueron constituidas, entendiéndose por tal, aquél del Estado en que se cumplan los requisitos de forma y fondo requeridos para dicha constitución.
 En ningún caso el reconocimiento de la capacidad de una persona moral extranjera excederá a la que le otorgue el derecho conforme al cual se constituyó.
-(REFORMADO, P.O. 26 DE ENERO DE 2000)
-2635.- Cuando alguna persona extranjera de naturaleza privada actúe por medio de algún representante, se considerará que tal representante, o quien lo substituya, está autorizado para responder a las reclamaciones y demandas que se intenten en contra de dicha persona con motivo de los actos en cuestión.
-Para que dichas personas morales extranjeras puedan ejercer sus actividades en el Estado, deberán contar con la autorización de la Secretaría de Relaciones Exteriores.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2635.- Para que las personas morales extranjeras de naturaleza privada puedan ejercer sus actividades en el Estado, deberán cumplir con los siguientes requisitos:
+I.- Tener autorización previa de la Secretaría de Relaciones Exteriores;
+II.- Comprobar que se encuentran constituidas con arreglo a las leyes de su país y que sus estatutos no contienen disposiciones que sean contrarias a las leyes del Estado; y
+III.- Acreditar que tienen representante domiciliado en el Estado, suficientemente autorizado para responder de las obligaciones que contraiga la sociedad y para actuar en juicio a efecto de hacer frente a las demandas y reclamaciones que se intenten en contra de la sociedad con motivo de los actos realizados en la Entidad.
 (REFORMADO, P.O. 26 DE ENERO DE 2000)
 2636.- Una vez satisfechos los requisitos a que se refieren los artículos anteriores, se inscribirán en el Registro Público de la Propiedad los estatutos de las personas morales extranjeras.
-CAPITULO VIII
+(REUBICADO, P.O. 30 DE ABRIL DE 2003)
+CAPITULO IX
 DE LA APARCERIA RURAL
 2637.- La aparcería rural comprende la aparcería agrícola y la de ganados.
 2638.- El contrato de aparcería deberá otorgarse por escrito, formándose dos ejemplares, uno para cada contratante.
-2639.- Tiene lugar la aparcería agrícola, cuando una persona da a otra un predio rústico para que lo cultive, a fin de repartirse los frutos en la forma que convengan, o a falta de convenio, conforme a las costumbres del lugar; en el concepto de que al aparcero nunca podrá corresponderle por solo su trabajo menos del 40 por ciento de la cosecha.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2639.- Tiene lugar la aparcería agrícola, cuando una persona da a otra un predio rústico para que lo cultive, a fin de repartirse los frutos en la forma que convengan, o a falta de convenio, conforme a las costumbres del lugar; en el concepto de que al aparcero nunca podrá corresponderle por solo su trabajo menos del 50 por ciento de la cosecha.
 2640.- Si durante el término del contrato falleciere el dueño del predio dado en aparcería, o éste fuere enajenado, la aparcería subsistirá.
 Si es el aparcero el que muere, el contrato puede darse por terminado, salvo pacto en contrario.
 Cuando a la muerte del aparcero ya se hubieren hecho algunos trabajos, tales como el barbecho del terreno, la poda de los árboles, o cualquiera otra obra necesaria para el cultivo, si el propietario da por terminado el contrato tiene obligación de pagar a los herederos del aparcero el importe de esos trabajos, en cuanto se aproveche de ellos.
@@ -5521,7 +5599,8 @@ En este caso se observará lo dispuesto en la parte final del artículo 2642 y s
 2646.- Si la cosecha se pierde por completo, el aparcero no tiene obligación de pagar las semillas que le haya proporcionado para la siembra el dueño del terreno; si la pérdida de la cosecha es parcial, en proporción a esa pérdida quedará libre el aparcero de pagar las semillas de que se trata.
 2647.- Cuando el aparcero establezca su habitación en el campo que va a cultivar, tiene obligación el propietario de permitirle que construya su casa y de que tome el agua potable y la leña que necesite para satisfacer sus necesidades y las de su familia, así como que consuma el pasto indispensable para alimentar los animales que emplee en el cultivo.
 2648.- Al concluir el contrato de aparcería, el aparcero que hubiere cumplido fielmente sus compromisos, goza del derecho del tanto, si la tierra que estuvo cultivando va a ser dada en nueva aparcería.
-2649.- El propietario no tiene derecho de dejar sus tierras ociosas sino el tiempo que sea necesario para que recobren sus propiedades productivas. En consecuencia, pasada la época que en cada región fije la autoridad municipal correspondiente, conforme a la naturaleza de los cultivos, si el propietario no las comienza a cultivar por sí o por medio de otros, tiene obligación de darlas en aparcería o arrendamiento, de acuerdo con lo dispuesto en la Ley de Tierras Ociosas.
+(REFORMADO, P.O. 30 DE ABRIL DE 2003)
+2649.- El propietario no tiene derecho de dejar sus tierras ociosas sino el tiempo que sea necesario para que recobren sus propiedades productivas. En consecuencia, pasada la época que en cada región fije la autoridad municipal correspondiente, conforme a la naturaleza de los cultivos, si el propietario no las comienza a cultivar por sí o por medio de otros, tiene obligación de darlas en aparcería o arrendamiento, de acuerdo a la costumbre del lugar, a quien las solicite y ofrezca las condiciones necesarias de honorabilidad y solvencia.
 2650.- Tiene lugar la aparcería de ganados cuando una persona da a otra cierto número de animales a fin de que los cuide y alimente, con el objeto de repartirse los frutos en la proporción que convenga.
 2651.- Constituyen el objeto de esta aparcería las crías de los animales y sus productos, como pieles, crines, lanas, leche, etc.
 2652.- Las condiciones de este contrato se regularán por la voluntad de los interesados; pero a falta de convenio se observará la costumbre general del lugar, salvas (sic) las siguientes disposiciones.
