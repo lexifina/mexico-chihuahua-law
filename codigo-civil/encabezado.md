@@ -882,8 +882,6 @@ II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la v
 I.- A llevar el apellido del que lo reconoce;
 II.- A ser alimentado por éste;
 III.- A percibir la porción hereditaria y los alimentos que fije la ley.
-CAPITULO V
-DE LA ADOPCION
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 A) DISPOSICIONES GENERALES
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
@@ -919,6 +917,8 @@ IV.- El Ministerio Público en todos los casos.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 377.- La adopción quedará consumada una vez que cause ejecutoria la resolución que la autorice.
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
+CAPITULO V
+DE LA ADOPCION
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 B) ADOPCION SIMPLE
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
@@ -2127,12 +2127,14 @@ DE LOS DERECHOS DEL USUFRUCTUARIO
 1004.- El usufructuario puede gozar por sí mismo de la cosa usufructuada. Puede enajenar, arrendar y gravar su derecho de usufructo; pero todos los contratos que celebre como usufructuario terminarán con el usufructo.
 1005.- El usufructuario puede hacer mejoras útiles y puramente voluntarias; pero no tiene derecho de reclamar su pago, aunque sí puede retirarlas, siempre que sea posible hacerlo sin detrimento de la cosa en que esté constituido el usufructo.
 1006.- El propietario de bienes en que otro tenga el usufructo puede enajenarlos, con la condición de que se conserve el usufructo.
-1007.- El usufructuario goza del derecho del tanto. Es aplicable lo dispuesto en el artículo 986 en lo que se refiere a la forma para dar el aviso de enajenación y al tiempo para hacer uso del derecho del tanto.
+(REFORMADO, P.O. 5 DE JUNIO DE 2004)
+1007.- El usufructuario goza del derecho del tanto. Es aplicable lo dispuesto en el artículo 935 en lo que se refiere a la forma para dar aviso de enajenación y al tiempo para hacer uso del derecho del tanto.
 CAPITULO III
 DE LAS OBLIGACIONES DEL USUFRUCTUARIO
 1008.- El usufructuario, antes de entrar en el goce de los bienes está obligado:
 I.- A formar a sus expensas, con citación del dueño, un inventario de todos ellos, haciendo tasar los muebles y constar el estado en que se hallen los inmuebles.
-II.- A dar la correspondiente fianza de que disfrutará de las cosas con moderación, y las restituirá al propietario con sus accesiones, al extinguirse el usufructo, no empeoradas ni deterioradas, por su negligencia, salvo lo dispuesto en el artículo 444.
+(REFORMADA, P.O. 5 DE JUNIO DE 2004)
+II.- A dar la correspondiente fianza de que disfrutará de las cosas con moderación, y las restituirá al propietario con sus acciones, al extinguirse el usufructo, no empeoradas ni deterioradas, por su negligencia, salvo lo dispuesto en el artículo 411.
 1009.- El donador que se reserva el usufructo de los bienes donados, está dispensado de dar la fianza referida, si no se ha obligado expresamente a ello.
 1010.- El que se reserve la propiedad, puede dispensar al usufructuario de la obligación de afianzar.
 1011.- Si el usufructo fuere constituido por contrato, y el que contrató quedare de propietario, y no exigiere en el contrato la fianza, no estará obligado el usufructuario a darla; pero si quedare de propietario, un tercero, podrá pedirla aunque no se haya estipulado en el contrato.
@@ -2174,6 +2176,7 @@ III.- Por cumplirse la condición impuesta en el título constitutivo para la ce
 IV.- Por la reunión del usufructo y de la propiedad en una misma persona; mas si la reunión se verifica en una sola cosa o parte de lo usufructuado en lo demás subsistirá el usufructo;
 V.- Por prescripción, conforme a lo prevenido respecto de los derechos reales;
 VI.- Por la renuncia expresa del usufructuario, salvo lo dispuesto respecto de las renuncias hechas en fraude de los acreedores;
+(REFORMADA, P.O. 5 DE JUNIO DE 2004)
 VII.- Por la pérdida total de la cosa que era objeto del usufructo. Si la destrucción es total, el derecho continúa sobre lo que de la cosa haya quedado;
 VIII.- Por la cesación del derecho del que constituyó el usufructo, cuando teniendo un dominio revocable, llega el caso de la revocación;
 IX.- Por no dar fianza el usufructuario por título gratuito si el dueño no le ha eximido de esa obligación.
@@ -2212,7 +2215,8 @@ El inmueble a cuyo favor está constituida la servidumbre, se llama predio domin
 1066.- Las servidumbres son inseparables del inmueble a que activa o pasivamente pertenecen.
 1067.- Si los inmuebles mudan de dueño, la servidumbre continúa, ya activa, ya pasivamente, en el predio u objeto en que estaba constituida, hasta que legalmente se extinga.
 1068.- Las servidumbres son indivisibles. Si el predio sirviente se divide entre muchos dueños, la servidumbre no se modifica, y cada uno de ellos tiene que tolerarla en la parte que le corresponda. Si es el predio dominante el que se divide entre muchos, cada porcionero puede usar por entero, de la servidumbre, no variando el lugar de su uso, ni agravándolo de otra manera; mas si la servidumbre se hubiere establecido en favor de una sola de las partes del predio dominante, sólo el dueño de ésta podrá continuar disfrutándola.
-1069.- Las servidumbres traen su origen de la voluntad del hombre o de la ley; las primeras se llaman voluntarias y las segundas legales.
+(REFORMADO, P.O. 5 DE JUNIO DE 2004)
+1069.- Las servidumbres tienen su origen en la voluntad del hombre o en la ley; las primeras se llaman voluntarias y, las segundas, legales.
 CAPITULO II
 DE LAS SERVIDUMBRES LEGALES
 1070.- Servidumbre legal es la establecida por la ley, teniendo en cuenta la situación de los predios y en vista de la utilidad pública y privada conjuntamente.
@@ -2246,7 +2250,8 @@ V.- Resarcir los daños inmediatos, con inclusión del que resulte por dividirse
 1089.- En el caso a que se refiere el artículo 1083, el que pretenda el paso de aguas deberá pagar, en proporción a la cantidad de éstas, el valor del terreno ocupado por el canal en que se introduce y los gastos necesarios para su conservación, sin perjuicio de la indemnización debida por el terreno que sea necesario ocupar de nuevo, y por los otros gastos que ocasione el paso que se le concede.
 1090.- La cantidad de agua que pueda hacerse pasar por un acueducto establecido en predio ajeno, no tendrá otra limitación que la que resulte de la capacidad que por las dimensiones convenidas se haya fijado al mismo acueducto.
 1091.- Si el que disfruta del acueducto necesitare ampliarlo, deberá costear las obras necesarias y pagar el terreno que nuevamente ocupe y los daños que cause, conforme a lo dispuesto en los incisos IV y V del artículo 1088.
-1092.- La servidumbre legal establecida por el artículo 1145 trae consigo el derecho de tránsito para las personas y animales y el de conducción de los materiales necesarios para el uso y reparación del acueducto, así como para el cuidado del agua que por él se conduce observándose lo dispuesto en los artículos del 1101 a 1106, inclusive.
+(REFORMADO, P.O. 5 DE JUNIO DE 2004)
+1092.- La servidumbre legal establecida por el artículo 1080 trae consigo el derecho de tránsito para las personas y animales y el de conducción de los materiales necesarios para el uso y reparación del acueducto, así como para el cuidado del agua que por él se conduce; observándose lo dispuesto en los artículos del 1101 a 1106, inclusive.
 1093.- Las disposiciones concernientes al paso de las aguas, son aplicables al caso en que el poseedor de un terreno pantanoso quiera desecarlo o dar salida por medio de cauces a las aguas estancadas.
 1094.- Todo el que se aproveche de un acueducto, ya pase por terreno propio, ya por ajeno, debe construir y conservar los puentes, canales, acueductos subterráneos y demás obras necesarias para que no se perjudique el derecho de otro.
 1095.- Si los que se aprovecharen fueren varios, la obligación recaerá sobre todos en proporción de su aprovechamiento, si no hubiere prescripción o convenio en contrario.
@@ -2750,6 +2755,74 @@ Siendo varios los legatarios respecto de un mismo bien, cualquiera podrá ejerce
 1319.- Si la carga consiste en la ejecución de un hecho, el heredero o legatario que acepte la herencia queda obligado a prestarlo. Si no lo pudiera hacer personalmente, sufragará la cantidad necesaria para su ejecución.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1320.- Si el legatario a quien se impuso algún gravamen no recibe todo el legado, se reducirá la carga proporcionalmente, y si sufre evicción podrá repetir lo que haya pagado.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2000)
+SECCION OCTAVA
+DE LOS LEGADOS ALTERNATIVOS
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1345.- En los legados alternativos la elección corresponde al heredero, si el testador no la concede expresamente al legatario.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1346.- En el supuesto de que la elección corresponda a un heredero y no se hubiere precisado el bien a entregar, al no existir un acuerdo con el legatario, deberá entregarse uno cuyo valor se aproxime al término medio entre los bienes de mayor y menor valor.
+Lo mismo se aplicará si la elección corresponde al legatario, respecto a la persona que deba cumplirlo.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1347.- En los legados alternativos se observará, además, lo dispuesto para las obligaciones alternativas.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1348.- En los casos en que el legatario que tenga derecho de hacer la elección no pudiere hacerla, la harán su representante legítimo o sus herederos.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1349.- Si en el plazo que se hubiere señalado, la persona que tenga derecho de hacer la elección no la realizara, podrá el Juez efectuarla a petición de parte interesada.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION SEXTA
+DEL LEGADO DE BIEN DETERMINADO
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1342.- En el legado de bien determinado, el heredero debe entregar al legatario el mismo bien legado y en caso de pérdida, se observará lo dispuesto por este Código para las obligaciones de dar un bien de esa característica.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION DECIMOPRIMERA
+DEL LEGADO DE PENSION
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1355.- El legado de pensión se rige por las siguientes disposiciones:
+I.- Sea cual fuere la cantidad, el objeto y los plazos, se inicia desde la muerte del testador.
+II.- Es exigible al principio de cada periodo.
+III.- El legatario hace suya la pensión que tuvo derecho de cobrar, aunque muera antes de que termine el periodo comenzado.
+IV.- El heredero debe garantizar suficientemente al legatario el pago de las pensiones futuras.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION CUARTA
+DEL LEGADO DE BIEN HIPOTECADO O DADO EN PRENDA
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1335.- Si el bien legado se encuentra en la herencia y está hipotecado o dado en prenda, o lo fuere después de otorgado el testamento, la redención o desafectación serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1336.- En caso de que no se realice el pago a cargo de la herencia conforme al artículo anterior y lo hiciere el legatario, quedará subrogado en el lugar y derechos del acreedor para reclamar contra los herederos.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1337.- Cualquiera otra carga o gravamen a que se halle afecto el bien legado, se transmite junto con éste al legatario; las rentas y los réditos devengados hasta la muerte del testador son a cargo de la herencia, salvo que en el testamento se disponga otra cosa.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION QUINTA
+DEL LEGADO DE BIEN INDETERMINADO
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1338.- El legado de bien indeterminado, pero comprendido en género determinado, será válido aunque en la herencia no haya bien alguno de este género.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1339.- En el caso del artículo anterior, si los bienes existen en la herencia, la elección corresponde al que deba pagar el legado, o en su caso al albacea, quien cumple con entregar uno de mediana calidad, pudiendo, en caso contrario, comprar uno de esa misma calidad o abonar al legatario el precio correspondiente, previo convenio o dictamen de peritos.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1340.- Cuando el testador conceda expresamente la elección al legatario, éste podrá si en la herencia hubiere varios bienes del género determinado, escoger el mejor, pero si no los hubiere, sólo podrá exigir uno de mediana calidad o el precio que corresponda a éste.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1341.- Si el bien indeterminado fuere inmueble, solo valdrá el legado si en la herencia existen varios del mismo género y para la elección se observarán las reglas establecidas en los dos artículos anteriores. De no existir tales bienes en la herencia, el legado no será válido, a menos que en el testamento se disponga que se compre un bien de tales características o se abone el precio al legatario.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION DECIMOSEGUNDA
+DE LOS LEGADOS DE DERECHOS REALES
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1356.- Los legados de usufructo, uso, habitación, servidumbre voluntaria o derecho de superficie subsistirán mientras viva el legatario, a no ser que el testador dispusiere una duración menor.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1357.- Los legados a que se refiere el artículo anterior, en beneficio de cualquier persona moral, sólo durarán hasta veinte años.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1358.- Si el bien legado estuviere sujeto a usufructo, uso, habitación, servidumbre o derecho de superficie, el legatario deberá prestarlos hasta que legalmente se extingan, sin que el heredero tenga obligación de ninguna clase.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION DECIMOTERCERA
+DEL LEGADO DE CREDITO
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1359.- El legado de un crédito perteneciente al testador, sólo produce efecto en la parte del crédito que esté insoluta al abrirse la sucesión, a menos que el testador dispusiere expresamente otra cosa.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1360.- En el caso del artículo anterior, el que deba cumplir el legado entregará al legatario el título que compruebe el crédito, y le cederá las acciones que en virtud de él corresponderían al testador.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1361.- Cumplido lo dispuesto en el artículo que precede, el que debe pagar el legado queda libre de la obligación de saneamiento y de cualquiera otra responsabilidad, ya provenga ésta del mismo título, de insolvencia del deudor o de sus fiadores, o de otra causa.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1362.- La entrega de títulos a que se refieren los artículos 1360 y 1364, comprende los intereses que por el crédito o deuda se deban a la muerte del testador y subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION TERCERA
 DEL LEGADO DE BIEN AJENO
@@ -2774,41 +2847,6 @@ DEL LEGADO DE BIEN AJENO
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1334.- En el caso del artículo anterior, si el testador ignoraba que el bien fuese propio del heredero o del legatario, será nulo el legado.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION SEPTIMA
-DEL LEGADO DE DINERO O DE UN BIEN DEPOSITADO
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1343.- Los legados de dinero deben pagarse en esa especie, y si no hay en la herencia, con el producto de los bienes que al efecto se venda. La venta podrá evitarse por quien debe pagar el legado entregando a aquél la cantidad de dinero que corresponda.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1344.- El legado de un bien o cantidad depositados en lugar designado, sólo subsistirá en la parte que se encuentre en éste, a menos que el testador dispusiere de otra cosa.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION SEXTA
-DEL LEGADO DE BIEN DETERMINADO
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1342.- En el legado de bien determinado, el heredero debe entregar al legatario el mismo bien legado y en caso de pérdida, se observará lo dispuesto por este Código para las obligaciones de dar un bien de esa característica.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION CUARTA
-DEL LEGADO DE BIEN HIPOTECADO O DADO EN PRENDA
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1335.- Si el bien legado se encuentra en la herencia y está hipotecado o dado en prenda, o lo fuere después de otorgado el testamento, la redención o desafectación serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1336.- En caso de que no se realice el pago a cargo de la herencia conforme al artículo anterior y lo hiciere el legatario, quedará subrogado en el lugar y derechos del acreedor para reclamar contra los herederos.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1337.- Cualquiera otra carga o gravamen a que se halle afecto el bien legado, se transmite junto con éste al legatario; las rentas y los réditos devengados hasta la muerte del testador son a cargo de la herencia, salvo que en el testamento se disponga otra cosa.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2000)
-SECCION OCTAVA
-DE LOS LEGADOS ALTERNATIVOS
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1345.- En los legados alternativos la elección corresponde al heredero, si el testador no la concede expresamente al legatario.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1346.- En el supuesto de que la elección corresponda a un heredero y no se hubiere precisado el bien a entregar, al no existir un acuerdo con el legatario, deberá entregarse uno cuyo valor se aproxime al término medio entre los bienes de mayor y menor valor.
-Lo mismo se aplicará si la elección corresponde al legatario, respecto a la persona que deba cumplirlo.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1347.- En los legados alternativos se observará, además, lo dispuesto para las obligaciones alternativas.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1348.- En los casos en que el legatario que tenga derecho de hacer la elección no pudiere hacerla, la harán su representante legítimo o sus herederos.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1349.- Si en el plazo que se hubiere señalado, la persona que tenga derecho de hacer la elección no la realizara, podrá el Juez efectuarla a petición de parte interesada.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION NOVENA
 DEL LEGADO DE ALIMENTOS
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
@@ -2820,59 +2858,17 @@ DEL LEGADO DE ALIMENTOS
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1353.- En el caso de la última parte del artículo anterior, y cuando el testador no haya señalado el monto de los alimentos, se estará a las reglas generales establecidas por este Código sobre la materia.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMOTERCERA
-DEL LEGADO DE CREDITO
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1359.- El legado de un crédito perteneciente al testador, sólo produce efecto en la parte del crédito que esté insoluta al abrirse la sucesión, a menos que el testador dispusiere expresamente otra cosa.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1360.- En el caso del artículo anterior, el que deba cumplir el legado entregará al legatario el título que compruebe el crédito, y le cederá las acciones que en virtud de él corresponderían al testador.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1361.- Cumplido lo dispuesto en el artículo que precede, el que debe pagar el legado queda libre de la obligación de saneamiento y de cualquiera otra responsabilidad, ya provenga ésta del mismo título, de insolvencia del deudor o de sus fiadores, o de otra causa.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1362.- La entrega de títulos a que se refieren los artículos 1360 y 1364, comprende los intereses que por el crédito o deuda se deban a la muerte del testador y subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMOPRIMERA
-DEL LEGADO DE PENSION
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1355.- El legado de pensión se rige por las siguientes disposiciones:
-I.- Sea cual fuere la cantidad, el objeto y los plazos, se inicia desde la muerte del testador.
-II.- Es exigible al principio de cada periodo.
-III.- El legatario hace suya la pensión que tuvo derecho de cobrar, aunque muera antes de que termine el periodo comenzado.
-IV.- El heredero debe garantizar suficientemente al legatario el pago de las pensiones futuras.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION DECIMA
 DEL LEGADO DE EDUCACION
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1354.- En el legado de educación, si el testador no fija el plazo, subsiste por el tiempo normal de estudio de una carrera profesional o de aprendizaje de un oficio.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION QUINTA
-DEL LEGADO DE BIEN INDETERMINADO
+SECCION SEPTIMA
+DEL LEGADO DE DINERO O DE UN BIEN DEPOSITADO
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1338.- El legado de bien indeterminado, pero comprendido en género determinado, será válido aunque en la herencia no haya bien alguno de este género.
+1343.- Los legados de dinero deben pagarse en esa especie, y si no hay en la herencia, con el producto de los bienes que al efecto se venda. La venta podrá evitarse por quien debe pagar el legado entregando a aquél la cantidad de dinero que corresponda.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1339.- En el caso del artículo anterior, si los bienes existen en la herencia, la elección corresponde al que deba pagar el legado, o en su caso al albacea, quien cumple con entregar uno de mediana calidad, pudiendo, en caso contrario, comprar uno de esa misma calidad o abonar al legatario el precio correspondiente, previo convenio o dictamen de peritos.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1340.- Cuando el testador conceda expresamente la elección al legatario, éste podrá si en la herencia hubiere varios bienes del género determinado, escoger el mejor, pero si no los hubiere, sólo podrá exigir uno de mediana calidad o el precio que corresponda a éste.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1341.- Si el bien indeterminado fuere inmueble, solo valdrá el legado si en la herencia existen varios del mismo género y para la elección se observarán las reglas establecidas en los dos artículos anteriores. De no existir tales bienes en la herencia, el legado no será válido, a menos que en el testamento se disponga que se compre un bien de tales características o se abone el precio al legatario.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMOSEGUNDA
-DE LOS LEGADOS DE DERECHOS REALES
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1356.- Los legados de usufructo, uso, habitación, servidumbre voluntaria o derecho de superficie subsistirán mientras viva el legatario, a no ser que el testador dispusiere una duración menor.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1357.- Los legados a que se refiere el artículo anterior, en beneficio de cualquier persona moral, sólo durarán hasta veinte años.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1358.- Si el bien legado estuviere sujeto a usufructo, uso, habitación, servidumbre o derecho de superficie, el legatario deberá prestarlos hasta que legalmente se extingan, sin que el heredero tenga obligación de ninguna clase.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMOQUINTA
-DEL LEGADO GENERICO DE LIBERACION DE DEUDAS
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1365.- El legado genérico de liberación o remisión de las deudas, comprende sólo las existentes al tiempo de otorgarse el testamento y no las posteriores, salvo que el testador dispusiere otra cosa.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1366.- El legado que únicamente consiste en la liberación o cancelación de una garantía, sólo extingue ésta, pero no la obligación principal, a menos que así se establezca expresamente.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1367.- Lo dispuesto en el artículo anterior es aplicable al legado de fianza, ya sea hecho a favor del deudor o del fiador.
+1344.- El legado de un bien o cantidad depositados en lugar designado, sólo subsistirá en la parte que se encuentre en éste, a menos que el testador dispusiere de otra cosa.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION DECIMOSEXTA
 DEL LEGADO A FAVOR DE ACREEDOR
@@ -2895,6 +2891,15 @@ DEL LEGADO DE DEUDA ESPECIFICA
 1363.- El legado de una deuda hecha al mismo deudor extingue la obligación, y el que debe cumplir el legado está obligado, no solamente a dar al deudor la constancia del pago, sino también a liberar y cancelar las garantías y cargas que se hubiesen constituido por el deudor a un tercero.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1364.- Legado el título de una deuda, se entiende legada ésta.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION DECIMOQUINTA
+DEL LEGADO GENERICO DE LIBERACION DE DEUDAS
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1365.- El legado genérico de liberación o remisión de las deudas, comprende sólo las existentes al tiempo de otorgarse el testamento y no las posteriores, salvo que el testador dispusiere otra cosa.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1366.- El legado que únicamente consiste en la liberación o cancelación de una garantía, sólo extingue ésta, pero no la obligación principal, a menos que así se establezca expresamente.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1367.- Lo dispuesto en el artículo anterior es aplicable al legado de fianza, ya sea hecho a favor del deudor o del fiador.
 (REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)
 CAPITULO VIII
 DE LAS SUBSTITUCIONES TESTAMENTARIAS
@@ -3715,7 +3720,7 @@ III.- Cuando la pérdida fuere ocasionada por culpa del heredero que la sufre.
 1678.- Por los créditos incobrables no hay responsabilidad.
 Si se adjudica como cobrable un crédito, los coherederos no responden de la insolvencia posterior del deudor hereditario, y sólo son responsables de su insolvencia al tiempo de hacer la partición.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1679.- El heredero cuyos bienes hereditarios fueren embargados por créditos a cargo de la sucesión, y aquel contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohÍba enajenar los bienes que recibieron.
+1679.- El heredero cuyos bienes hereditarios fueren embargados por créditos a cargo de la sucesión, y aquel contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohíba enajenar los bienes que recibieron.
 CAPITULO VIII
 DE LA RESCISION Y NULIDAD DE LAS PARTICIONES
 1680.- Las particiones pueden rescindirse o anularse por las mismas causas que las obligaciones.
@@ -5045,7 +5050,7 @@ CAPITULO IX
 DEL MODO DE TERMINAR EL ARRENDAMIENTO
 TITULO SEPTIMO
 DEL COMODATO
-(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)
+((REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)
 2396.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible y el otro contrae la obligación de restituirla individualmente.
 (REFORMADO, P.O. 26 DE ENERO DE 2000)
 El contrato de comodato deberá otorgarse por escrito ante dos testigos. Si tiene por objeto un predio rústico cuyo valor del avalúo o valor catastral exceda de quinientas veces el salario mínimo, el contrato se otorgará en escritura pública.
