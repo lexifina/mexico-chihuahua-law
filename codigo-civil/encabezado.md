@@ -414,7 +414,8 @@ CAPITULO I
 DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 134.- El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
 135.- Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
-136.- Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los Presidentes Municipales pueden conceder dispensa de edad por causas graves y justificadas.
+(REFORMADO, P.O. 15 DE ABRIL DE 2000)
+136.- Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce.
 137.- El hijo o hija que no hayan cumplido dieciocho años no pueden contraer matrimonio sin consentimiento de sus padres, si vivieran ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; o en su defecto se requiere el consentimiento de los abuelos maternos o del que sobreviva.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
 138.- Faltando padres y abuelos, se necesita el consentimiento de los tutores; en defecto de éstos, el Juez de Primera Instancia o de lo Familiar de la residencia del menor suplirá el consentimiento.
@@ -875,19 +876,6 @@ IV.- El Ministerio Público en todos los casos.
 377.- La adopción quedará consumada una vez que cause ejecutoria la resolución que la autorice.
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-C) ADOPCION PLENA
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-D) ADOPCION INTERNACIONAL
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
-Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 B) ADOPCION SIMPLE
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 379.- La adopción simple confiere al adoptado la posición del hijo consanguíneo, pero no crea vínculo de parentesco entre aquél y la familia biológica del adoptante, sino a los efectos expresamente determinados en este Código.
@@ -915,6 +903,19 @@ II.- Si el adoptado imputa legalmente al adoptante la comisión de algún delito
 III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
+C) ADOPCION PLENA
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
+D) ADOPCION INTERNACIONAL
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
+Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
 TITULO OCTAVO
 DE LA PATRIA POTESTAD
 CAPITULO I
