@@ -1,0 +1,5 @@
+P.O. 18 DE SEPTIEMBRE DE 2004.
+PRIMERO.- Por lo que toca a la reforma constitucional, conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y en su oportunidad, hágase por el Congreso del Estado, el computo de votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitucional Local realizado que sea, publíquese en el Periódico Oficial del Estado.
+SEGUNDO.- La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año ciclo 2008-2009.
+En los plazos señalados, el Estado mexicano habrá de universalizar en todo el país, con calidad, la oferta de este servicio educativo.
+TERCERO.- Una vez aprobado (sic) la reforma constitucional, en su caso, remítase al Ejecutivo Estatal el presente Decreto para su promulgación y publicación en el Periódico Oficial.
