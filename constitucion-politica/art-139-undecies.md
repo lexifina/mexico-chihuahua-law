@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE JULIO DE 2009)
+ARTICULO 139 Undecies.- El personal médico que tenga a su cargo el cumplimiento de las disposiciones establecidas para los cuidados paliativos, cuyas creencias religiosas y convicciones personales sean contrarias a tales disposiciones, podrán ser objetores de conciencia y por tal razón podrán excusarse de intervenir en su realización desde el momento en que el paciente solicite el tratamiento de cuidados paliativos.

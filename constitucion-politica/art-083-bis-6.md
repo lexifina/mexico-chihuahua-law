@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)
+ARTICULO 83 Bis 6.- Los beneficiarios del Régimen Estatal de Protección Social en Salud participarán en su financiamiento con cuotas familiares que se determinarán con base en las condiciones socioeconómicas de cada familia, las cuales deberán cubrirse en la forma y fechas que determine el organismo, salvo cuando exista la incapacidad de la familia a cubrir la cuota, lo cual no le impedirá incorporarse y ser sujeto de los beneficios que se deriven del Sistema de Protección Social en Salud.
+Las cuotas familiares no serán objeto de devolución bajo ninguna circunstancia, ni podrán aplicarse a períodos subsecuentes en el caso de suspensión temporal de los beneficios de la protección social en salud.
+La carencia de ingresos no podrá ser limitantes (sic) para el acceso al Régimen Estatal de Protección Social en Salud.
