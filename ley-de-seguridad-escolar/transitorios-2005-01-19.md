@@ -1,0 +1,4 @@
+P.O. 19 DE ENERO DE 2005.
+ARTÍCULO PRIMERO.- Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Para el correcto desempeño de las atribuciones que se confieren a la Secretaría de Seguridad Pública, el ejecutivo Estatal deberá expedir el ordenamiento jurídico que regule el funcionamiento de dicha secretaría, dentro de los 60 días posteriores a la entrada en vigor de las reformas aprobadas, así como realizar las reformas necesarias al Reglamento Interior de la Secretaría General de Gobierno y al Reglamento de la Penitenciaría del Estado.
+ARTÍCULO TERCERO.- Cuando en la Ley de Protección Civil del Estado de Chihuahua, se haga referencia a la unidad de Protección Civil, se entenderá citada la Coordinación de Protección Civil.
