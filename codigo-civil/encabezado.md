@@ -646,7 +646,15 @@ XV.- El vicio del juego o de la embriaguez o el uso continuo de drogas enervante
 XVI.- El abandono del domicilio o de las obligaciones conyugales por más de tres meses sin causa justificada;
 XVII.- La separación del hogar conyugal por uno de los cónyuges por más de un año sin que el otro haya entablado demanda de divorcio;
 XVIII.- La negativa de uno de los cónyuges a ministrar al otro los alimentos que le correspondan conforme a la ley; y
-XIX.- La incompatibilidad de caracteres.
+XIX.- La incompatibilidad de caracteres;
+(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2001)
+XX.- Las conductas de violencia familiar generadas por un cónyuge contra el otro o en contra de los hijos, conforme a lo previsto por el artículo 300 ter.
+(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)
+256 BIS.- Al admitirse la demanda de divorcio, o antes si hubiere urgencia sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:
+I.- Proceder a la separación de los cónyuges de conformidad con el Código de Procedimientos Civiles;
+II.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;
+III.- Ordenar la prohibición de ir a un lugar determinado para alguno de los cónyuges, así como cualquier medida necesaria para que cese todo acto de violencia familiar, pensando en el interés del agraviado.
+La protección para los menores implica las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales corresponderá a la Procuraduría de Defensa del Menor y la Familia o de los Sistemas de Desarrollo Integral de la Familia Municipales.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
 257.- Los cónyuges divorciados podrán contraer nuevo matrimonio inmediatamente después de obtenido el divorcio; pero la mujer no podrá hacerlo si no tuviere trescientos días de separada físicamente de su esposo, o mediare examen médico que acredite que no está embarazada.
 258.- Las acciones de divorcio no podrán ejercitarse cuando haya mediado el perdón expreso o tácito debidamente comprobado.
@@ -662,9 +670,9 @@ El marido, en todo caso, sólo tendrá derecho a alimentos cuando esté imposibi
 266.- La división de los bienes de la sociedad conyugal, se arreglará en primer lugar, por convenio de las partes. A falta de convenio especial, la división se hará de acuerdo con la ley.
 267.- La situación de los hijos menores se determinará por medio de convenio. Cuando no lo hubiere se estará a lo dispuesto por el artículo 247.
 268.- La situación de los hijos a que se refiere el artículo anterior, puede ser modificada por el juez en interés justificado de ellos.
-(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 1999)
+(REFORMADA SU DENOMINACION, P.O. 29 DE SEPTIEMBRE DE 2001)
 TITULO SEXTO
-DEL PARENTESCO Y LOS ALIMENTOS
+DEL PARENTESCO, DE LOS ALIMENTOS Y DE LA VIOLENCIA FAMILIAR
 CAPITULO I
 DEL PARENTESCO
 269.- La ley no reconoce más parentesco que los de consanguinidad, afinidad y civil.
@@ -725,6 +733,14 @@ V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abando
 299.- Cuando el marido no estuviere presente o estándolo rehusare entregar a la mujer lo necesario para los alimentos de ella y de los hijos, será responsable de las deudas que la esposa contraiga para cubrir esa exigencia; pero sólo en la cuantía estrictamente necesaria para ese objeto, y siempre que no se trate de gastos de lujo.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
 300.- La esposa que, sin culpa suya, se vea obligada a vivir separada de su marido, podrá pedir al Juez de Primera Instancia o de lo Familiar del lugar de su residencia, que obligue a su esposo a darle alimentos durante la separación y a que le ministre todos los que haya dejado de darle desde que la abandonó. El Juez, según las circunstancias del caso, fijará la suma que el marido debe ministrar periódicamente dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2001)
+CAPITULO III
+DE LA VIOLENCIA FAMILIAR
+(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)
+300 BIS.- Toda y todo integrante de la familia o unidad doméstica tiene derecho a que las y los demás miembros le respeten su integridad física, sexual y psicológica, con el objeto de contribuir a su sano desarrollo. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
+(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)
+300 TER.- Quienes integren una familia o unidad doméstica o que tengan cualquier otra relación interpersonal están obligados a evitar conductas que generen violencia familiar.
+Por violencia familiar se entiende cualquier acción o conducta que pueda causar la muerte, daño o sufrimiento físico, sexual o psicológico que tenga lugar dentro de la familia o unidad doméstica o en cualquier otra relación interpersonal, ya sea que la o el agresor comparta o haya compartido el mismo domicilio que el o la agredida.
 TITULO SEPTIMO
 DE LA PATERNIDAD Y FILIACION
 CAPITULO I
@@ -846,8 +862,6 @@ II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la v
 I.- A llevar el apellido del que lo reconoce;
 II.- A ser alimentado por éste;
 III.- A percibir la porción hereditaria y los alimentos que fije la ley.
-CAPITULO V
-DE LA ADOPCION
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 A) DISPOSICIONES GENERALES
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
@@ -883,6 +897,21 @@ IV.- El Ministerio Público en todos los casos.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 377.- La adopción quedará consumada una vez que cause ejecutoria la resolución que la autorice.
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
+CAPITULO V
+DE LA ADOPCION
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
+D) ADOPCION INTERNACIONAL
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
+Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
+C) ADOPCION PLENA
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 B) ADOPCION SIMPLE
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
@@ -911,24 +940,12 @@ II.- Si el adoptado imputa legalmente al adoptante la comisión de algún delito
 III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-D) ADOPCION INTERNACIONAL
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
-Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-C) ADOPCION PLENA
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
 TITULO OCTAVO
 DE LA PATRIA POTESTAD
 CAPITULO I
 DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LA PERSONA DE LOS HIJOS
-388.- Los hijos, cualesquiera que sean su estado, edad y condición, deben honrar y respetar a sus padres y demás ascendientes.
+(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)
+388.- En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición.
 389.- Los hijos menores de edad no emancipados, están bajo la patria potestad mientras exista alguno de los ascendientes que deben ejercerla conforme a la ley.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
 390.- La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con las leyes relativas a la rehabilitación de menores.
@@ -938,15 +955,14 @@ I.- Por el padre y la madre;
 II.- Por el abuelo y la abuela maternos;
 III.- Por el abuelo y la abuela paternos.
 A falta de padres, los ascendientes mencionados en el orden de las fracciones II y III, a menos que hubiere motivos que el Juez considere suficientes para decidir quiénes la ejercerán.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-392.- Cuando los dos progenitores han reconocido al hijo nacido fuera del matrimonio y viven juntos, ejercerán ambos la patria potestad.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-393.- El padre y la madre, aún y cuando no tengan la custodia, tienen el derecho de visita para relacionarse con sus hijos, salvo mandamiento provisional o sentencia que se los impida.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-394.- Cuando los padres del hijo nacido fuera de matrimonio que vivan juntos se separen y llegaren a un acuerdo, continuará ejerciendo la patria potestad el que designe el Juez, teniendo siempre en cuenta los intereses superiores del hijo.
-El ejercicio de la patria potestad podrá pasar al otro progenitor si llegaren a ese acuerdo o terminará por resolución judicial.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-395.- Cuando por cualquier circunstancia un familiar tenga la custodia de un menor aquél tendrá las obligaciones, facultades y restricciones establecidas para los tutores.
+392.- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2001)
+(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)
+393.- En caso de separación de los que ejercen la patria potestad, podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el juez resolverá lo conducente oyendo al Ministerio Público.
+(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)
+394.- Los que ejercen la patria potestad aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos.
+No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición a petición de cualesquiera de ellos, el juez de lo familiar resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá suspenderse o perderse el derecho a la convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
+(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)
+395.- Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de un menor.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 396.- La patria potestad sobre el hijo adoptivo la ejercerán, en la adopción simple, exclusivamente las personas que lo adopten; en la adopción plena, se estará a lo dispuesto por el artículo 391.
 397.- Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
@@ -954,10 +970,12 @@ El ejercicio de la patria potestad podrá pasar al otro progenitor si llegaren a
 398.- Mientras permanezca el hijo sujeto a la patria potestad, no podrá dejar la casa de los que la ejerzan sin permiso de ellos o por resolución de autoridad competente.
 La sustracción o retención del menor fuera del lugar de residencia habitual, sin la autorización de quienes están ejerciendo la patria potestad o tengan su custodia, dará derecho a éstos al procedimiento de restitución que se establece en el Código de Procedimientos Civiles.
 La conducta ilícita del sustractor o retenedor dará lugar a la pérdida de los derechos que tengan con relación al menor.
-399.- A las personas que tienen al hijo bajo su patria potestad, incumbe la obligación de educarlo convenientemente.
-Cuando llegue a conocimiento de los Consejos Locales de Tutela, que las personas de que se trata no cumplen esa obligación, lo avisarán al Ministerio Público para que promueva lo que corresponda.
-400.- Los que ejercen la patria potestad tienen la facultad de corregir y castigar a sus hijos mesuradamente.
-Las autoridades en caso necesario, auxiliarán a esas personas, haciendo uso de amonestaciones y correctivos que presten el apoyo suficiente a la autoridad paterna.
+(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)
+399.- A las personas que tienen el ejercicio de la patria potestad o custodia de algún menor incumbe la obligación de educarlo convenientemente.
+Cuando llegue a conocimiento de los Consejos Locales de Tutela o de cualquier autoridad administrativa que dichas personas no cumplen con la obligación referida, lo avisarán al Ministerio Público o a la Procuraduría de Defensa del Menor y de la Familia, para que promueva lo que corresponda.
+(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)
+400.- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+La facultad de corregir no implica infligir al menor actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 300 ter de este Código.
 401.- El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el Juez.
 CAPITULO II
 DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
@@ -1007,6 +1025,8 @@ III.- Cuando por las costumbres depravadas de los padres, maltrato infantil, exp
 IV.- Cuando quien la ejerza deje expósito al menor por un plazo de más de 30 días naturales;
 V.- Cuando quien la ejerza deje de asistir y convivir injustificadamente con el menor por más de 7 días naturales cuando éste se encuentre acogido en una Institución pública de asistencia social; o
 VI.- Por abandono del menor durante un plazo de 60 días naturales, aun cuando no se comprometa su salud, seguridad o moralidad.
+(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)
+421 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas por el artículo 300 ter de este Código en contra de las personas sobre las cuales la ejerza.
 422.- La madre o abuela que pase a segundas nupcias, no pierde por este hecho la patria potestad.
 423.- El nuevo marido no ejercerá la patria potestad sobre los hijos del matrimonio anterior.
 424.- La patria potestad se suspende:
@@ -1092,6 +1112,8 @@ Se considera abandono al menor que conociendo su origen, quienes ejercen la patr
 En ambos casos se estará a lo dispuesto por el artículo 65 de este Código.
 (REFORMADO, P.O. 2 DE FEBRERO DE 1994)
 470.- Los directores de los hospicios y demás casas de beneficencia donde se reciban expósitos, deberán de comunicarlo en los términos que establece el Código para la Protección y Defensa del Menor, para que las instituciones que ese ordenamiento señala se avoquen al desempeño de la tutela de aquellos con arreglo a las leyes.
+(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)
+Los responsables de las Instituciones donde se reciban menores que hayan sido objeto de violencia familiar a que se refiere el artículo 300 ter, de este ordenamiento, tendrán la custodia de éstos en los términos que prevengan las leyes o los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
 (REFORMADO, P.O. 2 DE FEBRERO DE 1994) (F. DE E., P.O. 29 DE JULIO DE 2000)
 471.- Los menores o incapacitados que se encuentran bajo la patria potestad o la tutela en los términos de este Código y que hayan sido recogidos en hospicios y demás casas de beneficencia pública o privada, quedarán bajo la custodia y guarda de los directores de éstos, teniendo el derecho de asistirlos, educarlos y corregirlos convenientemente, de acuerdo a los lineamientos que en efecto dicte la Procuraduría de Defensa del Menor y la Familia o el Sistema para el Desarrollo Integral de la Familia, según corresponda, teniendo estos últimos la representación del menor para todos los efectos legales.
 Después de transcurrido seis meses, los que ejerzan la patria potestad o la tutela sólo podrán recuperar la guarda y custodia mediante resolución judicial, en caso de negativa de estas instituciones.
@@ -2408,18 +2430,22 @@ V.- Utilidad publica;
 VI.- Renuncia o remoción de algún cargo conferido en el testamento.
 1217.- Son incapaces de adquirir por testamento o por intestado, a causa de falta de personalidad, los que no estén concebidos al tiempo de la muerte del autor de la herencia, o los concebidos cuando no sean viables, conforme a lo dispuesto en el artículo 314.
 1218.- Será, no obstante, válida la disposición hecha en favor de los hijos que nacieren de ciertas y determinadas personas durante la vida del testador.
-1219.- Por razón de delito son incapaces de adquirir por testamento o por intestado:
+(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2001)
+1219.- Son incapaces de adquirir por testamento o por intestado:
 I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge o hermanos de ella;
 II.- El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, acusación de delito que merezca pena capital o de prisión, aun cuando aquélla sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge;
 III.- El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
 IV.- El coautor del cónyuge adúltero, ya sea que se trate de la sucesión de éste o de la del cónyuge inocente;
 V.- El que haya sido condenado por un delito que merezca pena de prisión, cometido contra el autor de la herencia, de sus hijos, de su cónyuge, de sus ascendientes o de sus hermanos;
 VI.- El padre y la madre respecto del hijo expuesto por ellos;
-VII.- Los padres que abandonaren a sus hijos, prostituyeren a sus hijas o atentaren a su pudor, respecto de los ofendidos;
+(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2001)
+VII.- Los ascendientes que abandonaren, prostituyeren o corrompieren a sus descendientes, respecto de los ofendidos;
 VIII.- Los demás parientes del autor de la herencia que, teniendo obligación de darle alimentos, no la hubieren cumplido;
 IX.- Los parientes del autor de la herencia que, hallándose éste imposibilitado para trabajar y sin recursos, no se cuidaren de recogerlo, o de hacerlo recoger en establecimientos de beneficencia;
 X.- El que usare de violencia, dolo o fraude con una persona para que haga, deje de hacer o revoque su testamento;
-XI.- El que conforme al Código de Defensa Social, fuere culpable de supresión, sustitución o suposición de infante, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos.
+XI.- El que conforme al Código de Defensa Social, fuere culpable de supresión, sustitución o suposición de infante, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos;
+(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2001)
+XII.- El que haya sido condenado por delito cometido en contra del autor de la herencia.
 1220.- Se aplicará también lo dispuesto en la acción II del artículo anterior, aunque el autor de la herencia no fuere descendiente, ascendiente, cónyuge o hermano del acusador, si la acusación es declarada calumniosa.
 1221.- Cuando la parte agraviada de cualquiera de los modos que expresa el artículo 1219 perdonare al ofensor, recobrará éste el derecho de suceder al ofendido, por intestado, si el perdón consta por declaración auténtica o por hechos indubitables.
 1222.- La capacidad para suceder por testamento, sólo se recobra si después de conocido el agravio, el ofendido instituye heredero al ofensor o revalida su institución anterior con las mismas solemnidades que se exigen para testar.
