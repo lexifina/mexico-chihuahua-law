@@ -8,3 +8,4 @@ DIPUTADO PRESIDENTE.- PROFR. HECTOR SANCHEZ C.- DIPUTADO SECRETARIO.- ARMANDO GO
 Por lo tanto mando se imprima, publique, circule, y se le dé el debido cumplimiento.
 Palacio de Gobierno del Estado.- Chihuahua, 19 de noviembre de 1960.
 TEOFILO BORUNDA.- El Srio. Gral. De Gbno., LIC. JOSE LUIS SIQUEIROS.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
