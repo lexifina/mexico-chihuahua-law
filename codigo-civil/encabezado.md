@@ -1551,8 +1551,10 @@ I.- Cuando todos los beneficiarios cesen de tener derecho de percibir alimentos;
 II.- Cuando sin causa justificada la familia deje de habitar por un año la casa que debe servirle de morada, o de trabajar directamente la unidad de producción familiar;
 III.- Cuando se demuestre que hay gran necesidad o notoria utilidad para la familia, de que el patrimonio quede extinguido;
 IV.- Cuando por causa de utilidad pública se expropien los bienes que lo forman.
-713.- La declaración de que queda extinguido el patrimonio la hará el Juez competente, mediante el juicio sumario y la comunicará al Registro Público para que se hagan las cancelaciones correspondientes.
-Cuando el patrimonio se extinga por la causa prevista en la fracción IV del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial, debiendo hacerse en el Registro la cancelación que proceda.
+(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2004)
+713.- La declaración de que queda extinguido el patrimonio familiar la hará, en el juicio sumario, el juez competente y la comunicará al Registro Público de la Propiedad para que se hagan las cancelaciones correspondientes.
+En los casos previstos en las fracciones I, II y III del artículo 712, la declaración de los propietarios que desean extinguir el patrimonio familiar, también podrá hacerla el Notario Público, observando el procedimiento establecido en la Ley del Notariado. Dichas (sic) declaración la comunicará al Registro Público de la Propiedad para los efectos del primer párrafo de este artículo.
+Cuando el patrimonio se extinga por la causa prevista en la fracción IV del artículo 712, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial o notarial, debiendo hacerse la cancelación que proceda en el Registro público de la Propiedad.
 714.- El precio del patrimonio expropiado o la indemnización proveniente del pago del seguro a consecuencia del siniestro sufrido por los bienes afectos al patrimonio familiar, se depositarán en la Recaudación de Rentas respectiva a fin de dedicarlos a la constitución de un nuevo patrimonio familiar. Durante un año son inembargables el precio depositado y el importe del seguro.
 Si el dueño de los bienes vendidos no lo constituye de nuevo dentro del plazo de seis meses, los miembros de la familia a que se refiere el artículo 700, tienen derecho de exigir judicialmente la constitución del patrimonio familiar.
 Transcurrido un año desde que se hizo el depósito, sin que se hubiere promovido la constitución del patrimonio, la cantidad depositada se entregará al dueño de los bienes.
@@ -2546,7 +2548,7 @@ Esta disposición no será aplicable cuando el testador, al adquirir la mayoría
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1230.- La capacidad para heredar de los extranjeros se rige por lo dispuesto en la legislación federal.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1231.- Por causa de interés público son incapaces de adquirir bienes inmuebles, sea por sucesión testamentaria o intestamentaria, aquellos a quienes la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias de ésta, prohíben la adquisición de esa clase de bienes.
+1231.- Por causa de interés público son incapaces de adquirir bienes inmuebles, sea por sucesión testamentaria o intestamentaria, aquellos a quienes la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias de ésta, prohiben la adquisición de esa clase de bienes.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1232.- Las herencias o legados que se dejen a un establecimiento público imponiéndose algún gravamen o bajo alguna condición, sólo serán válidos si el Ejecutivo del Estado los aprueba.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
@@ -2593,7 +2595,7 @@ DE LAS CONDICIONES QUE PUEDEN PONERSE EN LOS TESTAMENTOS
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1254.- Cuando en el testamento no se hubiere señalado plazo para el cumplimiento de la condición, la cosa legada permanecerá en poder del albacea, y al hacerse la partición se asegurará adecuadamente el derecho del legatario para el caso de cumplirse la condición, observándose además las disposiciones establecidas para hacer la partición cuando alguno de los herederos es condicional.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1255.- La condición se tendrá por cumplida cuando, siendo puramente potestativa de dar o de hacer alguna cosa, el que ha sido gravado con ella ofrece cumplirla; pero aquel en cuyo favor se estableció rehúsa aceptar la cosa o el hecho.
+1255.- La condición se tendrá por cumplida cuando, siendo puramente potestativa de dar o de hacer alguna cosa, el que ha sido gravado con ella ofrece cumplirla; pero aquel en cuyo favor se estableció rehusa aceptar la cosa o el hecho.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1256.- La condición potestativa se deberá cumplir aún cuando el heredero o el legatario haya entregado la cosa o el hecho antes del otorgamiento del testamento, a no ser que ya no pueda reiterarse la prestación.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
@@ -3722,7 +3724,7 @@ III.- Cuando la pérdida fuere ocasionada por culpa del heredero que la sufre.
 1678.- Por los créditos incobrables no hay responsabilidad.
 Si se adjudica como cobrable un crédito, los coherederos no responden de la insolvencia posterior del deudor hereditario, y sólo son responsables de su insolvencia al tiempo de hacer la partición.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1679.- El heredero cuyos bienes hereditarios fueren embargados por créditos a cargo de la sucesión, y aquel contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohíba enajenar los bienes que recibieron.
+1679.- El heredero cuyos bienes hereditarios fueren embargados por créditos a cargo de la sucesión, y aquel contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohiba enajenar los bienes que recibieron.
 CAPITULO VIII
 DE LA RESCISION Y NULIDAD DE LAS PARTICIONES
 1680.- Las particiones pueden rescindirse o anularse por las mismas causas que las obligaciones.
@@ -5256,8 +5258,8 @@ DE LOS DIVERSOS MODOS DE TERMINAR EL MANDATO
 2494.- El mandato termina:
 I.- Por la revocación;
 II.- Por la renuncia del mandatario;
-III.- Por la muerte del mandante con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, último párrafo, o por muere del mandatario;
-IV.- Por la interdicción del mandante, con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, último párrafo, o por la interdicción del mandatario;
+III.- Por la muerte del mandante con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, ultimo párrafo, o por muere del mandatario;
+IV.- Por la interdicción del mandante, con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, ultimo párrafo, o por la interdicción del mandatario;
 V.- Por el vencimiento del plazo y por la conclusión del negocio para el que fue concedido;
 VI.- El mandato judicial, por las causas previstas en el artículo 2491.
 VII.- En los casos previstos por los artículos 645, 646 y 647.
@@ -5265,7 +5267,7 @@ VII.- En los casos previstos por los artículos 645, 646 y 647.
 2495.- El mandante puede revocar el mandato cuando y como le parezca; menos en aquellos casos en que su otorgamiento se hubiere estipulado como obligación en un contrato bilateral, o como un medio para cumplir otra obligación contraída.
 En estos casos tampoco puede el mandatario renunciar el poder.
 La parte que revoque o renuncie el mandato en tiempo inoportuno, debe indemnizar a la otra de los daños y perjuicios que le cause.
-Cuando el mandato se otorgue como un medio para cumplir otra obligación contraída por el mandante a favor del mandatario, este último está facultado para hacerse pago al ejercer el mandato, salvo convenio en contrario.
+Cuando el mandato se otorgue como un medio para cumplir otra obligación contraída por el mandante a favor del mandatario, este último esta facultado para hacerse pago al ejercer el mandato, salvo convenio en contrario.
 2496.- Cuando se ha dado un mandato para tratar con determinada persona, el mandante debe notificar a ésta la revocación del mandato, so pena de quedar obligado por los actos del mandatario, ejecutados después de la revocación, siempre que haya habido buena fe de parte de esa persona.
 2497.- El mandante puede exigir la devolución del instrumento o escrito en que conste el mandato, y todos los documentos relativos al negocio o negocios que tuvo a su cargo el mandatario.
 El mandante que descuide exigir los documentos que acrediten los poderes del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
