@@ -1,0 +1,2 @@
+ARTÍCULO SEXTO.- El Consejo Directivo funcionará válidamente con más de la mitad de sus miembros y sus acuerdos serán válidos cuando los apruebe más de la mitad de sus miembros presentes, salvo el caso en que en esta ley se establezca específicamente alguna mayoría calificada, en caso de empate, quien presida tendrá voto de calidad.
+El Presidente Municipal tendrá la facultad de vetar los Acuerdos del Consejo Directivo, previo Acuerdo del Ayuntamiento.

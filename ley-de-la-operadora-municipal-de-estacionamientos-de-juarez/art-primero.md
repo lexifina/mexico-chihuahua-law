@@ -1,0 +1,1 @@
+ARTÍCULO PRIMERO.- Se crea el organismo público descentralizado del Municipio de Juárez, con personalidad jurídica y patrimonio propios, denominado "Operadora Municipal de Estacionamientos de Juárez", con domicilio en Ciudad Juárez, Chih.

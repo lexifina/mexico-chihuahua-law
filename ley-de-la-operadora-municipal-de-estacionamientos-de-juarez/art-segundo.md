@@ -1,0 +1,5 @@
+ARTÍCULO SEGUNDO.- El organismo tiene por objeto:
+I.- Explotar y conservar los bienes inmuebles que ingresen a su patrimonio o los derechos y concesiones que sobre otros inmuebles adquiera, para la prestación del servicio público de estacionamiento, con miras a abatir el problema de falta de estacionamiento en Ciudad Juárez.
+II.- Administrar los ingresos obtenidos de la explotación de los inmuebles, destinándolos preferentemente a la adquisición de nuevos inmuebles, derechos o concesiones sobre los mismos, para habilitarlos en la prestación de servicio público de estacionamientos.
+III.- Arrendar y transmitir a particulares, previas las autorizaciones de ley y de sus órganos de administración, aquellos estacionamientos que se considere sea conveniente que sean explotados por particulares, salvo aquellos que se operen en bienes de dominio público.
+IV.- Verificar el cumplimiento del Reglamento Municipal de Construcción, cuando se expidan licencias de construcción de la ciudad, en lo que concierne a la dotación de espacios de estacionamientos para las nuevas construcciones.

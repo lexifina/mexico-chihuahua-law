@@ -1,0 +1,7 @@
+ARTÍCULO NOVENO.- El Consejo Directivo tendrá las siguientes obligaciones:
+I.- A más tardar el día 15 de noviembre de cada año, tener formulado y presentar al Municipio de Juárez, a través de la Tesorería Municipal, su Presupuesto y Programa Anual de Operación.
+II.- Presentar al Municipio, también a través de la misma Tesorería, sus estados financieros mensuales y anuales, los primeros dentro del mes siguiente que corresponda y los segundos, dentro de los tres meses siguientes al cierre del ejercicio anual.
+III.- Dar facilidades necesarias al Comisario que se designe en los términos del artículo decimosegundo siguiente, para que conozca, investigue, revise y verifique, sin limitación alguna. La contabilidad, actas, libros, registros, documentos y sistemas y procedimientos de trabajo y, en general, la total operación que se relacione directa o indirectamente con los fines del Organismo.
+IV.- Emitir sus opiniones y girar sus instrucciones de acuerdo, con principios de sana administración financiera, mirando en todo momento por el desarrollo urbanístico armonioso de Ciudad Juárez.
+V.- Organizar los sistemas de Contabilidad, Control y Auditoría internos, de acuerdo con sanos principios de contabilidad y administración y tomando en cuenta las observaciones del Comisario.
+VI.- Auditar anualmente sus estados financieros por un Auditor externo que será invariablemente un Contador Público independiente, y publicar dichos estados financieros y el dictamen de auditoría en un periódico de los de mayor circulación en la Ciudad.
