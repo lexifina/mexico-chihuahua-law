@@ -1,3 +1,7 @@
 P.O. 5 DE FEBRERO DE 1977.
 ARTICULO 1o.- Se abroga el Decreto 17-74 publicado en el Periódico Oficial del Gobierno del Estado, número 88 del sábado 2 de noviembre de 1974 que creó el Organismo Público descentralizado con personalidad y patrimonio propio denominado Programa de Desarrollo Urbano del Estado de Chihuahua.
 ARTICULO 2o.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1979)
+ARTICULO 3o.- Se establecen Comisiones Consultivas de los planes que ordenen y regulen desarrollo urbano, planes que ordenen y regulen zonas conurbadas existentes dentro del Estado, planes regionales, planes subregionales, planes directores, planes parciales y planes sectoriales que se integrarán por las Entidades y Dependencias de los Sectores Públicos Local y Municipal y representaciones de los grupos sociales y económicos de la comunidad.
+En las Comisiones Consultivas se invitará a las Dependencias y Entidades del Sector Público Federal relacionadas con el Desarrollo Urbano.
+Las Comisiones Consultivas opinarán en relación a la elaboración, evaluación, revisión, divulgación y ejecución de los planes estatal y municipales de desarrollo urbano, planes que ordenen y regulen zonas conurbadas existentes dentro del Estado, planes regionales, planes subregionales, planes directores, planes parciales y planes sectoriales.
