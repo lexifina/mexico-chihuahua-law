@@ -875,6 +875,19 @@ IV.- El Ministerio Público en todos los casos.
 377.- La adopción quedará consumada una vez que cause ejecutoria la resolución que la autorice.
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
+C) ADOPCION PLENA
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
+D) ADOPCION INTERNACIONAL
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
+Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 B) ADOPCION SIMPLE
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 379.- La adopción simple confiere al adoptado la posición del hijo consanguíneo, pero no crea vínculo de parentesco entre aquél y la familia biológica del adoptante, sino a los efectos expresamente determinados en este Código.
@@ -902,19 +915,6 @@ II.- Si el adoptado imputa legalmente al adoptante la comisión de algún delito
 III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-C) ADOPCION PLENA
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-D) ADOPCION INTERNACIONAL
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
-Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
 TITULO OCTAVO
 DE LA PATRIA POTESTAD
 CAPITULO I
@@ -3149,9 +3149,10 @@ Lo mismo sucederá cuando se estipule con otro, a favor de un tercero, y la pers
 1739.- Si la modificación no pudiere ser exactamente proporcional, el Juez reducirá la pena de una manera equitativa, teniendo en cuenta la naturaleza y demás circunstancias de la obligación.
 1740.- El acreedor puede exigir el cumplimiento de la obligación o el pago de la pena, pero no ambos; a menos que aparezca haberse estipulado la pena por el simple retardo en el cumplimiento de la obligación, o porque ésta no se preste de la manera convenida.
 1741.- No podrá hacerse efectiva la pena cuando el obligado a ella no haya podido cumplir el contrato por hecho del acreedor, caso fortuito o fuerza insuperable.
-1742.- En las obligaciones mancomunadas con cláusula penal, bastará la contravención de uno de los herederos del deudor para que se incurra en la pena.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+1742.- Las partes podrán pactar que si falleciere alguno de los deudores en obligaciones que tengan pluralidad de ellos, la contravención de uno de los herederos será suficiente para que se incurra en la pena.
 1743.- En el caso del artículo anterior, cada uno de los herederos responderá de la parte de la pena que le corresponda, en proporción a su cuota hereditaria.
-1744.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1890.
+1744.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
 INTERPRETACION
 1745.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
 Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
@@ -3202,7 +3203,8 @@ Además responderá de los menoscabos que la cosa haya sufrido por cualquiera ca
 1777.- Se presume que hubo error en el pago, cuando se entrega cosa que no se debía o que ya estaba pagada; pero aquél a quien se pide la devolución puede probar que la entrega se hizo a título de liberalidad o por cualquiera otra causa justa.
 1778.- La acción para repetir lo pagado indebidamente prescribe en un año, contado desde que se conoció el error que originó el pago. El solo transcurso de cinco años, contados desde el pago indebido, hace perder el derecho para reclamar su devolución.
 1779.- El que ha pagado para cumplir una deuda prescrita o para cumplir un deber moral no tiene derecho de repetir.
-1780.- Lo que se hubiere entregado para la realización de un fin que sea ilícito, no quedará en poder del que lo recibió. El cincuenta por ciento se destinará a la Beneficencia Pública del Estado y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+1780.- El que hubiere entregado algo para la realización de un fin ilícito, teniendo conocimiento de ello, no tiene acción para reclamar la devolución a su favor. El Ministerio Público o cualquier persona interesada podrán solicitar la nulidad de dicho acto, en cuyo caso, lo recibido pasará a la Beneficencia Pública del Estado.
 CAPITULO IV
 DE LA GESTION DE NEGOCIOS
 1781.- El que sin mandato y sin estar obligado a ello se encarga de un asunto de otro, debe obrar conforme a los intereses del dueño del negocio.
@@ -3300,7 +3302,8 @@ El perjudicado podrá escoger entre exigir el cumplimiento o la resolución de l
 1832.- Cumplida la condición resolutoria deberá restituirse lo que se hubiere recibido en virtud del contrato. En el caso de pérdida, deterioro o mejora de la cosa restituible, se aplicarán en lo conducente las reglas establecidas en el artículo 1830.
 1833.- La resolución del contrato fundada en falta de pago por parte del adquirente de la propiedad de bienes inmuebles u otro derecho real sobre los mismos, no surtirá efectos contra tercero de buena fe, si no se ha estipulado expresamente y ha sido inscrito en el Registro Público en la forma prevenida por la ley.
 1834.- Respecto de bienes muebles no tendrá lugar la rescisión, salvo lo previsto para las ventas en las que se faculte al comprador a pagar el precio en abonos.
-1835.- Si la rescisión del contrato dependiere de un tercero y éste fuere dolosamente inducido a rescindirlo, se tendrá por no rescindido.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+1835.- Si la resolución del contrato depende de un tercero y éste fuere dolosamente inducido a terminarlo, se tendrá por no realizada la condición.
 CAPITULO II
 DE LAS OBLIGACIONES A PLAZO
 1836.- Es obligación a plazo aquélla para cuyo cumplimiento se ha señalado un día cierto.
@@ -3348,6 +3351,8 @@ DE LAS OBLIGACIONES MANCOMUNADAS
 1868.- La simple mancomunidad de deudores o de acreedores no hace que cada uno de los primeros deba cumplir íntegramente la obligación, ni da derecho a cada uno de los segundos para exigir el total cumplimiento de la misma.
 En este caso el crédito o la deuda se consideran divididos en tantas partes como deudores o acreedores haya y cada parte constituye una deuda o un crédito distintos unos de otros.
 1869.- Las partes se presumen iguales a no ser que se pacte otra cosa o que la ley disponga lo contrario.
+(ADICIONADO, P.O. 26 DE ENERO DE 2000)
+En caso de que la obligación tenga cláusula penal, la contravención de uno de los deudores hará que se incurra en la pena y cada uno de ellos responderá en la misma proporción en que se hubiere obligado en lo principal.
 1870.- Además de la mancomunidad, habrá solidaridad activa, cuando dos o más acreedores tienen derecho para exigir, cada uno de por sí, el cumplimiento total de la obligación; y solidaridad pasiva cuando dos o más deudores reporten la obligación de prestar, cada uno de por sí, en su totalidad, la prestación debida.
 1871.- La solidaridad no se presume; resulta de la ley o de la voluntad de las partes.
 1872.- Cada uno de los acreedores o todos juntos pueden exigir de todos los deudores solidarios o de cualquiera de ellos, el pago total o parcial de la deuda. Si reclaman todo de uno de los deudores y resultare insolvente, pueden reclamarlo de los demás o de cualquiera de ellos. Si hubiesen reclamado sólo parte, o de otro modo hubiesen consentido en la división de la deuda, respecto de alguno o algunos de los deudores, podrán reclamar el todo de los demás obligados, con deducción de la parte del deudor o deudores libertados de la solidaridad.
@@ -3376,7 +3381,9 @@ Lo mismo tiene lugar respecto de los herederos de aquel que haya contraído una 
 1890.- Cada uno de los herederos del acreedor puede exigir la completa ejecución indivisible obligándose a dar suficiente garantía para la indemnización de los demás coherederos pero no puede por sí solo perdonar el débito total ni recibir el valor en lugar de la cosa.
 Si uno solo de los herederos ha perdonado la deuda o recibido el valor de la cosa, el coheredero no puede pedir la cosa indivisible sino devolviendo la porción del heredero que haya perdonado o que haya recibido el valor.
 1891.- Sólo por el consentimiento de todos los acreedores puede remitirse la obligación indivisible o hacerse una quita de ella.
-1892.- El heredero del deudor, premiado por la totalidad de la obligación, puede pedir un término para hacer concurrir a sus coherederos siempre que la deuda no sea de tal naturaleza que sólo puede satisfacerse por el heredero demandado, el cual entonces puede ser condenado dejando a salvo sus derechos de indemnización contra sus coherederos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+1892.- El heredero del deudor, al que se reclame la totalidad de la obligación, puede pedir un término para hacer concurrir a sus coherederos, siempre que la deuda no sea de tal naturaleza que sólo pueda satisfacerse por el heredero demandado, el cual entonces puede ser condenado, dejando a salvo sus derechos de indemnización contra sus coherederos.
+Lo mismo se observará en obligaciones indivisibles con cláusula penal en que baste la contravención de un heredero para incurrir en la pena.
 1893.- Pierde la calidad de indivisible, la obligación que se resuelve en el pago de daños y perjuicios, y entonces, se observarán las reglas siguientes:
 I.- Si para que se produzca esa conversión hubo culpa de parte de todos los deudores, todos responderán de los daños y perjuicios proporcionalmente al interés que representen en la obligación;
 II.- Si sólo algunos fueron culpables, únicamente ellos responderán de los daños y perjuicios.
@@ -3425,10 +3432,12 @@ TITULO TERCERO
 DE LA TRASMISION DE LAS OBLIGACIONES
 CAPITULO I
 DE LA CESION DE DERECHOS
-1912.- Habrá cesión de derechos cuando el acreedor transfiere a otro los que tenga contra su deudor.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+1912.- Se llama cesión de derechos al acuerdo entre el acreedor y un tercero, mediante el cual aquél transfiere a éste los que tiene frente a su deudor.
 1913.- El acreedor puede ceder su derecho a un tercero sin el consentimiento del deudor, a menos que la cesión esté prohibida por la ley, se haya convenido no hacerla o no lo permita la naturaleza del derecho.
 El deudor no puede alegar contra el tercero que el derecho no podía cederse porque así se había convenido, cuando ese convenio no conste en el título constitutivo del derecho.
-1914.- En la cesión de crédito se observarán las disposiciones relativas al acto jurídico que le dé origen, en lo que no estuvieren modificadas en este Capítulo.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+1914.- La cesión de derechos asume la naturaleza y por tanto se regulará por las disposiciones relativas del contrato que le da origen, en lo que no estuviere previsto en este Capítulo.
 1915.- La cesión de un crédito comprende la de todos los derechos accesorios como la fianza, hipoteca, prenda o privilegio, salvo aquéllos que son inseparables de la persona del cedente.
 Los intereses vencidos se presume que fueron cedidos con el crédito principal.
 1916.- La cesión de créditos puede hacerse en escrito privado que firmarán cedente, cesionario y dos testigos. Sólo cuando la ley exija que el título del crédito cedido conste en escritura pública, la cesión deberá hacerse en esta clase de documento.
@@ -3469,7 +3478,8 @@ I.- Cuando el que es acreedor paga a otro acreedor preferente;
 II.- Cuando el que paga tiene interés jurídico en el cumplimiento de la obligación;
 III.- Cuando un heredero paga con sus bienes propios alguna deuda de la herencia;
 IV.- Cuando el que adquiere un inmueble paga a un acreedor que tiene sobre él un crédito hipotecario anterior a la adquisición.
-1942.- Cuando la deuda fuere pagada por el deudor con dinero que un tercero le prestare con ese objeto, el prestamista quedará subrogado por ministerio de la ley en los derechos del acreedor, si el préstamo constare en título auténtico en que se declare que el dinero fue prestado para el pago de la misma deuda. Por falta de esta circunstancia, el que prestó sólo tendrá los derechos que exprese su respectivo contrato.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+1942.- Cuando la deuda fuere pagada por el deudor con dinero que un tercero le prestare con ese objeto, el prestamista se subroga por ministerio de la ley en los derechos del acreedor, siempre que el préstamo constare en título auténtico en el que se declare que el dinero fue prestado para el pago de la misma deuda. Por falta de esta circunstancia, el que prestó sólo tendrá los derechos que exprese su respectivo contrato.
 1943.- No habrá subrogación parcial en deudas de solución indivisible.
 1944.- El pago de los subrogados en diversas porciones del mismo crédito, cuando no basten los bienes del deudor para cubrirlos todos, se hará a prorrata.
 TITULO CUARTO
@@ -3616,22 +3626,32 @@ VII.- Si la evicción tuvo lugar por culpa del adquirente.
 II.- EFECTOS DE LAS OBLIGACIONES CON RELACION A TERCERO
 CAPITULO I
 DE LOS ACTOS CELEBRADOS EN FRAUDE DE LOS ACREEDORES
-2046.- Los actos celebrados por un deudor en perjuicio de su acreedor, pueden anularse, a petición de éste, si de esos actos resulta la insolvencia del deudor, y el crédito en virtud del cual se intenta la acción, es anterior a ellos.
-2047.- Si el acto fuere oneroso, la nulidad sólo podrá tener lugar en el caso y términos que expresa el artículo anterior, cuando haya mala fe, tanto por parte del deudor, como del tercero que contrató con él.
-2048.- Si el acto fuere gratuito, tendrá lugar la nulidad aun cuando haya habido buena fe por parte de ambos contratantes.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2046.- Cuando el deudor celebra con un tercero un acto jurídico en el que enajena bienes o renuncia derechos, quedando por ello insolvente en perjuicio de su acreedor, éste podrá solicitar que el acto quede sin efecto, para asegurar que ingresen bienes al deudor hasta por el importe del crédito que a él interese.
+Esta acción sólo beneficia a quien la ejercitó y procede, si el derecho del acreedor es anterior al acto jurídico que provoca la insolvencia.
+Cesa la acción luego que el deudor satisfaga la deuda o adquiera bienes con qué poder cubrirla.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2047.- Si el acto jurídico fuere oneroso, la acción sólo tendrá lugar si se prueba que hubo mala fe tanto por el deudor como por el tercero.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2048.- Si el acto jurídico fuere gratuito, procede la acción aún cuando haya habido buena fe por parte de ambos contratantes.
 2049.- Hay insolvencia cuando la suma de los bienes y créditos del deudor, estimados en su justo precio, no iguala al importe de sus deudas. La mala fe, en este caso, consiste en el conocimiento de este déficit.
 2050.- La acción concedida al acreedor, en los artículos anteriores, contra el primer adquirente, no procede contra tercer poseedor sino cuando éste ha adquirido de mala fe.
-2051.- Revocado el acto fraudulento del deudor, si hubiere habido enajenación de propiedades, éstas se devolverán por el que las adquirió de mala fe, con todos sus frutos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2051.- Extinguido el acto jurídico que generó la insolvencia del deudor, si en virtud de él hubo enajenación de bienes, estos se devolverán por el que los adquirió, con todos sus frutos.
 2052.- El que hubiere adquirido de mala fe las cosas enajenadas en fraude de los acreedores, deberá indemnizar a éstos de los daños y perjuicios, cuando la cosa hubiere pasado a un adquirente de buena fe, o cuando se hubiere perdido.
-2053.- La nulidad puede tener lugar, tanto en los actos en que el deudor enajena los bienes que efectivamente posee, como en aquéllos en que renuncia derechos constituidos a su favor y cuyo goce no fuere exclusivamente personal.
+2053.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
 2054.- Si el deudor no hubiere renunciado derechos irrevocablemente adquiridos, sino facultades por cuyo ejercicio pudiere mejorar el estado de su fortuna, los acreedores pueden hacer revocar esa renuncia y usar de las facultades renunciadas.
-2055.- Es también anulable el pago hecho por el deudor insolvente, antes del vencimiento del plazo.
-2056.- Es anulable todo acto o contrato celebrado en los treinta días anteriores a la declaración judicial de la quiebra o del concurso, y que tuviere por objeto dar a un crédito ya existente una preferencia que no tiene.
-2057.- La acción de nulidad mencionada en el artículo 2046 cesará luego que el deudor satisfaga su deuda o adquiera bienes con qué poder cubrirla.
-2058.- La nulidad de los actos del deudor sólo será pronunciada en interés de los acreedores que la hubiesen pedido, y hasta el importe de sus créditos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2055.- Procede también la acción contra los pagos que haga el deudor a otros acreedores antes del vencimiento del plazo, si ello lo deja insolvente.
+Si el deudor únicamente paga a un acreedor con preferencia indebida, la acción no importa la pérdida del derecho, sino el respeto de la preferencia.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2056.- Puede solicitarse que quede sin efecto, todo acto o contrato celebrado en los treinta días anteriores a la declaración judicial de quiebra o de concurso y que tuviere como objeto dar a un crédito ya existente una preferencia que no tiene.
+2057.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2058.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
 2059.- El tercero a quien hubiesen pasado los bienes del deudor, puede hacer cesar la acción de los acreedores satisfaciendo el crédito de los que se hubiesen presentado, o dando garantía suficiente sobre el pago íntegro de sus créditos, si los bienes del deudor no alcanzaren a satisfacerlos.
-2060.- El fraude, que consiste únicamente en la preferencia indebida a favor de un acreedor, no importa la pérdida del derecho, sino la de la preferencia.
-2061.- Si el acreedor que pide la nulidad, para acreditar la insolvencia del deudor, prueba que el monto de las deudas de éste excede al de sus bienes conocidos, le impone al deudor la obligación de acreditar que tiene bienes suficientes para cubrir esas deudas.
+2060.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2061.- Si el acreedor, al intentar la acción, para acreditar la insolvencia del deudor, prueba que el monto de las deudas excede al de los bienes conocidos, le impone a éste la obligación de acreditar que tiene los suficientes para cubrir esas deudas.
 2062.- Se presumen fraudulentas las enajenaciones a título oneroso hechas por aquellas personas contra quienes se hubiese pronunciado antes sentencia condenatoria en cualquiera instancia, o expedido mandamiento de embargo de bienes, cuando estas enajenaciones perjudican los derechos de sus acreedores.
 CAPITULO II
 DE LA SIMULACION DE LOS ACTOS JURIDICOS
@@ -3676,12 +3696,16 @@ VIII.- Si las deudas fuesen fiscales, excepto en los casos en que la ley lo auto
 2088.- La compensación no puede tener lugar en perjuicio de los derechos de tercero legítimamente adquiridos.
 CAPITULO II
 DE LA CONFUSION DE DERECHOS
-2089.- La obligación se extingue por confusión cuando las calidades de acreedor y de deudor se reúnen en una misma persona. La obligación renace si la confusión cesa.
-2090.- La confusión que se verifica en la persona del acreedor o deudor solidario, sólo produce sus efectos en la parte proporcional de un crédito o deuda.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2089.- Existe confusión de derechos cuando el derecho a exigir y la necesidad de cumplir una obligación se juntan en el patrimonio de uno solo de los sujetos en forma definitiva, en cuyo caso queda extinguida la obligación.
+Si llegare a separarse el crédito y la deuda en patrimonios de sujetos distintos, se podrá la última hacer exigible en las condiciones originales.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2090.- La confusión que se verifica en la persona del acreedor o deudor solidario, sin perjuicio de lo dispuesto en el artículo 1874, producirá efectos entre acreedores o deudores, única y exclusivamente en la parte proporcional de un crédito o deuda.
 2091.- Mientras se hace la partición de una herencia, no hay confusión cuando el deudor hereda al acreedor o éste a aquél.
 CAPITULO III
 DE LA REMISION DE LA DEUDA
-2092.- Cualquiera puede renunciar su derecho y remitir, en todo o en parte, las prestaciones que le son debidas, excepto en aquellos casos en que la ley lo prohibe.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2092.- Cualquiera puede renunciar su derecho y remitir mediante acuerdo con el deudor, en todo o en parte, las prestaciones que le son debidas, excepto en aquellos casos en que la Ley lo prohibe.
 2093.- La condonación de la deuda principal extinguirá las obligaciones accesorias; pero la de éstas dejan subsistentes la primera.
 2094.- Habiendo varios fiadores solidarios, el perdón que fuere concedido solamente a alguno de ellos, en la parte relativa a su responsabilidad, no aprovecha a los otros.
 2095.- La devolución de la prenda es presunción de la remisión del derecho a la misma prenda, si el acreedor no prueba lo contrario.
@@ -3701,19 +3725,26 @@ DE LA NOVACION
 TITULO SEXTO
 DE LA INEXISTENCIA Y DE LA NULIDAD
 2107.- El acto jurídico inexistente por la falta de consentimiento o de objeto que puede ser materia de él, no producirá efecto legal alguno. No es susceptible de valer por confirmación, ni por prescripción; su inexistencia puede invocarse por todo interesado.
-2108.- La ilicitud en el objeto, en el fin o en la condición del acto produce su nulidad, ya absoluta, ya relativa, según lo disponga la ley.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2108.- La ilicitud en el objeto, motivo o fin del acto produce su nulidad ya absoluta, ya relativa, según lo disponga la ley. En todo caso, deberá estarse a lo dispuesto por el artículo 7 de este Código.
 2109.- La nulidad absoluta por regla general no impide que el acto produzca provisionalmente sus efectos, los cuales serán destruidos retroactivamente cuando se pronuncie por el juez la nulidad. De ella puede prevalerse todo interesado y no desaparece por la confirmación o la prescripción.
-2110.- La nulidad es relativa cuando no reúne todos los caracteres enumerados en el artículo anterior. Siempre permite que el acto produzca provisionalmente sus efectos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2110.- La nulidad es relativa cuando no reúne todos los caracteres enumerados en el artículo anterior. Los efectos que produzca provisionalmente no se destruyen retroactivamente, pero se suspenden una vez decretada.
 2111.- La falta de forma establecida por la ley, si no se trata de actos solemnes, así como el error, el dolo, la violencia y la incapacidad de cualquiera de los autores del acto, produce la nulidad relativa del mismo.
-2112.- La acción y la excepción de nulidad por falta de forma compete a todos los interesados.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2112.- Cuando alguien, explotando la ignorancia, inexperiencia o miseria de otro, obtiene un lucro desproporcionado a lo que él por su parte se obliga, se presume viciado el consentimiento y el perjudicado podrá optar por demandar la nulidad del contrato o la reducción equitativa de su obligación, más el pago de daños y prejuicios (sic).
 2113.- La nulidad por causa de error, dolo, violencia o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios de consentimiento o es el incapaz.
-2114.- La nulidad de un acto jurídico por falta de forma establecida por la ley, se extingue por la confirmación de ese acto hecho en la forma omitida.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2114.- La acción y excepción de nulidad por falta de forma, sólo se puede invocar por los directamente interesados. El acto se confirma si al mismo se le otorga la forma omitida, o bien se convalida si se ha dado el cumplimiento voluntario de las partes.
 2115.- Cuando la falta de forma produzca nulidad del acto, si la voluntad de las partes ha quedado constante de una manera indubitable y no se trata de un acto revocable, cualquiera de los interesados puede exigir que el acto se otorgue en la forma prescrita por la ley.
-2116.- Cuando el contrato es nulo por incapacidad, violencia o error, puede ser confirmado cuando cese el vicio o motivo de la nulidad.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2116.- Cuando el contrato es nulo por incapacidad o vicio de la voluntad, podrá confirmarse por los directamente interesados al cese de la causa de nulidad.
 2117.- El cumplimiento voluntario por medio del pago, novación, o por cualquiera otro modo, se tiene por ratificación tácita y extingue la acción de nulidad.
 2118.- La confirmación se retrotrae al día en que se verificó el acto nulo; pero ese efecto retroactivo no perjudicará a los derechos de tercero.
 2119.- La acción de nulidad fundada en incapacidad o en error, puede intentarse en los plazos establecidos en el artículo 613. Si el error se conoce antes de que transcurran esos plazos la acción de nulidad prescribe a los sesenta días, contados desde que el error fue conocido.
-2120.- La acción para pedir la nulidad de un contrato hecho por violencia, prescribe a los seis meses contados desde que cese ese vicio del consentimiento.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2120.- La acción para pedir la nulidad de un contrato obtenido con violencia, prescribe a los seis meses desde que cesa ese vicio del consentimiento.
+En el caso a que se refiere el artículo 2112, el derecho concedido dura un año.
 2121.- El acto jurídico viciado de nulidad en parte, no es totalmente nulo, si las partes que lo forman pueden legalmente subsistir separadas, a menos que se demuestre que al celebrarse el acto se quiso que sólo íntegramente subsistiera.
 2122.- La anulación del acto obliga a las partes a restituirse mutuamente lo que han recibido o percibido en virtud o por consecuencia del acto anulado.
 2123.- Si el acto fuere bilateral y las obligaciones correlativas consisten ambas en sumas de dinero o en cosas productivas de frutos, no se hará la restitución respectiva de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
