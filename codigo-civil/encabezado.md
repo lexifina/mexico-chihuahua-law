@@ -903,18 +903,18 @@ III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
+C) ADOPCION PLENA
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 D) ADOPCION INTERNACIONAL
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
 Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-C) ADOPCION PLENA
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
 TITULO OCTAVO
 DE LA PATRIA POTESTAD
 CAPITULO I
@@ -1028,9 +1028,8 @@ IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado d
 434.- Cuando los intereses de alguno o de algunos de los incapaces, sujetos a la misma tutela, fueren opuestos, el tutor lo pondrá en conocimiento del Juez, quien nombrará un tutor especial que defienda los intereses de los incapaces, que él mismo designe, mientras se decide el punto de oposición.
 435.- Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta, o dentro del cuarto grado de la colateral.
 436.- No pueden ser nombrados tutores o curadores las personas que integren los Consejos Locales de Tutelas, ni quienes estén ligados con ellas con parentesco de consanguinidad, en la línea recta sin limitación de grados, y en la colateral dentro del segundo grado inclusive.
-(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 1981)
-437.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia o de lo Familiar, dentro de ocho días, a fin de que se provea la tutela, bajo la sanción que podrá ser hasta de mil pesos de multa.
-Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso al Juez que corresponda de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+437.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia o de lo Familiar, dentro de ocho días, a fin de que se provea la tutela; la omisión motivará la aplicación de una sanción que podrá ser de diez a cien veces el salario mínimo de multa.
 438.- La tutela es testamentaria, legítima o dativa.
 439.- Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
 440.- Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
@@ -1220,7 +1219,8 @@ Se exceptúan de lo dispuesto en el párrafo anterior los casos en que el error 
 531.- El tutor, dentro del primer mes de ejercer su cargo fijará, con aprobación del Juez, la cantidad que haya de invertirse en gastos de administración y el número y sueldos de los dependientes necesarios. Ni el número ni el sueldo de los empleados, podrá aumentarse después, sino con aprobación judicial.
 532.- Lo dispuesto en el artículo anterior no liberta al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
 533.- Si el padre o la madre del menor ejercían algún comercio e industria, el Juez, con informe de dos peritos, decidirá si ha de continuar o no la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuanto no ofrezca grave inconveniente a juicio del Juez.
-534.- El dinero que resulte sobrante después de cubiertas las cargas y atenciones de la tutela, el que proceda de las redenciones de capitales y el que se adquiera de cualquier otro modo, será impuesto por el tutor, dentro de tres meses contados desde que se hubiere reunido dos mil pesos, sobre segura hipoteca, calificada bajo su responsabilidad, teniendo en cuenta el precio de la finca, sus productos y la depreciación que puede sobrevenir al realizarla.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+534.- El dinero que resulte sobrante después de cubiertas las cargas y atenciones de la tutela, el que proceda de las redenciones de capitales y el que se adquiera de cualquier otro modo, será impuesto por el tutor, dentro de tres meses contados desde que se hubiere reunido el equivalente a ciento cincuenta veces el salario mínimo, sobre segura hipoteca, calificada bajo su responsabilidad, teniendo en cuenta el precio de la finca, sus productos y la depreciación que puede sobrevenir al realizarla.
 535.- Si para hacer la imposición dentro del término señalado en el artículo anterior, hubiere algún inconveniente grave, el tutor lo manifestará al Juez, quien podrá ampliar el plazo por otros tres meses.
 536.- El tutor que no haga las imposiciones dentro de los plazos señalados en los dos artículos anteriores, pagará los réditos legales mientras que los capitales no sean impuestos.
 537.- Mientras que se hacen las imposiciones a que se refieren los artículos 534 y 535, el tutor depositará las cantidades que perciba, en el establecimiento público destinado al efecto.
@@ -1232,7 +1232,8 @@ Los tutores no podrán vender valores comerciales, industriales, títulos de ren
 542.- Para todos los gastos extraordinarios que no sean de conservación ni de reparación, necesita el tutor ser autorizado por el Juez.
 543.- Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros los negocios del incapacitado.
 544.- El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación del Juez.
-545.- Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de mil pesos, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+545.- Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de cien veces el salario mínimo, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
 546.- Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer trato alguno respecto de ellos, para sí, sus ascendientes, su mujer, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
 547.- Cesa la prohibición del artículo anterior, respecto de la venta de bienes, en el caso de que el tutor o sus parientes ahí mencionados sean coherederos, partícipes o socios del incapacitado.
 548.- El tutor no podrá hacerse pago de sus créditos contra el incapacitado, sin la conformidad del curador y la aprobación judicial.
@@ -1577,7 +1578,8 @@ DE LOS BIENES VACANTES
 756.- El que tuviere noticia de la existencia de bienes vacantes en el Estado, y quisiera adquirir la parte que la ley da al descubridor, hará la denuncia de ellos ante el Ministerio Público del lugar de la ubicación de los bienes.
 757.- El Ministerio Público si estima que procede, deducirá ante el juez competente, según el valor de los bienes, la acción que corresponda, a fin de que declarados vacantes los bienes, se adjudiquen al fisco. Se tendrá al que hizo la denuncia como tercero coadyuvante.
 758.- El denunciante recibirá la cuarta parte del valor catastral de los bienes que denuncie; observándose lo dispuesto en la parte final del artículo 752.
-759.- El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa de cinco a cincuenta pesos, sin perjuicio de las penas que señale el respectivo Código.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+759.- El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa de diez a cien veces el salario mínimo, sin perjuicio de las penas que señale el respectivo Código.
 TITULO TERCERO
 DE LA POSESION
 CAPITULO UNICO
@@ -3722,11 +3724,15 @@ DE LAS DIVERSAS ESPECIES DE CONTRATOS
 TITULO PRIMERO
 DE LOS CONTRATOS PREPARATORIOS
 LA PROMESA
-2126.- Puede asumirse contractualmente la obligación de celebrar un contrato futuro.
-2127.- La promesa de contratar o sea el contrato preliminar de otro puede ser unilateral o bilateral.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2126.- Mediante el contrato de promesa uno o varios contratantes, pueden asumir la obligación de celebrar, dentro de cierto tiempo, un contrato futuro determinado.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2127.- El contrato de promesa será unilateral cuando sólo una de las partes se obliga a celebrar el contrato; será bilateral, cuando las dos partes se obligan a ello.
 2128.- La promesa de contrato sólo da origen a obligaciones de hacer consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido, salvo lo establecido en los artículos 2130 y 2131 de este Código.
 2129.- Para que la promesa de contratar sea válida debe constar por escrito, limitarse a cierto tiempo y precisarse en ella los elementos constitutivos del contrato definitivo.
-2130.- La promesa de contratar relativa a bienes inmuebles o derechos reales, cuyo contrato definitivo deba ser inscrito en el Registro Público a fin de que produzca efectos con relación a tercero, deberá ser inscrita a su vez para producir tales efectos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2130.- El contrato de promesa relativo a bienes inmuebles o derechos reales, cuyo contrato definitivo deba ser inscrito en el Registro Público de la Propiedad, también debe inscribirse para que produzca efectos con relación a terceros.
+En este caso, el contrato de promesa deberá otorgarse en escritura pública, si el precio del inmueble o derecho real excede del equivalente a quinientas veces el salario mínimo. En caso contrario, bastará un escrito privado debidamente ratificado ante fedatario público.
 2131.- Si el promitente o el causahabiente, en caso de promesa inscrita en el Registro Público de la Propiedad, rehusan firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el Juez; salvo el caso de que la celebración del contrato sea legalmente imposible, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
 TITULO SEGUNDO
 DE LA COMPRAVENTA
@@ -3748,7 +3754,8 @@ En caso de desavenencia entre los contratantes, dos peritos nombrados uno por ca
 2144.- Habrá lugar a la rescisión si el vendedor presentare el acervo como de especie homogénea, y ocultare en él especies de inferior clase y calidad de las que están a la vista.
 2145.- Si la venta de uno o más inmuebles se hiciere por precio alzado y sin estimar especialmente sus partes o medidas, no habrá lugar a la rescisión aunque en la entrega hubiere falta o exceso.
 2146.- Las acciones que nacen de los artículos 2143 a 2145 prescriben en un año, contado desde el día de la entrega.
-2147.- Los contratantes pagarán por mitad los gastos de escritura y registro, salvo convenio en contrario.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2147.- Los gastos de escrituración e inscripción en el Registro Público de la Propiedad, correrán a cargo del comprador, salvo pacto en contrario. Tratándose de los impuestos respectivos, se estará a lo que dispongan las leyes de la materia.
 2148.- Si una misma cosa fuere vendida por el mismo vendedor a diversas personas, se observará lo siguiente.
 2149.- Si la cosa vendida fuere mueble, prevalecerá la venta primera en fecha; si no fuere posible verificar la prioridad de ésta, prevalecerá la hecha al que se halle en posesión de la cosa.
 2150.- Si la cosa vendida fuere inmueble, prevalecerá la venta que primero se haya registrado; y si ninguna lo ha sido, se observará lo dispuesto en el artículo anterior.
@@ -3764,14 +3771,16 @@ DE LA MATERIA DE LA COMPRAVENTA
 CAPITULO III
 DE LOS QUE PUEDEN VENDER Y COMPRAR
 2158.- Los extranjeros y las personas morales no pueden comprar bienes raíces, sino sujetándose a lo dispuesto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y en sus leyes reglamentarias.
-2159.- Los consortes no pueden celebrar entre sí el contrato de compraventa, sino de acuerdo con lo dispuesto en los artículos 161 y 162.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2159.- Los consortes podrán celebrar entre sí el contrato de compraventa, de acuerdo con lo dispuesto en el artículo 163.
 2160.- Los Magistrados, los Jueces, el Ministerio Público, los defensores oficiales, los abogados, los procuradores y los peritos no pueden comprar los bienes que son objeto de los juicios en que intervengan. Tampoco podrán ser cesionarios de los derechos que se tengan sobre los citados bienes.
 2161.- Se exceptúa de lo dispuesto en el artículo anterior, la venta o cesión de acciones hereditarias cuando sean coherederos, las personas mencionadas, o de derechos a que estén afectos bienes de su propiedad.
 2162.- Los hijos sujetos a la patria potestad solamente pueden vender a sus padres los bienes comprendidos en la primera clase de las mencionadas en el artículo 405.
 2163.- Los propietarios de cosa indivisa no pueden vender su parte respectiva a extraños, sino cumpliendo lo dispuesto en los artículos 935 y 936.
 2164.- No pueden comprar los bienes de cuya venta o administración se hallen encargados:
 I.- Los tutores y curadores;
-II.- Los mandatarios;
+(REFORMADA, P.O. 26 DE ENERO DE 2000)
+II.- Los mandatarios, a menos que el mandante lo hubiere autorizado expresamente en el instrumento en el que conste el mandato;
 III.- Los ejecutores testamentarios y los que fueren nombrados en caso de intestado;
 IV.- Los interventores nombrados por el testador o por los herederos;
 V.- Los representantes, administradores e interventores en caso de ausencia;
@@ -3803,15 +3812,17 @@ DE LAS OBLIGACIONES DEL COMPRADOR
 2177.- El comprador debe cumplir todo aquello a que se haya obligado, y especialmente pagar el precio de la cosa en el tiempo, lugar y forma convenidos.
 2178.- Si no se han fijado tiempo y lugar, el pago se hará en el tiempo y lugar en que se entregue la cosa.
 2179.- Si ocurre duda sobre cuál de los contratantes deberá hacer primero la entrega, uno y otro harán el depósito en manos de un tercero.
-2180.- El comprador debe intereses por el tiempo que medie entre la entrega de la cosa y el pago del precio, en los tres casos siguientes:
+(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2000)
+2180.- El comprador debe intereses por el tiempo que medie entre la entrega de la cosa y el pago del precio, en los casos siguientes:
 I.- Si así se hubiere convenido;
-II.- Si la cosa vendida y entregada produce fruto o renta;
-III.- Si se hubiere constituido en mora con arreglo a los artículos 1987 y 1988.
+(REFORMADA, P.O. 26 DE ENERO DE 2000)
+II.- Si se hubiere constituido en mora con arreglo a los artículos 1987 y 1988.
+III.- (DEROGADA, P.O. 26 DE ENERO DE 2000)
 2181.- En las ventas a plazo, sin estipular intereses, no los debe el comprador por razón de aquél, aunque entretanto perciba los frutos de la cosa, pues el plazo hizo parte del mismo contrato, y debe presumirse que en esta consideración, se aumentó el precio de la venta.
 2182.- Si la concesión del plazo fue posterior al contrato, el comprador estará obligado a prestar los intereses, salvo convenio en contrario.
 2183.- Cuando el comprador a plazo o con espera del precio, fuere perturbado en su posesión o derecho, o tuviere justo temor de serlo, podrá suspender el pago si aún no lo ha hecho, mientras el vendedor le asegure la posesión o le dé fianza, salvo si hay convenio en contrario.
 2184.- La falta de pago del precio da derecho para pedir la rescisión del contrato, aunque la venta se haya hecho a plazo; pero si la cosa ha sido enajenada a un tercero, se observará lo dispuesto en los artículos 1833 y 1834.
-2185.- Si el comprador se constituyó en mora de recibir, abonará al vendedor el alquiler de las bodegas, graneros o vasijas en que se contenga lo vendido, y el vendedor quedará descargado del cuidado ordinario de conservar la cosa, y solamente será responsable del dolo o de la culpa grave.
+2185.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
 CAPITULO VII
 DE ALGUNAS MODALIDADES DEL CONTRATO DE COMPRAVENTA
 2186.- Puede pactarse que la cosa comprada no se venda a determinada persona, pero es nula la cláusula en que se estipule que no puede venderse a persona alguna.
@@ -3821,7 +3832,8 @@ I.- Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de u
 II.- Si se trata de bienes muebles tales como automóviles, motores, pianos, máquinas de coser u otros que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula resolutoria de que habla la fracción anterior, y esa cláusula producirá efectos contra tercero que haya adquirido los bienes, si se inscribió en el Registro Público;
 III.- Si se trata de bienes muebles que no sean susceptibles de identificarse indubitablemente, y que, por lo mismo, su venta no pueda registrarse, los contratantes podrán pactar la rescisión de la venta por falta de pago del precio; pero esa cláusula no producirá efectos contra tercero de buena fe que hubiere adquirido los bienes a que esta fracción se refiere.
 2189.- Si se rescinde la venta, el vendedor y el comprador deben restituirse las prestaciones que se hubieren hecho; pero el vendedor que hubiere entregado la cosa vendida, puede exigir del comprador en su demanda o en el juicio que corresponda, por el uso de ella, el pago de un alquiler o renta que fijarán peritos, y una indemnización también fijada por peritos, por el deterioro que haya sufrido la cosa.
-El comprador que haya pagado parte del precio, tiene derecho a los intereses legales de la cantidad que entregó.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+El comprador que haya pagado parte del precio, tiene derecho a los intereses legales de la cantidad que entregó. En caso de que en el contrato se hubiere pactado una tasa para que el comprador pagare intereses durante el plazo fijado para liquidar el precio, si la operación se rescinde, tendrá derecho el comprador a que las sumas pagadas se les restituyan con los intereses a la misma tasa pactada.
 Las convenciones que impongan al comprador obligaciones más onerosas que las expresadas, serán nulas.
 2190.- Puede pactarse válidamente que el vendedor se reserve la propiedad de la cosa vendida hasta que su precio haya sido pagado.
 Cuando los bienes vendidos son de los mencionados en las fracciones I y II del artículo 2188, el pacto de que se trata produce efectos contra tercero si se inscribe en el Registro Público; cuando los bienes son de la clase a que se refiere la fracción III del artículo que se acaba de citar, se aplicará lo dispuesto en esa fracción.
@@ -3831,38 +3843,36 @@ Cuando los bienes vendidos son de los mencionados en las fracciones I y II del a
 CAPITULO VIII
 DE LA FORMA DEL CONTRATO DE COMPRAVENTA
 2194.- El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
-(REFORMADO, P.O. 5 DE OCTUBRE DE 1988)
-2195.- La venta de un inmueble cuyo precio, valor de avalúo o valor catastral sea de hasta 365 veces el salario mínimo general diario de la capital del Estado en el momento de la operación podrá hacerse en instrumento privado, que firmaren el vendedor y el comprador ante dos testigos y se ratificará en los términos de la Ley.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2195.- La venta de bienes inmuebles cuyo precio, valor de avalúo o valor catastral, en el momento de la operación no exceda del equivalente a quinientas veces el salario mínimo, así como la constitución o transmisión de derechos reales estimados hasta la misma cantidad, podrán otorgarse en escrito privado, que se ratificará en los términos de ley.
 2196.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del artículo 1728.
 2197.- De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
-(REFORMADO, P.O. 5 DE OCTUBRE DE 1988)
-2198.- Si el precio, valor de avalúo o valor catastral excede de 365 veces del salario mínimo general diario de la capital del Estado en el momento de la operación, la venta se hará en escritura pública.
-2199.- La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2198.- Si el precio, valor del avalúo o valor catastral excede de quinientas veces el salario mínimo, en el momento de la operación, la venta se otorgará en escritura pública.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2199.- El contrato de compra venta de bienes inmuebles, producirá efectos contra terceros a partir de la fecha de su inscripción en el Registro Público de la Propiedad, en los términos prescritos en este Código.
 CAPITULO IX
 DE LA RETROVENTA
-2200.- Se llama retroventa la venta hecha con la condición de que dentro de un plazo determinado se pueda rescindir el contrato, devolviéndose respectivamente el precio y la cosa.
-2201.- La retroventa sólo puede tener lugar en bienes raíces.
-2202.- La retroventa no puede estipularse por más tiempo que el de cinco años, contados desde la fecha del contrato.
-2203.- Si el vendedor no hace uso del derecho de redención en el término convenido, y a falta de éste en el de los cinco años, la venta queda irrevocablemente consumada, siempre que se inscriba en el libro de registro de la propiedad.
-2204.- El vendedor que quiera efectuar la redención, deberá reembolsar al comprador:
-I.- Del precio recibido;
-II.- De los gastos necesarios del contrato;
-III.- De los gastos necesarios y útiles hechos en la cosa vendida.
-2205.- Para que el vendedor recobre la cosa vendida, una vez cumplidos los requisitos del artículo anterior, bastará que se cancele la escritura de retroventa al margen del libro respectivo, en virtud del consentimiento expreso del comprador o de resolución judicial ejecutoriada.
-2206.- El comprador responde de los daños y deterioros que la cosa haya sufrido por su culpa o negligencia.
-2207.- El vendedor puede demandar la cosa aunque se halle en poder de tercero, salvo el derecho de éste contra el que se la vendió.
-2208.- Lo dispuesto en el artículo anterior tendrá lugar aunque en el segundo contrato no se haga mención del pacto de retroventa, con tal que ésta se haya inscrito en el Registro Público.
-2209.- El comprador tiene sobre la cosa, mientras no se realice la redención, todos los derechos del vendedor, excepto los que importen perjuicio al derecho de retracto.
-2210.- Si el comprador con pacto de retroventa de una parte indivisa de alguna finca, ha obtenido la totalidad de ella en una licitación, o subasta contra él provocada, puede obligar al vendedor a redimir el todo, si éste quiere hacer uso del derecho de retracto.
-2211.- Si muchos conjuntamente y en un solo contrato venden una finca indivisa con pacto de retroventa, ninguno de ellos puede ejercitar el derecho de redención más que por su parte respectiva.
-2212.- Lo mismo se observará si el que ha vendido por sí solo una finca, ha dejado muchos herederos; en ese caso cada uno de estos sólo puede redimir la parte que hubiere adquirido.
-2213.- En los casos de los dos artículos anteriores, el comprador puede exigir de todos los vendedores o coherederos, que se pongan de acuerdo sobre la redención de la totalidad de la cosa vendida; y si así no lo hicieren, no está obligado a consentir el retracto parcial.
-2214.- Si cada uno de los copropietarios de una finca indivisa ha vendido separadamente su parte, podrá ejercitarse con la misma separación el derecho de retracto por su porción respectiva, y el comprador no puede obligarle a redimir la totalidad de la finca.
-2215.- Si el comprador hubiere dejado muchos herederos y la cosa estuviere indivisa, la acción de retracto se ejercitará contra todos ellos.
-2216.- Si la herencia se hubiere dividido, la acción se ejercitará contra el heredero o herederos a quienes la cosa haya sido adjudicada.
-2217.- El vendedor que recobra la cosa vendida, la adquiere libre de toda carga o hipoteca impuesta por el comprador; pero está obligado a pasar por los arriendos que éste haga de buena fe y según la costumbre del lugar.
-2218.- Si al celebrarse la venta hubiere en la finca frutos manifiestos o nacidos, no se hará abono ni prorrateo de los que haya al tiempo de la redención.
-2219.- Si no los hubo al tiempo de la venta y los hay al del retracto, se prorratearán entre el retrayente y el comprador, dándose a éste la parte correspondiente al tiempo que poseyó la finca en el último año, el cual se comenzará a contar desde el plazo fijado para la retroventa.
+2200.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2201.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2202.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2203.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2204.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2205.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2206.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2207.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2208.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2209.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2210.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2211.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2212.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2213.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2214.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2215.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2216.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2217.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2218.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2219.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
 CAPITULO X
 DE LAS VENTAS JUDICIALES
 2220.- Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuanto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código de Procedimientos Civiles.
@@ -3891,9 +3901,10 @@ DE LAS DONACIONES EN GENERAL
 2237.- La donación es perfecta desde que el donatario la acepta y hace saber la aceptación al donador.
 2238.- La donación puede hacerse verbalmente o por escrito.
 2239.- No puede hacerse donación verbal más que de bienes muebles.
-2240.- La donación verbal sólo producirá efectos legales cuando el valor de los muebles no pase de doscientos pesos.
-Si el valor de los muebles excede de doscientos pesos, pero no de tres mil, la donación debe hacerse por escrito.
-Si excede de tres mil pesos, la donación se reducirá a escritura pública.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2240.- Tratándose de bienes muebles la donación será verbal si el valor de los mismos no excede de cincuenta veces el salario mínimo.
+Si el valor de los muebles excede de cincuenta, pero no de quinientas veces el salario mínimo, la donación deberá otorgarse en escrito privado.
+Si excede de quinientas veces el salario mínimo, la donación deberá otorgarse en escritura pública.
 2241.- La donación de bienes raíces se hará en la misma forma que para su venta exigen los artículos 2195 a 2198.
 2242.- La aceptación de las donaciones se hará en la misma forma en que éstas deben hacerse; pero no surtirá efectos si no se hiciere en vida del donante.
 2243.- Es nula la donación que comprenda la totalidad de los bienes del donante, si éste no se reserva en propiedad o en usufructo lo necesario para vivir según sus circunstancias.
@@ -3921,7 +3932,8 @@ I.- Cuando sea menor de doscientos pesos;
 II.- Cuando sea antenupcial;
 III.- Cuando sea entre consortes;
 IV.- Cuando sea puramente remuneratoria.
-2258.- Rescindida la donación por superveniencia de hijos, serán restituidos al donante los bienes donados, o su valor, si han sido enajenados antes del nacimiento de los hijos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2258.- Revocada la donación por superveniencia de hijos, los bienes se restituirán al patrimonio del donante. Si los bienes donados hubieran sido enajenados por el donatario antes del nacimiento de los hijos, deberá reintegrarse al donante el valor que los mismos tenían a la fecha de la enajenación.
 2259.- Si el donatario hubiere hipotecado los bienes donados, subsistirá la hipoteca; pero tendrá derecho el donante de exigir que aquél la redima. Esto mismo tendrá lugar tratándose de usufructo o servidumbre impuestos por el donatario.
 2260.- Cuando los bienes no puedan ser restituidos en especie, el valor exigible será el que tenían aquéllos al tiempo de la donación.
 2261.- El donatario hace suyos los frutos de los bienes donados hasta el día en que se le notifique la revocación o hasta el día del nacimiento del hijo póstumo, en su caso.
@@ -3950,14 +3962,18 @@ DEL MUTUO
 CAPITULO I
 DEL MUTUO SIMPLE
 2280.- El mutuo es un contrato por el cual el mutuante se obliga a transferir la propiedad de una suma de dinero o de otras cosas fungibles al mutuario, quien se obliga a devolver otro tanto de la misma especie y calidad.
-2281.- Si en el contrato no se ha fijado plazo para la devolución de lo prestado, se observarán las reglas siguientes:
+(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2000)
+2281.- Si en el contrato no se ha fijado plazo para la devolución de lo prestado, se observarán las siguientes reglas:
 I.- Si el mutuario fuere labrador y el préstamo consistiere en cereales u otros productos del campo, la restitución se hará en la siguiente cosecha de los mismos o semejantes frutos o productos;
 II.- Lo mismo se observará respecto de los mutuarios que no siendo labradores, hayan de percibir frutos semejantes por otro título;
-III.- En los demás casos, la obligación de restituir se rige por lo dispuesto en el artículo 1963.
+(REFORMADA, P.O. 26 DE ENERO DE 2000)
+III.- En los demás casos, al igual que si se hubiere pactado que la restitución se hará cuando pueda o tenga medios el deudor, se observará lo dispuesto en el artículo 1963.
 2282.- La entrega de la cosa prestada y la restitución de lo prestado se harán en el lugar convenido.
-2283.- Cuando no se ha señalado lugar, se observarán las reglas siguientes:
+(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2000)
+2283.- Cuando no se ha señalado lugar para el cumplimiento, se observarán las reglas siguientes:
 I.- La cosa prestada se entregará en el lugar donde se encuentre;
-II.- La restitución se hará, si el préstamo consiste en efectivo, en el lugar donde se recibieron. Si consiste en dinero, en el domicilio del deudor observándose lo dispuesto en el artículo 1968.
+(REFORMADA, P.O. 26 DE ENERO DE 2000)
+II.- La restitución se hará en el domicilio del mutuario, observándose en su caso lo dispuesto en el artículo 1968.
 2284.- Si no fuere posible al mutuario restituir en género, satisfará pagando el valor que la cosa prestada tenía en el tiempo y lugar en que se hizo el préstamo, a juicio de peritos, si no hubiere estipulación en contrario.
 2285.- Consistiendo el préstamo en dinero, la obligación del deudor de devolver la suma recibida se ajustará a lo dispuesto en la ley monetaria respectiva.
 2286.- El mutuante es responsable de los perjuicios que sufra el mutuario por la mala calidad o vicios ocultos de la cosa prestada, si conoció los defectos y no dio aviso oportuno al mutuario.
@@ -3968,7 +3984,8 @@ DEL MUTUO CON INTERES
 2289.- Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géneros.
 2290.- El interés es legal o convencional.
 2291.- El interés legal es el nueve por ciento anual. El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste el juez teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
-2292.- Si se ha convenido un interés más alto que el legal, el deudor, después de seis meses contados desde que se celebró el contrato, puede reembolsar el capital, cualquiera que sea el plazo fijado para ello, dando aviso al acreedor con dos meses de anticipación y pagando los intereses vencidos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2292.- Si se ha convenio un interés más alto que el legal, el deudor puede reembolsar el capital, cualquiera que sea el plazo fijado para ello, dando aviso al acreedor con dos meses de anticipación y pagando los intereses vencidos a la tasa pactada.
 2293.- Las partes no pueden, bajo pena de nulidad, convenir de antemano que los intereses se capitalicen y que produzcan intereses.
 2294.- Si el mutuario debe intereses y abona algunas cantidades, se aplicarán éstas a los vencidos; y lo que de ellas sobre se imputará al capital.
 2295.- El recibo del capital dado sin reserva de intereses, establece a favor del deudor la presunción de haberlos pagado.
@@ -3976,8 +3993,10 @@ TITULO SEXTO
 DEL ARRENDAMIENTO
 CAPITULO I
 DISPOSICIONES GENERALES
-2296.- Hay arrendamiento cuando las dos partes contratantes se obligan recíprocamente, una, a conceder el uso o goce temporal de una cosa, y la otra, a pagar por ese uso o goce un precio cierto.
-El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación, de quince para las fincas destinadas al comercio y de veinte para las fincas destinadas al ejercicio de una industria.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2296.- Hay arrendamiento cuando una persona, llamada arrendador, se obliga a conceder el uso o goce temporal de un bien y la otra, llamada arrendatario, se obliga a pagar por ello un precio cierto y determinado.
+El arrendamiento de bienes muebles no podrá exceder de cinco años.
+Tratándose de fincas destinadas a habitación no podrá exceder de diez años y de veinte para las fincas destinadas al comercio o a la industria.
 2297.- Cuando se conceda el uso o goce de un inmueble, como una cantera o un bosque, con el objeto de talar los árboles existentes en éste o extraer fragmentos de aquélla, el contrato relativo se regirá por las disposiciones contenidas en este Título.
 2298.- La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquiera otra cosa equivalente, con tal que sea cierta y determinada.
 2299.- Son susceptibles de arrendamiento todos los bienes que pueden usarse sin consumirse; excepto aquellos que la ley prohibe arrendar y los derechos estrictamente personales.
@@ -3986,17 +4005,20 @@ El arrendamiento no puede exceder de diez años para las fincas destinadas a hab
 2302.- No puede arrendar el copropietario de cosa indivisa sin consentimiento de los otros copropietarios.
 2303.- Se prohibe a los magistrados, a los jueces y a cualesquiera otros empleados públicos, tomar en arrendamiento, por sí o por interpósita persona, los bienes que deban arrendarse en los negocios en que intervengan.
 2304.- Se prohibe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
-2305.- El arrendamiento debe otorgarse por escrito cuando la renta pase de cien pesos anuales.
-(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)
-2306.- Si el predio fuere rústico y la renta pasare de setenta mil pesos anuales, el contrato se otorgará en escritura pública.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2305.- El contrato de arrendamiento deberá otorgarse por escrito.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2306.- Tratándose de predios rústicos, si la renta anual excede de cuatro mil veces el salario mínimo, el contrato deberá otorgarse en escritura pública.
 2307.- El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en otro sentido.
 2308.- Si durante la vigencia del contrato de arrendamiento, por cualquier motivo se verificare la trasmisión de la propiedad del predio arrendado, el arrendamiento subsistirá en los términos del contrato. Respecto al pago de las rentas, el arrendatario tendrá obligación de pagar al nuevo propietario la renta estipulada en el contrato, desde la fecha en que se le notifique judicialmente o extrajudicialmente ante notario o ante dos testigos, haberse otorgado el correspondiente título de propiedad, aun cuando alegue haber pagado al primer propietario; a no ser que el adelanto de rentas aparezca expresamente estipulado en el mismo contrato de arrendamiento.
 2309.- Si la trasmisión de la propiedad se hiciere por causa de utilidad pública, el contrato se rescindirá, pero el arrendador y el arrendatario deberán ser indemnizados por el expropiador, conforme a lo que establezca la ley respectiva.
 2310.- Los arrendamientos de bienes del Estado, municipales o de establecimientos públicos, estarán sujetos a las disposiciones del derecho administrativo y en lo que no lo estuvieren, a las disposiciones de este Título.
 CAPITULO II
 DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDADOR
-2311.- El arrendador está obligado aunque no haya pacto expreso:
-I.- A entregar al arrendatario la finca arrendada, con todas sus pertenencias y en estado de servir para el uso convenido; y si no hubo convenio expreso, para aquél a que por su misma naturaleza estuviere destinada;
+(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2000)
+2311.- El arrendador está obligado, aunque no haya pacto expreso:
+(REFORMADA, P.O. 26 DE ENERO DE 2000)
+I.- A entregar al arrendatario la finca arrendada, en condiciones de higienes y seguridad, con todas sus pertenencias y en estado de servir para el uso convenio; y si no hubo convenio expreso, para aquel a que por su misma naturaleza estuviere destinada;
 II.- A conservar la cosa arrendada en el mismo estado, durante el arrendamiento, haciendo para ello todas las reparaciones necesarias;
 III.- A no estorbar ni embarazar de manera alguna el uso de la cosa arrendada, a no ser por causa de reparaciones urgentes e indispensables;
 IV.- A garantizar el uso o goce pacífico de la cosa por todo el tiempo del contrato;
@@ -4022,7 +4044,8 @@ DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDATARIO
 I.- A satisfacer la renta en la forma y tiempo convenidos;
 II.- A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios;
 III.- A servirse de la cosa solamente para el uso convenido conforme a la naturaleza y destino de ella.
-2325.- El arrendatario no está obligado a pagar la renta, sino desde el día en que recibe la cosa arrendada, salvo pacto en contrario.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2325.- El arrendatario no está obligado a pagar la renta sino desde el día en que reciba el inmueble objeto del contrato.
 2326.- La renta será pagada en el lugar convenido, y a falta de convenio, en la casa, habitación o despacho del arrendatario.
 2327.- Lo dispuesto en el artículo 2321 respecto del arrendador, regirá en su caso respecto del arrendatario.
 2328.- El arrendatario está obligado a pagar la renta que se venza hasta el día que entregue la cosa arrendada.
@@ -4041,21 +4064,42 @@ III.- A servirse de la cosa solamente para el uso convenido conforme a la natura
 2341.- Si el arrendatario ha recibido la finca con expresa descripción de las partes de que se compone, debe devolverla, al concluir el arrendamiento, tal como la recibió, salvo lo que hubiere perecido o se hubiere menoscabado por el tiempo o por causa inevitable.
 2342.- La ley presume que el arrendatario que admitió la cosa arrendada sin la descripción expresada en el artículo anterior, la recibió en buen estado, salvo la prueba en contrario.
 2343.- El arrendatario debe hacer las reparaciones de aquellos deterioros de poca importancia, que regularmente son causados por las personas que habitan el edificio.
-2344.- El arrendatario que por causa de reparaciones pierde el uso total o parcial de la cosa, tiene derecho a no pagar el precio del arrendamiento, a pedir la reducción de ese precio o a la rescisión del contrato, si la pérdida del uso dura más de dos meses, en sus respectivos casos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2344.- El arrendatario que por reparaciones pierde el uso total o parcial de la cosa, tiene derecho a no pagar el precio del arrendamiento; a pedir la reducción de ese precio o a la rescisión del contrato si tal situación dura más de dos meses.
+Si el arrendatario no hace uso del derecho de rescisión una vez terminada la reparación, continuará en el uso del bien pagando la misma renta hasta el vencimiento del contrato, salvo pacto en contrario.
 2345.- Si la misma cosa se ha dado en arrendamiento separadamente a dos o más personas y por el mismo tiempo, prevalecerá el arrendamiento primero en fecha; si no fuere posible verificar la prioridad de ésta, valdrá el arrendamiento del que tiene en su poder la cosa arrendada.
-2346.- En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene este derecho si está al corriente en el pago de la renta, a que en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada.
-A este efecto el propietario notificará al arrendatario por medio de Notario o judicialmente, la venta que tuviere convenida, para que dentro de los ocho días siguientes haga uso del derecho del tanto y concluido el término se pierde el derecho. Mientras no se haya hecho la notificación, la venta no producirá efecto legal alguno.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2346.- En los arrendamientos que han durado más de tres años y cuando el arrendatario esté al corriente en el pago de la renta, tendrá derecho a ser preferido, en igualdad de condiciones, en el nuevo arrendamiento de la finca.
+Si el arrendamiento ha durado más de cinco años y está al corriente en el pago de la renta, el arrendatario gozará del derecho del tanto si el arrendador quiere vender la finca arrendada.
+A este efecto, el propietario notificará al arrendatario por medio del Notario o judicialmente, las condiciones en que pretende realizar el nuevo arrendamiento o la venta en su caso, para que el arrendatario en el plazo de ocho días hábiles siguientes, manifieste si hace uso de su derecho de preferencia o del tanto. Concluido el plazo sin haberse ejercido el derecho, se pierde éste. Mientras no se haya hecho la notificación, la venta no producirá efecto legal alguno.
 CAPITULO IV
 DEL ARRENDAMIENTO DE FINCAS URBANAS
-2347.- No podrá darse en arrendamiento finca o local que no reúna las condiciones de higiene y salubridad exigidas en el Código Sanitario.
-2348.- El arrendador que no haga las obras que ordene Salubridad Pública como necesarias para que la finca o local sea habitable e higiénica, es responsable de los daños y perjuicios que los inquilinos sufran por esa causa.
-2349.- El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley para ese carácter.
-Si la renta no excede de trescientos pesos mensuales es potestativo para el arrendatario dar fianza o substituir esa garantía con prenda o en efectivo por el importe de un mes de renta.
-2350.- No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2348.
-2351.- La renta debe pagarse en los plazos convenidos y a falta de convenio, por meses vencidos si la renta excede de cien pesos; por quincenas vencidas, si la renta es de sesenta a cien pesos, y por semanas, también vencidas, cuando la renta no llegue a sesenta pesos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2347.- Es obligación de los propietarios de locales o fincas destinadas a habitación, cumplir con las disposiciones sanitarias y de seguridad que las leyes prevengan u ordene la autoridad correspondiente, así como realizar las obras que para tal fin se impongan, teniendo prohibido dar en arrendamiento aquellos bienes que no reúnan tales condiciones. La violación a esta disposición lo hará responsable de los daños y perjuicios que se causen al inquilino.
+El derecho a recibir esta indemnización es irrenunciable en forma anticipada.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2348.- Si la renta mensual excede de doscientas cincuenta veces el salario mínimo, deberá garantizarse el contrato mediante fianza o cualquiera otra forma legal, salvo pacto en contrario.
+Si la renta no excede de dicha cantidad, será potestativo para el arrendatario elegir la forma de garantía.
+No se podrá rehusar como fiador a una persona que reúna los requisitos de ley.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2349.- El contrato de arrendamiento deberá contener cuando menos las siguientes estipulaciones:
+I.- Nombres de las partes y del fiador en su caso.
+II.- La ubicación del inmueble.
+III.- Descripción detallada del inmueble objeto del contrato y de las instalaciones y accesorios con que cuenta para el uso y goce del mismo, así como el estado que guardan.
+IV.- El monto de la renta.
+V.- La garantía, en su caso.
+VI.- La mención expresa del destino del inmueble arrendado.
+VII.- El término del contrato.
+VIII.- Las obligaciones que arrendador y arrendatario contraigan adicionalmente a las establecidas en la ley.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2350.- El arrendamiento de fincas urbanas destinadas a la habitación no termina por la muerte de los contratantes, sino sólo por los motivos establecidos en las leyes.
+Con exclusión de cualquier otra persona, el cónyuge, el o la concubina, los hijos, los ascendientes en línea consanguínea o por afinidad del arrendatario fallecido se subrogarán en los derechos y obligaciones de éste, en los mismos términos del contrato, siempre y cuando hubieren habitado real y permanentemente el inmueble en vida del arrendatario.
+No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2351.- La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos.
 CAPITULO V
 DEL ARRENDAMIENTO DE FINCAS RUSTICAS
-2352.- El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería de acuerdo con lo dispuesto en la Ley de Tierras Ociosas.
+2352.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
 2353.- La renta debe pagarse en los plazos convenidos, y a falta de convenio, por semestres vencidos.
 2354.- El arrendatario no tendrá derecho a la rebaja de la renta por esterilidad de la tierra arrendada o por pérdida de frutos provenientes de casos fortuitos ordinarios; pero sí en caso de pérdida de más de la mitad de los frutos, por casos fortuitos extraordinarios.
 Entiéndese por casos fortuitos extraordinarios, el incendio, guerra, peste, inundación insólita, langosta, terremoto u otro acontecimiento igualmente desacostumbrado y que los contratantes no hayan podido razonablemente prever.
@@ -4087,8 +4131,8 @@ DEL ARRENDAMIENTO DE BIENES MUEBLES
 2376.- Lo dispuesto en el artículo 2364 es aplicable a los aperos de la finca arrendada.
 CAPITULO VII
 DISPOSICIONES ESPECIALES RESPECTO DE LOS ARRENDAMIENTOS POR TIEMPO INDETERMINADO
-2377.- Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
-2378.- Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2355, 2356 y 2357.
+2377.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2378.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
 CAPITULO VIII
 DEL SUBARRIENDO
 2379.- El arrendatario no puede subarrendar la cosa arrendada en todo, ni en parte, ni ceder sus derechos sin consentimiento del arrendador; si lo hiciere responderá solidariamente con el subarrendatario, de los daños y perjuicios.
@@ -4105,28 +4149,42 @@ V.- Por confusión;
 VI.- Por pérdida o destrucción total de la cosa arrendada, por caso fortuito o fuerza mayor;
 VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad pública;
 VIII.- Por evicción de la cosa dada en arrendamiento.
-2383.- Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio, salvo lo dispuesto en los tres artículos siguientes. Si no se ha señalado tiempo, se observará lo previsto en los artículos 2377 y 2378.
-2384.- Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres en la zona de que se trata, han sufrido una alza después de que se celebró el contrato de arrendamiento.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2383.- El arrendamiento por tiempo determinado concluye el día prefijado, salvo lo dispuesto en los tres artículos siguientes.
+Si el contrato se celebró por tiempo indeterminado, concluirá a voluntad de cualquiera de los contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación, si el predio es urbano y con un año si es rústico.
+En predios rústicos se observará lo dispuesto en los artículos 2355, 2356 y 2357. En predios urbanos no hay obligación del arrendatario de poner avisos o mostrar el interior de la finca a los que pretendan verla.
+(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2000)
+2384.- En el arrendamiento de inmuebles, el arrendatario que se encuentre al corriente en el pago de las rentas, tendrá derecho a que, si lo pide antes del vencimiento del plazo estipulado, se le prorrogue el arrendamiento hasta por un plazo igual al del contrato, sin que la prórroga exceda de un año. En este caso, el arrendador podrá aumentar hasta un diez por ciento la renta anterior, siempre que ésta no se hubiere incrementado en los últimos tres meses.
 Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento, los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido.
-2385.- Si después de terminado el arrendamiento y su prórroga, si la hubo, continúa el arrendatario sin oposición en el goce y uso del predio y, éste es rústico, se entenderá renovado el contrato por otro año.
-2386.- En el caso del anterior, si el predio fuere urbano, el arrendamiento continuará por tiempo indefinido, y el arrendatario deberá pagar la renta que corresponda al tiempo que exceda al del contrato, con arreglo a lo que pagaba.
-2387.- Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hablan los dos artículos anteriores, cesan las obligaciones otorgadas por un tercero para la seguridad del arrendamiento salvo convenio en contrario.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2385.- Si después de terminado el plazo por el que se celebró el arrendamiento o la prórroga, en su caso, el arrendatario continúa sin oposición en el uso y goce del bien arrendado, subsistirá el arrendamiento por tiempo indefinido, estando obligado el arrendatario a pagar la renta que corresponda por el tiempo que exceda conforme a lo convenio en el contrato; pudiendo cualquiera de las partes solicitar la terminación del contrato en los términos del segundo párrafo del artículo 2383. Las obligaciones contraídas por un tercero con objeto de garantizar el cumplimiento del arrendamiento, cesan al término del plazo determinado, salvo convenio en contrario.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2386.- En el caso del artículo anterior, si el predio fuere rústico, el arrendamiento continuará por un año más.
+2387.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
 2388.- El arrendador puede exigir la rescisión del contrato:
-I.- Por la falta de pago de la renta en los términos prevenidos en los artículos 2351 y 2353;
-II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del 2324;
-III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2379.
-2389.- En los casos del 2344, el arrendatario podrá rescindir el contrato cuando la pérdida del uso fuere total, y aun cuando fuere parcial, si la reparación durare más de dos meses.
-2390.- Si el arrendatario no hiciere uso del derecho que para rescindir el contrato le concede el artículo anterior, hecha la reparación, continuará en el uso de la cosa pagando la misma renta hasta que termine el plazo del arrendamiento.
+(REFORMADA, P.O. 26 DE ENERO DE 2000)
+I.- Por falta de pago de la renta en los términos previstos en este Código.
+(REFORMADA, P.O. 26 DE ENERO DE 2000)
+II.- Por el mal uso que del bien haga el arrendatario, o por los daños graves que llegue a causarle.
+(REFORMADA, P.O. 26 DE ENERO DE 2000)
+III.- Por subarrendar el bien en contravención a lo dispuesto por el artículo 2379.
+(ADICIONADA, P.O. 26 DE ENERO DE 2000)
+IV.- Porque el arrendatario, cambien la forma del bien arrendado sin consentimiento expreso del arrendador.
+(ADICIONADA, P.O. 26 DE ENERO DE 2000)
+V.- En los demás casos previstos legalmente.
+2389.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
+2390.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
 2391.- Si el arrendador, sin motivo fundado se opone al subarriendo que con derecho pretenda hacer el arrendatario, podrá éste pedir la rescisión del contrato.
 2392.- Si el usufructuario no manifestó su calidad de tal al hacer el arrendamiento, y por haberse consolidado la propiedad con el usufructo, exige el propietario la desocupación de la finca, tiene el arrendatario derecho para demandar al arrendador la indemnización.
-2393.- En el caso del artículo anterior se observará lo que dispone el artículo 2385, si el predio fuere rústico, y si fuere urbano, lo que previene el artículo 2386.
+2393.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
 2394.- Si el predio dado en arrendamiento fuere enajenado judicialmente, el contrato de arrendamiento subsistirá, a menos que aparezca que se celebró dentro de los sesenta días anteriores al secuestro de la finca, en cuyo caso el arrendamiento podrá darse por concluido.
 2395.- En los casos de expropiación y de ejecución judicial, se observará lo dispuesto en los artículos 2355, 2356 y 2357.
 TITULO SEPTIMO
 DEL COMODATO
 (REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)
 2396.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible y el otro contrae la obligación de restituirla individualmente.
-El comodato deberá otorgarse por escrito ante dos testigos, salvo que se trate de predio rústico y su valor excediere de setenta y cinco mil pesos, en cuyo caso se otorgará en escritura pública.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+El contrato de comodato deberá otorgarse por escrito ante dos testigos. Si tiene por objeto un predio rústico cuyo valor del avalúo o valor catastral exceda de quinientas veces el salario mínimo, el contrato se otorgará en escritura pública.
 2397.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituidas idénticamente.
 2398.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
 2399.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
@@ -4149,12 +4207,15 @@ TITULO OCTAVO
 DEL DEPOSITO Y DEL SECUESTRO
 CAPITULO I
 DEL DEPOSITO
-2415.- El depósito es un contrato por el cual el depositario se obliga hacia el depositante a recibir una cosa, mueble o inmueble que aquél le confía, y a guardarla para restituirla cuando la pida el depositante.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2415.- El depósito es un contrato por el cual el depositario se obliga a recibir un bien, mueble o inmueble, que le confía el depositante, y a guardarlo para restituirlo cuando éste se lo pida.
 2416.- Salvo pacto en contrario, el depositario tiene derecho a exigir retribución por el depósito, la cual se arreglará a los términos del contrato y, en su defecto, a los usos del lugar en que se constituya el depósito.
 2417.- Los depositarios de títulos, valores, efectos o documentos que devenguen intereses, quedan obligados a realizar el cobro de éstos en las épocas de su vencimiento, así como también a practicar cuantos actos sean necesarios para que los efectos depositados conserven el valor y los derechos que les corresponden con arreglo a las leyes.
 2418.- La incapacidad de uno de los contratantes no exime al otro de las obligaciones a que están sujetos el que deposita y el depositario.
-2419.- El incapaz que acepte el depósito, puede, si se le demanda por daños y perjuicios, oponer como excepción la nulidad del contrato; más no podrá eximirse de restituir la cosa depositada si se conserva aún en su poder, o el provecho que hubiere recibido de su enajenación.
-2420.- Cuando la incapacidad no fuere absoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2419.- El incapaz que acepte el depósito, puede, si se le demanda por daños y perjuicios, oponer como excepción la nulidad del contrato; sin embargo, si hubiere procedido con dolo o mala fe, podrá ser condenado al pago de aquéllos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2420.- Si el incapaz aún conserva el bien en su poder, deberá restituirlo. Si lo hubiere enajenado, entregará al depositante el provecho obtenido.
 2421.- El depositario está obligado a conservar la cosa objeto del depósito, según la reciba y a devolverla cuando el depositario se lo pida, aunque al constituirse el depósito se hubiere fijado plazo y éste no hubiere llegado.
 En la conservación del depósito responderá el depositario de los menoscabos, daños y perjuicios que las cosas depositadas sufrieren por su malicia o negligencia.
 2422.- Si después de constituido el depósito tiene conocimiento el depositario de que la cosa es robada y de quién es el verdadero dueño, debe dar aviso a éste o a la autoridad competente, con la reserva debida.
@@ -4170,7 +4231,8 @@ En la conservación del depósito responderá el depositario de los menoscabos, 
 2432.- El depositario no puede retener la cosa, aun cuando al pedírsela no haya recibido el importe de las expensas a que se refiere el artículo anterior, pero sí podrá, en este caso, si el pago no se le asegura, pedir judicialmente la retención del depósito.
 2433.- Tampoco puede retener la cosa como prenda que garantice otro crédito que tenga contra el depositante.
 2434.- Los dueños de establecimientos en donde se reciben huéspedes, son responsables del deterioro, destrucción o pérdida de los efectos introducidos en el establecimiento con su consentimiento o el de sus empleados autorizados, por las personas que allí se alojen; a menos que prueben que el daño sufrido es imputable a estas personas, a sus acompañantes, a sus servidores o a los que los visiten, o que proviene de caso fortuito, fuerza mayor o vicios de los mismos efectos.
-La responsabilidad de que habla este artículo, no excederá de la suma de doscientos cincuenta pesos, cuando no se pueda imputar culpa al hostelero o a su personal.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+La responsabilidad de que habla este artículo no excederá de cincuenta veces el salario mínimo, cuando no se pueda imputar culpa al hostelero o a su personal.
 2435.- Para que los dueños de establecimientos donde se reciben huéspedes sean responsables del dinero, valores u objetos de precio notoriamente elevado que introduzcan en esos establecimientos las personas que allí se alojan, es necesario que sean entregados en depósito a ellos o a sus empleados debidamente autorizados.
 2436.- El posadero no se exime de la responsabilidad que le imponen los dos artículos anteriores por avisos que ponga en su establecimiento para eludirla. Cualquier pacto que celebre, limitando o modificando esa responsabilidad, será nulo.
 2437.- Las fondas, cafés, casas de baño y otros establecimientos semejantes, no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
@@ -4199,19 +4261,25 @@ I.- En escritura pública;
 II.- En escrito privado, firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de Primera Instancia, Jueces Menores o de Paz, o ante el correspondiente funcionario o empleado administrativo, cuando el mandato se otorgue para asuntos administrativos;
 III.- En carta poder sin ratificación de firmas.
 2451.- El mandato verbal es el otorgado de palabra entre presentes, hayan o no intervenido testigos.
-Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que concluya el negocio para que se dio.
+(ADICIONADO, P.O. 26 DE ENERO DE 2000)
+Para que un mandato sea verbal, el interés del negocio no debe exceder de cincuenta veces salario mínimo.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+Cuando el mandato se otorgue en forma verbal, deberá ratificarse en un simple escrito, antes de que concluya el negocio para que se dio.
 2452.- El mandato puede ser general o especial. Son generales los contenidos, en los tres primeros párrafos del artículo 2453. Cualquier otro mandato tendrá el carácter de especial.
-2453.- En todos los poderes generales para pleitos y cobranzas, bastará que se diga que se otorga con todas las facultades generales y las especiales que requieran cláusula especial conforme a la ley, para que se entiendan conferidos sin limitación alguna.
-En los poderes generales para administrar bienes, bastará expresar que se dan con ese carácter, para que el apoderado tenga toda clase de facultades administrativas.
-En los poderes generales, para ejercer actos de dominio, bastará que se den con ese carácter para que el apoderado tenga todas las facultades de dueño, tanto en lo relativo a los bienes, como para hacer toda clase de gestiones a fin de defenderlos.
-Cuando se quieran limitar, en los tres casos antes mencionados, las facultades de los apoderados, se consignarán las limitaciones, o los poderes serán especiales.
-Los notarios insertarán este artículo en los testimonios de los poderes que otorguen.
-2454.- El mandato extrajudicial debe otorgarse en escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante Notario, ante los jueces o autoridades administrativas correspondientes:
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2453.- En el mandato general para pleitos y cobranzas, bastará que se asiente que se otorga con todas las facultades generales y las especiales que requieran cláusula especial conforme a la ley, para que se entiendan conferidos sin limitación alguna.
+En el mandato general para administrar bienes, bastará expresar que se confiere con ese carácter, para que el mandatario ejerza toda clase de facultades administrativas.
+En el mandato general para ejercer actos de dominio, bastará expresar que se den con ese carácter para que el mandatario ejerza todas las facultades de dueño, tanto en lo relativo a los bienes, como para ejercer todas las acciones que se requieran para defenderlos. Tratándose de actos gratuitos, es necesaria autorización expresa del mandante.
+Cuando se quieran limitar, en los tres casos antes mencionados, las facultades de los mandatarios, se consignarán las limitaciones, o los mandatos serán especiales.
+Los notarios insertarán este artículo en los instrumentos de los mandatos que se otorguen.
+(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2000)
+2454.- El mandato extrajudicial debe otorgarse en escritura pública o en carta poder cuya firma se ratifique ante Notario Público, ante los Jueces o autoridades administrativas correspondientes:
 I.- Cuando sea general;
-II.- Cuando el interés del negocio para que se confiere sea mayor de mil pesos;
+(REFORMADA, P.O. 26 DE ENERO DE 2000)
+II.- Cuando el interés del negocio para que se confiere sea superior al equivalente a cien veces el salario mínimo; o
 III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
-2455.- El mandato extrajudicial podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para que se confiere exceda de cien pesos y no de mil.
-Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de cien pesos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2455.- El mandato extrajudicial podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la ratificación de las firmas, cuando el interés del negocio para el que se confiere exceda de cincuenta pero no de cien veces el salario mínimo.
 2456.- La omisión de los requisitos establecidos en los artículos que preceden, anula el mandato, y sólo deja subsistentes las obligaciones contraídas entre el tercero que haya procedido de buena fe y el mandatario, como si éste hubiese obrado en negocio propio.
 2457.- Si el mandante, el mandatario y el que haya tratado con éste, proceden de mala fe, ninguno de ellos tendrá derecho de hacer valer la falta de forma del mandato.
 2458.- En el caso del artículo 2456, podrá el mandante exigir del mandatario la devolución de las sumas que le haya entregado, y respecto de las cuales será considerado el último como simple depositario.
@@ -4256,8 +4324,8 @@ DEL MANDATO JUDICIAL
 I.- Los incapacitados;
 II.- Los magistrados, jueces y demás funcionarios y empleados de la Administración de Justicia, así como los de las Juntas de Conciliación y Arbitraje o los de cualquier otro órgano de la Federación, Estado o Municipios que realicen funciones jurisdiccionales;
 III.- Los empleados de la Hacienda Pública, en cualquiera causa en que puedan intervenir de oficio, dentro de los límites de sus respectivos Distritos.
-2485.- En los casos previstos en el artículo 2454, el mandato judicial será otorgado en cualquiera de las formas allí establecidas, o en escrito presentado y ratificado por el otorgante ante el Juez de los autos. Si el Juez no conoce al otorgante, exigirá testigos de identificación.
-En los demás casos, podrá otorgarse en simple carta poder firmada ante dos testigos, cuando el interés del negocio exceda de cien pesos y no de mil, o verbalmente ante el Juez del conocimiento, cuando la cuantía del asunto no exceda de cien pesos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2485.- En los casos previstos en el artículo 2454, el mandato judicial será otorgado en cualquiera de las formas allí establecidas, o en escrito presentado y ratificado por el otorgante ante el juez de los autos. Si el juez no conoce al otorgante, exigirá testigos de identificación.
 La substitución del mandato judicial se hará en la misma forma que su otorgamiento.
 2486.- El procurador no necesita poder o cláusula especial sino en los casos siguientes:
 I.- Para desistirse;
@@ -4300,7 +4368,9 @@ La parte que revoque o renuncie el mandato en tiempo inoportuno, debe indemnizar
 2497.- El mandante puede exigir la devolución del instrumento o escrito en que conste el mandato, y todos los documentos relativos al negocio o negocios que tuvo a su cargo el mandatario.
 El mandante que descuide exigir los documentos que acrediten los poderes del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
 2498.- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a éste el nuevo nombramiento.
-2499.- Aunque el mandato termine por la muerte del mandante, debe el mandatario continuar en la administración, entretanto los herederos proveen por sí mismos a los negocios, siempre que de lo contrario pueda resultar algún perjuicio.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2499.- Aunque el mandato termine por la muerte del mandante, debe el mandatario continuar atendiendo el negocio encomendado hasta en tanto los herederos proveen por sí mismos la atención, siempre que de lo contrario pueda resultar algún perjuicio.
+En el caso de que el mandato sea irrevocable, puede pactarse también que aún a la muerte del mandante el mandato no termina y, por lo tanto, el mandatario podrá continuar en su ejercicio y cumplimiento hasta la conclusión del acto jurídico.
 2500.- En el caso del artículo anterior, tiene derecho el mandatario para pedir al juez que señale un término corto a los herederos a fin de que se presenten a encargarse de sus negocios.
 2501.- Si el mandato termina por muerte del mandatario, deben sus herederos dar aviso al mandante y practicar, mientras éste resuelve, solamente las diligencias que sean indispensables para evitar cualquier perjuicio.
 2502.- El mandatario que renuncie tiene obligación de seguir el negocio mientras el mandante no provee a la procuración, si de lo contrario se sigue algún perjuicio.
@@ -4309,7 +4379,9 @@ TITULO DECIMO
 DEL CONTRATO DE PRESTACION DE SERVICIOS
 CAPITULO I
 DE LA PRESTACION DE SERVICIOS PROFESIONALES
-2504.- El que presta y el que recibe los servicios profesionales, pueden fijar, de común acuerdo, retribución debida por ellos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2504.- Habrá contrato de prestación de servicios profesionales, cuando un profesionista, técnico o especialista, se obligue a prestar un servicio que requiera de sus conocimientos, a favor de otro, a cambio de una retribución.
+Las partes tienen libertad para fijar, de común acuerdo, la retribución por los servicios contratados.
 2505.- Cuando no hubiere habido convenio, los honorarios se regularán atendiendo juntamente a la costumbre del lugar, a la importancia de los trabajos prestados, a la del asunto o caso en que se prestaren, a las facultades pecuniarias del que recibe el servicio y la reputación profesional que tenga adquirida el que lo ha prestado. Si los servicios prestados estuvieren regulados por arancel, éste servirá de norma para fijar el importe de los honorarios reclamados.
 2506.- Los que sin tener el título correspondiente ejerzan profesiones para cuyo ejercicio la ley exija título, además de incurrir en las sanciones respectivas, no tendrán derecho de cobrar retribución por los servicios profesionales que hayan prestado.
 2507.- En la prestación de servicios profesionales pueden incluirse las expensas que hayan de hacerse en el negocio en que aquéllos se presten. A falta de convenio sobre su reembolso, los anticipos serán pagados en los términos del artículo siguiente, con el rédito legal, desde el día en que fueren hechos, sin perjuicio de la responsabilidad por daños y perjuicios cuando hubiere lugar a ella.
@@ -4317,13 +4389,16 @@ DE LA PRESTACION DE SERVICIOS PROFESIONALES
 2509.- Si varias personas encomendaren un negocio, todas ellas serán solidariamente responsables de los honorarios del profesor y de los anticipos que hubiere hecho.
 2510.- Cuando varios profesores en la misma ciencia presten sus servicios en un negocio o asunto, podrán cobrar los servicios que individualmente haya prestado cada uno.
 2511.- Los profesores tienen derecho de exigir sus honorarios, cualquiera que sea el éxito del negocio o trabajo que se les encomiende, salvo convenio en contrario.
-2512.- Siempre que un profesor no pueda continuar prestando sus servicios, deberá avisar oportunamente a la persona que lo ocupe, quedando obligado a satisfacer los daños y perjuicios que se causen, cuando no diere este aviso con oportunidad. Respecto de los abogados se observará además lo dispuesto en el artículo 2488.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2512.- Siempre que un profesionista, técnico o especialista no pueda continuar prestando sus servicios, deberá avisar oportunamente a quien lo contrató, siendo responsable de los daños y perjuicios que se causen por no dar el aviso con oportunidad. Respecto de los abogados se observará además lo dispuesto en el artículo 2488.
 2513.- El que preste servicios profesionales, sólo es responsable, hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las medidas de defensa social que merezca en caso de infracción antisocial.
 CAPITULO II
 DEL CONTRATO DE OBRAS A PRECIO ALZADO
-2514.- El contrato de obras a precio alzado, cuando el empresario dirige la obra y pone los materiales, se sujetará a las reglas siguientes:
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2514.- El contrato de obras a precio alzado, tiene lugar cuando el empresario, se obliga a ejecutar y dirigir una obra determinada, poniendo los materiales, a cambio de una retribución fija que deberá cubrirle el cliente o dueño de la obra.
 2515.- Todo el riesgo de la obra correrá a cargo del empresario hasta el acto de la entrega, a no ser que hubiere morosidad de parte del dueño de la obra en recibirla, o convenio expreso en contrario.
-2516.- Siempre que el empresario se encargue por ajuste cerrado de la obra en cosa inmueble cuyo valor sea de más de cien pesos, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2516.- Siempre que el empresario se encargue por ajuste cerrado de la obra en bienes inmuebles cuyo valor sea de más de cincuenta veces el salario mínimo, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
 2517.- Si no hay plano, diseño o presupuesto para la ejecución de la obra y surgen dificultades entre el empresario y el dueño, serán resueltos teniendo en cuenta la naturaleza de la obra, el precio de ella y la costumbre del lugar, oyéndose el dictamen de peritos.
 2518.- El perito que forme el plano, diseño o presupuesto de una obra, y la ejecute, no puede cobrar el plano, diseño o presupuesto fuera del honorario de la obra; mas si ésta no se ha ejecutado por causa del dueño, podrá cobrarlo; a no ser que al encargárselo se haya pactado que el dueño no lo paga si no le conviniera aceptarlo.
 2519.- Cuando se haya invitado a varios peritos para hacer planos, diseños o presupuestos, con el objeto de escoger entre ellos el que parezca mejor, y los peritos han tenido conocimiento de esta circunstancia, ninguno puede cobrar honorarios, salvo convenio expreso.
@@ -4343,9 +4418,11 @@ DEL CONTRATO DE OBRAS A PRECIO ALZADO
 2533.- El dueño de una obra ajustada por un precio fijo, puede desistir de la empresa comenzada, con tal que indemnice al empresario de todos los gastos y trabajos y de la utilidad que pudiera haber sacado de la obra.
 2534.- Cuando la obra fue ajustada por peso o medida, sin designación de número de piezas o de la medida total, el contrato puede resolverse por una y otra parte, concluidas que sean las partes designadas, pagándose la parte concluida.
 2535.- Pagado el empresario de lo que le corresponde, según los dos artículos anteriores, el dueño queda en libertad de continuar la obra, empleando a otras personas, aun cuando aquélla siga conforme al mismo plano, diseño o presupuesto.
-2536.- Si el empresario muere antes de terminar la obra, podrá rescindirse el contrato; pero el dueño indemnizará a los herederos de aquél del trabajo y gastos hechos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2536.- Si el empresario muere antes de terminar la obra, se podrá dar por terminado el contrato; pero el dueño indemnizará a los herederos de aquél, del trabajo y gastos hechos.
 2537.- La misma disposición tendrá lugar si el empresario no puede concluir la obra por alguna causa independiente de su voluntad.
-2538.- Si muere el dueño de la obra, no se rescindirá el contrato, y sus herederos serán responsables del cumplimiento para con el empresario.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2538.- La muerte del dueño de la obra no ocasiona la terminación del contrato, a menos que así lo convenga el empresario con los herederos, y éstos serán responsables del cumplimiento para con aquél.
 2539.- Los que trabajen por cuenta del empresario o le suministren material para la obra, no tendrán acción contra el dueño de ella, sino hasta la cantidad que alcance el empresario.
 2540.- El empresario es responsable del trabajo ejecutado por las personas que ocupe en la obra.
 2541.- Cuando se conviniere en que la obra deba hacerse a satisfacción del propietario o de otra persona, se entiende reservada la aprobación, a juicio de peritos.
@@ -4379,9 +4456,10 @@ IX.- La indemnización que haya de abonar el porteador en caso de retardo, si so
 2558.- Si la cabalgadura muere o se enferma, o si en general se inutiliza el medio de transporte, la pérdida será de cuenta del alquilador, si no prueba que el daño sobrevino por culpa del otro contratante.
 2559.- A falta de convenio expreso, se observará la costumbre del lugar, ya sobre el importe del precio y de los gastos, ya sobre el tiempo en que haya de hacerse el pago.
 2560.- El crédito por fletes que se adeudaren al porteador, será pagado preferentemente con el precio de los efectos transportados, si se encuentran en poder del acreedor.
-2561.- El contrato de transporte es rescindible a voluntad del cargador, antes o después de comenzarse el viaje, pagando en el primer caso al porteador la mitad, y en el segundo la totalidad del porte, y siendo obligación suya recibir los efectos en el punto y en el día en que la rescisión se verifique.
-Si no cumpliere con esta obligación, o no pagare el porte al contado, el contrato no quedará rescindido.
-2562.- El contrato de transporte se rescindirá de hecho antes de emprenderse el viaje, o durante su curso, si sobreviniere algún suceso de fuerza mayor que impida verificarlo o continuarlo.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2561.- El contrato de transporte se podrá dar por terminado a voluntad del cargador, antes o después de comenzarse el viaje, siempre que pague en el primer caso al porteador la mitad y en el segundo la totalidad del porte, y siendo obligación suya recibir los efectos en el punto y en el día en que decidió darlo por terminado.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2562.- El contrato de transporte se dará por terminado si antes de emprender el viaje o durante su curso se presenta un caso fortuito o fuerza mayor que impida realizarlo o continuarlo.
 2563.- En el caso previsto en el artículo anterior, cada uno de los interesados perderá los gastos que hubiere hecho si el viaje no se ha verificado; y si está en curso, el porteador tendrá derecho a que se le pague del porte la parte proporcional al camino recorrido, y la obligación de presentar los efectos, para su depósito, a la autoridad judicial del punto en que ya no le sea posible continuarlo, comprobando y recabando la constancia relativa de hallarse en el estado consignado en la carta de porte, y de cuyo hecho dará conocimiento oportuno al cargador, a cuya disposición deben quedar.
 CAPITULO IV
 DEL CONTRATO DE HOSPEDAJE
@@ -4412,8 +4490,10 @@ Sus decisiones serán tomadas a mayoría de votos de los miembros presentes.
 2578.- Los miembros de la asociación tendrán derecho de separarse de ella, previo aviso dado con dos meses de anticipación.
 2579.- Los asociados sólo podrán ser excluidos de la sociedad por las causas que señalen los estatutos.
 2580.- Los asociados que voluntariamente se separen o que fueren excluidos, perderán todo derecho al haber social.
-2581.- Los socios tienen derecho de vigilar que las cuotas se dediquen al fin que se propone la asociación y con ese objeto pueden examinar los libros de contabilidad y demás papeles de ésta.
-2582.- La calidad de socio es intransferible.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2581.- Los asociados tienen derecho de vigilar que las cuotas se dediquen al fin que se propone la asociación y con ese objeto pueden examinar los libros de la contabilidad y demás papeles de ésta.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2582.- La calidad de asociado es intransferible.
 2583.- Las asociaciones, además de las causas previstas en los estatutos, se extinguen:
 I.- Por consentimiento de la asamblea general;
 II.- Por haber concluido el término fijado para su duración o por haber conseguido totalmente el objeto de su fundación;
@@ -4428,9 +4508,7 @@ DISPOSICIONES GENERALES
 2587.- La aportación de los socios puede consistir en una cantidad de dinero u otros bienes, o en su industria. La aportación de bienes implica la transmisión de un dominio a la sociedad, salvo que expresamente se pacte otra cosa.
 2588.- El contrato de sociedad debe constar por escrito; pero se hará constar en escritura pública, cuando algún socio transfiera a la sociedad bienes cuya enajenación deba hacerse en escritura pública.
 2589.- La falta de forma prescrita para el contrato de sociedad, sólo produce el efecto de que los socios puedan pedir, en cualquier tiempo, que se haga la liquidación de la sociedad conforme a lo convenido, y a falta de convenio, conforme al Capítulo V de esta Sección; pero mientras que esa liquidación no se pida, el contrato produce todos sus efectos entre los socios y éstos no pueden oponer a terceros que hayan contratado con la sociedad, la falta de forma.
-2590.- Si se formare una sociedad para un objeto ilícito, a solicitud de cualquiera de los socios o de un tercero interesado, se declarará la nulidad de la sociedad, la cual se pondrá en liquidación.
-Después de pagadas las deudas sociales conforme a la ley, a los socios se les reembolsará lo que hubieren llevado a la sociedad.
-Las utilidades se destinarán al fondo de la Beneficencia Pública del Estado.
+2590.- (DEROGADO, P.O. 26 DE ENERO DE 2000)
 2591.- El contrato de sociedad debe contener:
 I.- Los nombres y apellidos de los otorgantes que son capaces de obligarse;
 II.- La razón social;
@@ -4438,7 +4516,8 @@ III.- El objeto de la sociedad;
 IV.- El importe del capital social y la aportación con que cada socio debe contribuir.
 Si falta alguno de estos requisitos se aplicará lo que dispone el artículo 2589.
 2592.- El contrato de sociedad debe inscribirse en el Registro de Sociedades Civiles para que produzca efectos contra tercero.
-2593.- Las sociedades de naturaleza civil que realicen habitualmente actos de comercio quedarán sujetos por este solo hecho a la legislación mercantil y fiscal que corresponda.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2593.- Las sociedades de naturaleza civil que realicen habitualmente actos de comercio quedarán sujetos en cuanto a dichos actos a la legislación mercantil y fiscal que corresponda, sin perjuicio de las sanciones que procedan.
 2594.- Será nula la sociedad en que se estipule que los provechos pertenecen exclusivamente a alguno o algunos de los socios y todas las pérdidas a otro u otros.
 2595.- No puede estipularse que a los socios capitalistas se les retribuya su aporte con una cantidad adicional, haya o no ganancias.
 2596.- El contrato de sociedad no puede modificarse sino por el consentimiento de las dos terceras partes de los socios, o por la mayoría que establezcan los estatutos.
@@ -4481,8 +4560,11 @@ III.- Por acuerdo de los socios tomado de conformidad con el contrato social, y 
 IV.- Por la muerte o incapacidad de uno de los socios que tenga responsabilidad ilimitada por los compromisos sociales, salvo que en la escritura constitutiva se haya pactado que la sociedad continúe con los sobrevivientes o con los herederos de aquél;
 V.- Por la muerte del socio industrial, siempre que su industria haya dado nacimiento a la sociedad;
 VI.- Por la renuncia de uno de los socios, cuando se trate de sociedades de duración indeterminada y los otros socios no deseen continuar asociados;
-VII.- Por resolución judicial.
-Para que la disolución de la sociedad surta efecto contra tercero, es necesario que se inscriba en el Registro Público de la Propiedad, en la Sección correspondiente.
+(ADICIONADA, P.O. 26 DE ENERO DE 2000)
+VII.- Cuando se formare para un objeto ilícito. En este caso se declarará la nulidad a solicitud de cualquiera de los socios o un tercero interesado;
+VIII.- Por resolución judicial.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+Para que la disolución surta efecto contra terceros, es necesario que se inscriba en el Registro Público de la Propiedad.
 2619.- Pasado el término por el cual fue constituida la sociedad, si ésta continua funcionando, se entenderá prorrogada su duración por tiempo indeterminado, sin necesidad de nueva escritura social, y su existencia puede demostrarse por todos los medios de prueba.
 2620.- En el caso de que a la muerte de un socio, la sociedad hubiere de continuar con los supervivientes, se procederá a la liquidación de la parte que corresponda al socio difunto, para entregarla a su sucesión. Los herederos del que murió tendrán derecho al capital y utilidades que al finado correspondan en el momento en que murió y, en lo sucesivo, sólo tendrán parte en lo que dependa necesariamente de los derechos adquiridos o de las obligaciones contraídas por el socio que murió.
 2621.- La renuncia se considera maliciosa cuando el socio que la hace se propone aprovecharse exclusivamente de los beneficios o evitarse pérdidas que los socios deberían de recibir o reportar en común con arreglo al convenio.
@@ -4494,6 +4576,8 @@ DE LA LIQUIDACION DE LA SOCIEDAD
 Cuando la sociedad se ponga en liquidación, debe agregarse a su nombre las palabras: "en liquidación".
 2625.- La liquidación debe hacerse por todos los socios, salvo que convengan en nombrar liquidadores o que ya estuvieren nombrados en la escritura social.
 2626.- Si cubiertos los compromisos sociales y devueltos los aportes de los socios, quedaren algunos bienes, se considerarán utilidades, y se repartirán entre los socios en la forma convenida. Si no hubo convenio, se repartirán proporcionalmente a sus aportes.
+(ADICIONADO, P.O. 26 DE ENERO DE 2000)
+En el caso de la fracción VII del artículo 2618, las utilidades se aplicarán al fondo de la Beneficencia Pública del Estado.
 2627.- El capital social y las utilidades sólo pueden repartirse después de la disolución de la sociedad y previa la liquidación respectiva, salvo pacto en contrario.
 2628.- Si al liquidarse la sociedad no quedaren bienes suficientes para cubrir los compromisos sociales y devolver sus aportes a los socios, el déficit se considerará pérdida y se repartirá entre los asociados en la forma establecida en el artículo 2626.
 2629.- Si sólo se hubiere pactado lo que debe corresponder a los socios por utilidades, en la misma proporción responderán de las pérdidas.
@@ -4505,11 +4589,17 @@ IV.- Si son varios los socios industriales y están en el caso de la fracción I
 2631.- Si el socio industrial hubiere contribuido también con cierto capital, se considerarán éste y la industria separadamente.
 2632.- Si al terminar la sociedad en que hubiere socios capitalistas e industriales, resultare que no hubo ganancias, todo el capital se distribuirá entre los socios capitalistas.
 2633.- Salvo pacto en contrario, los socios industriales no responderán de las pérdidas.
+(REFORMADA SU DENOMINACION, P.O. 26 DE ENERO DE 2000)
 CAPITULO VII
-DE LAS ASOCIACIONES Y DE LAS SOCIEDADES EXTRANJERAS
-2634.- Para que las asociaciones y sociedades extranjeras de carácter civil, puedan ejercer sus actividades en el Estado, deberán estar autorizadas por la Secretaría de Relaciones Exteriores.
-2635.- Además de la autorización de la Secretaría de Relaciones Exteriores deberán acreditarse que están constituidas con arreglo a las leyes de su país, y que tienen representante domiciliado en el lugar donde van a operar, suficientemente autorizado para responder de las obligaciones que contraigan las mencionadas personas morales.
-2636.- Una vez satisfechos los requisitos a que se refieren los artículos anteriores, se inscribirán en el Registro los estatutos de las Asociaciones y Sociedades extranjeras.
+DE LAS PERSONAS MORALES EXTRANJERAS DE NATURALEZA PRIVADA
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2634.- La existencia, capacidad para ser titular de derechos y obligaciones, funcionamiento, transformación, disolución, liquidación y fusión de las personas morales extranjeras de naturaleza privada se regirán por el derecho conforme al cual fueron constituidas, entendiéndose por tal, aquél del Estado en que se cumplan los requisitos de forma y fondo requeridos para dicha constitución.
+En ningún caso el reconocimiento de la capacidad de una persona moral extranjera excederá a la que le otorgue el derecho conforme al cual se constituyó.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2635.- Cuando alguna persona extranjera de naturaleza privada actúe por medio de algún representante, se considerará que tal representante, o quien lo substituya, está autorizado para responder a las reclamaciones y demandas que se intenten en contra de dicha persona con motivo de los actos en cuestión.
+Para que dichas personas morales extranjeras puedan ejercer sus actividades en el Estado, deberán contar con la autorización de la Secretaría de Relaciones Exteriores.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2636.- Una vez satisfechos los requisitos a que se refieren los artículos anteriores, se inscribirán en el Registro Público de la Propiedad los estatutos de las personas morales extranjeras.
 CAPITULO VIII
 DE LA APARCERIA RURAL
 2637.- La aparcería rural comprende la aparcería agrícola y la de ganados.
@@ -4545,7 +4635,8 @@ DE LOS CONTRATOS ALEATORIOS
 CAPITULO I
 DEL JUEGO Y DE LA APUESTA
 2662.- La Ley no concede acción para reclamar lo que se gana en juego prohibido.
-El Código de Defensa Social señalará cuales son los juegos prohibidos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+Son juegos prohibidos los que señale la ley federal respectiva.
 2663.- El que paga voluntariamente una deuda procedente de juego prohibido, o sus herederos, tienen derecho de reclamar la devolución del 50 por ciento de lo que se pagó. El otro cincuenta por ciento no quedará en poder del ganancioso, sino que se entregará a la Beneficencia Pública.
 2664.- Lo dispuesto en los artículos anteriores se aplicará a las apuestas que deban tenerse como prohibidas porque tengan analogía con los juegos prohibidos.
 2665.- El que pierde en un juego o apuesta que no estén prohibidos queda obligado civilmente, con tal que la pérdida no exceda de la vigésima parte de su fortuna. Prescribe en treinta días el derecho para exigir la deuda de juego a que este artículo se refiere.
@@ -4673,8 +4764,10 @@ CAPITULO VI
 DE LA FIANZA LEGAL O JUDICIAL
 (F. DE E., P.O. 29 DE JULIO DE 2000)
 2744.- El fiador que haya de darse por disposición de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes raíces inscritos en el Registro Público de la Propiedad y de un valor que garantice suficientemente las obligaciones que contraiga.
-Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de mil pesos no se exigirá que el fiador tenga bienes raíces. La fianza puede substituirse con prenda o hipoteca.
-2745.- Para otorgar una fianza legal o judicial por más de mil pesos se presentará un certificado expedido por el Encargado del Registro Público, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de cien veces el salario mínimo, no se exigirá que el fiador tenga bienes raíces. La fianza puede sustituirse con prenda o hipoteca.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2745.- Para otorgar una fianza legal o judicial por más de cien veces el salario mínimo, se presentará un certificado expedido por el encargado del Registro Público de la Propiedad, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
 2746.- La persona ante quien se otorgue la fianza, dentro del término de tres días dará aviso del otorgamiento al Registro Público, para que al margen de la inscripción de propiedad correspondiente al bien raíz que se designó para comprobar la solvencia del fiador, se ponga nota relativa al otorgamiento de la fianza.
 Extinguida ésta, dentro del mismo término de tres días se dará aviso al Registro Público, para que haga la cancelación de la nota marginal.
 La falta de avisos hace responsable al que debe darlos, de los daños y perjuicios que su omisión origine.
@@ -4770,8 +4863,8 @@ Si la hipoteca no tiene plazo cierto, no podrá estipularse anticipo de rentas, 
 2808.- La hipoteca constituida a favor de un crédito que devengue intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de tres años; a menos que se haya pactado expresamente que garantizará los intereses por más tiempo, con tal que no exceda del término para la prescripción de los intereses, y de que se haya tomado razón de esta estipulación en el Registro Público.
 2809.- El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial, o por adjudicación, en los casos en que no se presente otro postor, de acuerdo con lo que establezca el Código de Procedimientos Civiles.
 Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
-(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1983)
-2810.- Cuando el crédito hipotecario exceda de setenta y cinco mil pesos, la hipoteca debe otorgarse en escritura pública. Cuando no exceda de esa cantidad podrá otorgarse en escritura privada ante dos testigos, ratificada en los términos de Ley, de la cual se harán tantos ejemplares como sean las partes contratantes.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2810.- Cuando el crédito hipotecario exceda de quinientas veces el salario mínimo, la hipoteca debe otorgarse en escritura pública. Cuando no exceda de quinientas veces el salario mínimo, podrá otorgarse en escritura privada ante dos testigos, ratificada en los términos de ley.
 2811.- La acción hipotecaria prescribirá a los diez años, contados desde que pueda ejercitarse con arreglo al título inscrito.
 2812.- La hipoteca nunca es tácita, ni general; para producir efectos contra tercero necesita siempre de registro, y se contrae por voluntad, en los convenios, y por necesidad, cuando la ley sujeta a alguna persona a prestar esa garantía sobre bienes determinados. En el primer caso se llama voluntaria; en el segundo, necesaria.
 CAPITULO II
@@ -4826,7 +4919,8 @@ VII.- Por la declaración de estar prescrita la acción hipotecaria.
 TITULO DECIMOSEXTO
 DE LAS TRANSACCIONES
 2837.- La transacción es un contrato por el cual las partes haciéndose recíprocas concesiones, terminan una controversia presente o previenen una futura.
-2838.- La transacción que previene controversias futuras debe constar por escrito si el interés pasa de doscientos pesos.
+(REFORMADO, P.O. 26 DE ENERO DE 2000)
+2838.- La transacción debe constar por escrito si el interés pasa de cincuenta veces el salario mínimo.
 2839.- Los ascendientes y los tutores no pueden transigir en nombre de las personas que tienen bajo su potestad o bajo su guarda, a no ser que la transacción sea necesaria o útil para los intereses de los incapacitados y previa autorización judicial.
 2840.- Se puede transigir sobre la acción civil proveniente de una infracción antisocial, pero no por eso se extingue la acción pública para la imposición de la medida de defensa social ni se da por probada la infracción antisocial.
 2841.- No se puede transigir sobre el estado civil de las personas, ni sobre la validez del matrimonio.
