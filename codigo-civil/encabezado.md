@@ -235,7 +235,8 @@ DE LAS ACTAS DE ADOPCION
 82.- El acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado, de las personas cuyo consentimiento hubiere sido necesario para la adopción y la clave única del registro de población que originalmente le hubiere correspondido al adoptado. Los apellidos de éste se regirán por lo dispuesto en el Artículo 60 de este Código, lo que se proveerá en la resolución judicial, la que se insertará íntegramente en el acta.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 83.- Asentada el acta de adopción simple, se anotará la de nacimiento del adoptado y se archivará la copia de la resolución judicial, poniendo el mismo número del acta de adopción.
-Tratándose de adopción plena, una vez asentada el acta, no se le dará publicidad ni expedirá copia alguna de la de nacimiento.
+(REFORMADO, P.O. 12 DE JULIO DE 2000)
+Tratándose de la adopción plena, una vez asentada el acta, no se le dará publicidad ni se expedirá copia alguna de la de nacimiento, debiéndose otorgar una nueva acta de nacimiento en los mismos términos que las expedidas para los hijos consanguíneos.
 El Registro Civil se abstendrá de proporcionar información con respecto al origen y demás antecedentes familiares del adoptado, salvo que mediare autorización judicial o bien, cuando el adoptado haya adquirido la mayoría de edad o se trate de una cuestión de orden público o impedimento para contraer matrimonio, sin que se requiera en ninguno de estos dos casos de la autorización judicial.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
 84.- El Tribunal que resuelva que una adopción queda sin efecto, procederá de conformidad con el Artículo 387 de este Código y el jefe de la oficina cancelará el acta de adopción y anotará la de nacimiento.
@@ -904,18 +905,18 @@ III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-C) ADOPCION PLENA
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 D) ADOPCION INTERNACIONAL
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
 Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
+C) ADOPCION PLENA
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
 TITULO OCTAVO
 DE LA PATRIA POTESTAD
 CAPITULO I
@@ -3848,7 +3849,7 @@ DE LAS OBLIGACIONES DEL COMPRADOR
 2180.- El comprador debe intereses por el tiempo que medie entre la entrega de la cosa y el pago del precio, en los casos siguientes:
 I.- Si así se hubiere convenido;
 (REFORMADA, P.O. 26 DE ENERO DE 2000)
-II.- Si se hubiere constituido en mora con arreglo a los artículos 1987 y 1988.
+II.- Si se hubiere constituido en mora con arreglo a los artículos 1987 y 1988;
 III.- (DEROGADA, P.O. 26 DE ENERO DE 2000)
 2181.- En las ventas a plazo, sin estipular intereses, no los debe el comprador por razón de aquél, aunque entretanto perciba los frutos de la cosa, pues el plazo hizo parte del mismo contrato, y debe presumirse que en esta consideración, se aumentó el precio de la venta.
 2182.- Si la concesión del plazo fue posterior al contrato, el comprador estará obligado a prestar los intereses, salvo convenio en contrario.
