@@ -468,7 +468,8 @@ DE LOS DERECHOS Y OBLIGACIONES QUE NACEN DEL MATRIMONIO
 En caso de que el marido y la mujer no estuvieren conformes sobre alguno de los puntos indicados, el Juez de Primera Instancia o de lo Familiar correspondiente procurará avenirlos, y si no lo lograre, resolverá lo que fuere más conveniente a los intereses de los hijos.
 (REFORMADO, P.O. 10 DE ABRIL DE 2004)
 155.- Estará a cargo de los cónyuges la dirección y administración del hogar, pudiendo ésta quedar a cargo de uno de ellos.
-156.- (DEROGADO, P.O. 30 DE MAYO DE 1981)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE AGOSTO DE 2004)
+156.- Las tareas relativas a la administración del hogar y del cuidado de la familia representan una aportación al sostenimiento del hogar, en los términos de los preceptos anteriores.
 157.- (DEROGADO, P.O. 30 DE MAYO DE 1981)
 158.- (DEROGADO, P.O. 30 DE MAYO DE 1981)
 159.- El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa ni ésta de la autorización de aquél salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
