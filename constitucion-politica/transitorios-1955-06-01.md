@@ -1,0 +1,5 @@
+P.O. 1 DE JUNIO DE 1955.
+DECRETO No. 263
+PRIMERO.- Las reformas a que se refiere esta Ley, entrarán en vigor en todo el Estado, el día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Los Ayuntamientos que vienen funcionando, con arreglo a la Constitución del Estado en sus términos vigentes hasta antes de estas reformas y a sus respectivas representaciones, concluirán su período el treinta y uno de diciembre de mil novecientos cincuenta y cinco.
+TERCERO.- Las próximas elecciones para Ayuntamiento, se verificarán en el mes de julio de mil novecientos cincuenta y seis. En tal virtud para el lapso de tiempo comprendido del primero de enero de mil novecientos cincuenta y seis al nueve de octubre del mismo año, conforme está previsto en la Constitución del Estado, el Congreso Constitucional procederá a integrar provisionalmente los Ayuntamientos respectivos, seleccionando las personas que han de ocupar los cargos a propuesta en ternas que presentará el Ejecutivo del Estado, antes del quince de diciembre de mil novecientos cincuenta y cinco.
