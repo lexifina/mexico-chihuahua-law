@@ -11,3 +11,4 @@ C. GUADALUPE GONZÁLEZ GONZÁLEZ
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintinueve días del mes de marzo de mil novecientos noventa.
 El Gobernador Constitucional del Estado LIC. FERNANDO BAEZA MELÉNDEZ. El Secretario de Gobierno. LIC. MARTHA I. LARA ALATORRE.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
