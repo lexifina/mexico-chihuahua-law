@@ -7,8 +7,8 @@ I.- En el año 2001, el cincuenta por ciento de la diferencia; y,
 II.- en el año 2002, el resto del total de la diferencia.
 Lo anterior, sin perjuicio de los incrementos acordados por el Ayuntamiento con carácter general, los que deriven de nuevas construcciones que aumentarán el valor de los inmuebles y aquellos que provengan de reformas a las disposiciones legales aplicables.
 Tercero.- Mientras no se expidan los nuevos reglamentos a que se refiere este Código, continuarán en vigor los que hasta la fecha se hubieran expedido en lo que no contravengan al presente Código.
-(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)
-Cuarto.- Las Asociaciones Religiosas constituidas de conformidad a lo dispuesto por la ley de la materia, estarán exentas de pagar el Impuesto Predial causado por los bienes inmuebles que se encuentren dentro de su patrimonio y que se destinen a los fines de las Asociaciones, así como el Impuesto de Traslación de Dominio que se genere por los bienes inmuebles de las mismas características que adquieran en el periodo comprendido entre el día 1° de enero de 1999 y el 31 de diciembre del mismo año, ambos impuestos establecidos en el presente Código.
+(REFORMADO, P.O. 28 DE JUNIO DE 2000)
+Cuarto.- Las Asociaciones Religiosas constituidas de conformidad a lo dispuesto por la Ley de la materia, estarán exentas de pagar el Impuesto Predial causado por los bienes inmuebles que se encuentren dentro de su patrimonio y que se destinen a los fines de las Asociaciones, así como el Impuesto de Traslación de Dominio que se genere por los bienes inmuebles de las mismas características, que adquieran en el período comprendido entre el día 1o de junio del 2000 y el 31 de diciembre del mismo año, ambos impuestos establecidos en el presente Código.
 Dado en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los veintiséis días del mes de Septiembre de mil novecientos noventa y cinco.
 DIPUTADO PRESIDENTE
 LIC. TERESA ORTUÑO DE PEREZ
