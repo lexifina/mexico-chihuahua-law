@@ -1,11 +1,6 @@
 ARTICULOS TRANSITORIOS
 Primero.- Se abroga el Código Municipal para el Estado de Chihuahua, que entró en vigor el 30 de septiembre de 1982.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)
-Segundo.- Este Código entrará en vigor el día primero de enero de mil novecientos noventa y seis, a excepción del Capítulo Tercero del Título Tercero, del Libro Segundo, referente al Impuesto Predial, el cual entrará en vigor el día primero de enero del año dos mil tres, a efecto de que los municipios adecuen sus valores en los términos de la Ley de Catastro, continuando vigentes a este respecto durante 1996, 1997, 1998, 1999, 2000, 2001 y 2002, las disposiciones contenidas en el Código que se abroga.
-En cuanto a las diferencias del impuesto a cargo de los contribuyentes que resulten con motivo de la adecuación de valores y la aplicación de la nueva tarifa, se pagarán en un lapso de dos años, de la manera siguiente:
-I.- En el año 2003, el cincuenta por ciento de la diferencia; y
-II.- En el año 2004, el resto del total de la diferencia.
-Lo anterior, sin perjuicio de los incrementos acordados por el Ayuntamiento con carácter general, los que deriven de nuevas construcciones que aumentarán el valor de los inmuebles y aquellos que provengan de reformas a las disposiciones legales aplicables.
+Segundo.- (DEROGADO, P.O. 11 DE ENERO DE 2003)
 Tercero.- Mientras no se expidan los nuevos reglamentos a que se refiere este Código, continuarán en vigor los que hasta la fecha se hubieran expedido en lo que no contravengan al presente Código.
 (REFORMADO, P.O. 3 DE FEBRERO DE 2001)
 Cuarto.- Las Asociaciones Religiosas constituidas de conformidad a lo dispuesto por la Ley de la materia, estarán exentas de pagar el Impuesto Predial causado por los bienes inmuebles que se encuentren dentro de su patrimonio y que se destinen a los fines de las Asociaciones, así como el Impuesto de Traslación de Dominio de Bienes Inmuebles que se generen por los bienes inmuebles de las mismas características, que adquieran en el periodo comprendido entre el día 20 de Enero del 2001 y 31 de Diciembre del mismo año; ambos Impuestos establecidos en el presente Código.
