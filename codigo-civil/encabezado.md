@@ -908,6 +908,19 @@ IV.- El Ministerio Público en todos los casos.
 377.- La adopción quedará consumada una vez que cause ejecutoria la resolución que la autorice.
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
+C) ADOPCION PLENA
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
+D) ADOPCION INTERNACIONAL
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
+Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 B) ADOPCION SIMPLE
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 379.- La adopción simple confiere al adoptado la posición del hijo consanguíneo, pero no crea vínculo de parentesco entre aquél y la familia biológica del adoptante, sino a los efectos expresamente determinados en este Código.
@@ -935,19 +948,6 @@ II.- Si el adoptado imputa legalmente al adoptante la comisión de algún delito
 III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-C) ADOPCION PLENA
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-D) ADOPCION INTERNACIONAL
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
-Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
 TITULO OCTAVO
 DE LA PATRIA POTESTAD
 CAPITULO I
@@ -3820,13 +3820,17 @@ PARTE SEGUNDA
 DE LAS DIVERSAS ESPECIES DE CONTRATOS
 TITULO PRIMERO
 DE LOS CONTRATOS PREPARATORIOS
-LA PROMESA
+(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 2002)
+CAPITULO UNICO
+DE LA PROMESA
 (REFORMADO, P.O. 26 DE ENERO DE 2000)
 2126.- Mediante el contrato de promesa uno o varios contratantes, pueden asumir la obligación de celebrar, dentro de cierto tiempo, un contrato futuro determinado.
 (REFORMADO, P.O. 26 DE ENERO DE 2000)
 2127.- El contrato de promesa será unilateral cuando sólo una de las partes se obliga a celebrar el contrato; será bilateral, cuando las dos partes se obligan a ello.
-2128.- La promesa de contrato sólo da origen a obligaciones de hacer consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido, salvo lo establecido en los artículos 2130 y 2131 de este Código.
-2129.- Para que la promesa de contratar sea válida debe constar por escrito, limitarse a cierto tiempo y precisarse en ella los elementos constitutivos del contrato definitivo.
+(REFORMADO, P.O. 20 DE JULIO DE 2002)
+2128.- La promesa de contrato sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido, debiendo observarse lo establecido en los artículos 2130 y 2131 de este Código.
+(REFORMADO, P.O. 20 DE JULIO DE 2002)
+2129.- Para que la promesa de contratar sea válida debe constar por escrito y limitarse a cierto tiempo. Además, deben precisarse en ella los elementos esenciales del contrato futuro.
 (REFORMADO, P.O. 26 DE ENERO DE 2000)
 2130.- El contrato de promesa relativo a bienes inmuebles o derechos reales, cuyo contrato definitivo deba ser inscrito en el Registro Público de la Propiedad, también debe inscribirse para que produzca efectos con relación a terceros.
 En este caso, el contrato de promesa deberá otorgarse en escritura pública, si el precio del inmueble o derecho real excede del equivalente a quinientas veces el salario mínimo. En caso contrario, bastará un escrito privado debidamente ratificado ante fedatario público.
