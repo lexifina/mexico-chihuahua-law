@@ -484,8 +484,11 @@ DISPOSICIONES GENERALES
 169.- Son nulos los pactos que los esposos hicieren contra las leyes o los naturales fines del matrimonio.
 CAPITULO IV
 DE LA SOCIEDAD CONYUGAL
-(REFORMADO, P.O. 30 DE MAYO DE 1981)
-170.- La sociedad conyugal se regirá por las capitulaciones matrimoniales que la constituyan y en lo que no estuviere expresamente estipulado o cuando no existieren, por las disposiciones de este Capítulo o, en su defecto, por las relativas al contrato de sociedad. La administración de los bienes de la sociedad conyugal estará a cargo del cónyuge que para el efecto se designe en las capitulaciones. Si se omitiere esta designación, o no existen las capitulaciones, el administrador será el marido, salvo que se determine otra cosa por sentencia, en casos de ausencia, impedimento o abandono injustificado del domicilio familiar, por más de seis meses. El cónyuge administrador podrá enajenar o gravar los bienes muebles de la sociedad, sin el consentimiento del otro cónyuge.
+(REFORMADO, P.O. 12 DE JULIO DE 2003)
+170.- La sociedad conyugal se regirá por las capitulaciones matrimoniales que la constituyan y en lo que no estuviere expresamente estipulado o cuando no existieren, por las disposiciones de este Capítulo o, en su defecto, por las relativas al contrato de Sociedad. La administración de los bienes de la sociedad estará a cargo del cónyuge que para tal efecto se designe en las capitulaciones. Si se omitiere esta designación, o no existen las capitulaciones, la administración de bienes de la sociedad conyugal corresponderá a ambos cónyuges, quienes podrán acordar la manera de manejar los bienes comunes, salvo que se determine otra cosa por sentencia, en casos de ausencia, impedimento o abandono injustificado del domicilio familiar, por más de seis meses. El cónyuge administrador podrá enajenar o gravar los bienes muebles de la sociedad, sin el consentimiento del otro cónyuge. Cuando la administración recaiga en ambos cónyuges, los dos deberán consentir en la enajenación.
+La designación del administrador de los bienes de la sociedad conyugal podrá ser modificada por el simple acuerdo de los cónyuges; si éstos no se pusieren de acuerdo, el Juez de lo familiar resolverá lo conducente.
+(ADICIONADO, P.O. 12 DE JULIO DE 2003)
+170 BIS.- El cónyuge administrador de los bienes de la sociedad conyugal deberá rendir cuentas al otro siempre que se lo pida y tendrá las responsabilidades y atribuciones que le confiere la Ley.
 171.- La sociedad conyugal nace al celebrarse el matrimonio o durante él. Puede comprender no sólo los bienes de que sean dueños los esposos al formarla, sino también los bienes futuros que adquieran los consortes.
 172.- No existiendo capitulaciones pertenecen a la sociedad conyugal, todos los bienes adquiridos a partir de la fecha del matrimonio. Se exceptúan únicamente, por ser propios de cada cónyuge, los que adquieran durante éste por exclusiva donación, herencia, legado o dones de la fortuna.
 173.- Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, constarán en escritura pública cuando los esposos pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
@@ -939,18 +942,18 @@ III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-C) ADOPCION PLENA
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 D) ADOPCION INTERNACIONAL
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
 Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
+C) ADOPCION PLENA
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
 TITULO OCTAVO
 DE LA PATRIA POTESTAD
 CAPITULO I
@@ -2740,45 +2743,22 @@ DEL LEGADO DE BIEN PROPIO
 1323.- Desde la muerte del testador, el riego es a cargo del legatario. Si se pierde, aumenta o deteriora el bien legado con posterioridad a la muerte del testador, el riesgo es para el legatario, salvo que el testador hubiere dispuesto otra cosa.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1324.- Cuando el testador, no obstante saber que el bien no le pertenece por entero, lo lega sin declarar de un modo expreso que sabía que era parcialmente de otro, el legado sólo será válido en la parte que corresponda al testador. Para la parte ajena, en su caso, se observará lo dispuesto en el capítulo siguiente.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2000)
-SECCION OCTAVA
-DE LOS LEGADOS ALTERNATIVOS
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1345.- En los legados alternativos la elección corresponde al heredero, si el testador no la concede expresamente al legatario.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1346.- En el supuesto de que la elección corresponda a un heredero y no se hubiere precisado el bien a entregar, al no existir un acuerdo con el legatario, deberá entregarse uno cuyo valor se aproxime al término medio entre los bienes de mayor y menor valor.
-Lo mismo se aplicará si la elección corresponde al legatario, respecto a la persona que deba cumplirlo.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1347.- En los legados alternativos se observará, además, lo dispuesto para las obligaciones alternativas.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1348.- En los casos en que el legatario que tenga derecho de hacer la elección no pudiere hacerla, la harán su representante legítimo o sus herederos.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1349.- Si en el plazo que se hubiere señalado, la persona que tenga derecho de hacer la elección no la realizara, podrá el Juez efectuarla a petición de parte interesada.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMA
-DEL LEGADO DE EDUCACION
+SECCION QUINTA
+DEL LEGADO DE BIEN INDETERMINADO
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1354.- En el legado de educación, si el testador no fija el plazo, subsiste por el tiempo normal de estudio de una carrera profesional o de aprendizaje de un oficio.
+1338.- El legado de bien indeterminado, pero comprendido en género determinado, será válido aunque en la herencia no haya bien alguno de este género.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1339.- En el caso del artículo anterior, si los bienes existen en la herencia, la elección corresponde al que deba pagar el legado, o en su caso al albacea, quien cumple con entregar uno de mediana calidad, pudiendo, en caso contrario, comprar uno de esa misma calidad o abonar al legatario el precio correspondiente, previo convenio o dictamen de peritos.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1340.- Cuando el testador conceda expresamente la elección al legatario, éste podrá si en la herencia hubiere varios bienes del género determinado, escoger el mejor, pero si no los hubiere, sólo podrá exigir uno de mediana calidad o el precio que corresponda a éste.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1341.- Si el bien indeterminado fuere inmueble, solo valdrá el legado si en la herencia existen varios del mismo género y para la elección se observarán las reglas establecidas en los dos artículos anteriores. De no existir tales bienes en la herencia, el legado no será válido, a menos que en el testamento se disponga que se compre un bien de tales características o se abone el precio al legatario.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION CUARTA
-DEL LEGADO DE BIEN HIPOTECADO O DADO EN PRENDA
+SECCION SEXTA
+DEL LEGADO DE BIEN DETERMINADO
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1335.- Si el bien legado se encuentra en la herencia y está hipotecado o dado en prenda, o lo fuere después de otorgado el testamento, la redención o desafectación serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1336.- En caso de que no se realice el pago a cargo de la herencia conforme al artículo anterior y lo hiciere el legatario, quedará subrogado en el lugar y derechos del acreedor para reclamar contra los herederos.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1337.- Cualquiera otra carga o gravamen a que se halle afecto el bien legado, se transmite junto con éste al legatario; las rentas y los réditos devengados hasta la muerte del testador son a cargo de la herencia, salvo que en el testamento se disponga otra cosa.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION NOVENA
-DEL LEGADO DE ALIMENTOS
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1350.- La elección hecha conforme a la ley, de un legado de alimentos es irrevocable.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1351.- El legado de alimentos dura mientras viva el legatario, a no ser que el testador haya dispuesto una duración menor.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1352.- Si el testador acostumbró en vida dar al legatario cierta cantidad de dinero por vía de alimentos, se entenderá legada la misma cantidad, si no resultare en notable desproporción con la cuantía de la herencia.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1353.- En el caso de la última parte del artículo anterior, y cuando el testador no haya señalado el monto de los alimentos, se estará a las reglas generales establecidas por este Código sobre la materia.
+1342.- En el legado de bien determinado, el heredero debe entregar al legatario el mismo bien legado y en caso de pérdida, se observará lo dispuesto por este Código para las obligaciones de dar un bien de esa característica.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION TERCERA
 DEL LEGADO DE BIEN AJENO
@@ -2802,33 +2782,6 @@ DEL LEGADO DE BIEN AJENO
 1333.- Es válido el legado hecho a un tercero, de bien propio del heredero o de un legatario, cuando éstos aceptan la herencia en esas condiciones. En este caso, el heredero o legatario, deberán entregar el bien legado o su precio.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1334.- En el caso del artículo anterior, si el testador ignoraba que el bien fuese propio del heredero o del legatario, será nulo el legado.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMOTERCERA
-DEL LEGADO DE CREDITO
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1359.- El legado de un crédito perteneciente al testador, sólo produce efecto en la parte del crédito que esté insoluta al abrirse la sucesión, a menos que el testador dispusiere expresamente otra cosa.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1360.- En el caso del artículo anterior, el que deba cumplir el legado entregará al legatario el título que compruebe el crédito, y le cederá las acciones que en virtud de él corresponderían al testador.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1361.- Cumplido lo dispuesto en el artículo que precede, el que debe pagar el legado queda libre de la obligación de saneamiento y de cualquiera otra responsabilidad, ya provenga ésta del mismo título, de insolvencia del deudor o de sus fiadores, o de otra causa.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1362.- La entrega de títulos a que se refieren los artículos 1360 y 1364, comprende los intereses que por el crédito o deuda se deban a la muerte del testador y subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION QUINTA
-DEL LEGADO DE BIEN INDETERMINADO
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1338.- El legado de bien indeterminado, pero comprendido en género determinado, será válido aunque en la herencia no haya bien alguno de este género.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1339.- En el caso del artículo anterior, si los bienes existen en la herencia, la elección corresponde al que deba pagar el legado, o en su caso al albacea, quien cumple con entregar uno de mediana calidad, pudiendo, en caso contrario, comprar uno de esa misma calidad o abonar al legatario el precio correspondiente, previo convenio o dictamen de peritos.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1340.- Cuando el testador conceda expresamente la elección al legatario, éste podrá si en la herencia hubiere varios bienes del género determinado, escoger el mejor, pero si no los hubiere, sólo podrá exigir uno de mediana calidad o el precio que corresponda a éste.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1341.- Si el bien indeterminado fuere inmueble, solo valdrá el legado si en la herencia existen varios del mismo género y para la elección se observarán las reglas establecidas en los dos artículos anteriores. De no existir tales bienes en la herencia, el legado no será válido, a menos que en el testamento se disponga que se compre un bien de tales características o se abone el precio al legatario.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION SEXTA
-DEL LEGADO DE BIEN DETERMINADO
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1342.- En el legado de bien determinado, el heredero debe entregar al legatario el mismo bien legado y en caso de pérdida, se observará lo dispuesto por este Código para las obligaciones de dar un bien de esa característica.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION SEPTIMA
 DEL LEGADO DE DINERO O DE UN BIEN DEPOSITADO
@@ -2855,20 +2808,55 @@ DE LOS LEGADOS DE DERECHOS REALES
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1358.- Si el bien legado estuviere sujeto a usufructo, uso, habitación, servidumbre o derecho de superficie, el legatario deberá prestarlos hasta que legalmente se extingan, sin que el heredero tenga obligación de ninguna clase.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMOSEXTA
-DEL LEGADO A FAVOR DE ACREEDOR
+SECCION DECIMOTERCERA
+DEL LEGADO DE CREDITO
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1368.- El legado al acreedor no compensa el crédito, a no ser que el testador lo declare expresamente.
+1359.- El legado de un crédito perteneciente al testador, sólo produce efecto en la parte del crédito que esté insoluta al abrirse la sucesión, a menos que el testador dispusiere expresamente otra cosa.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1369.- En caso de compensación, el acreedor tendrá derecho de cobrar el exceso del crédito o el del legado, si lo hubiere.
+1360.- En el caso del artículo anterior, el que deba cumplir el legado entregará al legatario el título que compruebe el crédito, y le cederá las acciones que en virtud de él corresponderían al testador.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1370.- Por medio de un legado puede el deudor mejorar la situación de su acreedor, haciendo puro el crédito condicional, garantizado con prenda o hipoteca, o exigible desde luego el que sea a plazo; pero esta mejora no perjudica en manera alguna los privilegios de los demás acreedores.
-1371.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-1372.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-1373.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-1374.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-1375.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-1376.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+1361.- Cumplido lo dispuesto en el artículo que precede, el que debe pagar el legado queda libre de la obligación de saneamiento y de cualquiera otra responsabilidad, ya provenga ésta del mismo título, de insolvencia del deudor o de sus fiadores, o de otra causa.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1362.- La entrega de títulos a que se refieren los artículos 1360 y 1364, comprende los intereses que por el crédito o deuda se deban a la muerte del testador y subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION DECIMA
+DEL LEGADO DE EDUCACION
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1354.- En el legado de educación, si el testador no fija el plazo, subsiste por el tiempo normal de estudio de una carrera profesional o de aprendizaje de un oficio.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION CUARTA
+DEL LEGADO DE BIEN HIPOTECADO O DADO EN PRENDA
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1335.- Si el bien legado se encuentra en la herencia y está hipotecado o dado en prenda, o lo fuere después de otorgado el testamento, la redención o desafectación serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1336.- En caso de que no se realice el pago a cargo de la herencia conforme al artículo anterior y lo hiciere el legatario, quedará subrogado en el lugar y derechos del acreedor para reclamar contra los herederos.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1337.- Cualquiera otra carga o gravamen a que se halle afecto el bien legado, se transmite junto con éste al legatario; las rentas y los réditos devengados hasta la muerte del testador son a cargo de la herencia, salvo que en el testamento se disponga otra cosa.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2000)
+SECCION OCTAVA
+DE LOS LEGADOS ALTERNATIVOS
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1345.- En los legados alternativos la elección corresponde al heredero, si el testador no la concede expresamente al legatario.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1346.- En el supuesto de que la elección corresponda a un heredero y no se hubiere precisado el bien a entregar, al no existir un acuerdo con el legatario, deberá entregarse uno cuyo valor se aproxime al término medio entre los bienes de mayor y menor valor.
+Lo mismo se aplicará si la elección corresponde al legatario, respecto a la persona que deba cumplirlo.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1347.- En los legados alternativos se observará, además, lo dispuesto para las obligaciones alternativas.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1348.- En los casos en que el legatario que tenga derecho de hacer la elección no pudiere hacerla, la harán su representante legítimo o sus herederos.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1349.- Si en el plazo que se hubiere señalado, la persona que tenga derecho de hacer la elección no la realizara, podrá el Juez efectuarla a petición de parte interesada.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION NOVENA
+DEL LEGADO DE ALIMENTOS
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1350.- La elección hecha conforme a la ley, de un legado de alimentos es irrevocable.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1351.- El legado de alimentos dura mientras viva el legatario, a no ser que el testador haya dispuesto una duración menor.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1352.- Si el testador acostumbró en vida dar al legatario cierta cantidad de dinero por vía de alimentos, se entenderá legada la misma cantidad, si no resultare en notable desproporción con la cuantía de la herencia.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1353.- En el caso de la última parte del artículo anterior, y cuando el testador no haya señalado el monto de los alimentos, se estará a las reglas generales establecidas por este Código sobre la materia.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION DECIMOCUARTA
 DEL LEGADO DE DEUDA ESPECIFICA
@@ -2885,6 +2873,21 @@ DEL LEGADO GENERICO DE LIBERACION DE DEUDAS
 1366.- El legado que únicamente consiste en la liberación o cancelación de una garantía, sólo extingue ésta, pero no la obligación principal, a menos que así se establezca expresamente.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1367.- Lo dispuesto en el artículo anterior es aplicable al legado de fianza, ya sea hecho a favor del deudor o del fiador.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION DECIMOSEXTA
+DEL LEGADO A FAVOR DE ACREEDOR
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1368.- El legado al acreedor no compensa el crédito, a no ser que el testador lo declare expresamente.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1369.- En caso de compensación, el acreedor tendrá derecho de cobrar el exceso del crédito o el del legado, si lo hubiere.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1370.- Por medio de un legado puede el deudor mejorar la situación de su acreedor, haciendo puro el crédito condicional, garantizado con prenda o hipoteca, o exigible desde luego el que sea a plazo; pero esta mejora no perjudica en manera alguna los privilegios de los demás acreedores.
+1371.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+1372.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+1373.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+1374.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+1375.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+1376.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
 (REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2002)
 CAPITULO VIII
 DE LAS SUBSTITUCIONES TESTAMENTARIAS
