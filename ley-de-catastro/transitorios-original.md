@@ -1,6 +1,6 @@
 ARTICULOS TRANSITORIOS:
-(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)
-Artículo Primero. Esta Ley entrará en vigor el primero de enero de mil novecientos noventa y seis, con excepción de lo dispuesto en el párrafo segundo del Artículo 24, el cual entrará en vigor el primero de enero del año dos mil dos.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)
+Artículo Primero. Esta Ley entrará en vigor el primero de enero de mil novecientos noventa y seis, con excepción de lo dispuesto en el párrafo segundo del Artículo 24, el cual entrará en vigor el primero de enero del año dos mil tres.
 Artículo Segundo. Las Disposiciones de el Código Fiscal del Estado de Chihuahua en su Libro Primero, Título tercero, Capítulo I, Sección Sexta, serán aplicables de manera supletoria, hasta en tanto se expida el Reglamento de la presente Ley.
 Artículo Tercero. En el Reglamento que se expida para regular las funciones del Comité Técnico de Apoyo al Catastro, se preverá la constitución de (sic) Instituto Estatal del Catastro.
 Artículo Cuarto. El Reglamento a que se refiere la presente Ley, deberá expedirse en un plazo máximo de seis meses, contados a partir de la fecha de entrada en vigor del presente decreto.
