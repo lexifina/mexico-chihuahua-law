@@ -911,6 +911,13 @@ IV.- El Ministerio Público en todos los casos.
 377.- La adopción quedará consumada una vez que cause ejecutoria la resolución que la autorice.
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
+D) ADOPCION INTERNACIONAL
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
+Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 B) ADOPCION SIMPLE
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 379.- La adopción simple confiere al adoptado la posición del hijo consanguíneo, pero no crea vínculo de parentesco entre aquél y la familia biológica del adoptante, sino a los efectos expresamente determinados en este Código.
@@ -938,13 +945,6 @@ II.- Si el adoptado imputa legalmente al adoptante la comisión de algún delito
 III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-D) ADOPCION INTERNACIONAL
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
-Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 C) ADOPCION PLENA
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
@@ -2745,6 +2745,20 @@ DEL LEGADO DE DINERO O DE UN BIEN DEPOSITADO
 1343.- Los legados de dinero deben pagarse en esa especie, y si no hay en la herencia, con el producto de los bienes que al efecto se venda. La venta podrá evitarse por quien debe pagar el legado entregando a aquél la cantidad de dinero que corresponda.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1344.- El legado de un bien o cantidad depositados en lugar designado, sólo subsistirá en la parte que se encuentre en éste, a menos que el testador dispusiere de otra cosa.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION DECIMA
+DEL LEGADO DE EDUCACION
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1354.- En el legado de educación, si el testador no fija el plazo, subsiste por el tiempo normal de estudio de una carrera profesional o de aprendizaje de un oficio.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION DECIMOPRIMERA
+DEL LEGADO DE PENSION
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1355.- El legado de pensión se rige por las siguientes disposiciones:
+I.- Sea cual fuere la cantidad, el objeto y los plazos, se inicia desde la muerte del testador.
+II.- Es exigible al principio de cada periodo.
+III.- El legatario hace suya la pensión que tuvo derecho de cobrar, aunque muera antes de que termine el periodo comenzado.
+IV.- El heredero debe garantizar suficientemente al legatario el pago de las pensiones futuras.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2000)
 SECCION OCTAVA
 DE LOS LEGADOS ALTERNATIVOS
@@ -2760,46 +2774,28 @@ Lo mismo se aplicará si la elección corresponde al legatario, respecto a la pe
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1349.- Si en el plazo que se hubiere señalado, la persona que tenga derecho de hacer la elección no la realizara, podrá el Juez efectuarla a petición de parte interesada.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMOTERCERA
-DEL LEGADO DE CREDITO
+SECCION DECIMOSEGUNDA
+DE LOS LEGADOS DE DERECHOS REALES
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1359.- El legado de un crédito perteneciente al testador, sólo produce efecto en la parte del crédito que esté insoluta al abrirse la sucesión, a menos que el testador dispusiere expresamente otra cosa.
+1356.- Los legados de usufructo, uso, habitación, servidumbre voluntaria o derecho de superficie subsistirán mientras viva el legatario, a no ser que el testador dispusiere una duración menor.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1360.- En el caso del artículo anterior, el que deba cumplir el legado entregará al legatario el título que compruebe el crédito, y le cederá las acciones que en virtud de él corresponderían al testador.
+1357.- Los legados a que se refiere el artículo anterior, en beneficio de cualquier persona moral, sólo durarán hasta veinte años.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1361.- Cumplido lo dispuesto en el artículo que precede, el que debe pagar el legado queda libre de la obligación de saneamiento y de cualquiera otra responsabilidad, ya provenga ésta del mismo título, de insolvencia del deudor o de sus fiadores, o de otra causa.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1362.- La entrega de títulos a que se refieren los artículos 1360 y 1364, comprende los intereses que por el crédito o deuda se deban a la muerte del testador y subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION NOVENA
-DEL LEGADO DE ALIMENTOS
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1350.- La elección hecha conforme a la ley, de un legado de alimentos es irrevocable.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1351.- El legado de alimentos dura mientras viva el legatario, a no ser que el testador haya dispuesto una duración menor.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1352.- Si el testador acostumbró en vida dar al legatario cierta cantidad de dinero por vía de alimentos, se entenderá legada la misma cantidad, si no resultare en notable desproporción con la cuantía de la herencia.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1353.- En el caso de la última parte del artículo anterior, y cuando el testador no haya señalado el monto de los alimentos, se estará a las reglas generales establecidas por este Código sobre la materia.
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMOPRIMERA
-DEL LEGADO DE PENSION
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1355.- El legado de pensión se rige por las siguientes disposiciones:
-I.- Sea cual fuere la cantidad, el objeto y los plazos, se inicia desde la muerte del testador.
-II.- Es exigible al principio de cada periodo.
-III.- El legatario hace suya la pensión que tuvo derecho de cobrar, aunque muera antes de que termine el periodo comenzado.
-IV.- El heredero debe garantizar suficientemente al legatario el pago de las pensiones futuras.
+1358.- Si el bien legado estuviere sujeto a usufructo, uso, habitación, servidumbre o derecho de superficie, el legatario deberá prestarlos hasta que legalmente se extingan, sin que el heredero tenga obligación de ninguna clase.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION SEXTA
 DEL LEGADO DE BIEN DETERMINADO
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1342.- En el legado de bien determinado, el heredero debe entregar al legatario el mismo bien legado y en caso de pérdida, se observará lo dispuesto por este Código para las obligaciones de dar un bien de esa característica.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMA
-DEL LEGADO DE EDUCACION
+SECCION CUARTA
+DEL LEGADO DE BIEN HIPOTECADO O DADO EN PRENDA
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1354.- En el legado de educación, si el testador no fija el plazo, subsiste por el tiempo normal de estudio de una carrera profesional o de aprendizaje de un oficio.
+1335.- Si el bien legado se encuentra en la herencia y está hipotecado o dado en prenda, o lo fuere después de otorgado el testamento, la redención o desafectación serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1336.- En caso de que no se realice el pago a cargo de la herencia conforme al artículo anterior y lo hiciere el legatario, quedará subrogado en el lugar y derechos del acreedor para reclamar contra los herederos.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1337.- Cualquiera otra carga o gravamen a que se halle afecto el bien legado, se transmite junto con éste al legatario; las rentas y los réditos devengados hasta la muerte del testador son a cargo de la herencia, salvo que en el testamento se disponga otra cosa.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION QUINTA
 DEL LEGADO DE BIEN INDETERMINADO
@@ -2812,23 +2808,27 @@ DEL LEGADO DE BIEN INDETERMINADO
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1341.- Si el bien indeterminado fuere inmueble, solo valdrá el legado si en la herencia existen varios del mismo género y para la elección se observarán las reglas establecidas en los dos artículos anteriores. De no existir tales bienes en la herencia, el legado no será válido, a menos que en el testamento se disponga que se compre un bien de tales características o se abone el precio al legatario.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION CUARTA
-DEL LEGADO DE BIEN HIPOTECADO O DADO EN PRENDA
+SECCION NOVENA
+DEL LEGADO DE ALIMENTOS
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1335.- Si el bien legado se encuentra en la herencia y está hipotecado o dado en prenda, o lo fuere después de otorgado el testamento, la redención o desafectación serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
+1350.- La elección hecha conforme a la ley, de un legado de alimentos es irrevocable.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1336.- En caso de que no se realice el pago a cargo de la herencia conforme al artículo anterior y lo hiciere el legatario, quedará subrogado en el lugar y derechos del acreedor para reclamar contra los herederos.
+1351.- El legado de alimentos dura mientras viva el legatario, a no ser que el testador haya dispuesto una duración menor.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1337.- Cualquiera otra carga o gravamen a que se halle afecto el bien legado, se transmite junto con éste al legatario; las rentas y los réditos devengados hasta la muerte del testador son a cargo de la herencia, salvo que en el testamento se disponga otra cosa.
+1352.- Si el testador acostumbró en vida dar al legatario cierta cantidad de dinero por vía de alimentos, se entenderá legada la misma cantidad, si no resultare en notable desproporción con la cuantía de la herencia.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1353.- En el caso de la última parte del artículo anterior, y cuando el testador no haya señalado el monto de los alimentos, se estará a las reglas generales establecidas por este Código sobre la materia.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMOSEGUNDA
-DE LOS LEGADOS DE DERECHOS REALES
+SECCION DECIMOTERCERA
+DEL LEGADO DE CREDITO
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1356.- Los legados de usufructo, uso, habitación, servidumbre voluntaria o derecho de superficie subsistirán mientras viva el legatario, a no ser que el testador dispusiere una duración menor.
+1359.- El legado de un crédito perteneciente al testador, sólo produce efecto en la parte del crédito que esté insoluta al abrirse la sucesión, a menos que el testador dispusiere expresamente otra cosa.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1357.- Los legados a que se refiere el artículo anterior, en beneficio de cualquier persona moral, sólo durarán hasta veinte años.
+1360.- En el caso del artículo anterior, el que deba cumplir el legado entregará al legatario el título que compruebe el crédito, y le cederá las acciones que en virtud de él corresponderían al testador.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1358.- Si el bien legado estuviere sujeto a usufructo, uso, habitación, servidumbre o derecho de superficie, el legatario deberá prestarlos hasta que legalmente se extingan, sin que el heredero tenga obligación de ninguna clase.
+1361.- Cumplido lo dispuesto en el artículo que precede, el que debe pagar el legado queda libre de la obligación de saneamiento y de cualquiera otra responsabilidad, ya provenga ésta del mismo título, de insolvencia del deudor o de sus fiadores, o de otra causa.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1362.- La entrega de títulos a que se refieren los artículos 1360 y 1364, comprende los intereses que por el crédito o deuda se deban a la muerte del testador y subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION TERCERA
 DEL LEGADO DE BIEN AJENO
@@ -2853,6 +2853,15 @@ DEL LEGADO DE BIEN AJENO
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1334.- En el caso del artículo anterior, si el testador ignoraba que el bien fuese propio del heredero o del legatario, será nulo el legado.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
+SECCION DECIMOQUINTA
+DEL LEGADO GENERICO DE LIBERACION DE DEUDAS
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1365.- El legado genérico de liberación o remisión de las deudas, comprende sólo las existentes al tiempo de otorgarse el testamento y no las posteriores, salvo que el testador dispusiere otra cosa.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1366.- El legado que únicamente consiste en la liberación o cancelación de una garantía, sólo extingue ésta, pero no la obligación principal, a menos que así se establezca expresamente.
+(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
+1367.- Lo dispuesto en el artículo anterior es aplicable al legado de fianza, ya sea hecho a favor del deudor o del fiador.
+(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION DECIMOSEXTA
 DEL LEGADO A FAVOR DE ACREEDOR
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
@@ -2867,15 +2876,6 @@ DEL LEGADO A FAVOR DE ACREEDOR
 1374.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
 1375.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
 1376.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
-SECCION DECIMOQUINTA
-DEL LEGADO GENERICO DE LIBERACION DE DEUDAS
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1365.- El legado genérico de liberación o remisión de las deudas, comprende sólo las existentes al tiempo de otorgarse el testamento y no las posteriores, salvo que el testador dispusiere otra cosa.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1366.- El legado que únicamente consiste en la liberación o cancelación de una garantía, sólo extingue ésta, pero no la obligación principal, a menos que así se establezca expresamente.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1367.- Lo dispuesto en el artículo anterior es aplicable al legado de fianza, ya sea hecho a favor del deudor o del fiador.
 (ADICIONADA, P.O. 21 DE DICIEMBRE DE 2002)
 SECCION DECIMOCUARTA
 DEL LEGADO DE DEUDA ESPECIFICA
@@ -3703,7 +3703,7 @@ III.- Cuando la pérdida fuere ocasionada por culpa del heredero que la sufre.
 1678.- Por los créditos incobrables no hay responsabilidad.
 Si se adjudica como cobrable un crédito, los coherederos no responden de la insolvencia posterior del deudor hereditario, y sólo son responsables de su insolvencia al tiempo de hacer la partición.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1679.- El heredero cuyos bienes hereditarios fueren embargados por créditos a cargo de la sucesión, y aquel contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohíba enajenar los bienes que recibieron.
+1679.- El heredero cuyos bienes hereditarios fueren embargados por créditos a cargo de la sucesión, y aquel contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohiba enajenar los bienes que recibieron.
 CAPITULO VIII
 DE LA RESCISION Y NULIDAD DE LAS PARTICIONES
 1680.- Las particiones pueden rescindirse o anularse por las mismas causas que las obligaciones.
@@ -5754,11 +5754,10 @@ DEL REGISTRO PUBLICO
 CAPITULO I
 DE LAS OFICINAS DEL REGISTRO
 2892.- Los lugares en que deba existir una Oficina del Registro Público serán fijados por el Código Administrativo del Estado, el cual determinará asimismo el número de secciones de que se componga el Registro y la sección en que deban inscribirse los títulos que se registren.
-(REFORMADO, P.O. 15 DE MAYO DE 2002)
+(REFORMADO, P.O. 16 DE ABRIL DE 2003)
 2893.- El Registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro y de los documentos relacionados con las inscripciones, que estén archivados o resguardados en soporte magnético u óptico decodificados o reproducibles de cualquier forma por un sistema informático.
 También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en las diferentes secciones del Registro; así como certificaciones en caso de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
 La autoridad registral queda exceptuada de la obligación establecida en el párrafo anterior respecto a la información resguardada en la Sección Octava del Registro Público de la Propiedad y del Notariado.
-Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1469.
 CAPITULO II
 DE LOS TITULOS SUJETOS A REGISTRO Y DE LOS EFECTOS LEGALES DEL REGISTRO
 2894.- Los documentos que conforme a la ley deban registrarse y no se registren sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicio a tercero, el cual sí podrá aprovecharlos en cuanto le fueren favorables.
@@ -5777,8 +5776,10 @@ XI.- El auto que reconozca o desconozca herederos, y el nombramiento de albacea 
 En los casos previstos en las dos fracciones anteriores, se tomará razón del acta de defunción del autor de la herencia;
 XII.- Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes;
 XIII.- Las resoluciones recaídas en las informaciones ad perpétuam que versen sobre bienes inmuebles o muebles promovidas de acuerdo con lo que dispone este Código y el de Procedimientos Civiles;
-XIV.- Los demás títulos que la ley ordene expresamente que sean registrados.
-2895.- Los testamentos ológrafos no producirán efecto si no son depositados en el Registro.
+(ADICIONADA, P.O. 16 DE ABRIL DE 2003)
+XIV.- Los actos, acuerdos y resoluciones administrativas, en los términos del artículo 331 Ter del Código Administrativo;
+XV.- Los demás títulos que la ley ordene expresamente que sean registrados.
+2895.- (DEROGADO, P.O. 16 DE ABRIL DE 2003)
 2896.- Los actos ejecutados, los contratos otorgados, las resoluciones judiciales pronunciadas en país extranjero, sólo se inscribirán concurriendo las circunstancias siguientes:
 I.- Que si los actos o contratos hubiesen sido celebrados o las sentencias pronunciadas en el Estado, habría sido necesaria su inscripción en el Registro;
 II.- Que estén debidamente legalizados;
@@ -5786,7 +5787,8 @@ III.- Si fueren resoluciones judiciales, que se ordene su ejecución por la auto
 2897.- La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
 2898.- No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho para ello; no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
 Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
-2899.- No podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o de derechos reales inscritos a nombre de persona o entidad determinada, sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
+(REFORMADO PRIMER PARRAFO, P.O. 16 DE ABRIL DE 2003)
+2899.- No podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o de derechos reales inscritos a nombre de persona o entidad determinada, sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho. Esta disposición no será aplicable en los casos en que la cancelación registral tan sólo sea una consecuencia de la acción principal, siempre que todos los terceros hubiesen sido llamados a juicio.
 En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del Registro de la Propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquélla contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro.
 2900.- No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
 CAPITULO III
@@ -5801,17 +5803,23 @@ III.- Los documentos privados que en esta forma fueren válidos con arreglo a la
 2904.- El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse; llena las formas extrínsecas exigidas por la ley y contiene los datos a que se refiere el artículo 2906. En caso contrario, devolverá el título sin registrar, siendo necesaria resolución judicial para que se haga el registro.
 2905.- En el caso a que se refiere la parte final del artículo anterior el registrador tiene obligación de hacer una inscripción preventiva, a fin de que si la autoridad judicial ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, se cancelará la inscripción preventiva.
 Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, a petición de parte interesada se cancelará la inscripción preventiva.
+(REFORMADO, P.O. 16 DE ABRIL DE 2003)
 2906.- Toda inscripción que se haga en el Registro expresará las circunstancias siguientes:
-I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título, o la referencia al registro anterior en donde consten esos datos; asimismo, constará la mención de haberse agregado el plano o croquis al legajo respectivo;
-II.- La naturaleza, extensión, condiciones y cargos del derecho que se constituya, transmita, modifique o extinga;
-III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, los interesados fijarán en el título la estimación que le den;
-IV.- Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantizado, y si causare réditos, la tasa o el monto de éstos y la fecha desde que deban correr;
-V.- Los nombres, edades, domicilios y profesiones de las personas que por sí mismas o por medio de representantes hubieran celebrado el contrato o ejecutado el acto sujeto a inscripción. Si se trata de personas casadas, se expresará esta circunstancia, la fecha del matrimonio y el régimen a que estén sometidos los bienes de los cónyuges. Las personas morales se designarán por el nombre oficial que lleven, y las sociedades por su razón o denominación;
-VI.- La naturaleza del acto o contrato;
-VII.- La fecha del título y el funcionario que lo haya autorizado;
-VIII.- El día y la hora de la presentación del título en el Registro;
-(ADICIONADA, P.O. 1 DE JULIO DE 1998)
-IX.- Tratándose de anotaciones marginales derivadas de la cancelación o nulidad de inscripción, el número de expediente, el juzgado que conoce del procedimiento en que se solicita la nulidad o cancelación de la inscripción, la cuantía de la garantía y la mención del tipo y número de documentos mediante el cual se cubrió.
+I.- La descripción exacta de los bienes que sea objeto del acto jurídico. Si se trata de inmuebles, se identificarán señalando:
+a) Si son rústicos o urbanos;
+b) Su ubicación, colindancias o linderos y superficie, relacionando el último título de propiedad, citando los datos de inscripción en el Registro Público o el hecho de no estar registrado;
+II.- El valor de los bienes a que se refiere la fracción anterior;
+III.- Las estipulaciones esenciales y modalidades de los actos jurídicos que se pretendan registrar;
+IV.- La naturaleza, extensión, valor, condiciones y cargos del derecho que se constituya, transmita, modifique o extinga;
+Si el derecho no fuere de cantidad determinada, los interesados fijarán en el título la estimación que le den;
+V.- Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantizado y, si causare réditos, la tasa o el monto de éstos y la fecha desde que deban correr.
+Cuando sólo se haya gravado una superficie parcial del inmueble, deberá hacerse una identificación clara de la misma sobre la totalidad del bien;
+VI.- Los datos generales de las personas que por sí o por medio de representantes hubieran celebrado el contrato o ejecutado el acto sujeto a inscripción, relativos a su nombre y apellidos, nacionalidad, lugar y fecha de nacimiento, estado civil, ocupación y domicilio. Tratándose de personas casadas, cuando sea trascendente el régimen patrimonial de su matrimonio para el acto jurídico que se hace constar, se expresará además el nombre del cónyuge, lugar y fecha de matrimonio y el régimen patrimonial del mismo. Las personas morales se designarán por el nombre oficial que lleven, y las sociedades por su razón o denominación;
+VII.- La personalidad de quien hubiera comparecido en representación de otro, acreditada en los términos de la ley;
+VIII.- La naturaleza del acto o contrato;
+IX.- El número de instrumento correspondiente, el lugar y fecha en que se asentó, así como el nombre, apellido y número del Notario. En los casos en que la ley lo prevenga, se deberá precisar también la hora en que se otorgó;
+X.- La fecha y hora de la presentación del título para su registro;
+XI.- Tratándose de anotaciones marginales derivadas de la cancelación o nulidad de inscripción, la descripción del instrumento que la origina, el número de expediente, el juzgado que conoce del procedimiento en que se solicita la nulidad o cancelación de la inscripción, la cuantía de la garantía y la mención del tipo y número de documentos mediante el cual se cubrió.
 2907.- El registrador que haga una inscripción sin cumplir con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios que cause a los interesados y sufrirá una suspensión de empleo por tres meses.
 2908.- El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la Oficina registradora, salvo lo dispuesto en el artículo siguiente.
 2909.- Una vez que se firme una escritura en que se adquiera, trasmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el Notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha trasmitido o modificado su dominio o se ha constituido, trasmitido, modificado o extinguido el derecho real sobre ella; los nombres de los interesados en la operación, la fecha de la escritura y la de su firma y la indicación del número, folio, libro y sección en que estuviere inscrita la propiedad en el Registro. El Registrador con el aviso del Notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro de los 60 días hábiles siguientes a la fecha en que se hubiere hecho la anotación preventiva se presentare el testimonio respectivo, su inscripción surtirá efectos contra terceros desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
