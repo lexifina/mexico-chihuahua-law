@@ -870,8 +870,6 @@ II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la v
 I.- A llevar el apellido del que lo reconoce;
 II.- A ser alimentado por éste;
 III.- A percibir la porción hereditaria y los alimentos que fije la ley.
-CAPITULO V
-DE LA ADOPCION
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 A) DISPOSICIONES GENERALES
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
@@ -907,6 +905,8 @@ IV.- El Ministerio Público en todos los casos.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 377.- La adopción quedará consumada una vez que cause ejecutoria la resolución que la autorice.
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
+CAPITULO V
+DE LA ADOPCION
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 B) ADOPCION SIMPLE
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
@@ -1186,7 +1186,8 @@ IV.- Los que fueren tan pobres, que no puedan atender a la tutela sin menoscabo 
 V.- Los que por el mal estado habitual de su salud, o por su rudeza e ignorancia, no puedan atender debidamente a la tutela;
 VI.- Los que tengan sesenta años cumplidos;
 VII.- Los que tengan a su cargo otra tutela o curaduría;
-VIII.- Las mujeres, cuando por su falta de ilustración, por su inexperiencia en los negocios, por su timidez o por otra causa igualmente grave a juicio del Juez, no están en aptitud de desempeñar convenientemente la tutela.
+(REFORMADA, P.O. 9 DE MARZO DE 2002)
+VIII.- Toda persona en la que se advierta, que por su falta de ilustración, por su inexperiencia en los negocios o por otra causa igualmente grave a criterio del Juez, no se encuentran en aptitud de desempeñar convenientemente la tutela.
 489.- Si el que teniendo excusa legítima para ser tutor acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la ley.
 490.- El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código de Procedimientos Civiles, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa.
 491.- Si el tutor tuviere dos o más excusas las propondrá simultáneamente, dentro del plazo respectivo; y si propone una sola se entenderán renunciadas las demás.
