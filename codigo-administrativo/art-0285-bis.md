@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 15 DE ENERO DE 1992)
+ARTICULO 285-BIS.- Podrán utilizarse procedimientos electro magnéticos, (sic) inscribiéndose en el lado anverso de la hoja un extracto del documento a registrar; el reverso será destinado para las anotaciones que posteriormente afecten, graven, limiten o modifiquen la inscripción.
+La primera hoja de cada libro sin numerar, será destinada a su respectiva autorización y las siguientes a inscripciones.
+Para cada sección podrán llevarse varios libros, ya sea en forma individual o en forma simultánea. Si es en forma individual, la numeración de la (sic) inscripciones se seguirá en orden progresivo hasta terminar el libro; si se utilizan varios libros en forma simultánea, se seguirá un orden riguroso yendo de un libro a otro, en cada acto hasta llegar al último y volviendo de este al primero.
+Para el caso de que se agote el reverso de la hoja destinada para anotaciones derivadas de la inscripción, se podrán continuar haciendo las anotaciones correspondientes que las enlacen con el cuaderno o cuadernos apéndices que sean necesarios, previa autorización del Jefe del Departamento.
