@@ -718,9 +718,8 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen ob
 283.- Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 284.- El adoptante y el adoptado tienen la obligación de darse alimentos en los casos en que la tienen los padres y los hijos. En el supuesto de la adopción plena, se aplicará lo conducente a los derechos y obligaciones existentes entre los hijos consanguíneos y sus parientes.
-(REFORMADO, P.O. 4 DE FEBRERO DE 2004)
-285.- Los Alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad, embarazo y parto. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación primaria y secundaria o su equivalente y para proporcionarles algún oficio, arte o profesión lícitos adecuados a su sexo y circunstancias personales.
-Tratándose de personas con discapacidad, en los términos de la Ley de la materia, lo indispensable para lograr en lo posible su rehabilitación, tratamiento y desarrollo.
+(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2004)
+285.- Los Alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad, embarazo y parto. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación preescolar, primaria y secundaria o su equivalente y para proporcionarles algún oficio, arte o profesión lícitos adecuados a su sexo y circunstancias personales. Tratándose de personas con discapacidad, en los términos de la Ley de la materia, lo indispensable para lograr en lo posible su rehabilitación, tratamiento y desarrollo.
 286.- El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 (ADICIONADO, P.O. 11 DE ENERO DE 2003)
 En la sentencia o convenio se establecerán los mecanismos para que el importe de la pensión alimenticia se vaya actualizando de manera automática. El juez cuidará el cumplimiento de esta disposición.
@@ -3291,7 +3290,7 @@ DE LA SUCESION DEL CONYUGE
 1518.- Si el cónyuge que sobrevive concurre con ascendientes, se procederá de la siguiente manera: si son los padres del autor de la sucesión, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los padres; si se trata de ascendiente de ulterior grado, a éstos se les aplicará una tercera parte de la herencia y el resto al cónyuge.
 1519.- Concurriendo el cónyuge con uno o más hermanos del autor de la sucesión, tendrá dos tercios de la herencia, y el tercio restante se aplicará al hermano o se dividirá por partes iguales entre los hermanos.
 1520.- El cónyuge recibirá las porciones que le correspondan conforme a los dos artículos anteriores, aunque tenga bienes propios.
-1521.- A falta de descendientes, ascendientes o hermanos, el cónyuge sucederá en todos los ienes.
+1521.- A falta de descendientes, ascendientes o hermanos, el cónyuge sucederá en todos los bienes.
 CAPITULO V
 DE LA SUCESION DE LOS COLATERALES
 1522.- Si sólo hay hermanos por ambas líneas, sucederán por partes iguales.
