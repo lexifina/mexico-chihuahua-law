@@ -1,5 +1,5 @@
-(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1995)
-ARTICULO 11.- El Estado se divide en los siguientes Municipios:
+(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 1996)
+ARTICULO 8 (SIC).- El territorio del Estado se divide en los siguientes Municipios:
 I.- AHUMADA, con cabecera en la ciudad denominada Miguel Ahumada y la sección municipal de Carrizal;
 II.- ALDAMA, con cabecera en la ciudad denominada Juan Aldama y las secciones municipales de el Pueblito, Maclovio Herrera, Placer de Guadalupe, San Diego de Alcalá y Mineral de Plomosas;
 III.- ALLENDE, con cabecera en el pueblo denominado Valle de Ignacio Allende, y las secciones municipales del Pueblito de Allende, Talamantes y Colonia Búfalo;
@@ -65,6 +65,7 @@ LXI.- SANTA ISABEL; con cabecera en el pueblo del mismo nombre;
 LXII.- SATEVO; con cabecera en el pueblo denominado San Francisco Javier de Satevó y las secciones municipales de Babonoyaba, La Joya, San Antonio de los Chacón y San José del Sitio;
 LXIII.- SAUCILLO; con cabecera en la ciudad del mismo nombre y las secciones municipales de Naica y las Varas;
 LXIV.- TEMOSACHI; con cabecera en el pueblo del mismo nombre y las secciones municipales de Cocomorachi, Tosanachi, Tutuaca, Yepachi y Yepomera;
-LXV.- URIQUE; con cabecera en el pueblo del mismo nombre y las secciones municipales de Cerocahui, Cuiteco, Guagueyvo, Colonia Bahuerachi y San Rafael;
+(REFORMADA, P.O. 9 DE MARZO DE 1996)
+LXV.- URIQUE, con cabecera en la villa del mismo nombre y las Secciones Municipales de Cerocahui, Cuiteco, Guagueyvo, Colonia Bahuérachi, San Rafael y Cieneguita Lluvia de Oro;
 LXVI.- URUACHI; con cabecera en el pueblo del mismo nombre y als (sic) secciones municipales de Batopilillas y El Rebaje; y
 LXVII.- VALLE DE ZARAGOZA; con cabecera en el pueblo del mismo nombre y las secciones municipales de El Velduque y San Felipe;
