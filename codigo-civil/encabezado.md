@@ -875,8 +875,12 @@ IV.- Cuando el hijo tenga a su favor un principio de prueba contra el pretendido
 I.- Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato;
 II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el concubinario y la concubina.
 361.- La posesión de estado, para los efectos de la fracción II del artículo 359, se justificará demostrando, por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre, o por su familia, como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento.
-362.- Está permitido al hijo nacido fuera de matrimonio y a sus descendientes, investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios; pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
-363.- No obstante lo dispuesto en la parte final del artículo anterior, el hijo podrá investigar la maternidad si ésta se deduce de una sentencia civil o de defensa social.
+(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2004)
+362.- Está permitido al hijo nacido fuera de matrimonio y a sus descendientes, investigar la maternidad, la cual puede probarse por cualquier de los medios ordinarios, pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
+No obstante lo dispuesto en el párrafo anterior, el hijo podrá investigar la maternidad si éste se deduce de una sentencia civil o penal.
+(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2004)
+363.- La prueba de marcadores genéticos, cuando resulte positiva constituye un principio de prueba para los efectos de la fracción IV del artículo 359.
+Cuando el interesado acepte de manera voluntaria que se le practique la prueba mencionada, el Estado facilitará su realización.
 364.- El hecho de dar alimentos no constituye por sí solo prueba, ni aun presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
 365.- Las acciones de investigación de paternidad o maternidad, sólo pueden intentarse en vida de los padres o dentro del año posterior a su fallecimiento. Si los presuntos hijos fuesen menores de edad, el término será de cuatro años y empezará a contar a partir de que se cumpla su mayor edad.
@@ -2548,7 +2552,7 @@ Esta disposición no será aplicable cuando el testador, al adquirir la mayoría
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1230.- La capacidad para heredar de los extranjeros se rige por lo dispuesto en la legislación federal.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1231.- Por causa de interés público son incapaces de adquirir bienes inmuebles, sea por sucesión testamentaria o intestamentaria, aquellos a quienes la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias de ésta, prohiben la adquisición de esa clase de bienes.
+1231.- Por causa de interés público son incapaces de adquirir bienes inmuebles, sea por sucesión testamentaria o intestamentaria, aquellos a quienes la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias de ésta, prohíben la adquisición de esa clase de bienes.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1232.- Las herencias o legados que se dejen a un establecimiento público imponiéndose algún gravamen o bajo alguna condición, sólo serán válidos si el Ejecutivo del Estado los aprueba.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
@@ -2595,7 +2599,7 @@ DE LAS CONDICIONES QUE PUEDEN PONERSE EN LOS TESTAMENTOS
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1254.- Cuando en el testamento no se hubiere señalado plazo para el cumplimiento de la condición, la cosa legada permanecerá en poder del albacea, y al hacerse la partición se asegurará adecuadamente el derecho del legatario para el caso de cumplirse la condición, observándose además las disposiciones establecidas para hacer la partición cuando alguno de los herederos es condicional.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1255.- La condición se tendrá por cumplida cuando, siendo puramente potestativa de dar o de hacer alguna cosa, el que ha sido gravado con ella ofrece cumplirla; pero aquel en cuyo favor se estableció rehusa aceptar la cosa o el hecho.
+1255.- La condición se tendrá por cumplida cuando, siendo puramente potestativa de dar o de hacer alguna cosa, el que ha sido gravado con ella ofrece cumplirla; pero aquel en cuyo favor se estableció rehúsa aceptar la cosa o el hecho.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1256.- La condición potestativa se deberá cumplir aún cuando el heredero o el legatario haya entregado la cosa o el hecho antes del otorgamiento del testamento, a no ser que ya no pueda reiterarse la prestación.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
@@ -3287,7 +3291,7 @@ DE LA SUCESION DEL CONYUGE
 1518.- Si el cónyuge que sobrevive concurre con ascendientes, se procederá de la siguiente manera: si son los padres del autor de la sucesión, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los padres; si se trata de ascendiente de ulterior grado, a éstos se les aplicará una tercera parte de la herencia y el resto al cónyuge.
 1519.- Concurriendo el cónyuge con uno o más hermanos del autor de la sucesión, tendrá dos tercios de la herencia, y el tercio restante se aplicará al hermano o se dividirá por partes iguales entre los hermanos.
 1520.- El cónyuge recibirá las porciones que le correspondan conforme a los dos artículos anteriores, aunque tenga bienes propios.
-1521.- A falta de descendientes, ascendientes o hermanos, el cónyuge sucederá en todos los bienes.
+1521.- A falta de descendientes, ascendientes o hermanos, el cónyuge sucederá en todos los ienes.
 CAPITULO V
 DE LA SUCESION DE LOS COLATERALES
 1522.- Si sólo hay hermanos por ambas líneas, sucederán por partes iguales.
@@ -3724,7 +3728,7 @@ III.- Cuando la pérdida fuere ocasionada por culpa del heredero que la sufre.
 1678.- Por los créditos incobrables no hay responsabilidad.
 Si se adjudica como cobrable un crédito, los coherederos no responden de la insolvencia posterior del deudor hereditario, y sólo son responsables de su insolvencia al tiempo de hacer la partición.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1679.- El heredero cuyos bienes hereditarios fueren embargados por créditos a cargo de la sucesión, y aquel contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohiba enajenar los bienes que recibieron.
+1679.- El heredero cuyos bienes hereditarios fueren embargados por créditos a cargo de la sucesión, y aquel contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohíba enajenar los bienes que recibieron.
 CAPITULO VIII
 DE LA RESCISION Y NULIDAD DE LAS PARTICIONES
 1680.- Las particiones pueden rescindirse o anularse por las mismas causas que las obligaciones.
@@ -5258,8 +5262,8 @@ DE LOS DIVERSOS MODOS DE TERMINAR EL MANDATO
 2494.- El mandato termina:
 I.- Por la revocación;
 II.- Por la renuncia del mandatario;
-III.- Por la muerte del mandante con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, ultimo párrafo, o por muere del mandatario;
-IV.- Por la interdicción del mandante, con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, ultimo párrafo, o por la interdicción del mandatario;
+III.- Por la muerte del mandante con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, último párrafo, o por muere del mandatario;
+IV.- Por la interdicción del mandante, con excepción del mandato irrevocable, en el caso previsto en el artículo 2499, último párrafo, o por la interdicción del mandatario;
 V.- Por el vencimiento del plazo y por la conclusión del negocio para el que fue concedido;
 VI.- El mandato judicial, por las causas previstas en el artículo 2491.
 VII.- En los casos previstos por los artículos 645, 646 y 647.
@@ -5267,7 +5271,7 @@ VII.- En los casos previstos por los artículos 645, 646 y 647.
 2495.- El mandante puede revocar el mandato cuando y como le parezca; menos en aquellos casos en que su otorgamiento se hubiere estipulado como obligación en un contrato bilateral, o como un medio para cumplir otra obligación contraída.
 En estos casos tampoco puede el mandatario renunciar el poder.
 La parte que revoque o renuncie el mandato en tiempo inoportuno, debe indemnizar a la otra de los daños y perjuicios que le cause.
-Cuando el mandato se otorgue como un medio para cumplir otra obligación contraída por el mandante a favor del mandatario, este último esta facultado para hacerse pago al ejercer el mandato, salvo convenio en contrario.
+Cuando el mandato se otorgue como un medio para cumplir otra obligación contraída por el mandante a favor del mandatario, este último está facultado para hacerse pago al ejercer el mandato, salvo convenio en contrario.
 2496.- Cuando se ha dado un mandato para tratar con determinada persona, el mandante debe notificar a ésta la revocación del mandato, so pena de quedar obligado por los actos del mandatario, ejecutados después de la revocación, siempre que haya habido buena fe de parte de esa persona.
 2497.- El mandante puede exigir la devolución del instrumento o escrito en que conste el mandato, y todos los documentos relativos al negocio o negocios que tuvo a su cargo el mandatario.
 El mandante que descuide exigir los documentos que acrediten los poderes del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
