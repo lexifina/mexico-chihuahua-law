@@ -4,5 +4,6 @@ TASA ADICIONAL PARA LOS IMPUESTOS PREDIAL Y SOBRE TRASLACION DE DOMINIO DE BIENE
 (ADICIONADO, P.O. 25 DE MAYO DE 2002)
 ARTICULO 165 Bis.- Los Contribuyentes de los impuestos Predial y Sobre traslación de Dominio de Bienes Inmuebles, establecidos respectivamente en los Capítulos III y IV de este Título, pagarán una tasa adicional del 4% aplicable al monto que deberán enterar por dichos impuestos.
 La tasa adicional se pagará en la misma forma y términos en que deban pagarse los impuestos mencionados y su rendimiento se destinará al sostenimiento de la Universidad Autónoma de Chihuahua y de la Universidad Autónoma de Ciudad Juárez, por partes iguales.
-Una vez recaudados los ingresos por este concepto, las autoridades municipales concentrarán los mismos, a más tardar el día quince del mes siguiente a su recaudación, en la Secretaría de Finanzas y Administración del Gobierno del Estado, dependencia que a su vez los transferirá a dichas universidades, en la proporción mencionada, a más tardar el día último del mismo mes.
+(REFORMADO, P.O. 19 DE ENERO DE 2005)
+Una vez recaudados los ingresos por este concepto, las autoridades municipales concentrarán los mismos, a más tardar el día quince del mes siguiente a su recaudación, en la Secretaría de Finanzas del Gobierno del Estado, dependencia que a su vez los transferirá a dichas universidades, en la proporción mencionada, a más tardar el día último del mismo mes.
 En caso de que cualquiera de los días antes indicados sea inhábil, la concentración o la transferencia se efectuará el día hábil inmediato siguiente.
