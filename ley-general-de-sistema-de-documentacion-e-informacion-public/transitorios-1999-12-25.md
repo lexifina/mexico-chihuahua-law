@@ -1,0 +1,7 @@
+P.O. 25 DE DICIEMBRE DE 1999.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Se abroga el Decreto 670/85 que en su momento creó el Centro de Información del Estado de Chihuahua.
+ARTÍCULO TERCERO.- El personal de base que labora actualmente en el Centro de Información del Estado de Chihuahua, que en aplicación de este Decreto pase a depender del Instituto Chihuahuense de la Cultura, no resultará afectado en los derechos que haya adquirido en virtud de su relación laboral anterior, misma que en lo sucesivo se entenderá para todos los efectos con dicho Instituto.
+ARTÍCULO CUARTO.- En los términos de los artículos que anteceden, los recursos patrimoniales, humanos y financieros del Centro de Información del Estado de Chihuahua pasarán a formar parte del Instituto Chihuahuense de la Cultura y se entregarán, bajo las formalidades administrativas procedentes, en un término de sesenta días. Los asuntos pendientes pasarán de inmediato al Instituto Chihuahuense de la Cultura para su trámite y resolución.
+ARTÍCULO QUINTO.- Las facultades y obligaciones contenidas en otros ordenamientos se entenderán referidas al Instituto Chihuahense de la Cultura, hasta en tanto se lleven a cabo las adecuaciones legales pertinentes.
+ARTÍCULO SEXTO.- Las obligaciones que a la entrada en vigor del presente decreto haya contraído el Centro de Información del Estado de Chihuahua, se entenderán contraídas por el Instituto Chihuahuense de la Cultura.
