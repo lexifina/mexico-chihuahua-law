@@ -1,0 +1,7 @@
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE MAYO DE 2002)
+CAPITULO XI TER
+DE LAS INSCRIPCIONES EN SECCION OCTAVA, DE ACTOS ADMINISTRATIVOS DE INTERES GENERAL
+(ADICIONADO, P.O. 15 DE MAYO DE 2002)
+ARTICULO 331 TER.- Se resguardarán en la Sección Octava, o de actos administrativos, los acuerdos y resoluciones administrativas, que en los términos y condiciones previstas por las leyes y demás disposiciones reglamentarias de orden estatal, emanen de la Administración Pública Estatal centralizada, con excepción de la Procuraduría General de Justicia y las Coordinaciones adscritas directamente al Ejecutivo, que en ejercicio de la potestad pública, otorguen, reconozcan, modifiquen o extingan derechos u obligaciones de los habitantes del Estado.
+El resguardo de información previsto en el presente artículo será mediante soporte magnético u óptico, decodificado y reproducible de cualquier forma por un sistema informático.
+La consulta pública de esta sección sólo será informativa, por lo que el Registro Público de la Propiedad y del Notariado no expedirá certificaciones de la misma.

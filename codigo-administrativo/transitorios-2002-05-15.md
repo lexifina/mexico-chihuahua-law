@@ -1,0 +1,3 @@
+P.O. 15 DE MAYO DE 2002.
+PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Las unidades administrativas a que se hace referencia (sic) el artículo 331 TER, en caso de ser necesario, deberán de proveer al Ejecutivo del Estado, en el término de un año contado a partir de la entrada en vigor del presente decreto, las modificaciones necesarias a las leyes y reglamentos que les competa por sector para determinar los acuerdos y resoluciones administrativas que en su caso emitan o ejecuten y deban ser inscritas en la Sección Octava del Registro Público de la Propiedad y del Notariado, para su debida publicidad.

@@ -870,6 +870,8 @@ II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la v
 I.- A llevar el apellido del que lo reconoce;
 II.- A ser alimentado por éste;
 III.- A percibir la porción hereditaria y los alimentos que fije la ley.
+CAPITULO V
+DE LA ADOPCION
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 A) DISPOSICIONES GENERALES
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
@@ -905,8 +907,6 @@ IV.- El Ministerio Público en todos los casos.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 377.- La adopción quedará consumada una vez que cause ejecutoria la resolución que la autorice.
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
-CAPITULO V
-DE LA ADOPCION
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 B) ADOPCION SIMPLE
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
@@ -5138,7 +5138,10 @@ DEL REGISTRO PUBLICO
 CAPITULO I
 DE LAS OFICINAS DEL REGISTRO
 2892.- Los lugares en que deba existir una Oficina del Registro Público serán fijados por el Código Administrativo del Estado, el cual determinará asimismo el número de secciones de que se componga el Registro y la sección en que deban inscribirse los títulos que se registren.
-2893.- El Registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro, y de los documentos relacionados con las inscripciones, que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+(REFORMADO, P.O. 15 DE MAYO DE 2002)
+2893.- El Registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro y de los documentos relacionados con las inscripciones, que estén archivados o resguardados en soporte magnético u óptico decodificados o reproducibles de cualquier forma por un sistema informático.
+También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en las diferentes secciones del Registro; así como certificaciones en caso de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+La autoridad registral queda exceptuada de la obligación establecida en el párrafo anterior respecto a la información resguardada en la Sección Octava del Registro Público de la Propiedad y del Notariado.
 Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1469.
 CAPITULO II
 DE LOS TITULOS SUJETOS A REGISTRO Y DE LOS EFECTOS LEGALES DEL REGISTRO
