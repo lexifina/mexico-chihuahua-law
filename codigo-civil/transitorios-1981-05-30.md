@@ -1,0 +1,3 @@
+P.O. 30 DE MAYO DE 1981.
+PRIMERO.- Este Decreto entrará en vigor en toda la Entidad veinte días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+SEGUNDO.- Para los efectos del artículo 56-Bis de la Ley Orgánica del Poder Judicial del Estado, los Juzgados de Primera Instancia seguirán conociendo, hasta su conclusión, de las controversias del orden familiar conforme al procedimiento iniciado, siempre que en las mismas se haya practicado el emplazamiento al demandado o demandados. En caso contrario, remitirán los expedientes respectivos al Juez de lo Familiar que corresponda, para su tramitación conforme a las disposiciones del presente Decreto.
