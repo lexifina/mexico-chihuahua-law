@@ -912,18 +912,18 @@ III.- Si incumple con su deber de proporcionar alimentos al adoptante.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-C) ADOPCION PLENA
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
 D) ADOPCION INTERNACIONAL
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
 Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
+C) ADOPCION PLENA
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
+385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
 TITULO OCTAVO
 DE LA PATRIA POTESTAD
 CAPITULO I
@@ -3257,9 +3257,13 @@ DE LAS OBLIGACIONES QUE NACEN DE LOS ACTOS ILICITOS
 1798.- Cuando una persona hace uso de mecanismos, instrumentos, aparatos o substancias peligrosas, por sí mismo, por la velocidad que desarrollan, por su naturaleza explosiva o inflamable, por la energía de la corriente eléctrica que conduzcan o por otras causas análogas, está obligada a responder del daño que cause, aunque no obre ilícitamente, a no ser que demuestre que ese daño se produjo por culpa o negligencia inexcusable de la víctima.
 1799.- Cuando sin el empleo de mecanismos, instrumentos etc., a que se refiere el artículo anterior y sin culpa o negligencia de ninguna de las partes se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 1800.- La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios, de acuerdo con las siguientes reglas:
-I.- Cuando el daño se cause a las personas y produzca la muerte o la incapacidad total o parcial, temporal o definitiva, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima, y tomando por base la utilidad o salario que perciba;
-II.- Si la víctima estuviere en edad y en condiciones de trabajar pero no percibiere utilidad o salario, o no pudieren determinarse éstos, el pago se hará tomando como base el salario mínimo del lugar; si no estuviere en edad o condiciones de trabajar se tomará como base la cantidad que no exceda del 75% del salario mínimo;
-III.- Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles, y se cubrirán preferentemente en forma de pensión o pagos sucesivos;
+(REFORMADA, P.O. 9 DE JUNIO DE 2001)
+I.- Cuando el daño se cause a las personas y produzca la muerte o la incapacidad total o parcial, temporal o definitiva, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando por base la utilidad o salario que perciba, siempre que ésta sea superior al doble a que se refiere la fracción siguiente, de lo contrario se estará a lo dispuesto por ella.
+(REFORMADA, P.O. 9 DE JUNIO DE 2001)
+II.- Si la víctima estuviere en edad y en condiciones de trabajar pero no percibiere utilidad o salario o no pudieran determinarse éstos, el pago se hará tomando como base el doble del salario mínimo diario mas alto que esté en vigor en nuestra entidad, y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo; si no estuviere en edad o condiciones de trabajar, se tomará como base el 75% de dicho duplo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
+(REFORMADA, P.O. 9 DE JUNIO DE 2001)
+III.- Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
+(REFORMADA, P.O. 9 DE JUNIO DE 2001)
 IV.- Las anteriores disposiciones se observarán en el caso del artículo 2545 de este Código.
 (REFORMADO, P.O. 23 DE FEBRERO DE 1983)
 1801.- Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físico, o bien en la consideración que de sí misma tienen los demás.
