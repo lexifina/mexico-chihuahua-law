@@ -1,0 +1,4 @@
+P.O. 27 DE DICIEMBRE DE 1997.
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+PRIMERO.- Esta ley entrará en vigor en todo el Estado de Chihuahua, a los treinta días posteriores al de su publicación en el Periódico Oficial del Estado, con excepción de las facultades conferidas a la Oficina Estatal de Profesiones para registrar títulos profesionales y grados académicos, así como para expedir cédulas o patentes de ejercicio; dichas facultades entrarán en vigor ciento ochenta días después al en que el Poder Ejecutivo publique en el Periódico Oficial del Estado el aviso de terminación del convenio celebrado con la Secretaría de Educación Pública en 1974 y publicado en el Diario Oficial de la Federación el viernes 25 de enero de 1975.
+TERCERO.- Esta ley deroga el Libro Segundo, Título Unico del Código Administrativo del Estado, relativo al ejercicio de las profesiones.
