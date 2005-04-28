@@ -12,11 +12,11 @@ IX.- Participar en los remates públicos en los que tenga interés el municipio,
 X.- Verificar que los funcionarios públicos y empleados del municipio cumplan con la formulación de su declaración patrimonial;
 XI.- Revisar la situación de los rezagos fiscales para que éstos sean liquidados y cobrados;
 XII.- Asociarse a cualquier comisión encomendada a los Regidores cuando la importancia de la misma y los intereses del Municipio, así lo ameriten;
-XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y
+XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y (sic)
 (ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)
 XIV.- Nombrar y remover libremente a sus colaboradores, previo informe que proporcione al Ayuntamiento. La opinión de este en ningún caso será vinculante;
 (ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)
 XV.- Solicitar datos, informes y documentación en general a fin de hacer las compulsas necesarias con las empresas o entidades, privadas o públicas, participantes en las actividades que se revisan;
 (ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)
-XVI.- Elaborar y remitir con oportunidad al Ayuntamiento, el proyecto de presupuesto de la Sindicatura, para la discusión, modificación en su caso, y aprobación por el Cabildo de la partida presupuestal correspondiente.
+XVI.- Elaborar y remitir con oportunidad al Ayuntamiento, el proyecto de presupuesto de la Sindicatura, para la discusión, modificación en su caso, y aprobación por el Cabildo de la partida presupuestal correspondiente;
 XVII.- Las demás que establezcan las leyes y reglamentos.
