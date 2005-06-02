@@ -1,5 +1,5 @@
 ARTICULO TERCERO. Los preceptos que establecen los requisitos necesarios para los funcionarios públicos de elección popular, no son aplicables a los electos últimamente.
-DECRETO NO. 356.
+DECRETO No. 356.
 INGENIERO FERNANDO FOGLIO MIRAMONTES GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 Que el H. Congreso del Estado, se ha servido expedir el presente DECRETO:
 EL XLII CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, DECRETA LA NUEVA CONSTITUCION POLITICA DEL ESTADO DE CHIHUAHUA, que precede.
