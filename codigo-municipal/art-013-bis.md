@@ -1,6 +1,6 @@
 (DEROGADO SEGUNDO PÁRRAFO, P.O. 7 DE AGOSTO DE 2004)
 (ADICIONADO, P.O. 7 DE AGOSTO DE 2004)
-ARTICULO 13 BIS.- Los centros de población de los municipios, podrán tener las categorías de ciudad, poblado, comunidad y ranchería, según el grado de concentración demográfica y los servicios públicos de los mismos. Los Ayuntamientos determinarán la categoría correspondiente, según satisfagan las características, condiciones y requisitos que deberán reunir los centros de población atendiendo a las siguientes;:
+ARTICULO 13 BIS.- Los centros de población de los municipios, podrán tener las categorías de ciudad, poblado, comunidad y ranchería, según el grado de concentración demográfica y los servicios públicos de los mismos. Los Ayuntamientos determinarán la categoría correspondiente, según satisfagan las características, condiciones y requisitos que deberán reunir los centros de población atendiendo a las siguientes:
 BASES:
 I.- Estas disposiciones tienen por objeto la promoción del desarrollo urbano y rural, a través del crecimiento ordenado y armónico de las distintas regiones que integran el Estado de Chihuahua.
 II.- Se entenderá por categorías de centros de población a la clasificación otorgada por el Ayuntamiento respectivo, en base a la estructura de los servicios públicos que prestan, el grado de concentración demográfica y su importancia estratégica.
