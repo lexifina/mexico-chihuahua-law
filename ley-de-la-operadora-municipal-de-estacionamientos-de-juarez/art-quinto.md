@@ -9,5 +9,7 @@ ARTÍCULO QUINTO.- La Administración de la Operadora Municipal de Estacionamien
 7.- Un Representante designado por el Comité Organizador Permanente de la Feria Exposición de Ciudad Juárez, A.C., que será el Secretario del Consejo Directivo.
 8.- Un Vocal Tesorero, designado libremente por el Presidente Municipal.
 9.- Un Director, designado también por el Presidente Municipal.
+(ADICIONADO, P.O. 22 DE JUNIO DE 2005)
+Pudiendo designar, los titulares del mismo, a un representante con las mismas atribuciones en las reuniones del Consejo.
 De los anteriores Miembros del Consejo Directivo, el Representante del Consejo de Planeación, el Secretario, el Vocal Tesorero y el Director, durarán en su cargo todo el tiempo que determine el Presidente Municipal, pudiendo también ser ratificados. Sin embargo, en todo momento, serán removibles por quienes les hayan designado.
 Los cargos de todos los miembros del Consejo Directivo serán de carácter honorario, salvo el del Director cuyo cargo, además será de tiempo completo.
