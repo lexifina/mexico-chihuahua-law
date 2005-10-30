@@ -1,0 +1,1 @@
+ARTÍCULO PRIMERO.- Se crea "El Colegio de Chihuahua", como un Organismo Público Descentralizado del Poder Ejecutivo del Estado, cuya cabeza de sector será la Secretaría de Educación y Cultura, dotado de plena capacidad jurídica, patrimonio y autonomía académica propia.
