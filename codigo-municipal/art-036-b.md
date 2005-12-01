@@ -19,4 +19,7 @@ XIV.- Nombrar y remover libremente a sus colaboradores, previo informe que propo
 XV.- Solicitar datos, informes y documentación en general a fin de hacer las compulsas necesarias con las empresas o entidades, privadas o públicas, participantes en las actividades que se revisan;
 (ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)
 XVI.- Elaborar y remitir con oportunidad al Ayuntamiento, el proyecto de presupuesto de la Sindicatura, para la discusión, modificación en su caso, y aprobación por el Cabildo de la partida presupuestal correspondiente;
-XVII.- Las demás que establezcan las leyes y reglamentos.
+(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2005)
+XVII.- Asistir y acreditar los cursos de capacitación y formación que instrumente e imparta el Ejecutivo del Estado, por conducto de la dependencia del ramo correspondiente, una vez que el Instituto Estatal Electoral le haga entrega de la constancia que lo acredite como tal y antes de tomar posesión de su cargo;
+(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)
+XVIII.- Las demás que establezcan las leyes y reglamentos.
