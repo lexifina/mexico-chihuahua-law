@@ -3001,14 +3001,16 @@ CAPITULO I
 DISPOSICIONES GENERALES
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1404.- El testamento, en cuanto a su forma, es público o privado.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1405.- El testamento público se otorga ante Notario y testigos, o únicamente ante Notario en los casos previstos legalmente.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1406.- El testamento público puede ser abierto, cerrado o simplificado.
+(REFORMADO, P.O. 15 DE FEBRERO DE 2006)
+1405.- El testamento público se otorga ante Notario y testigos o únicamente ante Notario en los casos previstos legalmente o ante el Director del Registro Público de la Propiedad y del Notariado, por conducto de los Jefes de Departamento de los Registros Públicos en el Estado, tratándose del testamento ológrafo.
+(REFORMADO, P.O. 15 DE FEBRERO DE 2006)
+1406.- El testamento público puede ser abierto, cerrado, simplificado u ológrafo.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1407.- En el testamento público abierto, el testador manifiesta su última voluntad en presencia de quienes deban autorizar el acto.
 En el testamento público cerrado, el testador declara que su última voluntad se encuentra contenida en el pliego que presenta ante los testigos y el Notario que autoriza el acto.
 En el testamento público simplificado el testador declara su última voluntad en la forma establecida en los artículos 1468 y 1469 de este Código.
+(ADICIONADO, P.O. 15 DE FEBRERO DE 2006)
+En el testamento público ológrafo, el testador declara que su última voluntad se encuentra contenida en el pliego que presenta en sobre cerrado ante el Director del Registro Público de la Propiedad y del Notariado, por conducto de los Jefes de Departamento de los Registros Públicos en el Estado.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1408.- No pueden ser testigos del testamento:
 I.- Los empleados del Notario que lo autorice;
@@ -3163,66 +3165,80 @@ VIII.- Para el caso de que, al llevarse a cabo la protocolización notarial de l
 1468.- El legatario adquirirá el inmueble con las cargas o gravámenes que tuviere, salvo disposición expresa del testador.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1468 (SIC).- En el instrumento en el que se haga constar el testamento público simplificado se observarán las formalidades que corresponden a una escritura pública.
+(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 15 DE FEBRERO DE 2006)
 CAPITULO V
+DEL TESTAMENTO OLOGRAFO
+(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)
+1470.- Se llama testamento ológrafo al escrito de puño y letra del testador. Este testamento sólo podrá ser otorgado por personas mayores de edad.
+Para que sea válido, deberá estar totalmente escrito y firmado por el testador, con expresión del día, mes y año en que se otorgue.
+Los extranjeros podrán otorgar este testamento en su propio idioma.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)
+1471.- Si contuviere palabras tachadas, enmendadas o entre renglones, las salvará el testador bajo su firma.
+La omisión de esta formalidad por el testador sólo afecta la validez de las palabras tachadas, enmendadas o entre renglones, pero no al testamento íntegro.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)
+1472.- El Testador hará por duplicado su testamento ológrafo e imprimirá en cada ejemplar su firma y su huella digital. Cada ejemplar se colocará dentro de un sobre cerrado y lacrado; el original será depositado en el Departamento del Registro Público de la Propiedad, llevándose a cabo la inscripción en la sección correspondiente; el duplicado se devolverá al interesado con la anotación a que hacen referencia los artículos 1473 y 1474 del presente Código.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)
+1473.- El depósito en los Departamentos del Registro Público de la Propiedad se hará personalmente por el testador, identificándose indubitablemente a satisfacción del Registrador, en concordancia con lo dispuesto por el artículo 1411 del Código Civil del Estado. En el sobre que contenga el testamento original, el testador de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y el Registrador.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)
+1474.- En el sobre cerrado que contenga el duplicado del testamento ológrafo el Registrador pondrá la siguiente constancia: "Recibí el pliego cerrado que el señor: ..... afirma contiene original de su testamento ológrafo, del cual, según afirmación del mismo, existe dentro de este sobre un duplicado". Se asentará el lugar y la fecha en que se extiende la constancia que será firmada por el Registrador y el testador.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)
+1475.- Hecho el depósito del testamento, el Registrador tomará razón del mismo en el libro respectivo, a fin de que pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al testador o al juez competente.
+En cualquier tiempo el testador tendrá derecho a retirar del Archivo el testamento depositado, ya sea personalmente o por medio de mandatario con mandato especial. La entrega se hará constar en un acta que firmarán el interesado y el Registrador.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)
+1476.- Cuando se otorgue un testamento ológrafo, los jefes de Departamento del Registro Público que lo reciba, dentro de los tres días hábiles siguientes darán aviso al Director del Registro Público de la Propiedad, por conducto del Departamento del Notariado, expresando la fecha, nombre, apellidos del testador y sus datos generales.
+El juez ante quien se promueva un juicio sucesorio pedirá informe a la Dirección del Registro Público de la Propiedad y del Notariado, por conducto del Departamento del Notariado, acerca del otorgamiento de testamento del autor de la sucesión y, en su caso, solicitará la remisión del mismo. Así mismo, la persona que guarde en su poder el duplicado del testamento lo deberá poner a disposición del juez respectivo.
+Ningún funcionario o empleado del Registro Público de la Propiedad y del Notariado proporcionarán informes acerca del testamento depositado, salvo al testador, previa identificación del mismo, o a los jueces competentes que oficialmente se lo requieran.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)
+1477.- Recibido el testamento, el juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada y, en presencia del Ministerio Público y de los que se hayan presentado como interesados, abrirá el sobre que contiene el testamento. Si éste llena los requisitos mencionados en el artículo 1470 y queda comprobado que es el mismo que depositó el testador, se declarará formal el testamento.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2006)
+1478.- El testamento ológrafo quedará sin efecto cuando el original y el duplicado, en su caso, estuvieren rotos, o el sobre que los cubre resultare abierto, o las firmas que los autoricen aparecieren borradas, raspadas o con enmendaduras, aun cuando el contenido del testamento no se encuentre viciado.
+Sólo cuando el original haya sido invalidado se tendrá como formal testamento el duplicado, siempre y cuando no se encuentre también viciado según lo establece el párrafo anterior, procediéndose para su apertura como se dispone en el artículo que precede.
+(REFORMADO [N. DE E. REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, ANTES CAPÍTULO V], P.O. 15 DE FEBRERO DE 2006)
+CAPITULO VI
 DEL TESTAMENTO PRIVADO
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1470.- El testamento podrá ser privado cuando no sea posible otorgarlo ante Notario, si además concurre cualquiera de las circunstancias siguientes:
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1470], P.O. 15 DE FEBRERO DE 2006)
+1479.- El testamento podrá ser privado cuando no sea posible otorgarlo ante Notario, si además concurre cualquiera de las circunstancias siguientes:
 I.- El testador sea atacado de una enfermedad o haya sufrido un accidente, tan violentos y graves, que no den tiempo para que concurra ante Notario;
 II.- El testador se encuentre en una población incomunicada por razón de epidemia, aunque él no haya sido atacado por ésta;
 III.- El testador se encuentre en una plaza sitiada o incomunicada por cualquiera causa temporal y de fuerza mayor;
 IV.- El testador sea militar o asimilado del ejército y haya entrado en campaña o se encuentre prisionero de guerra;
 V.- No haya en el lugar Notario o Juez que actúe por receptoría; o,
 VI.- Cuando, aunque haya Notario o Juez en el lugar, sea imposible, o extremadamente difícil que concurran al otorgamiento del testamento.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1471.- El testador que se encuentre en el caso de hacer testamento privado, redactará éste de su puño y letra y además declarará en presencia de tres testigos idóneos su última voluntad dando lectura al documento. Si el testador no pudiere o no supiere escribir, la redacción podrá efectuarla uno de los mencionados testigos, a quien el testador dictará su última voluntad en presencia de los otros dos.
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1471], P.O. 15 DE FEBRERO DE 2006)
+1480.- El testador que se encuentre en el caso de hacer testamento privado, redactará éste de su puño y letra y además declarará en presencia de tres testigos idóneos su última voluntad dando lectura al documento. Si el testador no pudiere o no supiere escribir, la redacción podrá efectuarla uno de los mencionados testigos, a quien el testador dictará su última voluntad en presencia de los otros dos.
 Al concluir el escrito, el testador lo leerá en voz alta en presencia de los testigos y si no pudiere o no supiere hacerlo, la lectura podrá hacerla un testigo que preferentemente no será el que lo hubiere escrito.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1472.- En el caso del artículo anterior, si supiere escribir y pudiere hacerlo, el testador firmará al calce, rubricará lo escrito e imprimirá su huella digital. Si no supiere o no pudiere escribir, imprimirá su huella digital a (sic) calce de cada una de las hojas y otro testigo más firmará a su ruego.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1473.- Al otorgarse el testamento de que trata este capítulo, se observarán las disposiciones siguientes:
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1472], P.O. 15 DE FEBRERO DE 2006)
+1481.- En el caso del artículo anterior, si supiere escribir y pudiere hacerlo, el testador firmará al calce, rubricará lo escrito e imprimirá su huella digital. Si no supiere o no pudiere escribir, imprimirá su huella digital a (sic) calce de cada una de las hojas y otro testigo más firmará a su ruego.
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1473], P.O. 15 DE FEBRERO DE 2006)
+1482.- Al otorgarse el testamento de que trata este capítulo, se observarán las disposiciones siguientes:
 I.- En el testamento se asentará el lugar, la hora, el día, el mes y el año en que hubiere sido otorgado.
 II.- Los testigos que requiere este testamento, deben saber leer y escribir.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1474.- Al otorgarse el testamento privado también se observarán en su caso, las disposiciones conducentes de los artículos del 1417 al 1423.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1475.- El testamento privado sólo surtirá efectos si el testador fallece por la causa que lo motivó, o dentro de un mes de desaparecida ésta.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1476.- El testamento privado necesita para su validez, la declaración judicial de ésta ajustado a derecho, se dictará conforme al artículo 1480, teniendo en cuenta las declaraciones de los testigos que firmaron u oyeron, en su caso, la voluntad del testador.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1477.- La declaración a que se refiere el artículo anterior será pedida por los interesados, inmediatamente después que supieren la muerte del testador y la forma de su disposición.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1478.- Si después de la muerte del testador y antes de elevarse a formal testamento la que se dice su última disposición, muriese alguno de los testigos o se declare su ausencia, se hará la protocolización con los restantes, con tal que no sean menos de dos, perfectamente contestes y a salvo de toda excepción.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1479.- Los testigos que autoricen un testamento otorgado en los casos que señala el artículo 1470, ante la autoridad judicial deberán declarar circunstancialmente y bajo protesta de decir verdad:
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1474], P.O. 15 DE FEBRERO DE 2006)
+1483.- Al otorgarse el testamento privado también se observarán en su caso, las disposiciones conducentes de los artículos del 1417 al 1423.
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1475], P.O. 15 DE FEBRERO DE 2006)
+1484.- El testamento privado sólo surtirá efectos si el testador fallece por la causa que lo motivó, o dentro de un mes de desaparecida ésta.
+(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 1476], P.O. 15 DE FEBRERO DE 2006)
+1485.- El testamento privado necesita para su validez, la declaración judicial de estar ajustado a derecho, se dictará conforme al artículo 1489, teniendo en cuenta las declaraciones de los testigos que firmaron u oyeron, en su caso, la voluntad del testador.
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1477], P.O. 15 DE FEBRERO DE 2006)
+1486.- La declaración a que se refiere el artículo anterior será pedida por los interesados, inmediatamente después que supieren la muerte del testador y la forma de su disposición.
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1478], P.O. 15 DE FEBRERO DE 2006)
+1487.- Si después de la muerte del testador y antes de elevarse a formal testamento la que se dice su última disposición, muriese alguno de los testigos o se declare su ausencia, se hará la protocolización con los restantes, con tal que no sean menos de dos, perfectamente contestes y a salvo de toda excepción.
+(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 1479], P.O. 15 DE FEBRERO DE 2006)
+1488.- Los testigos que autoricen un testamento otorgado en los casos que señala el artículo 1479, ante la autoridad judicial deberán declarar circunstancialmente y bajo protesta de decir verdad:
 I.- El lugar, la hora, el día, el mes y el año en que se otorgó el testamento.
 II.- Si reconocieron, vieron y oyeron claramente al testador.
 III.- El tenor de la disposición.
 IV.- Si el testador estaba en su cabal juicio y libre de cualquier coacción.
 V.- El motivo por el que se otorgó el testamento privado.
-VI.- En el caso del artículo 1471, quién fue el testigo que lo escribió.
+VI.- En el caso del artículo 1480, quién fue el testigo que lo escribió.
 VII.- Si saben que el testador falleció o no de la enfermedad, o en el peligro en que se hallaba.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1480.- Si los testigos fueron idóneos y estuvieron conformes en todas y cada una de las circunstancias enumeradas en el artículo que precede, el Juez declarará el contenido del documento como formal testamento de la persona de quien se trate; mandará protocolizar el escrito en el que conste el testamento, y dispondrá que se extiendan los testimonios respectivos a las personas que con derecho lo soliciten.
-1481.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-1482.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-1483.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2002)
-CAPITULO VI
-DEL TESTAMENTO MILITAR Y MARITIMO
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1484.- El testamento militar y el marítimo, otorgados conforme a las disposiciones del Código Civil Federal, producirán efectos en el Estado de Chihuahua respecto a las disposiciones testamentarias que deban ejecutarse en éste.
-1485.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-1486.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-1487.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-1488.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2002)
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1480], P.O. 15 DE FEBRERO DE 2006)
+1489.- Si los testigos fueron idóneos y estuvieron conformes en todas y cada una de las circunstancias enumeradas en el artículo que precede, el Juez declarará el contenido del documento como formal testamento de la persona de quien se trate; mandará protocolizar el escrito en el que conste el testamento, y dispondrá que se extiendan los testimonios respectivos a las personas que con derecho lo soliciten.
+(REFORMADO [N. DE E. REUBICADO CON EL ARTÍCULO QUE LO INTEGRA, ANTES CAPÍTULO VI], P.O. 15 DE FEBRERO DE 2006)
 CAPITULO VII
-DEL TESTAMENTO MARITIMO
-1489.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
-(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2002)
-CAPITULO VIII
-DEL TESTAMENTO HECHO FUERA DEL ESTADO
-1490.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2002)
+DEL TESTAMENTO MILITAR Y MARITIMO
+(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 1484], P.O. 15 DE FEBRERO DE 2006)
+1490.- El testamento militar y el marítimo, otorgados conforme a las disposiciones del Código Civil Federal, producirán efectos en el Estado de Chihuahua, respecto a las disposiciones testamentarias que deban ejecutarse en éste.
 TITULO CUARTO
 DE LA SUCESION LEGITIMA
 CAPITULO I
