@@ -1,0 +1,11 @@
+P.O. 12 DE SEPTIEMBRE DE 2007.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Los asuntos que se encuentren en trámite o por iniciar en la Contaduría General del Congreso, al entrar en vigor este Decreto, y que correspondan a las auditorías o revisiones de Cuentas Públicas del ejercicio fiscal del 2006 y anteriores, continuarán tramitándose por la Auditoría Superior en los términos de la Ley Orgánica de la Contaduría General del Congreso del Estado de Chihuahua, hasta su conclusión.
+Para los efectos de este artículo, el Auditor Superior del Estado gozará de las facultades que la Ley Orgánica de la Contaduría General del Congreso del Estado de Chihuahua, le concede al Contador General.
+ARTÍCULO TERCERO.- Las auditorías de las Cuentas Públicas Anuales de los Entes Fiscalizables, se llevarán a cabo por la Auditoría Superior, conforme a las disposiciones de esta Ley, a partir de las correspondientes al ejercicio fiscal 2007 y, en el caso de las Cuentas Públicas trimestrales de los Ayuntamientos, se revisarán a partir del ejercicio fiscal 2008.
+ARTÍCULO CUARTO.- Por lo que respecta a la Auditoría de Gestión, se apegará a lo que establece el artículo quinto transitorio del Decreto No. 922/07 II P.O.
+ARTÍCULO QUINTO.- En todas las disposiciones legales o administrativas, resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia de esta Ley, en que se haga mención a la Contaduría General del Congreso, se entenderán referidos a la Auditoría Superior.
+ARTÍCULO SEXTO.- Todos los bienes, archivos y recursos presupuestales asignados a la Contaduría General del Congreso, pasarán a la Auditoría Superior, quien igualmente se subroga en todos los derechos y obligaciones de aquélla.
+ARTÍCULO SÉPTIMO.- Los servidores públicos y demás personal de la Contaduría General del Congreso pasarán a formar parte de la Auditoría Superior, y se respetarán sus condiciones laborales, antigüedad y demás derechos en los términos de las disposiciones legales aplicables.
+ARTÍCULO OCTAVO.- La Auditoría Superior tendrá un plazo de 90 días hábiles a la entrada en vigor de esta Ley, para expedir el Reglamento de la Ley de Auditoría Superior del Estado.
+ARTÍCULO NOVENO.- Se derogan todas las disposiciones contrarias a la presente Ley.
