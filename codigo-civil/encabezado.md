@@ -285,19 +285,27 @@ I.- Los nombres, apellidos, edad, nacionalidad, ocupación y domicilio, tanto de
 II.- Que no tienen impedimento legal para casarse; y
 III.- Que es su voluntad unirse en matrimonio.
 Este escrito deberá ser firmado por los solicitantes y si alguno no pudiere o no supiere escribir lo hará otra persona conocida mayor de edad y vecina del lugar.
-(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
-94.- Al escrito al que se refiere el artículo anterior, se acompañará:
+(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2007)
+94.- Al escrito que se refiere el artículo anterior, se acompañará:
+(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)
 I.- La copia certificada del acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de 16 años y la mujer mayor de 14;
+(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)
 II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los Artículos 137, 138 y 139 de este Código;
+(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
+(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)
 IV.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. Cuando por cualquier motivo no se acompañare el convenio y el matrimonio se celebrare bajo el régimen de sociedad conyugal, regirán dicha sociedad las reglas que establece este Código.
 Si de acuerdo con lo dispuesto en el Artículo 173 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de ella;
 (F. DE E., P.O. 9 DE ABRIL DE 1988)
 V.- Copia certificada del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad del matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
+(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)
 VI.- Copia certificada de la dispensa de impedimento si lo hubo; y
+(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)
 VII.- Constancia expedida por institución médica oficial o privada en que se acredite haber recibido orientación sobre planificación familiar;
 (ADICIONADA, P.O. 28 DE AGOSTO DE 1993)
 VIII.- Constancia expedida por la Oficina del Registro Civil, en la que se acredita el haber recibido orientación, respecto de los derechos y obligaciones que nacen del matrimonio, así como las sanciones a que se hacen acreedores los cónyuges en los casos de la Comisión de Delitos contra la Familia.
+(ADICIONADA, P.O. 27 DE OCTUBRE DE 2007)
+IX.- Exámenes médicos en los cuales se certifique si existe algún padecimiento o no de los futuros cónyuges, a efecto de que éstos tengan pleno conocimiento de la posible enfermedad.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
 95.- En caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción IV del artículo anterior, tendrá obligación de redactarlo el jefe de la oficina, con los datos que los mismos pretendientes le suministren.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
@@ -444,7 +452,7 @@ IV.- El parentesco de afinidad en la línea recta, sin limitación alguna;
 V.- El adulterio habido entre las personas que pretenden contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
 VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
-VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula, la sífilis, la locura y las enfermedades crónicas e incurables, que sean además contagiosas o hereditarias;
+VIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2007)
 IX.- El idiotismo y la imbecilidad;
 X.- El matrimonio subsiste con persona distinta de aquella con quien se pretende contraer.
 De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
