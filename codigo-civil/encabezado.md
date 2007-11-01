@@ -620,9 +620,15 @@ III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al c�
 IV.- Dictar las medidas convenientes para que el marido no cause perjuicios en sus bienes a la mujer;
 V.- Dictar en su caso, las medidas precautorias que la ley establece respecto de la mujer que quede encinta; y
 VI.- Poner a los hijos al cuidado de la persona que de común acuerdo designen los cónyuges, prefiriendo a uno de ellos. En su defecto, y a propuesta del demandante, el Juez resolverá lo que estime más conveniente a los intereses de los menores.
-247.- Luego que la sentencia sobre nulidad cause ejecutoria los hijos menores de siete años de uno y otro sexo quedarán en poder de la madre. Pasada esta edad y hasta los catorce años, los hijos varones irán con el padre y las hijas con la madre, si de parte de ambos cónyuges hubiera habido buena fe.
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2007)
+247.- Al causar ejecutoria la sentencia sobre nulidad, la autoridad competente resolverá la situación de los menores de edad, preferentemente atendiendo al interés superior del menor, con el siguiente orden: los hijos e hijas menores de siete años, quedarán bajo la guarda y custodia de la madre. Pasada esta edad y hasta la mayoría de edad, podrán quedarse con el padre o la madre, si de parte de ambos cónyuges hubiera habido buena fe.
 Cuando los hijos tengan una edad de 14 años o más, cualquiera que sea su sexo, decidirán su situación por su propia voluntad ante la autoridad judicial.
-248.- Si uno solo de los cónyuges ha procedido de buena fe quedarán todos los hijos bajo su cuidado pero siempre las hijas e hijos menores de siete años se mantendrán al cuidado de la madre hasta que cumplan esta edad, a menos que se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriagarse, tuviere alguna enfermedad contagiosa o por su conducta ofreciere peligro grave para la salud o la moralidad de sus hijos.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2007)
+La autoridad judicial deberá escuchar:
+I.- A los menores de edad, cuando por su propia voluntad o a través de sus representantes lo soliciten; y/o
+II.- Al especialista que por ejercicio de su profesión conozca del hecho, quien deberá estar adscrito al Tribunal o al Sistema para el Desarrollo Integral de la Familia o a los Sistemas para el Desarrollo Integral de la Familia Municipales correspondientes o a la Procuraduría de Defensa del Menor y la Familia.
+(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)
+248.- Cuando uno de los cónyuges ha procedido de buena fe, quedarán todos los hijos e hijas bajo su cuidado, pero preferentemente cuando éstos sean menores de siete años, se mantendrán al cuidado de la madre hasta que cumplan esta edad, a menos que se dedicare al lenocinio, hubiere contraído el hábito de embriagarse o de consumir estupefacientes o por su conducta ofreciere peligro grave para la salud o la moralidad de sus hijos. Esta disposición estará sujeta a la valoración por parte de la autoridad judicial para evitar con ello cualquier violación al interés superior del menor.
 249.- Declarada la nulidad del matrimonio se procederá a la división de los bienes comunes. Los productos repartibles, si los dos cónyuges hubieren procedido de buena fe, se dividirán entre ellos en la forma convenida en las capitulaciones matrimoniales; si sólo hubiere habido buena fe por parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán a favor de los hijos.
 250.- Declarada la nulidad del matrimonio, se observarán respecto de las donaciones antenupciales las reglas siguientes:
 I.- Las hechas por un tercero a los cónyuges, podrán ser revocadas;
@@ -673,12 +679,19 @@ XVIII.- La negativa de uno de los cónyuges a ministrar al otro los alimentos qu
 XIX.- La incompatibilidad de caracteres;
 (ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2001)
 XX.- Las conductas de violencia familiar generadas por un cónyuge contra el otro o en contra de los hijos, conforme a lo previsto por el artículo 300 ter.
-(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)
-256 BIS.- Al admitirse la demanda de divorcio, o antes si hubiere urgencia sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2007)
+256 BIS.- Al admitirse la demanda de divorcio, o antes si hubiere urgencia y sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:
+(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2001)
 I.- Proceder a la separación de los cónyuges de conformidad con el Código de Procedimientos Civiles;
+(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2001)
 II.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;
+(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2001)
 III.- Ordenar la prohibición de ir a un lugar determinado para alguno de los cónyuges, así como cualquier medida necesaria para que cese todo acto de violencia familiar, pensando en el interés del agraviado.
-La protección para los menores implica las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales corresponderá a la Procuraduría de Defensa del Menor y la Familia o de los Sistemas de Desarrollo Integral de la Familia Municipales.
+(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2007)
+IV.- Poner a los hijos e hijas al cuidado de la persona más apta e idónea que mantenga un lazo de parentesco por consanguinidad, estableciendo un régimen de convivencia progresiva de conformidad con las necesidades y edades de los menores. El juez competente dictará las medidas considerando siempre el interés superior del menor y, en su caso, previo estudio psicológico que se practique por un perito autorizado, tanto a los hijos menores como a los progenitores, tomando en cuenta la opinión del menor a través de los medios idóneos.
+Se debe entender por Régimen de Convivencia Progresiva, las circunstancias en que deberá llevarse a cabo la convivencia entre los menores hijos e hijas y el progenitor que no tenga la guarda y custodia de éstos, para lo cual deberá considerarse que las mismas no pongan en riesgo la estabilidad de los menores y procurando que ésta aumente.
+(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)
+La protección para los menores implica las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales corresponderán a la Procuraduría de Defensa del Menor y la Familia o a los Sistemas para el Desarrollo Integral de la Familia Municipales, por lo que deberá darse vista a estas instancias cuando en la tramitación de un juicio se perciba que se pone en riesgo la seguridad de aquéllos.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
 257.- Los cónyuges divorciados podrán contraer nuevo matrimonio inmediatamente después de obtenido el divorcio; pero la mujer no podrá hacerlo si no tuviere trescientos días de separada físicamente de su esposo, o mediare examen médico que acredite que no está embarazada.
 258.- Las acciones de divorcio no podrán ejercitarse cuando haya mediado el perdón expreso o tácito debidamente comprobado.
@@ -692,7 +705,9 @@ La protección para los menores implica las medidas de seguridad, seguimiento y 
 265.- Si el divorcio se decretare por causa que no implique culpabilidad de ninguno de los cónyuges, ambos podrán exigirse recíprocamente alimentos.
 El marido, en todo caso, sólo tendrá derecho a alimentos cuando esté imposibilitado para trabajar y no tenga bienes propios con que subsistir.
 266.- La división de los bienes de la sociedad conyugal, se arreglará en primer lugar, por convenio de las partes. A falta de convenio especial, la división se hará de acuerdo con la ley.
-267.- La situación de los hijos menores se determinará por medio de convenio. Cuando no lo hubiere se estará a lo dispuesto por el artículo 247.
+(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)
+267.- La situación de los hijos e hijas menores se determinará por medio de convenio o, en la ausencia de éste, por el juez competente. En ambos casos se hará conforme a lo establecido por el artículo 247.
+La sentencia que se pronuncie en definitiva, fijará la situación de los hijos e hijas, para lo cual el juez competente deberá resolver todo lo relativo a los derechos y deberes inherentes a la guarda y custodia.
 268.- La situación de los hijos a que se refiere el artículo anterior, puede ser modificada por el juez en interés justificado de ellos.
 (REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2001)
 TITULO SEXTO
@@ -990,8 +1005,9 @@ II.- Por el abuelo y la abuela maternos;
 III.- Por el abuelo y la abuela paternos.
 A falta de padres, los ascendientes mencionados en el orden de las fracciones II y III, a menos que hubiere motivos que el Juez considere suficientes para decidir quiénes la ejercerán.
 392.- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2001)
-(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)
-393.- En caso de separación de los que ejercen la patria potestad, podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el juez resolverá lo conducente oyendo al Ministerio Público.
+(REFORMADO, P.O. 31 DE OCTUBRE DE 2007)
+393.- En caso de separación de los que ejercen la patria potestad, podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores.
+Si existe desacuerdo, el juez resolverá lo conducente oyendo, en su caso, al Ministerio Público, a la Procuraduría de Defensa del Menor y la Familia, al Sistema para el Desarrollo Integral de la Familia Municipal correspondiente o al especialista que por ejercicio de su profesión conozca del hecho.
 (REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)
 394.- Los que ejercen la patria potestad aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos.
 No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición a petición de cualesquiera de ellos, el juez de lo familiar resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá suspenderse o perderse el derecho a la convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
