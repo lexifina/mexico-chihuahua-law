@@ -4631,14 +4631,14 @@ CAPITULO VII
 DE LA FORMA DEL CONTRATO DE COMPRAVENTA
 (REFORMADO, P.O. 30 DE ABRIL DE 2003)
 2186.- El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
-(REFORMADO, P.O. 30 DE ABRIL DE 2003)
-2187.- La venta de bienes inmuebles cuyo precio, valor de avalúo o valor catastral, en el momento de la operación no exceda del equivalente a quinientas veces el salario mínimo, así como la constitución o transmisión de derechos reales estimados hasta la misma cantidad, podrán otorgarse en escrito privado, que se ratificará en los términos de ley.
+(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2007)
+2187.- La venta de bienes inmuebles cuyo precio, valor de avalúo o valor catastral, en el momento de la operación no exceda del equivalente a mil quinientas veces el salario mínimo, así como la constitución o transmisión de derechos reales estimados hasta la misma cantidad, podrán otorgarse en escrito privado, que se ratificará en los términos de ley.
 (REFORMADO, P.O. 30 DE ABRIL DE 2003)
 2188.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del artículo 1728.
 (REFORMADO, P.O. 30 DE ABRIL DE 2003)
 2189.- De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
-(REFORMADO, P.O. 30 DE ABRIL DE 2003)
-2190.- Si el precio, valor del avalúo o valor catastral excede de 500 veces del salario mínimo, en el momento de la operación, la venta se otorgará en escritura pública.
+(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2007)
+2190.- Si el precio, valor del avalúo o valor catastral excede de mil quinientas veces del salario mínimo, en el momento de la operación, la venta se otorgará en escritura pública.
 (REFORMADO, P.O. 30 DE ABRIL DE 2003)
 2191.- El contrato de compraventa de bienes inmuebles, producirá efectos contra terceros a partir de la fecha de su inscripción en el Registro Público de la Propiedad, en los términos prescritos en este Código.
 (REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 30 DE ABRIL DE 2003)
