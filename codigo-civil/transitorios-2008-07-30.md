@@ -1,0 +1,3 @@
+P.O. 30 DE JULIO DE 2008.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- El servicio del Registro Civil se brinda en Oficinas Estatales, Municipales y Seccionales. Las firmas autógrafas podrán aplicarse en cualquier Oficialía del Estado y la electrónica estará vigente en las Oficialías Estatales, en los Centros Digitales de Trámites y Servicios y en las Recaudaciones de Rentas. En las Oficialías Municipales y Seccionales, el Registro Civil tendrá la facultad para incorporarlas a la firma electrónica conforme avance su modernización.
