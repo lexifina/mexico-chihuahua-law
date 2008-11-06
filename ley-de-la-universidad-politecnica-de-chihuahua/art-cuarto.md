@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Los representantes del personal académico del primer Consejo de Calidad, serán designados por el Director del programa académico respectivo, de entre los profesores de mayor nivel académico.

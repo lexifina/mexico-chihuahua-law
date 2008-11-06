@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Una vez nombrado el Rector Fundador, dentro de los 30 días hábiles siguientes, gestionará, convocará y realizará los actos conducentes para la primera integración de la Junta Directiva, y una vez realizado lo anterior, se procederá a designar a los miembros de los órganos colegiados previstos en el presente Decreto, en los términos correspondientes.

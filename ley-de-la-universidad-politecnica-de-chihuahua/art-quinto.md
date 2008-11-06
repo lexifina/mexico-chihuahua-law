@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Se tomarán las medidas presupuestales necesarias para el inicio y permanencia de la Universidad, creada mediante el presente Decreto, en los términos que resulten aplicables por conducto de la Secretaría de Finanzas y Administración.

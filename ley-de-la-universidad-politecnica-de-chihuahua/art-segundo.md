@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El Rector Fundador de la Universidad Politécnica de Chihuahua será nombrado, a la brevedad posible, de común acuerdo por el Gobernador del Estado de Chihuahua y la Secretaría de Educación Pública, a través del Subsecretario de Educación Superior.
