@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- El Secretario de Educación y Cultura del Poder Ejecutivo del Estado, en su calidad de Presidente de la Junta de Gobierno, deberá convocar a la integración de la misma, en un lapso no mayor a treinta días hábiles contados a partir del día siguiente a la entrada en vigor del presente Decreto.

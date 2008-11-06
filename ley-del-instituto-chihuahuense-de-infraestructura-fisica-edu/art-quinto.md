@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- El Director General del Instituto Chihuahuense de Infraestructura Física Educativa del Estado de Chihuahua, será nombrado por el Gobernador del Estado dentro de los 30 días naturales siguientes a la entrada en vigor del presente Decreto.
