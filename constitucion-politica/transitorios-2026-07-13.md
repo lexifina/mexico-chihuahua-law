@@ -1,0 +1,8 @@
+P.O. 13 DE JULIO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 547.- SE REFORMA LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+ARTÍCULO SEGUNDO.- El Tribunal de Justicia Administrativa del Estado de Aguascalientes contará con un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones técnicas, normativas y operativas necesarias para la correcta implementación del sistema de notificaciones electrónicas y el Boletín Procesal en los términos de esta reforma.
+Durante dicho periodo, las notificaciones se seguirán practicando conforme a las disposiciones vigentes con anterioridad a la entrada en vigor del presente Decreto.
+ARTÍCULO TERCERO.- Para el cumplimiento de lo dispuesto en el presente Decreto, el Tribunal de Justicia Administrativa del Estado de Aguascalientes deberá realizar los ajustes presupuestales internos que permitan la viabilidad financiera de la implementación tecnológica, respetando su autonomía técnica y de gestión.
+ARTÍCULO CUARTO.- Las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal, deberán registrar su Dirección de Correo Electrónico institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios administrativos, dentro del plazo de 90 días naturales a que se refiere el artículo segundo transitorio.
+ARTÍCULO QUINTO.- Los procedimientos iniciados con anterioridad a la entrada en vigor de la presente reforma se concluirán de acuerdo a las disposiciones vigentes con las que iniciaron.
