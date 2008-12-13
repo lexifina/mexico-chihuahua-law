@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2008) (F. DE E., P.O. 24 DE DICIEMBRE DE 2008)
+ARTICULO 60 BIS.- Los titulares de cada dependencia a que refiere el artículo anterior, tendrán fe pública respecto a la certificación o constancia que expidan de los documentos y archivos que obren en su poder, con motivo de sus atribuciones. Las certificaciones que expidan en ejercicio de esta facultad, serán bajo su más estricta responsabilidad, por lo que cualquier uso indebido de ésta, será motivo de sanción penal, civil o administrativa, según sea el caso.

@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 30 DE OCTUBRE DE 2004)
-ARTICULO 74 Bis.- Son atribuciones del Director o Jefe de Departamento de Ecología, las siguientes:
+ARTICULO 74 BIS.- Son atribuciones del Director o Jefe de Departamento de Ecología, las siguientes:
 I.- Participar en la creación y administración de áreas naturales protegidas de conformidad con las disposiciones jurídicas aplicables;
 II.- Promover la aplicación de la política ambiental del Municipio en congruencia y coordinación con las disposiciones legales, los planes y programas que se establezcan por la Federación, con la participación que corresponda a otras dependencias del Poder Ejecutivo Estatal;
 III.- Fomentar la elaboración de programas especiales para preservar, restaurar y fortalecer el equilibrio ecológico y la protección al ambiente, así como disminuir la fragilidad ambiental de los ecosistemas, propiciando el aprovechamiento y uso sustentable del medio ambiente y los recursos naturales;
