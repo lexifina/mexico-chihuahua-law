@@ -1,4 +1,4 @@
-(ADICIONADO, P.O. 4 DE ABRIL DE 2009)
+(ADICIONADO], P.O. 4 DE ABRIL DE 2009)
 ARTICULO 84 BIS.- Los comités de vecinos, podrán solicitar a la autoridad municipal competente, la instalación de casetas de acceso y vigilancia, bajo las siguientes bases:
 I.- Deberán estar constituidos y organizados en los términos previstos en este Código.
 II.- La solicitud deberá hacerse a la Dirección de Desarrollo Urbano, con los siguientes requisitos:
