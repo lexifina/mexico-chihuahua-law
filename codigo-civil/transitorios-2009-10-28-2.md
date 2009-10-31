@@ -1,0 +1,6 @@
+P.O. 28 DE OCTUBRE DE 2009.
+DECRETO NÚMERO 728/09 VI P.E. POR EL QUE SE REFORMAN LOS ARTÍCULOS 83, EN SU PRIMER Y SEGUNDO PÁRRAFOS; 272, 367, 368, 369, 373; 374, FRACCIÓN III; 375, 384, 385, 396 Y 1504; SE DEROGAN LOS NUMERALES 379, 379 BIS, 379 TER, 380, 381, 382, 383, 383 BIS, 1512 Y 1513; Y SE DEROGAN DEL CAPÍTULO V DE LA ADOPCIÓN, LAS DENOMINACIONES "A) DISPOSICIONES GENERALES, B) ADOPCIÓN SIMPLE, C) ADOPCIÓN PLENA Y D) ADOPCIÓN INTERNACIONAL", TODOS ELLOS DEL CÓDIGO CIVIL DEL ESTADO.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Las adopciones simples que se encuentren en trámite a la entrada en vigor de las presentes reformas se resolverán de acuerdo con las disposiciones vigentes hasta antes de la publicación del presente Decreto.
+No obstante, si en las adopciones simples que actualmente se tramitan, hubiere la voluntad del o de los adoptantes de obtener la adopción plena, podrá seguir el procedimiento establecido en el presente Decreto.
+Las adopciones simples realizadas con anterioridad a la entrada en vigor del presente Decreto, podrán convertirse a plenas, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.

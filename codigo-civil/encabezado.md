@@ -253,10 +253,10 @@ DE LAS ACTAS DE ADOPCION
 81.- La falta de registro de la adopción no quita a ésta sus efectos legales.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987) (F. DE E., P.O. 3 DE OCTUBRE DE 1987)
 82.- El acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado, de las personas cuyo consentimiento hubiere sido necesario para la adopción y la clave única del registro de población que originalmente le hubiere correspondido al adoptado. Los apellidos de éste se regirán por lo dispuesto en el Artículo 60 de este Código, lo que se proveerá en la resolución judicial, la que se insertará íntegramente en el acta.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-83.- Asentada el acta de adopción simple, se anotará la de nacimiento del adoptado y se archivará la copia de la resolución judicial, poniendo el mismo número del acta de adopción.
-(REFORMADO, P.O. 12 DE JULIO DE 2000)
-Tratándose de la adopción plena, una vez asentada el acta, no se le dará publicidad ni se expedirá copia alguna de la de nacimiento, debiéndose otorgar una nueva acta de nacimiento en los mismos términos que las expedidas para los hijos consanguíneos.
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)
+83.- Asentada el acta de adopción, se anotará la de nacimiento del adoptado y se archivará la copia la (sic) resolución judicial, poniendo el mismo número del acta de adopción.
+(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
+Una vez asentada el acta, no se le dará publicidad ni expedirá copia alguna de la de nacimiento, debiéndose otorgar una nueva acta de nacimiento en los términos que las expedidas para los hijos consanguíneos.
 El Registro Civil se abstendrá de proporcionar información con respecto al origen y demás antecedentes familiares del adoptado, salvo que mediare autorización judicial o bien, cuando el adoptado haya adquirido la mayoría de edad o se trate de una cuestión de orden público o impedimento para contraer matrimonio, sin que se requiera en ninguno de estos dos casos de la autorización judicial.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
 84.- El Tribunal que resuelva que una adopción queda sin efecto, procederá de conformidad con el Artículo 387 de este Código y el jefe de la oficina cancelará el acta de adopción y anotará la de nacimiento.
@@ -731,8 +731,8 @@ DEL PARENTESCO
 269.- La ley no reconoce más parentesco que los de consanguinidad, afinidad y civil.
 270.- El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
 271.- El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-272.- El parentesco civil es el que nace de la adopción. En la adopción simple se produce solamente entre adoptante y adoptado. En la plena, entre el adoptado, el adoptante y los parientes de éste.
+(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
+272.- El parentesco civil es el que nace de la adopción, entre el adoptado, el adoptante y los parientes de éste.
 273.- Cada generación forma un grado, y la serie de grados constituye lo que se llama línea de parentesco.
 274.- La línea es recta o transversal; la recta se compone de la serie de grados entre personas que descienden unas de otras; la transversal se compone de la serie de grados entre personas que sin descender unas de otras, proceden de un progenitor o tronco común.
 275.- La línea recta es ascendente o descendente; ascendente es la que liga a una persona con su progenitor o tronco de que procede; descendente es la que liga al progenitor con los que de él proceden. La misma línea es, pues, ascendente o descendente, según el punto de partida y la relación a que se atiende.
@@ -927,89 +927,59 @@ II.- A ser alimentado por éste;
 III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 CAPITULO V
 DE LA ADOPCION
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-A) DISPOSICIONES GENERALES
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)
-367.- Las personas mayores de edad en pleno ejercicio de sus derechos pueden adoptar a otra menor de edad o a una incapacitada aun cuando sea mayor de edad, siempre que tengan cuando menos diez años más de edad que la que pretendan adoptar.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-Además, acreditar lo siguiente:
-I.- Que tiene medios suficientes para proveer a la subsistencia, cuidado y educación del menor o incapacitado;
-II.- Que la adopción es benéfica para la persona que se pretende adoptar;
-III.- Que el o los adoptantes son personas de buenas costumbres; y
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)
+(DEROGADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2009)
+A)
+(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
+367.- La persona mayor de edad, soltera, en pleno ejercicio de sus derechos, puede adoptar a otra menor de edad o a una incapacitada, aun cuando ésta sea mayor de edad, siempre que el adoptante tenga diez años más que el adoptado y que acredite además:
+I. Que tiene medios bastantes para proveer a la subsistencia, la educación y el cuidado de la persona que trate de adoptarse, como de hijo propio, según las circunstancias de la persona que trata de adoptar;
+II. Que la adopción es benéfica para la persona que trata de adoptarse, atendiendo el interés superior de la misma;
+III. Que el adoptante es persona apta y adecuada para adoptar.
+Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente, y
 IV. La autorización expedida a través de la constancia de idoneidad por el organismo para la asistencia social pública estatal o municipal respectivo, a través de su correspondiente Procuraduría de Asistencia Jurídica y Social o dependencia equivalente.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 En todos los casos prevalecerá el interés superior del adoptado y el respeto a sus derechos fundamentales.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-368.- Los que pretendan adoptar deberán ser un hombre y una mujer casados entre sí o que vivan en concubinato, cuando los dos estén conformes en considerar al adoptado como hijo. Excepto cuando se trate de adopción simple.
-Tratándose de adopción simple en caso de muerte del adoptante o de ambos cónyuges adoptantes, se podrá otorgar una nueva adopción sobre el mismo menor.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-369.- El adoptante dará sus apellidos al adoptado pudiendo otorgarle el nombre, salvo que por circunstancias específicas, en el caso de la adopción simple, no se estime conveniente.
+(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
+368.- Los cónyuges o concubinos podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo, pero siempre y cuando la diferencia de edad de los adoptantes y el adoptado sea de diez años de edad cuando menos. Se deberán acreditar, además, los requisitos previstos en las fracciones del artículo anterior.
+(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
+369.- El adoptante dará sus apellidos al adoptado pudiendo otorgarle el nombre.
 370.- El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
 371.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 1999)
 372.- El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-373.- El adoptado tendrá, para con sus adoptantes, los mismos derechos y obligaciones que tiene un hijo.
+(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
+373.- El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 374.- Para que se autorice la adopción, deberán consentir en ella, en sus respectivos casos:
 (F. DE E., P.O. 31 DE ENERO DE 2004)
 I.- Quien o quienes ejercen la patria potestad sobre el menor que se pretende adoptar; excepto el que haya incumplido con la obligación de suministrar alimentos;
 II.- El tutor;
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)
-III. El organismo para la asistencia social pública estatal o municipal correspondiente, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, cuando no hubiere las personas a que se refieren las dos fracciones anteriores;
+(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)
+III. El organismo para la asistencia social pública estatal o municipal correspondiente, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, cuando no hubiere las personas a que se refieren las dos fracciones anteriores.
 En su caso, estas instituciones pedirán la opinión de la persona que lo haya acogido durante seis meses anteriores a la solicitud de adopción y lo trate como un hijo, y
 IV.- El Ministerio Público en todos los casos.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
+(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE OCTUBRE DE 2009)
 375.- Para los efectos del artículo anterior, si el tutor, el Ministerio Público, el organismo para la asistencia social pública estatal o municipal, según corresponda, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, no consienten en la adopción, deberán expresar la causa en que se funden. El Juez valorará la objeción y atendiendo a los intereses de quien se pretende adoptar, resolverá lo que a su recto criterio proceda.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 376.- El procedimiento judicial para llevar a cabo la adopción se sujetará a lo establecido en el Código de Procedimientos Civiles.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 377.- La adopción quedará consumada una vez que cause ejecutoria la resolución que la autorice.
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-B) ADOPCION SIMPLE
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-379.- La adopción simple confiere al adoptado la posición del hijo consanguíneo, pero no crea vínculo de parentesco entre aquél y la familia biológica del adoptante, sino a los efectos expresamente determinados en este Código.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-379 BIS.- Los derechos y deberes que resulten del vínculo biológico del adoptado no quedan extinguidos por la adopción con excepción de la patria potestad, inclusive la administración y usufructo de los bienes del menor se transfieren al adoptante, salvo cuando se adopte al hijo del cónyuge.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)
-379 TER.- La adopción simple puede convertirse en plena. En este caso, si el adoptado ya hubiere cumplido los catorce años de edad se requerirá su consentimiento. Si no la tuviere, el consentimiento lo dará el organismo para la asistencia social pública estatal o municipal, según corresponda, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-Dicha conversión deberá ser autorizada por el Juez una vez que se haya obtenido el consentimiento de aquellos que participaron en el otorgamiento de la adopción simple siempre y cuando sea posible, en caso contrario, deberán otorgar la autorización las instituciones señaladas en el artículo 374, fracciones III y IV de este Código.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-380.- El o los adoptantes ejercerán la patria potestad sobre el menor. Si uno de los adoptantes está casado con el progenitor del adoptado, la ejercerán conjuntamente.
-381.- La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-382.- La adopción simple será revocable en los siguientes casos:
-I.- Por acuerdo de quienes hayan participado en la adopción, siempre y cuando el adoptado haya adquirido la mayoría de edad;
-II.- Cuando a juicio del Juez considere que la revocación sea benéfica para los intereses del adoptado;
-III.- Por ingratitud del adoptado;
-IV.- Por ejercer violencia intrafamiliar el adoptante en contra del adoptado o a la inversa; y
-V.- Por inducir el adoptante o sus parientes, al adoptado, a la perversión física o moral, a la corrupción o a la mendicidad, así como cometer en contra del adoptado los actos de explotación, ya sea que la procure o la facilite, o incurra en actos contra la libertad y el normal desarrollo psicosexual de propio adoptado.
-El menor o el incapacitado que hayan sido adoptados, podrán impugnar la adopción dentro del año siguiente a la mayoría de edad o a la fecha en que desaparezca la incapacidad, según sea el caso, siempre y cuando se haya incumplido con los fines de la adopción.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(DEROGADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE OCTUBRE DE 2009)
+B)
+379.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+379 BIS.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+379 TER.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+380.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+381.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+382.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+383.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+383 BIS.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+(DEROGADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2009)
+C)
 (REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
-En los supuestos de las fracciones II, IV y V, los hechos podrán ser denunciados por cualquier pariente del adoptado, por el organismo para la asistencia social pública estatal o municipal, según corresponda, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-383.- Para los efectos de la fracción III del artículo inmediato anterior, se considerará ingrato al adoptado:
-I.- Si comete algún delito intencional o doloso que merezca una pena mayor de un año de prisión contra la persona, la honra o los bienes del adoptante, de su cónyuge, de su ascendiente u otros adoptados;
-II.- Si el adoptado imputa legalmente al adoptante la comisión de algún delito grave que puede ser perseguido de oficio, aunque lo pruebe, a no ser que hubiera sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes; o
-III.- Si incumple con su deber de proporcionar alimentos al adoptante.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-383 BIS.- La resolución judicial que revoque la adopción, restituye las cosas al estado que guardaban antes de autorizarse aquélla. La resolución se comunicará al Oficial del Registro Civil respectivo para que cancele el acta relativa.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-C) ADOPCION PLENA
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-384.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-385.- La adopción plena es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1999)
-D) ADOPCION INTERNACIONAL
+384.- El adoptado adquirirá la misma condición de un hijo consanguíneo con respecto al adoptante y a la familia de éste.
+(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
+385.- La adopción es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos los efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
+(DEROGADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2009)
+D)
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
@@ -1042,8 +1012,8 @@ Si existe desacuerdo, el juez resolverá lo conducente oyendo, en su caso, al Mi
 No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición a petición de cualesquiera de ellos, el juez de lo familiar resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá suspenderse o perderse el derecho a la convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
 (REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)
 395.- Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de un menor.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-396.- La patria potestad sobre el hijo adoptivo la ejercerán, en la adopción simple, exclusivamente las personas que lo adopten; en la adopción plena, se estará a lo dispuesto por el artículo 391.
+(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
+396.- La patria potestad sobre el hijo adoptivo se ejercerá conforme a las reglas del artículo 391.
 397.- Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 398.- Mientras permanezca el hijo sujeto a la patria potestad, no podrá dejar la casa de los que la ejerzan sin permiso de ellos o por resolución de autoridad competente.
@@ -3369,8 +3339,8 @@ DE LA SUCESION DE LOS DESCENDIENTES
 1502.- Si sólo quedaren descendientes de ulterior grado, la herencia se dividirá por estirpes. Si en alguna de éstas hubiere varios herederos, la porción que a esa estirpe corresponda se dividirá por partes iguales.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1503.- Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos cuando el autor de la herencia estuviere obligado a proporcionarlos. En ningún caso pueden exceder de la porción de uno de los hijos.
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1504.- El adoptado hereda como un hijo. En la adopción simple no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
+1504.- El adoptado hereda como un hijo.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1505.- Concurriendo los padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos, cuando el adoptado tuviere obligación de proporcionarlos.
 1506.- Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
@@ -3381,10 +3351,8 @@ DE LA SUCESION DE LOS ASCENDIENTES
 1509.- Si sólo hubiere ascendientes de ulterior grado por una línea se dividirá la herencia por partes iguales.
 1510.- Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos partes iguales, y se aplicará una a los ascendientes de la línea paterna y otra a los de la materna.
 1511.- Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-1512.- En la adopción simple concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-1513.- Si concurren los adoptantes y el cónyuge del adoptado ya se está en el caso de la adopción simple, las dos terceras partes de la herencia corresponderán al cónyuge; la otra tercera pare a los adoptantes.
+1512.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
+1513.- (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1514.- Si el reconocimiento de un hijo se hace después de que éste haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer fundadamente que motivó el reconocimiento, ni el que reconoce ni sus descendientes tienen derecho a la herencia del reconocido. Además, el que reconoce sólo tiene derecho a alimentos en el caso de que el reconocimiento lo haya hecho cuando el reconocido tuvo también derecho a percibirlos.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
