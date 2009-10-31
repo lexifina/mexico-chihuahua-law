@@ -1,0 +1,1 @@
+ARTÍCULO UNDÉCIMO. Las relaciones laborales de los trabajadores con que cuente la Junta de Asistencia Privada a la entrada en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que les dieron origen.

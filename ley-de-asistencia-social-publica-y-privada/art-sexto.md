@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO. Las relaciones laborales de los trabajadores con que cuente el organismo para la asistencia social pública a la entrada en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que les dieron origen.

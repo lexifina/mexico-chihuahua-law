@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO. En los ordenamientos jurídicos estatales que refieran la existencia de la Beneficencia Pública, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la asistencia social pública u organismo para la asistencia social pública, conocido actualmente como DIF Estatal.

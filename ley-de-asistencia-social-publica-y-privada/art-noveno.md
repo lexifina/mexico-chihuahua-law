@@ -1,0 +1,1 @@
+ARTÍCULO NOVENO. En los ordenamientos jurídicos estatales que refieran la existencia de la Procuraduría para la Defensa del Menor y la Familia, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Procuraduría de Asistencia Jurídica y Social, a través de sus correspondientes Subprocuradurías Especializadas.

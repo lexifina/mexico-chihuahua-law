@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO. El Poder Ejecutivo del Estado deberá tener diseñado, a más tardar en el mes de octubre del año dos mil nueve, el apartado en materia de asistencia social que formará parte del Programa Estatal de Desarrollo Social y Humano.

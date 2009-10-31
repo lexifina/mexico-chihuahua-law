@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO. Los asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante el Sistema para el Desarrollo Integral de la Familia del Estado de Chihuahua, continuarán rigiéndose hasta su conclusión por las disposiciones legales que les dieron origen.
