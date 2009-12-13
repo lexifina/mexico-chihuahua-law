@@ -1,0 +1,35 @@
+(REFORMADO, P.O. 13 DE JULIO DE 1988)
+Art. 109.- Corresponde al Pleno del Supremo Tribunal de Justicia:
+I.- Iniciar ante el Congreso Leyes y decretos, conforme a esta Constitución.
+II.- Emitir su opinión sobre los proyectos de ley o decreto relativos a la legislación civil, penal, de procedimientos y organización de tribunales, cuando con ese fin se los remita el Congreso.
+III.- Crear la Sala correspondiente cuando la elección de un Magistrado así lo amerite.
+IV.- Nombrar y remover.
+a).- A los Jueces del Estado.
+b).- Libremente: a los Secretarios de Salas, visitadores judiciales y demás funcionarios y empleados, cuya designación y remoción no esté determinada de otra forma en esta Constitución o en la Ley.
+(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)
+V.- Nombrar a su Presidente de entre sus integrantes, mediante votación por mayoría calificada de las dos terceras partes de los magistrados presentes en el Pleno.
+(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)
+VI.- Crear y suprimir juzgados de acuerdo a las necesidades de la administración de justicia.
+(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)
+VII.- Conceder licencias a los magistrados, para separarse de sus cargos cuando aquéllas pasen de cinco días, pero no de veinte.
+(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)
+VIII.- Conceder licencias por más de diez días y hasta por seis meses a funcionarios y empleados del Poder Judicial.
+(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)
+IX.- Suspender hasta por tres meses, por causa grave y justificada que no sea motivo de proceso, a los funcionarios y empleados del Poder Judicial.
+Podrá suspenderlos también, durante todo el tiempo que fuere necesario para realizar las investigaciones conducentes, con objeto de determinar su responsabilidad.
+(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)
+X.- Aprobar sus reglamentos interiores.
+(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)
+XI.- Formular y aplicar los exámenes de oposición para la designación de los Jueces de Primera Instancia.
+(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)
+XII.- Formular el Proyecto de Presupuesto de Egresos del Poder Judicial, así como administrar y ejercer el que le sea aprobado por el Congreso del Estado.
+(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)
+XIII.- Dirimir los conflictos que surjan entre el Poder Ejecutivo y el Legislativo del Estado, siempre que no sean de la competencia de la Cámara de Senadores del Congreso de la Unión o de la Suprema Corte de Justicia de la Nación.
+(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)
+XIV.- Resolver las controversias que se susciten entre los ayuntamientos y el Congreso del Estado.
+(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)
+XV.- Resolver los conflictos que se susciten entre dos o más municipios de la entidad, así como entre los municipios y el Ejecutivo del Estado, en los términos que disponga la ley.
+(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)
+XVI.- Conocer sobre las violaciones a los derechos de los gobernados en los términos del artículo 200 de esta Constitución; y
+(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2007)
+XVII.- Ejercer las demás atribuciones que le señalan las leyes.
