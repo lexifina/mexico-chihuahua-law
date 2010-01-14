@@ -1,0 +1,3 @@
+P.O. 13 DE ENERO DE 2010.
+PRIMERO.- Se declara la validez de los estudios que en su caso hayan impartido las Universidades Tecnológicas de Ciudad Juárez y de Chihuahua, respectivamente, con motivo de la celebración de los Convenios suscritos en cada caso en fecha 04 de mayo de 2009, para los efectos de ampliar su oferta educativa a Profesional Asociado de otras Instituciones de Educación Superior, que permitan a los estudiantes alcanzar el nivel académico de Licenciatura, así como programas de continuidad de estudios conducentes.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
