@@ -313,8 +313,8 @@ V.- Copia certificada del acta de defunción del cónyuge fallecido, si alguno d
 VI.- Copia certificada de la dispensa de impedimento si lo hubo; y
 (REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)
 VII.- Constancia expedida por institución médica oficial o privada en que se acredite haber recibido orientación sobre planificación familiar;
-(ADICIONADA, P.O. 28 DE AGOSTO DE 1993)
-VIII.- Constancia expedida por la Oficina del Registro Civil, en la que se acredita el haber recibido orientación, respecto de los derechos y obligaciones que nacen del matrimonio, así como las sanciones a que se hacen acreedores los cónyuges en los casos de la Comisión de Delitos contra la Familia.
+(REFORMADA, P.O. 24 DE FEBRERO DE 2010)
+VIII.- Constancia expedida por la Oficina del Registro Civil, en la que se acredita el haber recibido orientación, respecto de los derechos y obligaciones que nacen del matrimonio, así como de las sanciones a que se hacen acreedores los cónyuges en los casos de la comisión de delitos contra la Familia, haciendo especial énfasis en proporcionar información y orientación para prevenir la violencia familiar.
 (ADICIONADA, P.O. 27 DE OCTUBRE DE 2007)
 IX.- Exámenes médicos en los cuales se certifique si existe algún padecimiento o no de los futuros cónyuges, a efecto de que éstos tengan pleno conocimiento de la posible enfermedad.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
