@@ -1,0 +1,4 @@
+P.O. 26 DE JUNIO DE 2010.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Lo dispuesto en los artículos 7, fracción V; 15, 74, 89, 115, 134, 135, 136, 137, 138, 139, 140 y 141, en lo relativo a la utilización de la firma electrónica, entrará en vigor un año después de su publicación en el Periódico Oficial del Estado. Así mismo, lo dispuesto en el artículo 281, segundo párrafo, del Código Administrativo, en cuanto hace a la suplencia del Director, continuará en vigor hasta en tanto no se reforme la Ley de Notariado y se expida el Reglamento respectivo.
+ARTÍCULO TERCERO.- El Titular del Ejecutivo Estatal contará con un término de noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, para expedir la reglamentación correspondiente a la presente Ley.
