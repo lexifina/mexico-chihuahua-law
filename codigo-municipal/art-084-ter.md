@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 17 DE JULIO DE 2010)
+ARTICULO 84 TER.- Antes de que se resuelva la solicitud, cualquier vecino, que acredite su interés, podrá acudir a la Dirección de Desarrollo Urbano del Municipio a presentar oposición fundada, que deberá ser resuelta previamente, oyendo a todos los interesados en una sola audiencia, en la que podrán desahogarse pruebas.
+De considerar justificada la oposición, sin necesidad de atender a los demás requisitos establecidos por el Artículo 84 Bis, la solicitud de instalación de casetas de acceso y vigilancia o mecanismos automatizados de restricción de tránsito será negada.
+En caso de que la oposición no resulte justificada, se verificarán los demás requisitos previstos en la Ley y, de ser satisfechos, se procederá a otorgar la autorización solicitada por la mayoría calificada de vecinos.
