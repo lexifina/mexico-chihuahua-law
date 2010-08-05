@@ -1,0 +1,4 @@
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
+(ADICIONADO, P.O. 6 DE FEBRERO DE 2010)
+Artículo 90 Bis.- En el caso de detención de conductores que se encuentren bajo los efectos de la ingesta de alcohol, la sanción consistirá en la suspensión de la licencia y en la canalización para la asistencia obligatoria a un mínimo de diez sesiones de Alcohólicos Anónimos, en un periodo de treinta días, a criterio del Oficial Calificador, tomando en cuenta el grado de intoxicación alcohólica y, en caso de reincidencia, a veinte sesiones, en un periodo de sesenta días.
+En todos los casos, la licencia para conducir quedará suspendida en tanto no se cumpla la sanción, mediante documento por escrito que acredite la asistencia a las sesiones.
