@@ -1,4 +1,3 @@
-N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE AGOSTO DE 2010 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 EL CIUDADANO LICENCIADO OSCAR FLORES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
@@ -794,12 +793,11 @@ V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abando
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2001)
 CAPITULO III
 DE LA VIOLENCIA FAMILIAR
-(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)
-300 BIS.- Toda y todo integrante de la familia o unidad doméstica tiene derecho a que las y los demás miembros le respeten su integridad física, sexual y psicológica, con el objeto de contribuir a su sano desarrollo. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
-(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)
+(REFORMADO, P.O. 4 DE AGOSTO DE 2010)
+300 BIS.- Toda persona integrante de la familia o unidad doméstica tiene derecho a que los demás miembros le respeten su integridad física, sexual, psicológica, patrimonial y económica, con el objeto de contribuir a su sano desarrollo. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes, para prevenir y combatir conductas de violencia familiar.
+(REFORMADO, P.O. 4 DE AGOSTO DE 2010)
 300 TER.- Quienes integren una familia o unidad doméstica o que tengan cualquier otra relación interpersonal están obligados a evitar conductas que generen violencia familiar.
-(REFORMADO, P.O. 3 DE JULIO DE 2004)
-Por violencia familiar se entiende cualquier acción o conducta que pueda causar la muerte, daño o sufrimiento físico, sexual o psicológico que tenga lugar dentro de la familia o unidad doméstica o en cualquier otra relación interpersonal, ya sea que la o el agresor comparta o haya compartido el mismo domicilio que el o la agredida.
+Por violencia familiar se entiende cualquier acción u omisión que pueda causar la muerte, daño o sufrimiento físico, sexual, psicológico, patrimonial o económico, que tenga lugar dentro de la familia o unidad doméstica o en cualquier otra relación interpersonal, ya sea que la o el agresor comparta o haya compartido el mismo domicilio que el o la agredida.
 TITULO SEPTIMO
 DE LA PATERNIDAD Y FILIACION
 CAPITULO I
@@ -4801,7 +4799,7 @@ DE LAS DONACIONES EN GENERAL
 (ADICIONADO, P.O. 30 DE ABRIL DE 2003)
 En las donaciones, los condueños no gozarán del derecho del tanto.
 (REFORMADO, P.O. 30 DE ABRIL DE 2003)
-2238.- La aceptación de las donaciones se hará en la misma forma en estas deben hacerse, pero no surtirá efectos sino se hiciere en vida del ddonante.
+2238.- La aceptación de las donaciones se hará en la misma forma en estas deben hacerse, pero no surtirá efectos sino se hiciere en vida del donante.
 (REFORMADO, P.O. 30 DE ABRIL DE 2003)
 2239.- Es nula la donación que comprenda la totalidad de los bienes del donante, si éste no se reserva en propiedad o en usufructo lo necesario para vivir según sus circunstancias.
 (REFORMADO, P.O. 30 DE ABRIL DE 2003)
