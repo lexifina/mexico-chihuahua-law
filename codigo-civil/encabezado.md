@@ -1,5 +1,4 @@
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
-N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 7 DE AGOSTO DE 2010 NO APLICA AL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 1098/2010 II P.O., PUBLICADO EN EL P.O. DE 10 DE JULIO DE 2010.
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 EL CIUDADANO LICENCIADO OSCAR FLORES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 Que el Honorable Congreso del Estado, se ha servido expedir el siguiente
@@ -203,9 +202,8 @@ Además de los nombres de los padres, se hará constar en el acta de nacimiento 
 63.- Si el padre o la madre no pudieren concurrir ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del jefe de la oficina, éste pasará al lugar en que se halle el interesado y allí levantará el acta.
 (ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 1987)
 64.- Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá asentarse como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
-65.- Toda persona que encontrare a otra menor de edad abandonada o en cuya casa o propiedad fuere expuesta, deberá entregarla dentro de los tres días siguientes del hallazgo al organismo para la asistencia social pública estatal o municipal correspondiente, con los vestidos, documentos y cualquier otro objeto encontrados y declarará el día, lugar y demás circunstancias que hubieren ocurrido y el organismo respectivo procederá sin demora a presentar a la persona menor de edad ante el Registro Civil para inscribir su nacimiento, si fuere el caso, proveyendo además, a la custodia provisional de aquélla y dando cuenta al Ministerio Público de la adscripción.
+(REFORMADO, P.O. 25 DE AGOSTO DE 2010)
+65.- Toda persona que encontrare a otra menor de edad abandonada, maltratada o expuesta, en los términos del artículo 469, deberá entregarla dentro de los tres días siguientes del hallazgo al organismo para la asistencia social pública estatal o municipal correspondiente, con los vestidos, documentos y cualquier otro objeto encontrados y declarará el día, lugar y demás circunstancias que hubieren ocurrido y el organismo respectivo procederá sin demora a presentar a la persona menor de edad ante el Registro Civil para inscribir su nacimiento, si fuere el caso, proveyendo además, a la custodia provisional de aquélla y dando cuenta al Ministerio Público de la adscripción.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
 66.- La misma obligación tienen los jefes, directores o administradores de las prisiones y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos y expuestos en ellas.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
@@ -929,16 +927,21 @@ CAPITULO V
 DE LA ADOPCION
 (DEROGADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2009)
 A)
-(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
-367.- La persona mayor de edad, soltera, en pleno ejercicio de sus derechos, puede adoptar a otra menor de edad o a una incapacitada, aun cuando ésta sea mayor de edad, siempre que el adoptante tenga diez años más que el adoptado y que acredite además:
+(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2010)
+367.- La persona mayor de edad, soltera, en pleno ejercicio de sus derechos, puede adoptar a otra menor de edad o a una incapacitada, aun cuando ésta sea mayor de edad, siempre que el adoptante tenga quince años más que el adoptado y que acredite además:
+(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)
 I. Que tiene medios bastantes para proveer a la subsistencia, la educación y el cuidado de la persona que trate de adoptarse, como de hijo propio, según las circunstancias de la persona que trata de adoptar;
+(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)
 II. Que la adopción es benéfica para la persona que trata de adoptarse, atendiendo el interés superior de la misma;
+(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)
 III. Que el adoptante es persona apta y adecuada para adoptar.
 Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente, y
+(REFORMADA, P.O. 28 DE OCTUBRE DE 2009)
 IV. La autorización expedida a través de la constancia de idoneidad por el organismo para la asistencia social pública estatal o municipal respectivo, a través de su correspondiente Procuraduría de Asistencia Jurídica y Social o dependencia equivalente.
-En todos los casos prevalecerá el interés superior del adoptado y el respeto a sus derechos fundamentales.
 (REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
-368.- Los cónyuges o concubinos podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo, pero siempre y cuando la diferencia de edad de los adoptantes y el adoptado sea de diez años de edad cuando menos. Se deberán acreditar, además, los requisitos previstos en las fracciones del artículo anterior.
+En todos los casos prevalecerá el interés superior del adoptado y el respeto a sus derechos fundamentales.
+(REFORMADO, P.O. 25 DE AGOSTO DE 2010)
+368.- Los cónyuges o concubinos podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo, pero siempre y cuando la diferencia de edad de los adoptantes y el adoptado sea de quince años de edad cuando menos. Se deberán acreditar, además, los requisitos previstos en las fracciones del artículo anterior.
 (REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
 369.- El adoptante dará sus apellidos al adoptado pudiendo otorgarle el nombre.
 370.- El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
@@ -980,8 +983,13 @@ C)
 385.- La adopción es irrevocable. Confiere al adoptado una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia biológica y se extingue el parentesco con los integrantes de ésta, así como todos los efectos jurídicos, con la sola excepción de que subsisten los impedimentos matrimoniales.
 (DEROGADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2009)
 D)
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos.
+(REFORMADO, P.O. 25 DE AGOSTO DE 2010)
+386.- En igualdad de circunstancias, se preferirá como adoptantes a ciudadanos mexicanos. En cuanto a los adoptantes extranjeros se tendrá preferencia por aquellos ciudadanos de países en los que las niñas, niños y adolescentes que hayan de ser adoptados, gocen de garantías y normas equivalentes a las existentes en nuestro país en materia de adopción, protección y defensa de menores de edad e incapacitados, además de que hayan suscrito y ratificado los tratados internacionales que, en materia de derechos humanos y adopción, México reconoce.
+(ADICIONADO, P.O. 25 DE AGOSTO DE 2010)
+386 BIS.- La adopción internacional se promueve por ciudadanos de otro país con residencia habitual fuera del territorio nacional, y tiene como objeto incorporar en una familia a una persona menor de edad de nacionalidad mexicana que no puede encontrar una en su propio país de origen.
+La adopción promovida por ciudadanos de otro país, con residencia permanente en el Estado, se regirá por lo dispuesto en este Código.
+(ADICIONADO, P.O. 25 DE AGOSTO DE 2010)
+386 TER.- El juez, antes de otorgar una adopción internacional y, tomando en consideración el interés superior del menor, concederá un plazo de treinta días naturales al organismo para la asistencia social pública, como autoridad central en materia de adopciones, para que a través de la Procuraduría de Asistencia Jurídica y Social presente propuesta de adopción de la persona menor de edad en su estado o país de origen.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 387.- La adopción internacional se sujetará a lo dispuesto en los tratados internacionales y convenciones que se celebren en la materia.
 Las adopciones constituidas en el extranjero, que no sean contrarias al interés del menor y al orden público, tendrán plena validez en el Estado, cuando así lo establezcan los tratados internacionales celebrados por el estado mexicano.
@@ -1077,8 +1085,14 @@ III.- Cuando por las costumbres depravadas de los padres, maltrato infantil, exp
 IV.- Cuando quien la ejerza deje expósito al menor por un plazo de más de 30 días naturales;
 V.- Cuando quien la ejerza deje de asistir y convivir injustificadamente con el menor por más de 7 días naturales cuando éste se encuentre acogido en una Institución pública de asistencia social; o
 VI.- Por abandono del menor durante un plazo de 60 días naturales, aun cuando no se comprometa su salud, seguridad o moralidad.
+(ADICIONADA, P.O. 25 DE AGOSTO DE 2010)
+VII.- Cuando quien la ejerza otorgue su consentimiento de dar en adopción a la persona menor de edad, en cuyo caso, el Juez de lo Familiar se asegurará de que haya sido otorgado sin vicio alguno.
+(ADICIONADA, P.O. 25 DE AGOSTO DE 2010)
+VIII.- Cuando la persona menor de edad estuviese en un establecimiento asistencial y quienes la ejerzan se hubieran desentendido totalmente de la misma durante un año o cuando el desamparo moral o material resulte evidente, manifiesto y continuo.
 (ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)
 421 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas por el artículo 300 ter de este Código en contra de las personas sobre las cuales la ejerza.
+(ADICIONADO, P.O. 25 DE AGOSTO DE 2010)
+Cuando se trate de personas menores de edad que se encuentren en situación de desamparo o hayan sido objeto de maltrato por quienes ejercen la patria potestad, según lo dispuesto en el artículo 469 de este Código, y se encuentren internadas en un establecimiento de asistencia social bajo la supervisión de la Procuraduría de Asistencia Jurídica y Social, esta tendrá la facultad de iniciar el juicio de pérdida de patria potestad en un plazo no mayor a treinta días.
 422.- La madre o abuela que pase a segundas nupcias, no pierde por este hecho la patria potestad.
 423.- El nuevo marido no ejercerá la patria potestad sobre los hijos del matrimonio anterior.
 424.- La patria potestad se suspende:
@@ -1159,10 +1173,12 @@ N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRA
 (REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2009)
 CAPITULO V
 DE LA TUTELA LEGITIMA DE LAS PERSONAS MENORES DE EDAD ABANDONADAS Y DE LAS ACOGIDAS POR ALGUN PARTICULAR O DEPOSITADAS EN ESTABLECIMIENTOS DE ASISTENCIA SOCIAL
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-469.- Se considerará expósito al menor cuyo origen se desconoce y se encuentra en situación de desamparo.
-Se considera abandono al menor que conociendo su origen, quienes ejercen la patria potestad o la tutela omiten cumplir con sus deberes.
-En ambos casos se estará a lo dispuesto por el artículo 65 de este Código.
+(REFORMADO, P.O. 25 DE AGOSTO DE 2010)
+469.- Se considerará a la persona menor de edad:
+I. Expósita, cuando se desconoce su origen y se encuentra en situación de desamparo.
+II. Maltratada, aquella que sufra daño físico, emocional o sexual en su persona, por acción u omisión, en forma intencional o por negligencia inexcusable, por quienes ejercen la patria potestad, custodia, tutela o por cualquier otra causa lo tengan bajo su cuidado, según lo dispuesto en el Código para la Protección y Defensa del Menor; y
+III. Abandonada, cuando conociendo su origen, quienes ejercen la patria potestad o la tutela omiten cumplir con sus deberes.
+En todos los casos se estará a lo dispuesto por el artículo 65 de este Código.
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)
 470.- los directores de los albergues, casas hogar y demás establecimientos de asistencia social donde se reciban personas menores de edad en calidad de expósitos, abandonadas, maltratadas, víctimas de violencia familiar, explotadas, migrantes, repatriadas o por cualquier otra circunstancia que atente contra su integridad física o mental, deberán dar aviso al Ministerio Público y al organismo para la asistencia social pública estatal o municipal, según corresponda, para que por conducto de su respectiva Procuraduría de Asistencia Jurídica y Social se aboquen al desempeño de la tutela de aquéllas con arreglo a las leyes.
