@@ -1,5 +1,4 @@
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
-N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 1 DE SEPTIEMBRE DE 2010.
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 EL CIUDADANO LICENCIADO OSCAR FLORES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 Que el Honorable Congreso del Estado, se ha servido expedir el siguiente
@@ -120,7 +119,9 @@ Toda acta deberá asentarse en las formas especiales que determine el Ejecutivo,
 38.- Las actas del registro civil sólo se pueden asentar en las formas de que habla el artículo anterior.
 (REFORMADO, P.O. 17 DE MAYO DE 1989)
 39.- Si se perdiere o destruyere alguno de los libros o formas del Registro, se sacará directamente copia del otro ejemplar, ya sea que la pérdida ocurra en las Oficinas del Registro Civil o en el archivo del Departamento, al cual deberán remitirse los duplicados.
-El Procurador General de Justicia cuidará de que se cumpla esta disposición y con ese objeto el Jefe de la Oficina correspondiente o el Jefe del Departamento, deberán darle aviso de la pérdida.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)
+El Fiscal General del Estado cuidará de que se cumpla esta disposición y con ese objeto el Jefe de la Oficina correspondiente o el Jefe del Departamento, deberán darle aviso de la pérdida.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
 40.- El estado civil de las personas sólo se comprueba por las constancias relativas del registro. Ningún otro documento ni medio de prueba es admisible para comprobar el estado civil, salvo los casos expresamente exceptuados por la Ley.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)

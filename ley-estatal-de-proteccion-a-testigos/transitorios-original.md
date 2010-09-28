@@ -6,3 +6,4 @@ PRESIDENTE DIP. GERARDO ALBERTO FIERRO ARCHULETA. Rúbrica. SECRETARIA DIP. MAR�
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinte días del mes de julio del año dos mil nueve.
 El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. El Secretario General de Gobierno. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
