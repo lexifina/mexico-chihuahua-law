@@ -4,3 +4,4 @@ PRESIDENTE. DIP. RICARDO YÁÑEZ HERRERA. Rúbrica. SECRETARIA. DIP. REBECA ACOS
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintitrés días del mes de septiembre del año dos mil diez.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
