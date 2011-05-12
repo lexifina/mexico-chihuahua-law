@@ -1,5 +1,5 @@
 ARTICULOS TRANSITORIOS
-PRIMERO.- Esta ley entrará en vigor el 1o,. de enero de 1995.
+PRIMERO.- Esta ley entrará en vigor el 1o., de enero de 1995.
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente ley.
 TERCERO.- Las entidades a las que se refiere esta ley deberán actualizar sus registros de deuda en los términos a que la misma se refiere, en un plazo no mayor de sesenta días de su entrada en vigor.
 DADO en el Palacio del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los quince días del mes de Noviembre de Mil Novecientos Noventa y Cuatro.
@@ -14,4 +14,4 @@ En la ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintisiete dí
 C.P. FRANCISCO JAVIER BARRIO TERRAZAS
 EL SECRETARIO DE GOBIERNO
 LIC. EDUARDO ROMERO RAMOS
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
