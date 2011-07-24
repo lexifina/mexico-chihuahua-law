@@ -465,7 +465,8 @@ V.- El adulterio habido entre las personas que pretenden contraer matrimonio, cu
 VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
 VIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2007)
-IX.- El idiotismo y la imbecilidad;
+(REFORMADA, P.O. 23 DE JULIO DE 2011)
+IX.- La discapacidad mental o intelectiva;
 X.- El matrimonio subsiste con persona distinta de aquella con quien se pretende contraer.
 De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
@@ -819,7 +820,8 @@ IV.- Si el hijo no nació capaz de vivir.
 306.- Las cuestiones relativas a la paternidad del hijo nacido después de 300 días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
 307.- En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el engaño, si se le ocultó el nacimiento.
-308.- Si el marido estaba bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+(REFORMADO, P.O. 23 DE JULIO DE 2011)
+308.- Si el marido estaba bajo tutela por causa de discapacidad mental o intelectiva, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 309.- Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
 310.- Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los 180 días de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la demanda, sesenta días contados, desde aquél en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
 311.- Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias dentro del período prohibido por el artículo 146, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
@@ -1112,7 +1114,8 @@ DISPOSICIONES GENERALES
 En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores a las modalidades de que habla la parte final del artículo 390.
 427.- Tienen incapacidad natural y legal:
 I.- Los menores de edad;
-II.- Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aun cuando tengan intervalos lúcidos;
+(REFORMADA, P.O. 23 DE JULIO DE 2011)
+II.- Los mayores de edad privados de inteligencia por discapacidad mental o intelectiva, aun cuando tengan intervalos lúcidos;
 III.- Los sordomudos que no saben leer ni escribir;
 IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado de drogas enervantes.
 428.- Los menores de edad emancipados tienen incapacidad legal para los actos que se mencionan en el artículo relativo del Capítulo I del Título Décimo de este Libro.
@@ -1130,10 +1133,12 @@ IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado d
 438.- La tutela es testamentaria, legítima o dativa.
 439.- Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
 440.- Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
-441.- El menor de edad que fuere demente, idiota, imbécil, sordomudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llega a la mayor edad.
+(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2011)
+441.- El menor de edad que tenga discapacidad mental o intelectiva o fuere ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llega a la mayor edad.
 Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
 442.- Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley; y no habiéndolo, se les proveerá de tutor.
-443.- El cargo de tutor del demente, idiota, imbécil, sordomudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+(REFORMADO, P.O. 23 DE JULIO DE 2011)
+443.- El cargo de tutor de la persona con discapacidad mental o intelectiva, sordomudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
 444.- La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
 445.- Mientras que se nombra tutor, el Juez de Primera Instancia o de lo Familiar debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
@@ -1163,8 +1168,9 @@ I.- A los hermanos, prefiriéndose a los que sean por ambas líneas;
 II.- Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado inclusive.
 461.- Si hubiere varios parientes del mismo grado, el Juez elegirá entre ellos al que le parezca más apto para el cargo, pero si el menor hubiere cumplido dieciséis años, él hará la elección.
 462.- La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
+(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2011)
 CAPITULO IV
-DE LA TUTELA LEGITIMA DE LOS DEMENTES, IDIOTAS, IMBECILES, SORDOMUDOS, EBRIOS Y DE LOS QUE HABITUALMENTE ABUSAN DE LAS DROGAS ENERVANTES
+DE LA TUTELA LEGITIMA DE LAS PERSONAS CON DISCAPACIDAD MENTAL O INTELECTIVA, SORDOMUDOS, EBRIOS Y DE LOS QUE HABITUALMENTE ABUSAN DE LAS DROGAS ENERVANTES
 463.- El marido es tutor legítimo y forzoso de su mujer, y ésta lo es de su marido.
 464.- Los hijos mayores de edad son tutores de su padre o madre viudos.
 465.- Cuando haya dos o más hijos, será preferido el que viva en compañía del padre o de la madre; y siendo varios los que estén en el mismo caso, el Juez elegirá el que le parezca más apto.
@@ -1243,7 +1249,8 @@ IV.- Los comprendidos en el artículo anterior, desde que sobrevenga o se averig
 V.- El tutor que se encuentre en el caso previsto en el artículo 147;
 VI.- El tutor que permanezca ausente por más de seis meses del lugar en que debe desempeñar la tutela.
 482.- No pueden ser tutores ni curadores del demente los que hayan sido causa de la demencia ni los que la hayan fomentado directa o indirectamente.
-483.- Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordomudos, ebrios consuetudinarios y de los que abusen habitualmente de las drogas enervantes.
+(REFORMADO, P.O. 23 DE JULIO DE 2011)
+483.- Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de las personas con discapacidad mental o intelectiva, sordomudos, ebrios consuetudinarios y de los que abusen habitualmente de las drogas enervantes.
 484.- El Ministerio Público y los parientes del pupilo, tienen derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos en el artículo 481.
 485.- El tutor que fuere procesado por cualquier infracción antisocial quedará suspenso en el ejercicio de su encargo desde que se dicte el auto de formal prisión hasta que se pronuncie sentencia irrevocable.
 486.- En el caso de que trata el artículo anterior, se proveerá a la tutela conforme a la ley.
