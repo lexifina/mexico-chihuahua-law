@@ -9,3 +9,4 @@ PRESIDENTE. DIP. JOEL ARANDA OLIVAS. Rúbrica. SECRETARIO. DIP. SALVADOR GÓMEZ 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinticinco días del mes de junio del año dos mil siete.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSÉ REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO INTERINO. LIC. HÉCTOR HUMBERTO HERNÁNDEZ VARELA. Rúbrica.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.
