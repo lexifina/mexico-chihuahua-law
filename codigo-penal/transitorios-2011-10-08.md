@@ -1,0 +1,3 @@
+P.O. 8 DE OCTUBRE DE 2011.
+DECRETO N°. 318/2011 II P.O. POR LO QUE SE ADICIONAN AL TITULO VIGESIMO SEXTO DEL CODIGO PENAL DEL ESTADO DE CHIHUAHUA, EN SU CAPITULO UNICO, LOS ARTICULOS 358, 359 Y 360.
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
