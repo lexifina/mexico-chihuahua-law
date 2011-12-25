@@ -1,0 +1,2 @@
+ARTÍCULO SEXTO.- Quedan vigentes las gestiones que se hubieran efectuado con anterioridad a la entrada en vigor del presente Decreto, realizadas por las Secretarías involucradas, siempre que tales gestiones hayan sido preparatorias al objeto del que hoy se emite, y mientras no se contrapongan al mismo.
+Lo no previsto en el presente Artículo será resuelto por la Secretaría de Hacienda del Poder Ejecutivo, siempre que no se oponga al objeto del mismo.

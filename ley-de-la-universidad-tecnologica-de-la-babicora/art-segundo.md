@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El Consejo Directivo previsto en la presente Ley, deberá quedar integrado a más tardar dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto, debiendo expedirse el Estatuto Orgánico de la Universidad, en un plazo no mayor de ciento veinte días naturales, contado a partir de la misma fecha.
