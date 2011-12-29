@@ -1,4 +1,4 @@
-CODIGO ADMINISTRATIVO DEL ESTADO
+CÓDIGO ADMINISTRATIVO DEL ESTADO
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 EL CIUDADANO LICENCIADO OSCAR FLORES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 Que el Honorable Congreso del Estado, se ha servido expedir el siguiente
