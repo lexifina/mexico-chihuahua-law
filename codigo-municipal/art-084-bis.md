@@ -1,4 +1,4 @@
-(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2010)
+(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2010)
 ARTICULO 84 BIS.- Los comités de vecinos, podrán solicitar a la autoridad municipal competente, la instalación de casetas de acceso y vigilancia o mecanismos automatizados de restricción de tránsito, bajo las siguientes bases:
 (ADICIONADA, P.O. 4 DE ABRIL DE 2009)
 I.- Deberán estar constituidos y organizados en los términos previstos en este Código.

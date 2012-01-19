@@ -1,4 +1,4 @@
-(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2010)
+(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2010)
 ARTICULO 74 BIS.- Son atribuciones y obligaciones del Director o Jefe de Departamento de Ecología, las siguientes:
 (ADICIONADA, P.O. 30 DE OCTUBRE DE 2004)
 I.- Participar en la creación y administración de áreas naturales protegidas de conformidad con las disposiciones jurídicas aplicables;
