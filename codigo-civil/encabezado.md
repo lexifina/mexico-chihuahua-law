@@ -957,6 +957,8 @@ En todos los casos prevalecerá el interés superior del adoptado y el respeto a
 374.- Para que se autorice la adopción, deberán consentir en ella, en sus respectivos casos:
 (F. DE E., P.O. 31 DE ENERO DE 2004)
 I.- Quien o quienes ejercen la patria potestad sobre el menor que se pretende adoptar; excepto el que haya incumplido con la obligación de suministrar alimentos;
+(ADICIONADO, P.O. 4 DE FEBRERO DE 2012)
+Cuando las personas referidas se presenten ante la Procuraduría de Asistencia Jurídica y Social o ante los Sistemas Estatal o Municipal para el Desarrollo Integral de la Familia, para otorgar el consentimiento en los términos de esta fracción, corresponderá a dichas autoridades trasladarlos ante el juez competente, quien levantará en el mismo acto la constancia relativa, siguiendo el procedimiento establecido para las diligencias de jurisdicción voluntaria, aun y cuando no se hubiese iniciado el trámite de adopción.
 II.- El tutor;
 (REFORMADA, P.O. 28 DE OCTUBRE DE 2009)
 III. El organismo para la asistencia social pública estatal o municipal correspondiente, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, cuando no hubiere las personas a que se refieren las dos fracciones anteriores.
