@@ -1,5 +1,5 @@
 P.O. 28 DE NOVIEMBRE DE 2009.
-DECRETO No. 666/09 II P.O., POR EL QUE SE REFORMA EL ARTICULO 284 AL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 666/09 II P.O., POR EL QUE SE REFORMA EL ARTÍCULO 284 AL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 SEGUNDO.- En cumplimiento de lo dispuesto por el artículo 96 Bis de la Ley del Sistema Estatal de Seguridad Pública, los particulares que actualmente se dediquen a alguna o algunas de las actividades a que se refiere dicho artículo, deberán tramitar su permiso ante la Secretaría de Seguridad Pública del Estado, y dicha dependencia informar a la Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública sobre su expedición, en un término que no excederá de noventa días a partir de la entrada en vigor del presente Decreto.
 TERCERO.- Las conductas previstas en el segundo párrafo del artículo 284 del Código Penal del Estado de Chihuahua, no serán punibles sino una vez transcurrido el término a que se refiere el artículo transitorio anterior.
