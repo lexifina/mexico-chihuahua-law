@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- El Ejecutivo Estatal dispone de hasta seis meses a partir de la entrada en vigor de esta Ley, para formular y publicar el Programa Estatal Concurrente para el Desarrollo Rural Integral Sustentable.
