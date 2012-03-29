@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE MARZO DE 2012)
+Artículo 61-B. Si la declaratoria de la Junta de Asistencia Social Privada es en el sentido de que se constituye la institución, lo comunicará al interesado o interesados para que procedan a formular los estatutos de la misma, dentro del plazo de treinta días, con sujeción a lo que establecen los artículos siguientes. Si en el plazo señalado el interesado o interesados no procedieran a formularlos, la Junta de Asistencia Social Privada desechará de plano el asunto, dando vista a aquéllos de su determinación.

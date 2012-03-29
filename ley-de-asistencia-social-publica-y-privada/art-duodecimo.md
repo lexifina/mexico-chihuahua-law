@@ -1,5 +1,5 @@
 ARTÍCULO DUODÉCIMO. La convocatoria pública para la elección de los representantes de las instituciones de asistencia social privada a que se refiere el numeral 70, fracción VI, del ARTÍCULO PRIMERO del presente Decreto, deberá establecer los dos rubros por los que participarán aquéllos por única vez con una duración de dos años, así como los que durarán en el cargo los tres años completos.
-La convocatoria pública respectiva se emitirá durante la segunda quincena del mes de marzo del año dos mil once.
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE MARZO DE 2012)
 ARTÍCULO DECIMOTERCERO. Siempre que en cualquier otra disposición, ordenamiento o instrumento legalmente expedido se haga referencia a la Junta de Beneficencia Privada o Junta de Asistencia Privada, se entenderá que se trata ahora de la Junta de Asistencia Social Privada.
 Cuando la referencia se haga a Instituciones de Beneficencia Privada o Instituciones de Asistencia Privada, se entenderá que se hace alusión a las instituciones de asistencia social privada.
 ARTÍCULO DECIMOCUARTO. Los trabajos para el diseño, acopio y conformación del Subsistema de Información para la Asistencia Social Privada, deberán dar inicio durante el año dos mil nueve.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 28 DE MARZO DE 2012)
+Artículo 61-A. Recibida por la Junta de Asistencia Social Privada la solicitud a que se refiere el artículo anterior, ésta la examinará y, en su caso, pedirá al solicitante o solicitantes los datos faltantes. Una vez que la Junta tenga en su poder todos los datos, resolverá si es o no de constituirse la institución, según los fines que se persigan sean o no de interés público.
+Tratándose de fundaciones, la declaratoria de la Junta acerca de que es de constituirse la institución, produce la afectación de los bienes al fin del interés público que se indique en la solicitud. La Junta mandará que dicha resolución se inscriba en el Registro Público de la Propiedad.

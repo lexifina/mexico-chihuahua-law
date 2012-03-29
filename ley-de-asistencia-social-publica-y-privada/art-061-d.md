@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE MARZO DE 2012)
+Artículo 61-D. La Junta examinará el proyecto de estatutos y, si los encuentra deficientes o defectuosos, hará las observaciones correspondientes para que se corrija el proyecto y se envíe uno definitivo. Si la Junta aprueba los estatutos, expedirá una copia certificada de ellos a fin de que se protocolicen ante notario público para que éste inscriba la escritura correspondiente en el Registro Público de la Propiedad.
