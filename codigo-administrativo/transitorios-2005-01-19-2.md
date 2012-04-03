@@ -1,5 +1,5 @@
 P.O. 19 DE ENERO DE 2005.
-DECRETO NO 135/05 I P.E. QUE REFORMA LOS ARTICULOS 276, 1666, 1667, 1668, 1671, 1672, 1678, 1681, 1687 Y 1688 DEL CODIGO ADMINISTRATIVO DEL ESTADO
+DECRETO NO 135/05 I P.E. QUE REFORMA LOS ARTÍCULOS 276, 1666, 1667, 1668, 1671, 1672, 1678, 1681, 1687 Y 1688 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO
 ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 ARTÍCULO SEGUNDO.- Cuando en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua se haga referencia a la Dirección, se entenderá citada la Secretaría de Finanzas.
 ARTÍCULO TERCERO.- Cuando en la Ley de Adquisiciones, Arrendamiento, Contratación de Servicios y Obra Pública del Estado de Chihuahua se haga referencia a la Dirección, se entenderá citada la Secretaría de Administración.
