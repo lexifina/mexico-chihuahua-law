@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- La Junta Central, así como las juntas municipales y rurales, no se verán afectadas con motivo de la entrada en vigor del presente Decreto, por lo que cualquier derecho u obligación asumido con anterioridad, con motivo de alguna disposición legal, de convenio o contrato o de cualquier otro origen, subsistirán en tanto no se opongan a lo previsto por la Ley.
