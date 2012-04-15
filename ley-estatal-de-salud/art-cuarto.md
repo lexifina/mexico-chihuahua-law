@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- En tanto se expidan los Reglamentos y Normas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas que la autoridad sanitaria Federal haya expedido.
