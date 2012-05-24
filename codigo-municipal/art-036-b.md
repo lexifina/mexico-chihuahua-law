@@ -4,8 +4,8 @@ I.- Asistir a las sesiones del Ayuntamiento y participar en las discusiones con 
 II.- Revisar y firmar los cortes de caja de la tesorería municipal;
 III.- Revisar que el ejercicio del gasto se realice llenando todos los requisitos legales y conforme al presupuesto respectivo;
 IV.- Vigilar que las multas que impongan las autoridades municipales o cualquier otro ingreso sea enterado a la tesorería, previo certificado de ingresos;
-(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2007)
-V.- Asistir a las auditorías o revisiones que realice la Auditoría Superior del Estado, la Secretaría de la Contraloría del Estado o la Secretaría de la Función Pública, e informar de los resultados al Ayuntamiento;
+(REFORMADA, P.O. 23 DE MAYO DE 2012)
+V. Asistir a las visitas de inspección que realicen la Auditoría Superior del Estado o de la Federación, o la Contraloría del Estado, e informar de los resultados obtenidos al Ayuntamiento;
 VI.- Vigilar que oportunamente se remita al Congreso la cuenta pública municipal;
 VII.- Vigilar la formulación del inventario general de los bienes muebles e inmuebles propiedad del municipio;
 VIII.- Vigilar el régimen de propiedad de los bienes inmuebles municipales;
