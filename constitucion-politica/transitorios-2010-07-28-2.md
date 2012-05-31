@@ -1,4 +1,4 @@
 P.O. 28 DE JULIO DE 2010.
-DECRETO No. 1023/10 VII P.E., POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 96 DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 1023/10 VII P.E., POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 96 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.
 PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.

@@ -1,4 +1,4 @@
 P.O. 30 DE OCTUBRE DE 2004.
-DECRETO No. 1011/04 II P.O., QUE MODIFICA EL ARTICULO 93, EN SU FRACCION XXXIV, DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO No. 1011/04 II P.O., QUE MODIFICA EL ARTÍCULO 93, EN SU FRACCIÓN XXXIV, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 PRIMERO. Conforme lo dispone el artículo 202 de la Constitución Política Estatal, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución local.
 SEGUNDO. Realizado que sea el procedimiento del artículo 202 de la Constitución Política Estatal, publíquese el presente Decreto en el Periódico Oficial del Estado, para que entre en vigor al día siguiente de su publicación.

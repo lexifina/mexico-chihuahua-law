@@ -1,5 +1,5 @@
 P.O. 28 DE JULIO DE 2010.
-DECRETO No. 1059/2010 II P.O., POR EL QUE SE REFORMA EL ARTICULO 165 DE LA CONSTITUCION POLITICA DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 1059/2010 II P.O., POR EL QUE SE REFORMA EL ARTÍCULO 165 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.
 ARTÍCULO PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
 ARTÍCULO SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y su observancia estará sujeta a lo dispuesto por la legislación secundaria.
 ARTÍCULO TERCERO.- Las adecuaciones a la legislación secundaria deberán realizarse dentro de los noventa días siguientes al día en que surta vigencia el presente Decreto.
