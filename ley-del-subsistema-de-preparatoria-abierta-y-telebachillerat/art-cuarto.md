@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Queda en vigor y para todos los efectos a que haya lugar, el Convenio de Transferencia de los Servicios de Preparatoria Abierta celebrado entre la Secretaría de Educación Pública, y el Gobierno del Estado Libre y Soberano de Chihuahua, de fecha 24 de septiembre de 1999.

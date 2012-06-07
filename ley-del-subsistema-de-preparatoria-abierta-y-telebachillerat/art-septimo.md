@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO.- Todas las obligaciones y/o derechos de cualquier tipo vigente, exigible o viable a la entrada en vigor de la presente Ley respecto a Subsistema de Preparatoria Abierta, antes dependiente de la Secretaría de Educación, Cultura y Deporte, se entenderán ahora respecto al Subsistema de Preparatoria Abierta del Estado de Chihuahua.
