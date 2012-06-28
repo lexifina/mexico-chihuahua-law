@@ -1,3 +1,4 @@
+(DEROGADO ÚLTIMO PÁRRAFO, P.O. 27 DE JUNIO DE 2012)
 (REFORMADO, P.O. 11 DE FEBRERO DE 2009)
 Art. 27 bis.- La ley garantizará que los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 El financiamiento público para los partidos políticos que mantengan el derecho a participar en su distribución después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico. Se otorgarán conforme a lo siguiente y a lo que disponga la ley:
