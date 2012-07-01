@@ -378,8 +378,8 @@ CAPITULO IX
 DE LAS ACTAS DE DEFUNCION
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
 113.- Ninguna inhumación o cremación se hará sin autorización escrita del jefe de la oficina, quien se asegurará del fallecimiento. Toda inhumación o cremación se hará dentro del término que establezca la Legislación de Salud.
-(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
-114.- En el acta de fallecimiento se asentarán los datos que menciona el artículo siguiente y será firmada por dos testigos, prefiriéndose para el caso los parientes, si los hay.
+(REFORMADO, P.O. 30 DE JUNIO DE 2012)
+114.- En el acta de fallecimiento se asentarán los datos que menciona el artículo siguiente, en base a los documentos que se consideren necesarios a efecto de asegurar plenamente la identidad del cadáver, y será firmada por dos testigos, prefiriéndose para el caso los parientes, si los hay.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
 115.- El acta de fallecimiento contendrá:
 I.- El nombre, apellidos, edad, nacionalidad y domicilio que tuvo el difunto;
@@ -394,7 +394,8 @@ VI.- La hora de la muerte, si se supiere y todos los informes que se tengan en c
 116.- Los dueños o habitantes de la casa en que ocurra el fallecimiento, los directores o administradores de las prisiones, hospitales, colegios y otra cualquiera casa de comunidad y los encargados de los mesones u hoteles tienen obligación de dar aviso del fallecimiento al jefe de la oficina, dentro de las doce horas siguientes a la muerte.
 (F. DE E., P.O. 3 DE OCTUBRE DE 1987)
 Los administradores de cementerios o panteones, están obligados a rendir a la oficina del registro civil de su jurisdicción, un informe mensual con los datos que menciona la fracción I del artículo anterior, de las personas que fueren inhumadas y la denominación de la agencia encargada de la propia inhumación.
-Las agencias funerarias presentarán ante la oficina del registro civil de su jurisdicción, durante el mes siguiente al de la inhumación, el certificado médico correspondiente de la persona fallecida.
+(REFORMADO, P.O. 30 DE JUNIO DE 2012)
+Una vez que la autoridad sanitaria correspondiente lo expida, las agencias funerarias o cualquier persona interesada presentarán en un lapso no mayor a cinco días hábiles ante la oficina del registro civil de su jurisdicción, el certificado médico correspondiente de la persona fallecida.
 El incumplimiento de las obligaciones señaladas en los párrafos anteriores, se sancionará en los términos del Artículo 56 de este Código.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
 117.- Si el fallecimiento ocurriere en un lugar o población donde no haya oficina del registro, la autoridad municipal extenderá la constancia respectiva que remitirá a la oficina del registro civil que corresponda, para que asiente el acta.
