@@ -1,7 +1,7 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (ADICIONADO, P.O. 5 DE DICIEMBRE DE 2009)
 DERECHOS POR LOS SERVICIOS DE LIMPIEZA DE PREDIOS BALDIOS O NO EDIFICADOS
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (ADICIONADO, P.O. 5 DE DICIEMBRE DE 2009)
 ARTICULO 177 BIS.- Los propietarios de predios baldíos o no edificados que se ubiquen en las zonas urbanas o suburbanas de los municipios, están obligados a realizar la limpieza de los mismos para evitar la proliferación de focos de infección y prevenir que se conviertan en espacios de inseguridad para las personas y contribuir a la buena imagen del Municipio.
 Es objeto de este derecho por limpieza de predios baldíos o no edificados, los servicios de limpieza de los mismos, por lo que el Municipio requerirá a los propietarios, a través de la notificación respectiva, el cumplimiento de la obligación a que se refiere el párrafo anterior.

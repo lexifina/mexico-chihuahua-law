@@ -202,8 +202,12 @@ La madre no tiene derecho a dejar de reconocer a su hijo. Tiene obligación de q
 Además de los nombres de los padres, se hará constar en el acta de nacimiento su nacionalidad y domicilio, declarando acerca de la primera circunstancia los testigos que deben intervenir en el acto.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
 63.- Si el padre o la madre no pudieren concurrir ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del jefe de la oficina, éste pasará al lugar en que se halle el interesado y allí levantará el acta.
-(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 1987)
-64.- Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá asentarse como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2012)
+64.- Cuando el hijo nazca de una mujer casada que viva con su marido no podrá atribuirse la paternidad a otro que no sea a aquél, salvo que exista sentencia ejecutoriada que declare el desconocimiento de la misma.
+(ADICIONADO, P.O. 28 DE JULIO DE 2012)
+En aras de proteger el interés superior del menor y a efecto de privilegiar el establecimiento de su verdadera identidad, cuando una mujer casada que se encuentre separada físicamente de su marido, procree un hijo con otro hombre, este podrá reconocerlo como hijo suyo, con el consentimiento de la madre, siempre y cuando esta última compruebe, ante la autoridad judicial competente, en los términos de lo dispuesto por el Código de Procedimientos Civiles, la separación física de su cónyuge por más de 300 días anteriores al nacimiento del hijo. De igual forma, de no mediar el reconocimiento del padre biológico, la mujer estará en posibilidad de llevar a cabo el registro como madre soltera, previa justificación de lo antes señalado.
+(ADICIONADO, P.O. 28 DE JULIO DE 2012)
+En caso de que quien aparezca como el padre no sea el cónyuge de la madre, el acta de nacimiento del hijo no contendrá el estado civil de aquéllos.
 (REFORMADO, P.O. 25 DE AGOSTO DE 2010)
 65.- Toda persona que encontrare a otra menor de edad abandonada, maltratada o expuesta, en los términos del artículo 469, deberá entregarla dentro de los tres días siguientes del hallazgo al organismo para la asistencia social pública estatal o municipal correspondiente, con los vestidos, documentos y cualquier otro objeto encontrados y declarará el día, lugar y demás circunstancias que hubieren ocurrido y el organismo respectivo procederá sin demora a presentar a la persona menor de edad ante el Registro Civil para inscribir su nacimiento, si fuere el caso, proveyendo además, a la custodia provisional de aquélla y dando cuenta al Ministerio Público de la adscripción.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
@@ -893,7 +897,8 @@ V.- Por confesión judicial directa y expresa.
 349.- La mujer casada podrá reconocer sin el consentimiento del marido a un hijo habido antes de su matrimonio; pero no tendrá derecho a llevarlo a vivir al domicilio familiar si no es con el consentimiento expreso del esposo.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
 350.- El marido podrá reconocer a un hijo habido antes de su matrimonio o durante éste, pero no tendrá derecho de llevarlo a vivir al domicilio familiar, si no es con el consentimiento expreso de la esposa.
-351.- El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoriada se haya declarado que no es hijo suyo.
+(REFORMADO, P.O. 28 DE JULIO DE 2012)
+351.- El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, salvo lo dispuesto por el artículo 64 de este Código.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
 352.- El hijo mayor de catorce años no puede ser reconocido sin su consentimiento. El menor de esta edad, tampoco podrá serlo sin el del que ejerza la patria potestad o el del tutor si lo tiene, o el del tutor que el Juez le nombrará especialmente para el caso.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
