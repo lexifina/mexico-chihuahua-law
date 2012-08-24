@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante el Instituto de la Vivienda del Estado de Chihuahua, serán continuados y serán resueltos por la Comisión Estatal de Vivienda, Suelo e Infraestructura de Chihuahua.

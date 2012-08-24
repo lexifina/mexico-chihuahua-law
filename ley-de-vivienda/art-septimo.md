@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO.- En todo caso, deberá asegurarse que de ninguna forma resulten afectados los derechos de los trabajadores del organismo que se extingue, que hayan adquirido con base en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.

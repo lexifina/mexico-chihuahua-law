@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abrogan la Ley de Vivienda del Estado, publicada en el Periódico Oficial del Estado No. 6, del 21 de enero de 2006; así como la Ley del Instituto de la Vivienda del Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 63, del 08 de agosto de 1987.

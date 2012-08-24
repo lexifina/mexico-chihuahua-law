@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO.- La Junta de Gobierno de la Comisión Estatal de Vivienda, Suelo e Infraestructura de Chihuahua deberá expedir su Estatuto Orgánico, a más tardar dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto.
