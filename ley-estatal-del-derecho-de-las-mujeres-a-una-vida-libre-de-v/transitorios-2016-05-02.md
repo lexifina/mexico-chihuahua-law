@@ -1,0 +1,4 @@
+B.O. 2 DE MAYO DE 2016.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 54, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SONORA".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+ARTÍCULO SEGUNDO.- A partir del día siguiente de la entrada en vigor del presente Decreto, la Procuraduría General de Justicia del Estado contará con un plazo de 60 días hábiles para la elaboración y publicación en el Boletín Oficial del Gobierno del Estado, del protocolo de actuación para la investigación en el delito de feminicidio con perspectiva de género para el Estado de Sonora.

@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, se integrará dentro de los sesenta días siguientes a la entrada en vigor de la presente ley.

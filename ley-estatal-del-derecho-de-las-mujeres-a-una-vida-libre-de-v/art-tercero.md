@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Reglamento del Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres deberá expedirse dentro de los noventa días siguientes a la entrada en vigor de la presente ley.

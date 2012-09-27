@@ -9,3 +9,4 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dieciséis días del mes de agosto del año dos mil once.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CESAR HORACIO DUARTE JÁQUEZ. Rúbrica.
 LA SECRETARIA GENERAL DE GOBIERNO. LIC. GRACIELA ORTIZ GONZÁLEZ. Rúbrica.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
