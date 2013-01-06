@@ -5,3 +5,4 @@ PRESIDENTA. DIP. LlZ AGUILERA GARCÍA. Rúbrica. SECRETARIA. DIP. INÉS AURORA M
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinte días del mes de marzo del año dos mil doce.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
