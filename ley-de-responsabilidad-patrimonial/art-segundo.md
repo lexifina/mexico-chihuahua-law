@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El Estado y los Municipios deberán establecer en sus respectivos presupuestos, las partidas correspondientes para hacer frente a las obligaciones establecidas en la presente Ley a partir del primero de enero del dos mil trece.
