@@ -659,7 +659,8 @@ IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan he
 252.- Es ilícito pero no nulo el matrimonio:
 I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
 II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 147 y cuando se celebre sin que hayan transcurrido los términos fijados en el artículo 146.
-253.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las medidas de defensa social que señale el Código de la materia.
+(REFORMADO, P.O. 2 DE FEBRERO DE 2013)
+253.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del Juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en los delitos que señale el Código Penal.
 CAPITULO IX
 DEL DIVORCIO
 254.- El divorcio es la disolución legal del contrato de matrimonio y deja a los cónyuges en aptitud de contraer nuevas nupcias.
@@ -1110,7 +1111,8 @@ Cuando se trate de personas menores de edad que se encuentren en situación de d
 424.- La patria potestad se suspende:
 I.- Por incapacidad declarada judicialmente;
 II.- Por la ausencia declarada en forma;
-III.- Por sentencia condenatoria que imponga como medida de defensa social esta suspensión.
+(REFORMADA, P.O. 2 DE FEBRERO DE 2013)
+III.- Por sentencia condenatoria que imponga como medida de sanción esta suspensión.
 425.- La patria potestad no es renunciable; pero aquéllos a quienes corresponda ejercerla pueden excusarse:
 I.- Cuando tengan sesenta años cumplidos;
 II.- Cuando por su mal estado habitual de salud, no puedan atender debidamente a su desempeño.
@@ -1262,7 +1264,8 @@ VI.- El tutor que permanezca ausente por más de seis meses del lugar en que deb
 484.- El Ministerio Público y los parientes del pupilo, tienen derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos en el artículo 481.
 485.- El tutor que fuere procesado por cualquier infracción antisocial quedará suspenso en el ejercicio de su encargo desde que se dicte el auto de formal prisión hasta que se pronuncie sentencia irrevocable.
 486.- En el caso de que trata el artículo anterior, se proveerá a la tutela conforme a la ley.
-487.- Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una medida de defensa social que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la medida de defensa social impuesta no exceda de un año de prisión.
+(REFORMADO, P.O. 2 DE FEBRERO DE 2013)
+487.- Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a prisión y no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de un año de prisión.
 CAPITULO VIII
 DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
 488.- Pueden excusarse de ser tutores:
@@ -2432,7 +2435,8 @@ III.- En diez años, cuando se poseen de mala fe, si la posesión es en concepto
 IV.- Se aumentará en una tercera parte el tiempo señalado en las fracciones I y III, si se demuestra, por quien tenga interés jurídico en ello, que el poseedor de finca rústica no la ha cultivado durante la mayor parte del tiempo que la ha poseído, o que por no haber hecho el poseedor de finca urbana las reparaciones necesarias, ésta ha permanecido deshabitada la mayor parte del tiempo que ha estado en poder de aquél.
 1155.- Los bienes muebles se prescriben en tres años cuando son poseídos con buena fe, pacífica y continuamente. Faltando la buena fe, se prescribirán en cinco años.
 1156.- Cuando la posesión se adquiere por medio de violencia, aunque ésta cese y la posesión continúe pacíficamente, el plazo para la prescripción será de quince años para los inmuebles y de diez años para los muebles contados desde que cese la violencia.
-1157.- La posesión adquirida por medio de una infracción antisocial se tendrá en cuenta para la prescripción a partir de la fecha en que haya quedado extinguida la medida de defensa social o prescrito la acción penal, considerándose la posesión para su cómputo como adquirida por medio de violencia.
+(REFORMADO, P.O. 2 DE FEBRERO DE 2013)
+1157.- La posesión adquirida por medio de una infracción antisocial se tendrá en cuenta para la prescripción a partir de la fecha en que haya quedado extinguida la pena señalada en el Código Penal o prescrito la acción penal, considerándose la posesión para su cómputo como adquirida por medio de violencia.
 1158.- El que hubiere poseído bienes inmuebles por el tiempo y con las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad.
 1159.- La sentencia ejecutoria que declare procedente la acción de prescripción, se inscribirá en el Registro Público, y servirá de título de propiedad al poseedor.
 CAPITULO III
@@ -6159,7 +6163,8 @@ DE LAS TRANSACCIONES
 (REFORMADO, P.O. 26 DE ENERO DE 2000)
 2838.- La transacción debe constar por escrito si el interés pasa de cincuenta veces el salario mínimo.
 2839.- Los ascendientes y los tutores no pueden transigir en nombre de las personas que tienen bajo su potestad o bajo su guarda, a no ser que la transacción sea necesaria o útil para los intereses de los incapacitados y previa autorización judicial.
-2840.- Se puede transigir sobre la acción civil proveniente de una infracción antisocial, pero no por eso se extingue la acción pública para la imposición de la medida de defensa social ni se da por probada la infracción antisocial.
+(REFORMADO, P.O. 2 DE FEBRERO DE 2013)
+2840.- Se puede transigir sobre la acción civil proveniente de una infracción antisocial, pero no por eso se extingue la acción pública para la imposición de la sanción señalada en el Código Penal, ni se da por probada la infracción antisocial.
 2841.- No se puede transigir sobre el estado civil de las personas, ni sobre la validez del matrimonio.
 2842.- Es válida la transacción sobre los derechos pecuniarios que de la declaración del estado civil pudiera deducirse a favor de una persona; pero la transacción, en tal caso, no importa la adquisición del estado.
 2843.- Será nula la transacción que verse:
@@ -6211,7 +6216,8 @@ Si por el contrario, prefieren tener voz y voto en la mencionada junta, serán c
 2870.- Concurriendo diversos acreedores de la misma clase y número, serán pagados según la fecha de sus títulos, si aquella constare de una manera indubitable. En cualquier otro caso serán pagados a prorrata.
 2871.- Los gastos judiciales hechos por un acreedor, en lo particular, serán pagados en el lugar en que deba serlo el crédito que los haya causado.
 2872.- Los pactos particulares entre el deudor y cualquiera de sus acreedores serán nulos.
-El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las medidas de defensa social que merezcan por el fraude.
+(REFORMADO, P.O. 2 DE FEBRERO DE 2013)
+El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas señaladas en el Código Penal por el delito de fraude.
 CAPITULO II
 DE LOS CREDITOS HIPOTECARIOS Y PIGNORATICIOS Y DE ALGUNOS OTROS PRIVILEGIOS
 2873.- Preferentemente se pagarán los adeudos fiscales provenientes de impuestos, con el valor de los bienes que los hayan causado.
