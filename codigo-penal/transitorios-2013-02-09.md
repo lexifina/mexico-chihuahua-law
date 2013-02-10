@@ -1,0 +1,4 @@
+P.O. 9 DE FEBRERO DE 2013.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Los encargados de la ejecución de todas las sentencias firmes, dictadas en procedimientos penales relacionados con hechos anteriores y posteriores a la entrada en vigor del Código de Procedimientos Penales del Estado, aprobado en el año 2006, lo serán los jueces de Ejecución de Penas designados por el Pleno del Supremo Tribunal de Justicia del Estado, con la salvedad prevista para los Jueces Menores Mixtos.
+ARTÍCULO TERCERO.- Todos los asuntos relacionados con la ejecución de penas y medidas de seguridad, que se encuentren en trámite al inicio de la entrada en vigor del presente Decreto, deberán remitirse sin dilación alguna al Juez de Ejecución de Penas al que corresponda legalmente el conocimiento de los mismos.
