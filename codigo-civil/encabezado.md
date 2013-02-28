@@ -1518,19 +1518,25 @@ IV.- Con la posesión provisional.
 643.- El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esta obligación hace responsable al representante de los daños y perjuicios que se sigan al ausente, y es causa legítima de remoción.
 CAPITULO II
 DE LA DECLARACION DE AUSENCIA
-644.- Pasados dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
-645.- En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados tres años que se contarán desde la desaparición del ausente, si en este período no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
-646.- Lo dispuesto en el artículo anterior se observará aun cuando el poder se haya conferido por más de tres años.
-647.- Pasados dos años, que se contarán del modo establecido en el artículo 645, el Ministerio Público y las personas que designa el artículo siguiente, pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere se nombrará representante de acuerdo con lo dispuesto en los artículos 632, 633 y 634.
+(REFORMADO, P.O. 27 DE FEBRERO DE 2013)
+644.- Pasado un año desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+(REFORMADO, P.O. 27 DE FEBRERO DE 2013)
+645.- En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados dos años que se contarán desde la desaparición del ausente, si en este período no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
+(REFORMADO, P.O. 27 DE FEBRERO DE 2013)
+646.- Lo dispuesto en el artículo anterior se observará aun cuando el poder se haya conferido por más de un año.
+(REFORMADO, P.O. 27 DE FEBRERO DE 2013)
+647.- Pasado un año, que se contará del modo establecido en el artículo 645, el Ministerio Público y las personas que designa el artículo siguiente, pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere se nombrará representante de acuerdo con lo dispuesto en los artículos 632, 633 y 634.
 648.- Pueden pedir la declaración de ausencia:
 I.- Los presuntos herederos legítimos del ausente;
 II.- Los herederos instituidos en testamento abierto;
 III.- Los que tengan algún derecho u obligación que dependan de la vida, muerte o presencia del ausente; y
 IV.- El Ministerio Público.
 649.- Si el Juez encuentra fundada la demanda, dispondrá que se publique durante tres meses, con intervalos de quince días, en el Periódico Oficial y en los principales del último domicilio del ausente y la remitirá a los cónsules, conforme al artículo 625.
-650.- Pasados cuatro meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el Juez declarará en forma la ausencia.
+(REFORMADO, P.O. 27 DE FEBRERO DE 2013)
+650.- Pasados tres meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia.
 651.- Si hubiere algunas noticias u oposición el Juez no declarará la ausencia sin repetir las publicaciones que establece el artículo 649, y hacer la averiguación por los medios que el oponente proponga, y por los que el mismo Juez crea oportunos.
-652.- La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+(REFORMADO, P.O. 27 DE FEBRERO DE 2013)
+652.- La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada año, hasta que se declare la presunción de muerte.
 653.- El fallo que se pronuncie en el juicio de declaración de ausencia podrá impugnarse mediante la interposición del recurso de apelación que se admitirá en ambos efectos.
 CAPITULO III
 DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
@@ -1567,8 +1573,11 @@ DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
 679.- Si el cónyuge ausente regresa o se probase su existencia, quedará restaurada la sociedad conyugal
 CAPITULO V
 DE LA PRESUNCION DE MUERTE DEL AUSENTE
-680.- Cuando hayan transcurrido seis años desde la declaración de ausencia, el Juez, a instancia de parte interesada, declarará la presunción de muerte.
+(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)
+680.- Cuando hayan transcurrido tres años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
 Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero si se tomarán las medidas provisionales autorizadas por el capítulo I de este Título.
+(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)
+Cuando la desaparición sea consecuencia de la comisión de delitos en materia de secuestro, así como en el caso de miembros de corporaciones de seguridad pública o de las Fuerzas Armadas que sean sustraídos con motivo del ejercicio de sus funciones, bastará el transcurso de un año, contado a partir de la fecha en que se tuvo noticia de su paradero por última ocasión, para que se declare la presunción de muerte.
 681.- Declarada la presunción de muerte, se abrirá el testamento del ausente, si no estuviere ya publicado, conforme al artículo 655; los poseedores provisionales darán cuenta de su administración en los términos prevenidos en el artículo 669, y los herederos y demás interesados entrarán en la posesión definitiva de los bienes, sin garantía alguna, la que según la ley se hubiere dado quedará cancelada.
 682.- Si se llega a probar la muerte del ausente, la herencia se defiere a los que debieran heredar al tiempo de ella, pero el poseedor o poseedores de los bienes hereditarios, al restituirlos se reservarán los frutos correspondientes a la época de la posesión provisional, de acuerdo con lo dispuesto en el artículo 672 y todos ellos, desde que obtuvieron la posesión definitiva.
 683.- Si el ausente se presentare o se probare su existencia después de otorgada la posesión definitiva, recobrará sus bienes en el estado en que se hallen, el precio de los enajenados, o los que se hubieren adquirido con el mismo precio; pero no podrá reclamar frutos ni rentas.

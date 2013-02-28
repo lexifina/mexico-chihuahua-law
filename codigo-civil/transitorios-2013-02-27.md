@@ -1,0 +1,3 @@
+P.O. 27 DE FEBRERO DE 2013.
+DECRETO NÚMERO 819/2012 II P.O., POR EL QUE SE REFORMAN LOS ARTÍCULOS 644, 645, 646, 647, 650, 652 Y 680, PRIMER PÁRRAFO; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 680, TODOS DEL CÓDIGO CIVIL DEL ESTADO.
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
