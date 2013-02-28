@@ -1140,13 +1140,17 @@ IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado d
 436.- No pueden ser nombrados tutores o curadores las personas que integren los Consejos Locales de Tutelas, ni quienes estén ligados con ellas con parentesco de consanguinidad, en la línea recta sin limitación de grados, y en la colateral dentro del segundo grado inclusive.
 (REFORMADO, P.O. 26 DE ENERO DE 2000)
 437.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia o de lo Familiar, dentro de ocho días, a fin de que se provea la tutela; la omisión motivará la aplicación de una sanción que podrá ser de diez a cien veces el salario mínimo de multa.
-438.- La tutela es testamentaria, legítima o dativa.
+(REFORMADO, P.O. 27 DE FEBRERO DE 2013)
+438.- La tutela es testamentaria, legítima, autodesignada o dativa.
 439.- Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
 440.- Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 (REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2011)
 441.- El menor de edad que tenga discapacidad mental o intelectiva o fuere ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llega a la mayor edad.
 Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
 442.- Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley; y no habiéndolo, se les proveerá de tutor.
+(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)
+442 BIS.- La persona mayor de edad capaz puede designar al tutor o tutores que deberán encargarse de su persona y, en su caso, de su patrimonio, en previsión de ser declarada en estado de incapacidad natural o legal.
+La designación del tutor o tutores debe hacerse en escritura pública ante notario o ante el Juez Competente, a través de una jurisdicción voluntaria que contenga expresamente el consentimiento de ambas partes y todas las reglas a las cuales deberá sujetarse el tutor, y es revocable en cualquier momento mediante la misma formalidad.
 (REFORMADO, P.O. 23 DE JULIO DE 2011)
 443.- El cargo de tutor de la persona con discapacidad mental o intelectiva, sordomudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
 444.- La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
@@ -1171,7 +1175,8 @@ La madre, en su caso, podrá hacer el nombramiento de que trata este artículo.
 CAPITULO III
 DE LA TUTELA LEGITIMA DE LOS MENORES
 459.- Ha lugar a tutela legítima:
-I.- Cuando no hay quien ejerza la patria potestad ni tutor testamentario;
+(REFORMADA, P.O. 27 DE FEBRERO DE 2013)
+I.- Cuando no hay quien ejerza la patria potestad ni tutor testamentario o autodesignado.
 II.- Cuando deba nombrarse tutor por causa de divorcio.
 460.- La tutela legítima corresponde:
 I.- A los hermanos, prefiriéndose a los que sean por ambas líneas;
@@ -1213,7 +1218,8 @@ En caso de adopción, deberá oírse a los directores o encargados de los establ
 CAPITULO VI
 DE LA TUTELA DATIVA
 472.- La tutela dativa tiene lugar:
-I.- Cuando no hay tutor testamentario ni persona a quien conforme a la ley corresponda la tutela legítima;
+(REFORMADA, P.O. 27 DE FEBRERO DE 2013)
+I. Cuando no hay tutor autodesignado, testamentario, ni persona a quien conforme a la ley corresponda la tutela legítima.
 II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 460.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
 473.- El tutor dativo será designado por el menor si ha cumplido catorce años. El juez confirmará la designación si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el menor, el juez oirá el parecer del Consejo Local de Tutelas. Si no se aprueba el nombramiento hecho por el menor, el Juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
