@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El primer Rector será designado por el Gobernador del Estado de manera directa y durará en su cargo cuatro años, pudiendo ser reelegido para un período más, conforme al procedimiento previsto en el presente Decreto.
