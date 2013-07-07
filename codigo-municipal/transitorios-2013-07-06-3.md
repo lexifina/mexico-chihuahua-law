@@ -1,0 +1,3 @@
+P.O. 6 DE JULIO DE 2013.
+DECRETO No. 1272/2013 II P.O. POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEXTO, AMBOS DEL ARTÍCULO 110 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA.
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Estado.
