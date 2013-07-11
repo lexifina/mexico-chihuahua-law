@@ -1,0 +1,5 @@
+P.O. 10 DE JULIO DE 2013.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Tratándose de la antigüedad de las unidades de transporte para la ruta troncal de Ciudad Juárez, a que se refiere el artículo 30 del Artículo Primero del presente Decreto, se ampliará hasta tres años más en aquellas que no hayan sido rodadas para el servicio público colectivo.
+ARTÍCULO TERCERO.- Por lo que respecta al Artículo Segundo del presente Decreto, no obstante su vigencia, la aplicación de dichas disposiciones deberá ser reglamentada por los ayuntamientos o el titular del Ejecutivo Estatal, en caso de estar convenida la función en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+ARTÍCULO CUARTO.- Las sanciones a las que hace referencia el presente Decreto, independientemente de su reglamentación correspondiente, iniciarán su vigencia con la entrada en funcionamiento de las rutas troncales del Sistema de Transporte Colectivo Integrado.
