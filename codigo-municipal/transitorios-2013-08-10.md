@@ -1,0 +1,4 @@
+P.O. 10 DE AGOSTO DE 2013.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Para la elección de las Juntas Municipales en las Secciones Municipales de Barbechitos y Rancho de Enmedio, respectivamente, se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente, debiéndose llevar a cabo la elección dentro de los 180 días siguientes a la entrada en vigor del presente Decreto.
+ARTÍCULO TERCERO.- El Presidente Municipal de Guadalupe y Calvo contará con un plazo máximo de noventa días para brindar a las nuevas secciones municipales, la infraestructura necesaria y los recursos, en la medida de sus posibilidades económicas, para que aquellas puedan iniciar sus trabajos.
