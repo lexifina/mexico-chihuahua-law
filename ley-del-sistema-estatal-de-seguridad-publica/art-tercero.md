@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Se abroga la Ley del Servicio Profesional de Carrera Policial del Estado de Chihuahua, contenida en el Decreto No. 584-09 IV P.E., publicada en el Periódico Oficial del Estado No. 26 del 01 de abril de 2009 y sus posteriores reformas.

@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO TERCERO.- Cuando en otros ordenamientos legales se haga mención de la Ley del Sistema Estatal de Seguridad Pública o Ley Sobre el Sistema Estatal de Seguridad Pública, se entenderá referida a la Ley del Sistema Estatal de Seguridad Pública que se expide mediante el presente Decreto.

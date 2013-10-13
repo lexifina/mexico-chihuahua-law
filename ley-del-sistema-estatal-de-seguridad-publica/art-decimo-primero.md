@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO PRIMERO.- La División de Investigación de la Policía Estatal Única adoptará el esquema de jerarquización terciaria contenido en el artículo 154 de la Ley del Sistema Estatal de Seguridad Pública que se expide, en un plazo que no excederá del 01 de enero del año 2015.

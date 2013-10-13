@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Por única ocasión, inmediatamente que entre en vigor la Ley del Sistema Estatal de Seguridad Pública a que se refiere el presente Decreto, el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública convocará a reunión extraordinaria para la instalación de la Conferencia Estatal de Seguridad Pública Municipal.

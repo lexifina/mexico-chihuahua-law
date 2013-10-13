@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley del Sistema Estatal de Seguridad Pública contenida en el Decreto No. 582-09 IV P.E., publicada en el Periódico Oficial del Estado No. 26 del 01 de abril de 2009, sus posteriores reformas y en general todas las disposiciones que se opongan al presente Decreto.

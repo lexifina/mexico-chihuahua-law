@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO.- El titular del Ejecutivo del Estado, en un plazo que no excederá de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, expedirá el reglamento del servicio profesional de carrera de las instituciones de seguridad pública del Estado y los municipios.
