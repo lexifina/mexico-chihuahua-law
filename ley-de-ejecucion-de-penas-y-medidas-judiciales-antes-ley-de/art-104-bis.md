@@ -3,9 +3,8 @@ CAPÍTULO VI BIS
 RESTRICCIONES A LOS BENEFICIOS EN LA EJECUCIÓN DE LAS PENAS PRIVATIVAS DE LIBERTAD
 (ADICIONADO, P.O. 23 DE OCTUBRE DE 2010)
 Artículo 104 bis. Restricciones a los beneficios.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2011)
-El reo que haya sido sentenciado por el delito de robo de vehículos automotores con violencia sobre las personas, extorsión, violación, homicidio doloso, de acuerdo a este Código (sic), no le será aplicable ninguno (sic) los siguientes beneficios:
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)
+El reo que haya sido sentenciado, aun en grado de tentativa por el delito de robo en los supuestos contemplados en las fracciones I, II o III del artículo 212 del Código Penal; extorsión, violación u homicidio doloso, salvo que se trate en riña; así como por homicidio o lesiones imprudenciales contempladas en los artículos 138, segundo párrafo, 139 o 140 del Código Penal, no le será aplicable ninguno de los siguientes beneficios:
 I. Modalidad de la pena de prisión, tales como:
 a) Internamiento de fin de semana;
 b) Internamiento durante la semana;

@@ -1,3 +1,4 @@
+N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 EL CIUDADANO LICENCIADO OSCAR FLORES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
@@ -766,8 +767,14 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen ob
 (REFORMADO, P.O. 30 DE JUNIO DE 2012)
 285.- Los Alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad, embarazo y parto. Respecto de las personas menores de edad, los alimentos comprenden, además, los gastos necesarios para la educación preescolar, primaria y secundaria o su equivalente y para proporcionarle algún oficio, arte o profesión lícitos y adecuados a sus circunstancias personales. Tratándose de personas con discapacidad o declarados en estado de interdicción, en los términos de la Ley de la materia, lo indispensable para lograr en lo posible su rehabilitación, tratamiento y desarrollo.
 286.- El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
-(ADICIONADO, P.O. 11 DE ENERO DE 2003)
-En la sentencia o convenio se establecerán los mecanismos para que el importe de la pensión alimenticia se vaya actualizando de manera automática. El juez cuidará el cumplimiento de esta disposición.
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)
+En la resolución judicial o convenio, se establecerá un porcentaje de los ingresos del deudor para que el importe de la pensión alimenticia se vaya actualizando de manera automática. El Juez cuidará el cumplimiento de esta disposición tomando las medidas necesarias para ello.
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)
+Cuando no sea posible establecer un porcentaje de los ingresos del deudor, el Juez implementará los mecanismos para el cumplimiento de la obligación, tomando las medidas necesarias para garantizar su actualización automática.
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)
+286 BIS.- Cuando se disponga que el cumplimiento de la obligación alimentaria sea mediante la asignación de una pensión, el deudor queda obligado a depositar la cantidad correspondiente en la cuenta bancaria que al efecto designe el acreedor, su representante o el Juez.
+Si el deudor alimentista es trabajador asalariado, el Juez ordenará al patrón realizar el descuento correspondiente del salario que aquel perciba y su depósito en la cuenta bancaria aperturada para tal efecto.
+Cuando en virtud de las disposiciones anteriores se retarde el cumplimiento de la obligación, el Juez tomará las medidas necesarias para garantizar que la pensión alimentaria sea oportunamente entregada a los acreedores.
 287.- El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
 288.- Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
 289.- Si fueren varios los que deben dar los alimentos y todos tuvieren posibilidad para hacerlo, el Juez repartirá el importe entre ellos, en proporción a sus haberes.
@@ -784,9 +791,11 @@ V.- El Ministerio Público.
 Durante la tramitación del juicio correspondiente, el Juez podrá decretar provisionalmente el pago de una pensión alimenticia a favor del acreedor alimentario, determinándola conforme a las necesidades de éste y a las posibilidades de quien debe otorgarla y establecer asimismo los medios que estime conducentes para el debido cumplimiento de tal medida.
 (ADICIONADO, P.O. 10 DE ABRIL DE 2004)
 Toda persona a quien por su encargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez; de no hacerlo, además de las sanciones que les sean aplicables de acuerdo con la Ley, responderá solidariamente con los obligados directos, de los daños y perjuicios que cause al acreedor alimentista por sus omisiones o informes falsos.
-(ADICIONADO, P.O. 30 DE MAYO DE 1981)
-La pensión provisional alimenticia podrá ser modificada durante la tramitación del juicio, con base en el informe de la trabajadora social dependiente del Supremo Tribunal de Justicia del Estado, que de oficio se designará desde el auto que admita la demanda.
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)
+La pensión alimenticia provisional podrá ser modificada durante la tramitación del juicio, en la vía incidental, con base en el informe de la trabajadora social dependiente del Supremo Tribunal de Justicia del Estado, que de oficio se designará desde el auto que admita la demanda y mediante los elementos de prueba que al efecto aporten las partes.
 295.- El tutor interino dará garantía por el importe anual de los alimentos. Si administrare algún fondo destinado a ese objeto, por él dará la garantía legal.
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)
+En aquellos casos en los que la custodia de los acreedores alimentarios se encuentre a cargo de una institución gubernamental, esta podrá fungir como administradora de los alimentos, quedando exenta de garantizar el manejo del cargo.
 296.- En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, si ésta no alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
 297.- Cesa la obligación de dar alimentos:
 I.- Cuando el que la tiene carece de medios para cumplirla;

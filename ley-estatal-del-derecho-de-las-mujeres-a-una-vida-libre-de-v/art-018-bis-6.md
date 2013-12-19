@@ -1,2 +1,0 @@
-(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)
-ARTÍCULO 18 BIS 6.- La Secretaría de Salud Pública podrá celebrar convenios de colaboración con autoridades federales en materia de salud para realizar visitas de inspección a los hospitales públicos y privados, a efecto de constatar el cumplimiento de la Norma Oficial Mexicana para la atención de la mujer durante el embarazo, parto y puerperio y de la persona recién nacida.

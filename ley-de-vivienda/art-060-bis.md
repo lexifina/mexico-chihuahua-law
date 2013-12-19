@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2013)
+Artículo 60 Bis.- Las acciones previstas en el artículo 2032 del Código Civil del Estado a favor de los adquirentes para exigir el saneamiento por vicios ocultos se extinguirán a los cInco años, contados desde la entrega material del inmueble, en los casos de enajenación de primera venta. Para el resto de las viviendas que no encuadren en este supuesto la acción se extinguirá en un año.
