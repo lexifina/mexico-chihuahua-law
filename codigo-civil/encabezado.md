@@ -1,4 +1,3 @@
-N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE MARZO DE 2014 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 EL CIUDADANO LICENCIADO OSCAR FLORES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
@@ -4708,8 +4707,8 @@ Tampoco está obligado a la entrega, aunque haya concedido un término para el p
 (REFORMADO, P.O. 30 DE ABRIL DE 2003)
 2175.- La entrega de la cosa vendida debe hacerse en el lugar convenido, y si no hubiere lugar designado en el contrato, en el lugar en que se encontraba la cosa en la época en que se vendió.
 Si no pudiera determinarse esto último, se aplicará el artículo 1965.
-(REFORMADO, P.O. 30 DE ABRIL DE 2003)
-2176.- Cuando la cosa vendida tenga vicios o defectos ocultos, el vendedor responderá en la forma y términos previstos en el Capítulo relativo a la Evicción y Saneamiento, de este Código.
+(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)
+2176.- Cuando la cosa vendida tenga vicios o defectos ocultos, el vendedor responderá en la forma y términos previstos en el Capítulo relativo a la Evicción y Saneamiento, de este Código, o en las disposiciones especiales previstas en cualquier otra Ley.
 CAPITULO VI
 DE LAS OBLIGACIONES DEL COMPRADOR
 2177.- El comprador debe cumplir todo aquello a que se haya obligado, y especialmente pagar el precio de la cosa en el tiempo, lugar y forma convenidos.
