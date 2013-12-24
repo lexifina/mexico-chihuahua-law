@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- A los trabajadores que se encuentren cotizando al régimen de Pensiones Civiles del Estado a la fecha de entrada en vigor de la presente Ley, se les reconocen los periodos cotizados con anterioridad.

@@ -1,0 +1,1 @@
+ARTÍCULO PRIMERO.- La presente Ley entrará en vigor el día primero de enero del año dos mil catorce, sin perjuicio de su publicación en el Periódico Oficial del Estado, con la modalidad prevista en el Artículo Tercero Transitorio.

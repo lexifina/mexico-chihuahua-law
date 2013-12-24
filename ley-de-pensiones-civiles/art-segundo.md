@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley de Pensiones Civiles del Estado de Chihuahua, contenida en el Decreto Número 380/81, publicado en el Anexo al Periódico Oficial del Estado número 101 de fecha 19 de diciembre de 1981, y se derogan todas las disposiciones que se opongan a las de la presente Ley, con las modalidades previstas en los artículos siguientes.

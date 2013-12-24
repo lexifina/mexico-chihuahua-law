@@ -1,0 +1,2 @@
+ARTÍCULO DÉCIMO.- El Instituto podrá disponer de las reservas que se generen por las cuotas y aportaciones a las cuentas individuales, para cubrir las prestaciones y pensiones en curso de pago, así como de las provenientes de los trabajadores que no opten por migrar al nuevo sistema.
+El Instituto llevará un control contable de los saldos y rendimientos anuales que generen las cuentas individuales, los cuales no podrán ser inferiores a la tasa de inflación anual más dos puntos porcentuales.

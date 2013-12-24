@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Quedan sin efecto los convenios de incorporación con Instituciones afiliadas, celebrados al amparo de la Ley que se abroga. Los que en lo sucesivo se celebren, estarán sujetos a lo previsto en la presente Ley.

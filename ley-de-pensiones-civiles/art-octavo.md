@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO.- Los trabajadores que a la fecha de entrada en vigor de la presente Ley hayan reunido los requisitos para obtener una jubilación, podrán optar por esta o continuar prestando sus servicios y jubilarse en cualquier momento, en los términos de la Ley que se abroga.
