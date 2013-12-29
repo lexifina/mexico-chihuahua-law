@@ -1,0 +1,1 @@
+ARTÍCULO PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y las disposiciones en él contenidas serán obligatorias para los entes públicos y los municipios, a partir del primero de enero de 2014.
