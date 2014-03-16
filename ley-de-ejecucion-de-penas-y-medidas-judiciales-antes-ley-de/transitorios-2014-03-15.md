@@ -1,0 +1,3 @@
+P.O. 15 DE MARZO DE 2014.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor a los ciento ochenta días contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- La Fiscalía General del Estado, contará con un plazo de ciento ochenta días contados a partir del día siguiente de la publicación del presente Decreto en el Periódico Oficial del Estado, para consolidar su organización jurídica, técnica y administrativa, a efecto de estar en aptitud de cumplir con los fines del presente Decreto y constituir el Consejo de Patronos del Patronato de Ayuda para la Reinserción Social, según lo establecido en su Acuerdo de creación.
