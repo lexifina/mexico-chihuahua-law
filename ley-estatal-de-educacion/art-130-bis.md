@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE MARZO DE 2014)
+ARTÍCULO 130 BIS.- Las Asociaciones de Padres de Familia tendrán por objeto, además de las ya previstas en la presente Ley y disposiciones reglamentarias aplicables, participar en la aplicación de cooperaciones en numerario, bienes y servicios que, en su caso, hagan las propias asociaciones al establecimiento escolar. Estas cooperaciones serán de carácter voluntario y, según lo dispuesto por esta Ley, en ningún caso se entenderán como contraprestaciones del servicio educativo.

@@ -1,0 +1,8 @@
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2014)
+CAPÍTULO III BIS
+DEL FINANCIAMIENTO DE LA EDUCACIÓN
+(ADICIONADO, P.O. 15 DE MARZO DE 2014)
+ARTÍCULO 24-D.- El Estado en concurrencia con el Ejecutivo Federal, así como los gobiernos de los Municipios, de conformidad con lo establecido en sus respectivas Leyes de Ingresos, Presupuestos de Egresos, y demás normatividad aplicable, concurrirán en el financiamiento de la educación pública y de los servicios educativos e invertirán recursos económicos que propicien el funcionamiento adecuado de los servicios educativos públicos para la Educación Básica y Media Superior en la Entidad.
+Los recursos federales recibidos para ese fin por cada Entidad Federativa no serán transferibles y deberán aplicarse exclusivamente en la prestación de servicios y demás actividades educativas en la propia Entidad. El gobierno de cada Entidad Federativa publicará en su respectivo diario oficial, los recursos que la Federación le transfiera para tal efecto, en forma desagregada por nivel, programa educativo y establecimiento escolar.
+El Estado otorgará las facilidades necesarias para que el Ejecutivo Federal verifique la correcta aplicación de dichos recursos, así como el funcionamiento y evaluación de las Escuelas e Instituciones para hacer efectiva la rendición de cuentas a la sociedad, respecto de las políticas, acciones y el uso del presupuesto asignado al sector educativo.
+El Estado estará obligado a incluir en el proyecto de presupuesto que someta a la aprobación del Congreso del Estado, los recursos suficientes para fortalecer la autonomía de la gestión escolar, prevista en esta Ley.

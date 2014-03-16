@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 15 DE MARZO DE 2014)
+ARTÍCULO 24-C.- El expendio y distribución de alimentos y bebidas preparados y procesados dentro de toda Escuela, se sujetará, sin perjuicio del cumplimiento de otras disposiciones que resulten aplicables, a los lineamientos que para tal fin establezca la Autoridad Educativa Estatal. En la elaboración de los alimentos deberán cumplirse los criterios nutrimentales que para tal efecto determine la Secretaría de Salud del Poder Ejecutivo Federal.

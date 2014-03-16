@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 15 DE MARZO DE 2014)
+ARTÍCULO 24-A.- La Autoridad Educativa Estatal, con base en lo establecido en la Ley General del Servicio Profesional Docente y demás normatividad aplicable, desarrollará en la Entidad el proceso de formación, actualización, capacitación y superación profesional para docentes, que tendrá las finalidades siguientes:
+I. La formación, con nivel de licenciatura, de maestros de educación inicial, básica, incluyendo la de aquellos para la atención de la educación indígena, especial y de educación física.
+II. La formación continua, la actualización de conocimientos y superación docente de los maestros en servicio, citados en la fracción anterior. El cumplimiento de estas finalidades se sujetará, en lo conducente, a los lineamientos, medidas y demás acciones que resulten de la aplicación de la Ley General del Servicio Profesional Docente.
+III. La realización de programas de especialización, maestría y doctorado, adecuados a las necesidades y recursos educativos de la Entidad.
+IV. El desarrollo de la investigación pedagógica y la difusión de la cultura educativa.
+La Autoridad Educativa Estatal podrá coordinarse para llevar a cabo actividades relativas a las finalidades previstas en este artículo, cuando la calidad de los servicios o la naturaleza de las necesidades hagan recomendables proyectos regionales. Asimismo, podrán suscribir convenios de colaboración con instituciones de educación superior nacionales o del extranjero para ampliar las opciones de formación, actualización y superación docente.

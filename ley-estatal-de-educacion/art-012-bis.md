@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 15 DE MARZO DE 2014)
+ARTÍCULO 12 BIS.- La Autoridad Educativa Estatal tiene en exclusiva, las atribuciones siguientes:
+I. Prestar los servicios de formación, actualización, capacitación y superación profesional para docentes de Educación Básica, de conformidad con las disposiciones generales que la Autoridad Educativa Federal determine, y conforme a lo dispuesto por la Ley General del Servicio Profesional Docente y demás disposiciones aplicables.
+II. Coordinar y operar un Padrón Estatal de Estudiantes, Docentes, Instituciones y Centros Escolares y un Registro Estatal de Emisión, Validación e Inscripción de Documentos Académicos. Para estos efectos la Autoridad Educativa Estatal deberá coordinarse en el marco del Sistema de Información y Gestión Educativa, de conformidad con los lineamientos que al efecto expida la Autoridad Educativa Federal y demás disposiciones aplicables.
+III. Implementar y mantener actualizado un Sistema Estatal de Información y Gestión Educativa, mismo que deberá proporcionar información para satisfacer las necesidades de operación del Sistema Educativo Estatal; así mismo, participará en la actualización e integración permanente del Sistema de Información y Gestión Educativa.
+IV. Participar con la Autoridad Educativa Federal en la operación de los mecanismos de administración escolar.

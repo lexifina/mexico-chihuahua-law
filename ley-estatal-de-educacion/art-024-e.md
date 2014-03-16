@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 15 DE MARZO DE 2014)
+ARTÍCULO 24-E.- Las Autoridades Educativas Estatal y Municipal, en el ámbito de sus atribuciones, deberán ejecutar programas y acciones tendientes a fortalecer la autonomía de gestión de las Escuelas; tratándose de Educación Básica, observarán los lineamientos que expida la Autoridad Educativa Federal para formular los programas de gestión escolar, mismos que tendrán como objetivos:
+I. Usar los resultados de la evaluación como retroalimentación para la mejora continua en cada ciclo escolar.
+II. Desarrollar una planeación anual de actividades, con metas verificables y puestas en conocimiento de la Autoridad Educativa Estatal y la Comunidad Escolar.
+III. Administrar en forma transparente y eficiente los recursos que reciba para mejorar su infraestructura, comprar materiales educativos, resolver problemas de operación básicos y propiciar condiciones de participación para que Alumnos, Maestros y Padres de Familia, bajo el liderazgo del Director, se involucren en la resolución de los retos que cada Escuela enfrenta.
