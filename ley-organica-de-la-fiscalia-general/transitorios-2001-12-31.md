@@ -1,0 +1,5 @@
+B.O. 31 DE DICIEMBRE DE 2001.
+ARTICULO PRIMERO.- Las modificaciones a la Ley de Hacienda Municipal, entrarán en vigor a partir del 1o. de Enero del 2002, previa la publicación que se haga en el Boletín Oficial del Gobierno del Estado y serán aplicables en los municipios que cuenten con un sistema tarifario en sus respectivas leyes de ingresos municipales.
+ARTICULO SEGUNDO.- Los Ayuntamientos que no hayan incorporado a sus leyes de ingresos las cuotas, tasas y tarifas para el cobro de las contribuciones que esta ley prevé, podrán presentar la iniciativa de reforma de ley de ingresos a fin de que sean incorporados.
+ARTICULO TERCERO.- Hasta en tanto el Congreso del Estado apruebe las cuotas y tarifas por los servicios públicos municipales que presten los organismos del sector Paramunicipal y los concesionarios, se declaran vigentes, para el ejercicio fiscal de 2002, las cuotas, tasas y tarifas que se aplicaron en el ejercicio fiscal de 2001.
+ARTICULO CUARTO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por esta Ley.

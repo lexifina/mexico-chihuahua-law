@@ -1,0 +1,4 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)
+ARTICULO 61 BIS.- Tratándose de predios ejidales o comunales el pago se realizará en la misma época y condiciones que se encuentra establecido para el impuesto predial urbano conforme el artículo 61 de esta Ley.
+Los ayuntamientos que perciban el impuesto predial ejidal entregarán el 50% de este gravamen al ejido o comunidad, propietario o poseedor de los predios donde se genere el mismo; para tales efectos, se procederá a la creación de un programa de fortalecimiento en cada Ayuntamiento mediante la creación de figura de fideicomiso o cualquier otra que determine (sic) los Ayuntamientos para su mejor funcionamiento y organización, en las cuales deberán participar autoridades locales como los propios sujetos que hubieran pagado el gravamen.

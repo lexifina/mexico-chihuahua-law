@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 10 DE DICIEMBRE DE 2007)
+ARTICULO 108 BIS.- Para efectos de esta contribución, se entenderá por costo total del servicio el que resulte de sumar los costos de los consumos de energía eléctrica destinados a la prestación del servicio de alumbrado público, la reposición de lámparas, el mantenimiento de líneas eléctricas y postes, los sueldos del personal encargado de las tareas inherentes a la prestación del servicio y la constitución de una reserva razonable para la reposición, mejoramiento y, en su caso, expansión del servicio.
