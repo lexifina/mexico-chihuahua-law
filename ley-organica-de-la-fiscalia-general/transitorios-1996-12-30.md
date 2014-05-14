@@ -1,4 +1,0 @@
-B.O. 30 DE DICIEMBRE DE 1996.
-ARTICULO PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, con excepción de lo establecido en materia de desarrollo urbano que entrará en vigor una vez entre en vigor la nueva Ley de Desarrollo Urbano para el Estado de Sonora.
-ARTICULO SEGUNDO.- Se adicionan en la parte correspondiente a derechos de las Leyes de Ingresos y Presupuesto de Ingresos de los ayuntamientos de los municipios del Estado, para el ejercicio fiscal de 1997, los gravámenes relativos a limpia, desarrollo urbano y anuncios y publicidad a que se refiere esta Ley, para los efectos de su aplicación y cobro correspondiente. De los ingresos que se recauden por estos conceptos, los ayuntamientos informarán al Congreso del Estado.
-ARTICULO TERCERO.- Se derogan los puntos del 1 al 7 de la fracción II, del artículo 326 de la Ley de Hacienda del Estado de Sonora.
