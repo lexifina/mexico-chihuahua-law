@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 14 DE MAYO DE 2014)
+Artículo 22° BIS. El Patronato del Instituto de Apoyo al Desarrollo Tecnológico tendrá como finalidad apoyar a la Institución en la obtención de recursos financieros y patrimoniales adicionales, para la óptima realización de sus funciones. Su organización y funcionamiento estarán regulados por el reglamento que expida la Junta Directiva del Instituto.
+El patronato también deberá coadyuvar con las autoridades de las unidades, en el desarrollo de programas de prácticas profesionales y estadías de capacitación, en las empresas con las que se establezcan convenios de colaboración.
