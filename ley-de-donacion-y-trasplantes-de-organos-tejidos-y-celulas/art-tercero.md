@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Titular del Poder Ejecutivo contará con un plazo no mayor a ciento veinte días naturales, contados a partir de la entrada en vigor del presente Decreto, para expedir el Reglamento de la presente Ley.

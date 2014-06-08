@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Los procedimientos, recursos administrativos y demás asuntos relacionados con la materia a que se refiere esta Ley, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.

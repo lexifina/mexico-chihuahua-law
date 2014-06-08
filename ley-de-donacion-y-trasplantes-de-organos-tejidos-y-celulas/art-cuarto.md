@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- En tanto se verifica lo dispuesto por el Artículo Segundo Transitorio, todas las actividades que se desarrollan en relación con los trasplantes de órganos, tejidos y células, continuarán con su trámite ante las instituciones constituidas con anterioridad.

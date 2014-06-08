@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El Consejo y el Centro Estatal de Trasplantes del Estado de Chihuahua, deberán constituirse en un plazo no mayor a noventa días naturales, a partir de la entrada en vigor del presente Decreto.
