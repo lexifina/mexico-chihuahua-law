@@ -1,5 +1,4 @@
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
-N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE MARZO DE 2014 NO APLICA AL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 1307/2013 II P.O., PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2013.
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 EL CIUDADANO LICENCIADO OSCAR FLORES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 Que el Honorable Congreso del Estado, se ha servido expedir el siguiente
@@ -3248,8 +3247,12 @@ Si el testador retira el testamento porque lo revoca, deberá informarlo así al
 (REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2002)
 CAPITULO IV
 DEL TESTAMENTO PUBLICO SIMPLIFICADO
-(REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
-1455.- Testamento público simplificado es el que se refiere a un determinado inmueble destinado o que vaya a destinarse a vivienda por el adquirente y que se otorga ante Notario, en la misma escritura que consigne su adquisición, o en la que se consigne la regularización que lleven a cabo las autoridades del Estado o de los municipios de la entidad, o cualquier dependencia u organismo públicos, aún los desconcentrados o descentralizados, o en acto posterior, de conformidad con lo dispuesto en este Capítulo.
+(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2014)
+1455.- Testamento público simplificado es el que se refiere a un determinado inmueble y que se otorga ante Notario, en la misma escritura en que se formalice su adquisición, o en el documento en el que se consigne su regularización, que lleven a cabo las autoridades de la Administración Pública federal, estatal y municipal, o cualquier dependencia u organismos públicos, aun los desconcentrados o descentralizados, o en acto posterior, de conformidad con lo dispuesto en este Capítulo y el acuerdo que emita el Poder Ejecutivo, por conducto de la Dirección del Registro Público de la Propiedad y del Notariado.
+(ADICIONADO, P.O. 25 DE JUNIO DE 2014)
+En el caso de solares urbanos y parcelas con dominio pleno, segregados a consecuencia de la delimitación y asignación de tierras ejidales, el Poder Ejecutivo, en coordinación con el Registro Agrario Nacional o la Procuraduría Agraria, en base al convenio de colaboración que celebren para tal efecto y cuando así lo estimen conveniente, podrán tomar nota pública del otorgamiento del testamento simplificado, ya sea en el acto en que sea individualizado y expedido el título del solar urbano o parcela con dominio pleno de que se trate, o en acto posterior cuando así lo solicite el ejidatario o cualquier sujeto de derecho agrario interesado.
+(ADICIONADO, P.O. 25 DE JUNIO DE 2014)
+Cuando el testamento simplificado sea otorgado con posterioridad a la emisión del título de propiedad, la autoridad que reciba el testamento levantará el acta correspondiente, donde asentará la voluntad del testador, así como sus datos generales, huella digital y firma; de igual forma, llevará el registro de los mismos en el libro de testamentos que para tal efecto autorice la Dirección el (sic) Registro Público de la Propiedad y del Notariado y proporcionará el aviso correspondiente, lo anterior de conformidad con lo dispuesto por los artículos 52 y 83 de la Ley del Notariado del Estado.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1456.- Para los efectos del artículo anterior, el precio del inmueble o su valor según avalúo catastral, no excederá del equivalente a veinticinco veces el salario mínimo general vigente en el lugar de su ubicación elevado al año, al momento de la adquisición.
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
