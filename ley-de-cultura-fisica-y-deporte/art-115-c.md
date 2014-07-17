@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 16 DE JULIO DE 2014)
+Artículo 115-C.- Se crea la Comisión Especial Contra la Violencia en el Deporte Chihuahuense, que será la encargada de elaborar y conducir las políticas generales contra la violencia en el deporte.
+La Comisión Especial será un órgano colegiado integrado por representantes del Instituto, de los Órganos Municipales de Cultura Física y Deporte, de las Asociaciones Deportivas Estatales, del Consejo, de las Ligas Profesionales y, en su caso, de las Comisiones Estatales del Deporte Profesional.
+La composición y funcionamiento de la Comisión Especial se establecerá en el Reglamento de la presente Ley.
+En la Comisión Especial podrán participar dependencias y entidades de la Administración Pública Estatal, a fin de colaborar, apoyar y desarrollar planes y estudios que aporten eficacia a las acciones encaminadas a la prevención de la violencia en el deporte. Asimismo, podrán participar personas destacadas en el ámbito del deporte.
+La coordinación y operación de los trabajos de la Comisión Especial, estarán a cargo del Instituto.

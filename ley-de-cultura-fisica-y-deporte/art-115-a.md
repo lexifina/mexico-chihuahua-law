@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 16 DE JULIO DE 2014)
+Artículo 115-A.- Las disposiciones previstas en este Capítulo, serán aplicables a todos los eventos deportivos, sin perjuicio de dar cumplimiento a otros ordenamientos, que en la materia dicten la Federación y los Municipios.
+El Instituto, podrá asesorar en la materia, dentro del ámbito de su competencia, a los organizadores de eventos deportivos cuando así lo requieran.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 16 DE JULIO DE 2014)
+Artículo 61-A. Con el fin de garantizar el cumplimiento efectivo de las funciones que como colaboradoras de la administración pública estatal les son delegadas a las Asociaciones Deportivas Estatales en términos de la presente Ley, el Instituto, con absoluto y estricto respeto a los principios de auto organización que resultan compatibles con la vigilancia y protección de los intereses públicos, podrá llevar a cabo acciones de fiscalización, supervisión, evaluación y vigilancia de los recursos públicos.

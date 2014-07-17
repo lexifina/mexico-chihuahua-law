@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 16 DE JULIO DE 2014)
+Artículo 70-B. El Instituto, en coordinación con la Secretaría y los Municipios, planificará y promocionará el uso óptimo de las instalaciones deportivas de carácter público, para promover y fomentar entre la población en general la práctica de actividades físicas y deportivas.
+Los titulares de las dependencias y entidades de la administración pública Estatal y municipal tendrán la obligación de promover y fomentar la práctica de actividades físicas o deportivas entre sus trabajadores, con objeto de contribuir al control del sobrepeso y la obesidad, el mejoramiento de su estado físico y mental, y facilitar su plena integración en el desarrollo social y cultural.
+Para cumplir con esta responsabilidad podrán celebrar acuerdos de colaboración con el Instituto.
+Asimismo, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con la activación física, su entrenamiento y participación en competiciones oficiales.
