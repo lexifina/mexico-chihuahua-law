@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El Código de Procedimientos Civiles de 1974 seguirá rigiendo en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del nuevo Código y hasta la total solución de los mismos.

@@ -1,0 +1,1 @@
+ARTÍCULO PRIMERO.- El Código Procesal Familiar del Estado iniciará su vigencia el diecisiete de agosto de dos mil quince, previa su publicación en el Periódico Oficial del Estado, conforme a las modalidades previstas en los artículos siguientes.
