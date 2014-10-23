@@ -1,0 +1,4 @@
+P.O. 22 DE OCTUBRE DE 2014.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Para la retención de los ingresos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, el Municipio, previa aprobación del cabildo, celebrará el acuerdo correspondiente con la Secretaría de Hacienda de Gobierno del Estado.
+En todo caso los recursos que sean retenidos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, en términos de lo dispuesto por los párrafos segundo y tercero del artículo 142, la Secretaría compensará a los municipios el ingreso que dejarían de percibir por dicho concepto, en los términos que se establezcan en los citados acuerdos.
