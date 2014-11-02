@@ -13,7 +13,7 @@ IX.- Participar en los remates públicos en los que tenga interés el municipio,
 X.- Verificar que los funcionarios públicos y empleados del municipio cumplan con la formulación de su declaración patrimonial;
 XI.- Revisar la situación de los rezagos fiscales para que éstos sean liquidados y cobrados;
 XII.- Asociarse a cualquier comisión encomendada a los Regidores cuando la importancia de la misma y los intereses del Municipio, así lo ameriten;
-XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y (sic)
+XIII.- Conocer de las condonaciones o reducciones de créditos fiscales que realicen el tesorero o el presidente municipal; y
 (ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)
 XIV.- Nombrar y remover libremente a sus colaboradores, previo informe que proporcione al Ayuntamiento. La opinión de este en ningún caso será vinculante;
 (ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 1998)
