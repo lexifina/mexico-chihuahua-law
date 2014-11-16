@@ -1,0 +1,4 @@
+P.O. 15 DE NOVIEMBRE DE 2014.
+DECRETO NÚMERO 597/2014 I P.O. POR EL QUE SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO DÉCIMO SEGUNDO; SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 127; AL TÍTULO DÉCIMO SEGUNDO, LOS CAPÍTULOS III Y IV, ASÍ COMO LOS ARTÍCULOS 204 BIS Y 204 TER; SE DEROGA EL SEGUNDO PÁRRAFO Y SUS INCISOS A) AL C) DEL ARTÍCULO 204; DEL TÍTULO DÉCIMO CUARTO, EL CAPÍTULO VIII Y EL ARTÍCULO 231; TODOS DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- La modificación o reubicación de los tipos penales a que se refiere este Decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
