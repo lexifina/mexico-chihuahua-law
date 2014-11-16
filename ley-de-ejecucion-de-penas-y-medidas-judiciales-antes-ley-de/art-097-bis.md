@@ -1,8 +1,0 @@
-(ADICIONADO, P.O. 7 DE MAYO DE 2011)
-Artículo 97 Bis. Requisitos de Permanencia.
-Para gozar del beneficio a que se refiere el artículo anterior, el sentenciado deberá:
-I. Otorgar la garantía o sujetarse a las medidas que se fijen para asegurar su comparecencia ante la autoridad, cada vez que sea requerido por ésta;
-II. Residir en determinado lugar, del que no podrá ausentarse sin permiso de la autoridad que ejerza el cuidado y vigilancia;
-III. Desempeñar una ocupación lícita;
-IV. Abstenerse de causar molestias al ofendido, a sus familiares o a cualquier interviniente en el juicio, y
-V. Acreditar que se ha cubierto la reparación del daño, pudiendo la autoridad judicial fijar plazos para ello, de acuerdo a la situación económica del sentenciado.

@@ -1,0 +1,4 @@
+P.O. 15 DE NOVIEMBRE DE 2014.
+DECRETO NÚMERO 492/2014 II P.O. POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 91 BIS, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, en materia del delito de tortura, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.

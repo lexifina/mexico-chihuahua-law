@@ -1,6 +1,0 @@
-(ADICIONADO, P.O. 7 DE MAYO DE 2011)
-Artículo 104-D. Revocación de la sustitución.
-La autoridad judicial podrá dejar sin efecto la sustitución y ordenar que se ejecute la pena de prisión impuesta:
-I. Cuando el sentenciado no cumpla con las condiciones que le fueran señaladas por la autoridad, o
-II. Cuando al sentenciado se le condene en otro proceso por delito doloso; si el nuevo delito carece de trascendencia social o es imprudencial, la autoridad judicial resolverá si debe aplicarse la pena sustituida.
-En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta el tiempo durante el cual el sentenciado hubiera cumplido la pena sustitutiva.
