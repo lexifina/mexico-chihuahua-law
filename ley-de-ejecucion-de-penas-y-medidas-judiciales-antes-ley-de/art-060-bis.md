@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE MAYO DE 2011)
+Artículo 60 Bis. Para la concesión del tratamiento se deberá de acreditar fehacientemente ante el Juez de Ejecución de Penas, las causas que justifiquen el fin por el cual se solicita la misma, las que deberán de quedar debidamente documentadas en la carpeta de ejecución respectiva y avaladas por el dictamen técnico del consejo interdisciplinario, en el que además se debe determinar la viabilidad del beneficio.

@@ -1,0 +1,3 @@
+P.O. 12 DE NOVIEMBRE DE 2011.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Aquellas causas en las que se haya dictado Auto de Apertura de Juicio Oral antes de la entrada en vigor del presente Decreto, serán conocidas por Tribunales Colegiados de Juicio Oral bajo las normas previstas con anterioridad para dichos Tribunales; lo mismo se observará para las Salas Penales en materia de recursos. Lo previsto en este artículo transitorio regirá igualmente en materia de extinción de dominio.
