@@ -12,7 +12,6 @@ La modificación o reubicación de cualquier tipo penal a que se refiere este de
 ARTÍCULO SEXTO.- Acción penal y pretensión punitiva.
 Cuando algún ordenamiento jurídico local haga referencia a la figura de la acción penal, se entenderá en lo subsecuente que lo hace refiriéndose a la pretensión punitiva.
 ARTÍCULO SÉPTIMO.- (DEROGADO, P.O. 9 DE FEBRERO DE 2013)
-.
 DADO en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los treinta días del mes de noviembre del año dos mil seis.
 PRESIDENTE. DIP. JESÚS HEBERTO VILLALOBOS MÁYNEZ. SECRETARIO. DIP. ALEJANDRO GUERRERO MUÑOZ. SECRETARIO. DIP. SERGIO VÁZQUEZ OLIVAS.
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
