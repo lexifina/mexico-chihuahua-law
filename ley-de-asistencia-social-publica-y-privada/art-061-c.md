@@ -1,6 +1,6 @@
 (ADICIONADO, P.O. 28 DE MARZO DE 2012)
 Artículo 61-C. Los estatutos contendrán:
-l. La denominación de la institución;
+I. La denominación de la institución;
 II. Los bienes que constituyan su patrimonio, o bien, la forma de exhibir y recaudar sus fondos;
 III. La clase de operaciones que deberá verificar la institución para sostenerse, sujetándose a las limitaciones que establezca la ley;
 IV. El tipo de servicios o acciones de asistencia social que se realizarán;
