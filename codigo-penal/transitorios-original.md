@@ -9,7 +9,7 @@ ARTÍCULO CUARTO.- Libertad provisional.
 En los delitos cometidos con anterioridad a la vigencia del presente Código, si los responsables tenían derecho a la libertad provisional bajo caución, seguirán gozando de dicho beneficio.
 ARTÍCULO QUINTO.- Modificación o reubicación de tipos penales.
 La modificación o reubicación de cualquier tipo penal a que se refiere este decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados.
-ARTÍCULO SEXTO. Acción penal y pretensión punitiva.
+ARTÍCULO SEXTO.- Acción penal y pretensión punitiva.
 Cuando algún ordenamiento jurídico local haga referencia a la figura de la acción penal, se entenderá en lo subsecuente que lo hace refiriéndose a la pretensión punitiva.
 ARTÍCULO SÉPTIMO.- (DEROGADO, P.O. 9 DE FEBRERO DE 2013)
 .

@@ -1,0 +1,5 @@
+P.O. 30 DE MAYO DE 2015.
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor en todo el Estado al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente Decreto.
+ARTÍCULO TERCERO.- La modificación o reubicación de las porciones normativas y las consecuencias jurídicas a que se refiere este Decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos y las sanciones se sigan comprendiendo en los preceptos modificados o reubicados.
+ARTÍCULO CUARTO.- Las disposiciones relativas a la punibilidad de la tentativa y la complicidad a que hacen referencia los artículos 75 y 78, respectivamente, del Código Penal del Estado de Chihuahua, hasta la entrada en vigor de este Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
