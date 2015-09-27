@@ -1,9 +1,8 @@
 TRANSITORIOS
-(REFORMADO, P.O. 5 DE AGOSTO DE 2015)
+(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2015)
 Artículo Primero. El presente Código iniciará su vigencia, previa publicación en el Periódico Oficial del Estado, según el o los distritos judiciales de que se trate, de la manera siguiente:
-En el Distrito Judicial Morelos: el veintiocho de septiembre de dos mil quince.
-En el Distrito Judicial Bravos: el catorce de diciembre de dos mil quince.
-En el resto de los distritos judiciales: el veinticinco de enero de dos mil dieciséis.
+En el Distrito Judicial Morelos: el veintiocho de octubre de dos mil quince.
+Y en el resto de los Distritos Judiciales: el veinticuatro de febrero de dos mil dieciséis.
 Artículo Segundo. El Código de Procedimientos Civiles de 1974 seguirá rigiendo en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del nuevo código y hasta la total solución de los mismos.
 Artículo Tercero. No procederá la acumulación de procesos, cuando alguno de ellos esté sometido al código anterior y otro a éste código.
 D A D O en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los veintiséis días del mes de junio del año dos mil catorce.
