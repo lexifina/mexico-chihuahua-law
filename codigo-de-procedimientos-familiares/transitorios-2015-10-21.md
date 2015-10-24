@@ -1,0 +1,2 @@
+P.O. 21 DE OCTUBRE DE 2015.
+ARTÍCULO ÚNICO.- El presente Código de Procedimientos Familiares del Estado, atendiendo a lo dispuesto por el Artículo Único del Decreto número 967/2015 XI P.E., de fecha 21 de septiembre de 2015, y previa publicación en el Periódico Oficial del Estado, iniciará su vigencia, en el Distrito Judicial Morelos, el día veintiocho de octubre de dos mil quince; en el resto de los Distritos Judiciales, el veinticuatro de febrero de dos mil dieciséis.
