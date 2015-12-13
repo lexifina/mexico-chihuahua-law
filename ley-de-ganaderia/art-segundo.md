@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley de Ganadería para el Estado de Chihuahua, expedida mediante Decreto No. 785/09 I P.O., publicado en el Periódico Oficial del Estado No. 17, de fecha 27 de febrero de 2010.

@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- En un plazo de noventa días contados a partir de la entrada en vigor de esta Ley, la Secretaría implementará un programa especial para efecto de dar a conocer las finalidades y beneficios del Sistema Nacional de Identificación Animal para Bovinos y Colmenas (SINIDA) y promover su aplicación por los ganaderos del Estado.

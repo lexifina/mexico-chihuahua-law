@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- El Ejecutivo Estatal deberá crear el Organismo Público Descentralizado para el control de la Leche, dentro de los veinticuatro meses siguientes a la entrada en vigor del presente Decreto, mientras tanto la Secretaría realizará las funciones y/o atribuciones que le corresponden al organismo.

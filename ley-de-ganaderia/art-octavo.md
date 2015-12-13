@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO.- El artículo 83 relativo a la tarifa única del pase de ganado, entrará en vigor el primero de enero del año 2017, por lo que el Ejecutivo Estatal deberá realizar los convenios correspondientes con los Ayuntamientos de la Entidad, antes de la entrada en vigor de dicho numeral, para que estos puedan realizar el cobro correspondiente.
