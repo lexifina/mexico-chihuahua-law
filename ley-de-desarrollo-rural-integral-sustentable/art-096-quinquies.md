@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2015)
+Artículo 96 Quinquies. La participación del Sistema consistirá en la emisión de opiniones técnicas que permitan instrumentar normas y políticas públicas dirigidas a integrar capacidades, acciones y recursos que contribuyan al desarrollo sustentable del sector agropecuario del Estado de Chihuahua.
+Lo anterior, encaminado a aprovechar sustentablemente los recursos disponibles, al poner en práctica los conocimientos intelectuales, técnicos o tecnológicos, logrando eficiencia y eficacia en el uso y manejo de procesos estadísticos y de información para incrementar la producción y comercialización de los productos agropecuarios del Estado.
