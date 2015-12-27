@@ -1,0 +1,1 @@
+ARTÍCULO NOVENO.- Para los efectos del artículo 25 de esta Ley, el trabajador en transición tendrá derecho a una pensión por retiro al contar con al menos quince años de servicio debiendo de haber contribuido con sus cuotas durante dicho periodo.

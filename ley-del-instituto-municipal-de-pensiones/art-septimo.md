@@ -1,0 +1,1 @@
+ARTICULO SÉPTIMO.- De acuerdo a la presente Ley, el trabajador en transición tendrá el derecho a la pensión por edad y antigüedad en el servicio, al contar con al menos treinta años de servicio para los hombres y veintiocho años para las mujeres, el monto de la pensión será el 100% del sueldo regulador.

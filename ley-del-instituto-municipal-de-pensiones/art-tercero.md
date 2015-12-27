@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Los trabajadores que estén disfrutando una pensión a la fecha de entrada en vigor de la presente Ley, o tengan derecho adquirido a disfrutar de alguna de ellas, la mantendrán en los términos y condiciones en los que la hayan adquirido.

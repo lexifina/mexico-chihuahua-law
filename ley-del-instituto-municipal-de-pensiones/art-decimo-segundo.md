@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO SEGUNDO.- Las disposiciones que no se encuentran contempladas en los Artículos Transitorios para los trabajadores en transición, se regirán de acuerdo a lo dispuesto en el cuerpo de la Ley.

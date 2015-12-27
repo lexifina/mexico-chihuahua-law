@@ -1,0 +1,19 @@
+ARTÍCULO DÉCIMO.- El monto de la pensión que se menciona en el párrafo anterior, se determinará de acuerdo a la siguiente tabla:
+HOMBRESMUJERES
+Antigüedad%%
+1555.058.0
+1658.060.0
+1760.062.0
+1862.063.0
+1963.064.0
+2064.066.0
+2165.067.0
+2266.070.0
+2367.075.0
+2470.080.0
+2575.085.0
+2680.090.0
+2785.095.0
+2890.0100
+2995.0
+30100

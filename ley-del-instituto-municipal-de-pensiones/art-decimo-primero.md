@@ -1,0 +1,1 @@
+ARTICULO DECIMO PRIMERO.- El monto de las pensiones que generen los trabajadores en transición aumentará anualmente, en el mes de febrero, en la misma proporción en que aumenten los salarios del personal en activo, según la cuota diaria de su pensión.

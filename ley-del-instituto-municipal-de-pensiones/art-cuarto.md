@@ -1,0 +1,1 @@
+ARTICULO CUARTO.- Aquellos trabajadores que se encuentren en activo a la entrada en vigor de esta Ley, y no se encuentren en el supuesto descrito en el transitorio anterior serán considerados como trabajadores en transición.
