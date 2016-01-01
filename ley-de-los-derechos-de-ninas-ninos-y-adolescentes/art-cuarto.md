@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Los Centros de Asistencia Social que se encuentren operando en el Estado de Chihuahua con anterioridad a la entrada en vigor de la presente Ley, contarán con un plazo de 180 días naturales para realizar las adecuaciones conducentes en los términos de lo previsto en el presente Decreto.

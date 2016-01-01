@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- A partir del siguiente ejercicio presupuestal, de acuerdo a la disponibilidad con que cuente el Estado en su Ley de Ingresos, deberán asignar los recursos financieros necesarios para el cumplimiento de los objetivos establecidos en la presente Ley.

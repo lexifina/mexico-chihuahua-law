@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- En los ordenamientos jurídicos estatales que refieran la existencia de la Procuraduría de Asistencia Jurídica y Social, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Procuraduría de Protección de Niñas, Niños y Adolescentes.

@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Estatal en un plazo no mayor a los 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
