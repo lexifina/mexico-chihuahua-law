@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE ENERO DE 2016)
+Artículo 30 Bis. El Consejo Estatal sesionará al menos una vez al año en forma ordinaria, y en forma extraordinaria cuando su Presidente así lo determine. Asimismo sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, siempre y cuando la mayoría de los asistentes sean los representantes de la Administración Pública Estatal para que los acuerdos que tomen sean legales. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad en caso de empate.
