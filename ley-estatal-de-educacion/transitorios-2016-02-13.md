@@ -1,0 +1,3 @@
+P.O. 13 DE FEBRERO DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO 1242/2015 I P.O. MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 168 DE LA LEY ESTATAL DE EDUCACIÓN Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA MISMA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
