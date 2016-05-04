@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Una vez que entre en vigor la presente Ley, se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua, publicada en el Periódico Oficial del Estado, el día 15 de octubre de 2005.

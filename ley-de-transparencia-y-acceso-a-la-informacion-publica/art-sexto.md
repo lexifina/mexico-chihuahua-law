@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Cuando los ordenamientos jurídicos hagan referencia a los (las) Consejeros (as) del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, se entenderá que dicha referencia corresponde a los (las) Comisionados (as) del citado Organismo.

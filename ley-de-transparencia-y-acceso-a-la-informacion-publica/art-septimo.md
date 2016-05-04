@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO.- El Poder Ejecutivo del Estado hará las provisiones necesarias en el Presupuesto de Egresos para el ejercicio fiscal de 2016, para el cumplimiento de las obligaciones y ejercicio de los derechos previstos en esta Ley.

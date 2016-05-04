@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Hasta en tanto entra en vigencia lo señalado en el Artículo Octavo Transitorio de la Ley General, el Organismo Garante y los Sujetos Obligados darán cumplimiento a lo previsto en dicho precepto.
