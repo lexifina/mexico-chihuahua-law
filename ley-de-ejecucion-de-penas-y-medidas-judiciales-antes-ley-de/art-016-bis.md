@@ -1,6 +1,4 @@
-(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)
-Artículo 16 Bis. Facultades del Instituto de Servicios Previos al Juicio.
-El Instituto, dependiente del Supremo Tribunal de Justicia del Estado, será el órgano al que corresponderá:
-I. En materia de medidas judiciales dictadas durante el proceso.
-a) La evaluación de riesgos que, para el proceso y sus intervinientes, representen los imputados, de conformidad con lo señalado en el segundo párrafo del artículo 156 del Código Nacional de Procedimientos Penales.
-b) La supervisión y seguimiento de las medidas cautelares distintas a la prisión preventiva, así como el cumplimiento de las condiciones establecidas a los imputados en la suspensión condicional del proceso.
+(REFORMADO, P.O. 18 DE JUNIO DE 2016)
+Artículo 16 Bis. Aprobación de la suspensión condicional del proceso.
+Una vez que haya sido aprobada la suspensión condicional del proceso dentro de una causa, el juez deberá notificar tal situación a la Fiscalía a efecto de que esta dé inicio al proceso de supervisión respectivo.
+En caso de incumplimiento de alguna o de la totalidad de las condiciones establecidas al imputado para el mantenimiento de la suspensión, la Fiscalía deberá notificar lo anterior al juez que las decretó.

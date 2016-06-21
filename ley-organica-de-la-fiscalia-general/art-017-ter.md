@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE JUNIO DE 2016)
+Artículo 17 Ter. El Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal contará con un área de seguimiento, la que tendrá a su cargo la obligación de impulsar y monitorear el cumplimiento de los acuerdos alcanzados por los intervinientes en el mecanismo alternativo, a efecto de que se determinen las consecuencias jurídicas respectivas, de conformidad con el Título Tercero de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
