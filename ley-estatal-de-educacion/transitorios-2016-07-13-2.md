@@ -1,0 +1,3 @@
+P.O. 13 DE JULIO DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 1396/2016 XIV P.E., MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 8 Y SE ADICIONA UNA FRACCIÓN LIV AL ARTÍCULO 13, AMBOS DE LA LEY ESTATAL DE EDUCACIÓN".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
