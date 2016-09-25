@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2016)
+ARTICULO 34 BIS.- Los recursos derivados de las Obligaciones a corto plazo deberán ser destinados exclusivamente a cubrir necesidades de corto plazo, entendiendo dichas necesidades como insuficiencias de liquidez de carácter temporal.
+Las entidades públicas presentarán en los informes periódicos a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de las Obligaciones a corto plazo contraídas en los términos del presente Capítulo, incluyendo por lo menos importe, tasas, plazo, comisiones y cualquier costo relacionado.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2016)
+Artículo 34 TER.- Las Obligaciones a corto plazo, a que se refieren los artículos anteriores, no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores a un año, salvo en el caso de las Obligaciones destinadas a Inversión pública productiva y se cumpla con los requisitos previstos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
