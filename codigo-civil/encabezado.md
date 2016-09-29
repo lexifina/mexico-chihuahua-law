@@ -714,6 +714,8 @@ Se debe entender por Régimen de Convivencia Progresiva, las circunstancias en q
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
 La protección para los hijos e hijas menores de edad implica las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales corresponderán a los organismos para la asistencia social pública estatal o municipal, a través de su correspondiente Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, por lo que deberá darse vista a estas instancias cuando en la tramitación de un juicio se perciba que se pone en riesgo la seguridad de aquéllos.
+(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2016)
+Para los efectos de la fracción IV del presente artículo, se podrá establecer un sistema de convivencia supervisada, a través del Centro de Convivencia Familiar o cualquiera de sus unidades de apoyo, en los términos de la Ley Orgánica del Poder Judicial del Estado de Chihuahua, y su Reglamento correspondiente.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
 257.- Los cónyuges divorciados podrán contraer nuevo matrimonio inmediatamente después de obtenido el divorcio; pero la mujer no podrá hacerlo si no tuviere trescientos días de separada físicamente de su esposo, o mediare examen médico que acredite que no está embarazada.
 258.- Las acciones de divorcio no podrán ejercitarse cuando haya mediado el perdón expreso o tácito debidamente comprobado.

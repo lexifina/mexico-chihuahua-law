@@ -1,0 +1,3 @@
+P.O. 28 DE SEPTIEMBRE DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 1445/2016 XX P.E., MEDIANTE EL CUAL SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 54 DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
