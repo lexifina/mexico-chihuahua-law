@@ -1,3 +1,7 @@
 (DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2015)
 (ADICIONADO, P.O. 9 DE MAYO DE 2007)
 Art. 83 ter.- La fiscalización será posterior. Una vez fiscalizadas las cuentas públicas y emitidos los decretos que contengan, en su caso, irregularidades en el manejo, recaudación y aplicación de fondos públicos, la Auditoría Superior del Estado, bajo su más estricta responsabilidad, deberá presentar, sin dilación, las denuncias penales e iniciar los procedimientos civiles y administrativos a fin de determinar responsabilidades; y en general, ejercitar todas las acciones ante las autoridades competentes hasta en tanto se apliquen las sanciones previstas por la ley y se reparen los daños o perjuicios causados al patrimonio público.
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)
+Asimismo, la fiscalización abarcará lo relativo a los ingresos, egresos y deuda; las garantías que, en su caso, otorgue el Gobierno Federal respecto a empréstitos del Estado y municipios; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado y de los entes públicos estatales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas federales, a través de los informes que se rendirán en los términos que disponga la ley.
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)
+También fiscalizará, en coordinación con la Auditoría Superior de la Federación, los recursos que provengan de las participaciones federales.
