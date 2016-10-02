@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)
+ARTICULO 12 Cuáter. Cuando existan lineamientos y procedimientos de evaluación específicos, para la expedición de los documentos que acrediten la certificación en una rama o especialidad profesional determinada, las autoridades educativas, sin perjuicio de la competencia que sobre la materia corresponda, deberán atender a los mismos y, en su caso, considerarán la participación de las demás autoridades en la materia.

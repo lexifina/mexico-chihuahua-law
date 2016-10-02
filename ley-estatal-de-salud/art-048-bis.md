@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)
+Artículo 48 bis.- Los procedimientos médico quirúrgicos de especialidad, serán realizados exclusivamente por profesionales de la salud que cumplan con los requisitos previstos en el artículo 94 de esta Ley.
+Para efectos de este artículo, se entenderá por Procedimiento Médico Quirúrgico, cualquier actividad médica que se lleve a cabo en una sala de cirugía de tipo hospital o ambulatorio, en la que se utilice cualquier tipo de anestesia, que requiere de cuidados pre, trans y/o postoperatorios especiales en áreas de hospitalización o, en su caso, en salas de recuperación ambulatoria.

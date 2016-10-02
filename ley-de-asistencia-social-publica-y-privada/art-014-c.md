@@ -1,7 +1,8 @@
 (ADICIONADO, P.O. 31 DE ENERO DE 2015)
 Artículo 14-C. Para acceder a los beneficios mencionados en el presente Capítulo, las madres jefas de familia deberán cumplir con los siguientes requisitos:
 I. Sean mujeres, que asuman el rol de jefas de familia y se encarguen en forma única y total del sustento económico de sus descendientes en línea recta;
-II. Acrediten ser madres solteras mediante un certificado de inexistencia de matrimonio y las actas de nacimiento del hijo o hijos, en su caso;
+(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)
+II. Acrediten ser madres solteras mediante un certificado de inexistencia de matrimonio y las actas de nacimiento de sus hijas e hijos, en su caso.
 III. Acrediten estar en situación de desventaja, mediante un estudio socioeconómico que llevará a cabo el DIF Estatal;
 IV. Que sus descendientes en línea recta no tengan más de 16 años de edad;
 V. Que sus descendientes mayores de 5 años de edad y menores de 16 años se encuentren inscritos en los planteles del Sistema Educativo Estatal o Nacional;

@@ -1,0 +1,6 @@
+P.O. 1 DE OCTUBRE DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 1442/2016 XX P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA."]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante la Procuraduría de Asistencia Jurídica y Social, se entenderá que continúan su curso ante la Procuraduría de Protección.
+ARTÍCULO TERCERO.- En los ordenamientos jurídicos estatales o en cualquier otra disposición, ordenamiento o instrumento legalmente expedido que haga referencia a la Procuraduría de Asistencia Jurídica y Social, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Procuraduría de Protección.
+ARTÍCULO CUARTO.- Las relaciones laborales de los trabajadores con que cuente la Procuraduría de Asistencia Jurídica y Social del DIF Estatal a la entrada en vigor del presente Decreto, cualquiera que sea su naturaleza, continuarán rigiéndose por las disposiciones que les dieron origen, sin que se vean afectados los derechos laborales de las personas, con motivo de la presente reforma.

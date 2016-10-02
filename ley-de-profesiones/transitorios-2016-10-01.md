@@ -1,0 +1,5 @@
+P.O. 1 DE OCTUBRE DE 2016.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 1240/2015 I P.O., POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE PROFESIONES PARA EL ESTADO DE CHIHUAHUA".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Para el ejercicio de actividades profesionales en el campo de la medicina, y demás señaladas en el artículo 79 de la Ley General de Salud, se otorgará el plazo de dos años para cumplir con el requisito de obtener el documento que acredite la certificación vigente en el ramo de la salud correspondiente, así como el registro ante la Oficina Estatal de Profesiones, contado a partir de la fecha de entrada en vigor de este Decreto.
+ARTÍCULO TERCERO.- La Secretaría de Salud del Estado, participará en el cumplimiento de estas disposiciones y de los demás lineamientos que al efecto emita la Secretaría de Salud Federal, a fin de homologar la calidad técnica e interpersonal de los servicios de salud.

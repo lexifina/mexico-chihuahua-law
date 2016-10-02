@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)
+ARTICULO 12 Bis. La certificación de profesionistas es la evaluación que acredita el entrenamiento, habilidades, destrezas y califica la pericia que se requiere para el ejercicio de actividades profesionales y, en su caso, el grado de especialidad para el ejercicio de la profesión en una rama en específico.
+Para acreditar la vigencia de la misma, en su oportunidad, se deberá llevar a cabo la recertificación, que es el procedimiento de evaluación que pretende hacer constar la capacidad, la experiencia en la práctica de procedimientos y técnicas correspondientes en la materia, y el grado de actualización necesarios para el ejercicio de actividades profesionales o de especialidad.
+El documento que acredite la evaluación respectiva deberá contar con el reconocimiento oficial de las autoridades educativas correspondientes y tendrá la vigencia que determinen las mismas.

@@ -1,4 +1,4 @@
-(ADICIONADA, P.O. 16 DE JULIO DE 2014)
+(ADICIONADO, P.O. 16 DE JULIO DE 2014)
 Artículo 44-B.- La tramitación y resolución del recurso de apelación a que hace referencia esta Sección, se sujetará a los requisitos y condiciones siguientes:
 I.- Se interpondrá por escrito, por comparecencia o a través de medios electrónicos, ópticos o de cualquier otra tecnología, dentro de los quince días hábiles siguientes al que surta efectos la notificación o se tenga conocimiento del acto, omisión, decisión, acuerdo o resolución impugnado, debiéndose señalar la autoridad, organismo o entidad que lo emitió o que fue omiso en su realización, acompañando en su caso, el documento original que lo contenga y su constancia de notificación, así como señalando los hechos y agravios que se le causaron, y ofreciendo las pruebas que acrediten dichos hechos y agravios.
 Si la interposición del recurso de apelación se hace por medios electrónicos, ópticos o de cualquier otra tecnología, el apelante deberá ratificar dicho recurso por escrito y exhibir la documentación a que hace referencia el párrafo anterior, dentro de los tres días hábiles siguientes al de su interposición.

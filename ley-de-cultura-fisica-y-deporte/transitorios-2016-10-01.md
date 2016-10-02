@@ -1,0 +1,3 @@
+P.O. 1 DE OCTUBRE DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 1444/2016 XX P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
