@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El Artículo Segundo del presente Decreto entrará en vigor el mismo día en que lo haga el Decreto No. 1304/2013 II P.O. que expide la Ley del Registro Civil para el Estado de Chihuahua.

@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se reforma el segundo párrafo de la fracción XXIII del artículo 14; se adicionan un tercer y cuarto párrafos al artículo 159; todos del Decreto No. 1304/2013 II P.O., que expide la Ley del Registro Civil para el Estado de Chihuahua, para quedar redactados de la siguiente forma:
