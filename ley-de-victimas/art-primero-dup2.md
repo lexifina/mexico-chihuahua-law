@@ -1,1 +1,2 @@
-ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al mismo tiempo que lo haga el Código Nacional de Procedimientos Penales en todo el territorio del Estado, según la declaratoria de inicio de vigencia contenida en el Decreto No. 852/2015 VII P.E., es decir, a partir de las cero horas del día 13 de junio de 2016, después de su publicación en el Periódico Oficial del Estado.
+(REFORMADO, P.O. 11 DE JUNIO DE 2016)
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor el día primero de enero del año 2017.

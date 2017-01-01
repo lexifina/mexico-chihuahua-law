@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 11 DE JUNIO DE 2016)
+ARTÍCULO SEXTO.- La Fiscalía General del Estado, a partir del día 13 de junio del 2016 y hasta el día en que entre en vigor el presente Decreto, deberá proveer de las medidas administrativas que estime convenientes, a efecto de proporcionar asesores jurídicos a las víctimas de delito que así lo soliciten, con las funciones que establece el Código Nacional de Procedimientos Penales y la ley General de Víctimas.
