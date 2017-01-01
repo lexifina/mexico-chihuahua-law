@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito, será continuado ante las áreas correspondientes de la Comisión Ejecutiva de Atención a Víctimas del Estado de Chihuahua.
