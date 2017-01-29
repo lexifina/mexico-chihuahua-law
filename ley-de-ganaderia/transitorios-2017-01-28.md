@@ -1,0 +1,3 @@
+P.O. 28 DE ENERO DE 2017.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0214/2016 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE GANADERÍA DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
