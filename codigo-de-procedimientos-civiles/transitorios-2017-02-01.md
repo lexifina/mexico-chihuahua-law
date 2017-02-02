@@ -1,0 +1,3 @@
+P.O. 1 DE FEBRERO DE 2017.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFCOD/0115/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
