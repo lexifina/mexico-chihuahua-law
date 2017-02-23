@@ -5,4 +5,4 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 (F. DE E., P.O. 7 DE JULIO DE 2010)
 En la ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiocho días del mes de mayo del año dos mil diez.
 El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. El Secretario General de Gobierno. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]

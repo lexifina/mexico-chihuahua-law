@@ -1,7 +1,7 @@
 P.O. 18 DE JUNIO DE 2016.
 [N. DE E. TRANSITORIOS DE LA "LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES RELACIONADOS CON HECHOS DELICTIVOS PARA EL ESTADO DE CHIHUAHUA".]
 Artículo Primero.- Inicio de Vigencia.
-El presente Decreto entrará en vigor a las cero horas del día 13 de junio del año 2016, de conformidad con la Declaratoria contenida en el Decreto No. 852/2015 VIl P.E., publicado en (sic) Periódico Oficial del Estado el día 04 de marzo de 2015, fecha en la que entrará en vigor en el Estado el Código Nacional de Procedimientos Penales.
+El presente Decreto entrará en vigor a las cero horas del día 13 de junio del año 2016, de conformidad con la Declaratoria contenida en el Decreto No. 852/2015 VII P.E., publicado en (sic) Periódico Oficial del Estado el día 04 de marzo de 2015, fecha en la que entrará en vigor en el Estado el Código Nacional de Procedimientos Penales.
 Artículo Segundo.- Derogación tácita de preceptos incompatibles.
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 Artículo Tercero.- Reglamento.

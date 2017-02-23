@@ -1,4 +1,4 @@
-(ADICIONADO, P.O. 16 DE JULIO DE 2014)
+(ADICIONADA, P.O. 16 DE JULIO DE 2014)
 Artículo 38 Bis.- La coordinación y colaboración entre autoridades de los tres órdenes de gobierno, respecto de la seguridad y prevención en los eventos deportivos masivos o con fines de espectáculo, sin perjuicio de lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública y por su homóloga en el ámbito Estatal, será subsidiaria y se sujetará a lo siguiente:
 I.- Los organizadores, participantes, asistentes, aficionados o espectadores y en general los usuarios de las instalaciones deportivas, atenderán las disposiciones en materia de seguridad y protección civil, así como las indicaciones que emitan las autoridades competentes en dichas materias, a fin de garantizar que los eventos deportivos se realicen de manera ordenada y preservar la integridad de las personas y los bienes.
 II.- Para preservar la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán acatar las disposiciones legales, reglamentarias y administrativas correspondientes del municipio en que se realice el evento.

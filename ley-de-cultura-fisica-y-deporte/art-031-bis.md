@@ -1,4 +1,3 @@
-(ADICIONADO, P.O. 9 DE ENERO DE 2016)
 Artículo 31 Bis. Para lograr el adecuado cumplimiento de los fines del Instituto, se apoyará de un órgano de gestión llamado Comité de Impulso al Deporte, el cual estará integrado por:
 I. El Director del Instituto Chihuahuense del Deporte y Cultura Física.
 (REFORMADA, P.O. 4 DE ENERO DE 2017)
