@@ -1,4 +1,4 @@
-P.O. 3 DE OCTUBRE DE 2016
+P.O. 3 DE OCTUBRE DE 2016.
 [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFLEY/0003/2016 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL MARCO JURÍDICO ESTATAL, REFERENTE A LA ESTRUCTURA Y FUNCIONAMIENTO DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA".]
 ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 ARTÍCULO SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
