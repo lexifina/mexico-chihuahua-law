@@ -1,4 +1,3 @@
-[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]
 (ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)
 Art. 165 ter.- El Estado y los municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos y, en el caso del Estado, adicionalmente para otorgar garantías respecto al endeudamiento de los municipios.
 Lo anterior, conforme a las bases que establezca la ley correspondiente, en los términos de lo previsto en esta Constitución, y por los conceptos y hasta por los montos que se aprueben.
