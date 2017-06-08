@@ -6,6 +6,9 @@ b) Violencia familiar;
 c) Que atenten contra la obligación alimentaria;
 d) Desaparición de mujeres respecto de hechos no vinculados a la delincuencia organizada, y
 e) Discriminación por razones de género.
+(ADICIONADO, P.O. 7 DE JUNIO DE 2017)
+f) Delitos en materia de trata de personas previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, inclusive tratándose de niños en los términos de las disposiciones aplicables.
 B. La atención psicológica, médica y otras, en los casos de violencia contra las mujeres en los delitos o hechos contemplados en el apartado A de este artículo, en coordinación con otros órganos o unidades administrativas de la Fiscalía General que proporcionen los servicios a que se refiere el presente apartado.
 C. La canalización a víctimas u ofendidos, en los casos de los apartados anteriores, hacia las dependencias o instituciones que proporcionen los servicios de carácter tutelar, asistencial, preventivo, educacional y demás de contenido similar, así como la vigilancia de su debida atención.
-Este órgano estará a cargo de un Fiscal Especializado, quien contará con el apoyo de cuatro Coordinaciones Regionales de Ministerio Público y Policía Ministerial de Investigación del Delito, de las unidades administrativas necesarias y demás personal que requiera para el cumplimiento de sus funciones. En todo caso, el personal adscrito a esta Fiscalía deberá contar con el perfil especializado que corresponda a la naturaleza propia de sus funciones.
+(REFORMADO, P.O. 7 DE JUNIO DE 2017)
+Este órgano estará a cargo de un Fiscal Especializado, quien se auxiliará en sus funciones de cuatro Coordinaciones conforme a la distribución territorial señalada en el artículo 5 de la presente Ley, las que se integrarán con un titular, los agentes del Ministerio Público y de Policía de Investigación del Delito, así como de las unidades administrativas necesarias y demás personal que se requiera. El personal adscrito a esta Fiscalía deberá contar con el perfil especializado que corresponda a la naturaleza propia de sus funciones.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 7 DE JUNIO DE 2017)
+Artículo 19 Bis. El Fiscal General del Estado podrá designar libremente para atender los requerimientos del servicio, a Policías, Agentes del Ministerio Público y Peritos, los cuales no formarán parte del Servicio Profesional de Carrera, hasta en tanto cumplan con los requisitos establecidos en el artículo 60 de la Ley del Sistema Estatal de Seguridad Pública, con excepción de los señalados en su fracción V.
+Los nombramientos tendrán una vigencia determinada y podrán renovarse por el tiempo que determine el Fiscal General y pueden concluir en cualquier momento.

@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 7 DE JUNIO DE 2017)
+Artículo 5 Ter. La Unidad de Asistencia y Práctica Ministerial es un área administrativa auxiliar del Ministerio Público, de acuerdo con las siguientes disposiciones:
+I. Se integra por licenciados, pasantes o estudiantes en curso de los dos últimos semestres de las carreras de derecho, criminología, psicología o afines, mediante convocatoria que la Fiscalía General expedirá en conjunto con las instituciones de educación superior que deseen participar. Dicha convocatoria establecerá, entre otros requisitos, el de acreditar un examen de control de confianza;
+II. El Instituto Estatal de Seguridad Pública, en colaboración con las señaladas instituciones, tendrá a su cargo el diseño del plan de estudios específico de capacitación para la asistencia al Ministerio Público en las áreas pericial y de investigación, de acuerdo con el área de adscripción;
+III. La Unidad de Asistencia y Práctica Ministerial auxiliará al Ministerio Público en el cumplimiento de las atribuciones previstas en el artículo 2, apartado B, con excepción de aquellas que sean exclusivas del Fiscal; así como en el artículo 12, con las especificaciones y limitaciones que por acuerdo dicte el Fiscal General. La duración del servicio auxiliar será de un año;
+IV. Los Integrantes de la Unidad recibirán una beca económica como contraprestación por sus servicios auxiliares y tendrán al término de los mismos, en igualdad de circunstancias con otros aspirantes, el derecho preferencial para ingresar al servicio profesional de carrera ministerial en los términos de la Ley del Sistema Estatal de Seguridad Pública.
+CAPÍTULO III
+De la Fiscalía General del Estado

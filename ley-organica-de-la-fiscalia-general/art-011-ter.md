@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE JUNIO DE 2017)
+Artículo 11 Ter. La Fiscalía Especializada en Combate a la Corrupción tendrá a su cargo las atribuciones descritas en los apartados B y G del artículo 2 de esta Ley, estará a cargo de un Fiscal Especializado, quien podrá auxiliarse en sus funciones de Coordinaciones conforme a la disponibilidad presupuestal, las que se integrarán con un titular, los agentes del Ministerio Público y de Policía de Investigación del Delito, así como de las unidades administrativas necesarias y demás personal que se requiera.
