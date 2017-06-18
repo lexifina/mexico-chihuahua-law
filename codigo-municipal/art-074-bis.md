@@ -13,7 +13,7 @@ V.- Promover en coordinación con las instancias correspondientes el cumplimient
 (ADICIONADA, P.O. 30 DE OCTUBRE DE 2004)
 VI.- Promover la celebración de convenios de colaboración entre los distintos órdenes de gobierno para la realización de acciones en materia de ecología;
 (REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2010)
-VII.- Elaborar el programa operativo anual, que contemple la implementación y desarrollo de campañas de difusión que impulsen el ahorro del agua y de energía eléctrica , prohíban tirar desechos contaminantes y, en general, fomenten la conservación de los elementos naturales y estimulen la participación ciudadana en la protección al ambiente;
+VII.- Elaborar el programa operativo anual, que contemple la implementación y desarrollo de campañas de difusión que impulsen el ahorro del agua y de energía eléctrica, prohíban tirar desechos contaminantes y, en general, fomenten la conservación de los elementos naturales y estimulen la participación ciudadana en la protección al ambiente;
 (ADICIONADA, P.O. 14 DE AGOSTO DE 2010)
 VIII.- Ubicar geográficamente las zonas en las que se arrojan residuos sólidos frecuentemente, que se traducen en tiraderos de basura a cielo abierto e informar de ello a la Secretaría de Desarrollo Urbano y Ecología, para su incorporación al sistema de información de sitios contaminados;
 (ADICIONADA, P.O. 14 DE AGOSTO DE 2010)
