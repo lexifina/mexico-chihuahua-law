@@ -1,3 +1,4 @@
 (ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2016)
 ARTÍCULO 22 Bis. Se podrán organizar eventos en espacios abiertos o cerrados, públicos o privados, para promover la entrega de animales abandonados, previa obtención del permiso de la autoridad municipal correspondiente, para lo cual contarán con el apoyo del ayuntamiento en la medida de sus posibilidades, especialmente en la difusión de dichos eventos.
-Las personas que organicen eventos para otorgar animales en adopción, deberán entregarlos vacunados, desparasitados y esterilizados, haciendo además el seguimiento de estos para que en el caso de que se detecte alguna forma de maltrato sean recuperados de inmediato. Deberán entregar a los adoptantes el manual de cuidados.
+(REFORMADO, P.O. 17 DE JUNIO DE 2017)
+Las personas que organicen eventos para otorgar animales en adopción, deberán entregarlos vacunados, siempre y cuando existan vacunas disponibles para su especie, desparasitados y esterilizados, haciendo además el seguimiento de estos para que en el caso de que se detecte alguna forma de maltrato sean recuperados de inmediato. Deberán entregar a los adoptantes el manual de cuidados.
