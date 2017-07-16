@@ -1,4 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 (ADICIONADO, P.O. 6 DE FEBRERO DE 2010)
 Artículo 91 Bis.- Tratándose de menores infractores no emancipados, se les cancelará la licencia para conducir o estarán inhabilitados para obtenerla hasta por doce meses, y el tratamiento o curso se acordará con quienes ejerzan la patria potestad o custodia, mismos que deberán acompañar al infractor a dicho tratamiento o curso y tendrán a su cargo las responsabilidades patrimoniales correspondientes. La autoridad de tránsito establecerá la forma en que se deberá cumplir esta sanción.
 (REFORMADO, P.O. 12 DE ENERO DE 2013)
