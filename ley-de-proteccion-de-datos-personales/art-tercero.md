@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Poder Ejecutivo del Estado y los Ayuntamientos harán las previsiones necesarias en sus respectivos Presupuestos de Egresos, para el cumplimiento de las obligaciones y ejercicio de los derechos previstos en esta Ley.

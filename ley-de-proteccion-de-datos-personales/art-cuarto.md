@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- El Organismo Garante, en el ejercicio de sus atribuciones, realizará las acciones necesarias para capacitar a los responsables, sobre las disposiciones contenidas en la presente Ley, a efecto de establecer los procedimientos y llevar a cabo todas aquellas actividades tendientes a dar cabal cumplimiento a la misma.
