@@ -1,0 +1,3 @@
+P.O. 21 DE OCTUBRE DE 2017.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFCOD/0403/2017 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 92, PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA".]
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
