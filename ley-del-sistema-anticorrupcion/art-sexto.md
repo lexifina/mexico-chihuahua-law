@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- El Ejecutivo Estatal deberá proveer los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables para el correcto funcionamiento del Comité Coordinador.

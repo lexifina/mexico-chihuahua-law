@@ -1,0 +1,1 @@
+ARTÍCULO NOVENO.- El primer Comité Coordinador Estatal que se constituya deberá expedir su programa de trabajo anual, a que se refiere la fracción I del artículo 9, dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto.

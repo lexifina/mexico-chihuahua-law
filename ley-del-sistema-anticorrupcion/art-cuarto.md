@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- La sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción, se llevará a cabo dentro del plazo de 15 días naturales posteriores a que se haya instalado el Comité de Participación Ciudadana en los términos de los artículos anteriores.

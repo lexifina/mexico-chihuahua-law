@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los sesenta días hábiles siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción.
