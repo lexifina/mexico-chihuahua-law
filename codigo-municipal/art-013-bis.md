@@ -1,4 +1,4 @@
-(DEROGADO SEGUNDO PÁRRAFO, P.O. 7 DE AGOSTO DE 2004)
+(DEROGADO SEGUNDO PÁRRAFO [N. DE E. LA FRACCIÓN VI NO CUENTA CON UN SEGUNDO PÁRRAFO], P.O. 7 DE AGOSTO DE 2004)
 (ADICIONADO, P.O. 7 DE AGOSTO DE 2004)
 ARTICULO 13 BIS.- Los centros de población de los municipios, podrán tener las categorías de ciudad, poblado, comunidad y ranchería, según el grado de concentración demográfica y los servicios públicos de los mismos. Los Ayuntamientos determinarán la categoría correspondiente, según satisfagan las características, condiciones y requisitos que deberán reunir los centros de población atendiendo a las siguientes:
 BASES:
