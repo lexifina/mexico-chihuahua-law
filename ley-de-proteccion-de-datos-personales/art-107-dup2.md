@@ -1,1 +1,0 @@
-Artículo 107 (sic).- Las autoridades que accedan y almacenen los datos personales recabados por los particulares en cumplimiento de las disposiciones legales correspondientes, deberán cumplir con lo señalado en el presente Capítulo.

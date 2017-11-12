@@ -4,3 +4,4 @@ PRESIDENTA. DIP. BLANCA GÁMEZ GUTIÉRREZ. Rúbrica. SECRETARIA. DIP. ROCÍO GRI
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimento.
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintitrés días del mes de agosto del año dos mil diecisiete.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
