@@ -2658,7 +2658,8 @@ Cuando una persona deje sus bienes para la creación, vía testamentaria, de una
 (REFORMADO, P.O. 21 DE DICIEMBRE DE 2002)
 1219.- Por causa de delito son incapaces de heredar por testamento o por intestado:
 I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge o hermanos de ella;
-II.- El que haya presentado denuncia o querella contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, por delito que merezca pena de prisión, aún cuando aquéllas sean fundadas, si fuere su descendiente, ascendiente, cónyuge o hermano, a no ser que ese acto haya sido preciso para que el denunciante o querellante salvará su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge;
+(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)
+II. El que con dolo y de manera infundada haya presentado denuncia o querella contra la persona autora de la sucesión, sus ascendientes, descendientes, hermanas, hermanos o cónyuge, por delito que merezca pena de prisión.
 III.- El cónyuge que mediante sentencia ejecutoria ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
 IV.- El coautor del cónyuge adúltero, ya sea que se trate de la sucesión de éste o de la del cónyuge inocente;
 V.- El que haya sido condenado por un delito que merezca pena de prisión cometido contra el autor de la sucesión, de los hijos, cónyuge, ascendientes o hermanos de éste;

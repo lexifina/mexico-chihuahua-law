@@ -1,0 +1,3 @@
+P.O. 20 DE DICIEMBRE DE 2017.
+[N. DE E. TRANSITORIO DEL "DECRETO RFLEY/0412/2017 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO MUNICIPAL DE PENSIONES".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
