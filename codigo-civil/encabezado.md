@@ -691,7 +691,7 @@ DEL DIVORCIO
 (ADICIONADO, P.O. 2 DE MARZO DE 2002)
 El divorcio por mutuo consentimiento, podrá realizarse de las siguientes formas:
 a).- Se podrá acudir ante el Oficial del Registro Civil, siempre y cuando se reúnan los siguientes requisitos:
-1.- Los cónyuges sean mayores de edad;
+1.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 2.- Tengan más de un año de haber contraído nupcias;
 3.- No hayan procreado hijos, o éstos sean mayores de edad, y
 4.- Que el matrimonio se hubiere celebrado bajo el régimen de separación de bienes o, en el caso de que se hubiese establecido la sociedad conyugal no existan bienes qué dividir provenientes de la misma o se hubiere liquidado dicha sociedad ante autoridad judicial o notario público.
