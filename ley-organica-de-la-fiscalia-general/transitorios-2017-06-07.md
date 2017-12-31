@@ -78,3 +78,5 @@ a Unidades de Investigación.
 Agente del Ministerio Público "A". Agente del Ministerio Público "C".
 Agente del Ministerio Público "B". Agente del Ministerio Público "D".
 Auxiliar del Ministerio Público.Agente del Ministerio Publico "D".
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)
+ARTÍCULO DECIMOQUINTO.- A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Dirección de Control Interno de la Fiscalía Especializada en Control, Análisis y Evaluación, se entenderán referidas a la Dirección de Inspección Interna de la citada Fiscalía Especializada.

@@ -1,0 +1,3 @@
+P.O. 30 DE DICIEMBRE DE 2017.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCOD/0419/2017 I P.O., MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.

@@ -15,6 +15,8 @@ ARTÍCULO DUODÉCIMO.- Dentro de los 365 días naturales a la entrada en vigor d
 ARTÍCULO DECIMOTERCERO.- A la entrada en vigor del presente Decreto, todos los recursos humanos, materiales y financieros que formen parte de la Escuela Estatal de Policía, pasarán a integrarse al Instituto Estatal de Seguridad Pública.
 Los trámites de acreditación, certificación y en general todos aquellos que en materia académica hayan sido iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos en lo particular por el Instituto Estatal de Seguridad Pública, de conformidad con lo que determinen las autoridades competentes de la materia.
 ARTÍCULO DECIMOCUARTO.- La Fiscalía General del Estado realizará los trámites administrativos para la armonización de las plazas de Ministerios Públicos, Policías y Peritos de conformidad con las disposiciones de la Ley del Sistema Estatal de Seguridad Pública, misma que se describe en la siguiente tabla.
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)
+ARTÍCULO DECIMOQUINTO.- A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Dirección de Control Interno de la Fiscalía Especializada en Control, Análisis y Evaluación, se entenderán referidas a la Dirección de Inspección Interna de la citada Fiscalía Especializada.
 POLICÍA DE INVESTIGACIÓN
 Coordinador Regional de la Policía Ministerial Investigadora.Oficial de la Policía de Investigación.
 Coordinador Especial "A" de la Policía Ministerial Investigadora.Oficial de la Policía de Investigación.

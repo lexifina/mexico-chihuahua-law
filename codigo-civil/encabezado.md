@@ -168,17 +168,19 @@ DE LAS ACTAS DE NACIMIENTO
 Para el registro del nacimiento de indígenas del Estado, la ley reconoce como fedatarios a las autoridades indígenas tradicionales, para acreditar hechos de filiación y residencia de los indígenas que deben intervenir en el registro, cuando los actos se asienten en las respectivas comunidades.
 (ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2016)
 El Jefe de la Oficina estará obligado a reconocer en todo caso la personalidad de la autoridad indígena que haga constar un nacimiento de un miembro de su comunidad, sin exigir formalidades especiales, debiendo proceder a levantar el acta de nacimiento que corresponda, una vez que se le proporcionen los datos necesarios para ello.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)
+55.- La madre y el padre tienen la obligación de declarar el nacimiento. La Dirección del Registro Civil levantará, de manera gratuita, el registro del nacimiento y expedirá la primer acta de la misma forma.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)
+Los médicos, matronas o personas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Registro Civil dentro de los diez días siguientes. La misma obligación tiene la persona que sea propietaria o arrendataria, en cuyo domicilio haya tenido lugar el nacimiento.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
-55.- Los padres tienen obligación de declarar el nacimiento dentro de los ciento ochenta días de ocurrido.
-Los médicos, matronas o personas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Registro Civil dentro de los diez días siguientes. La misma obligación tiene el jefe de familia, en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
 Recibido el aviso, el Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
 Si el nacimiento tuviere lugar en un sanatorio, la obligación a que se refiere el párrafo anterior estará a cargo del Director o encargado del mismo.
 (ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2003)
 La Dirección del Registro Civil determinará las instituciones médicas públicas y privadas, en las que se deberán registrar a los ahí nacidos antes de abandonar dichos establecimientos, en coordinación y bajo la supervisión de la propia Dirección del Registro Civil.
-(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)
-56.- Las personas que, estando obligadas a declarar el nacimiento lo hagan fuera del término fijado, serán sancionadas por el jefe de la oficina con una multa de una a diez veces el valor diario de la Unidad de Medida y Actualización vigente, atendiendo las circunstancias de cada caso.
-(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)
-En la misma sanción incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el artículo anterior.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)
+56.- Las personas que, estando obligadas a dar el aviso establecido en el segundo párrafo del artículo anterior, lo hagan fuera del término fijado, serán sancionadas por el jefe de la oficina, atendiendo a las circunstancias de cada caso, con una multa de una a diez veces el valor diario de la Unidad de Medida y Actualización vigente.
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2017)
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987) (F. DE E., P.O. 3 DE OCTUBRE DE 1987)
 57.- En las poblaciones en que no haya Registro Civil, el niño deberá ser presentado a la autoridad administrativa y ésta dará la constancia respectiva que los interesados llevarán al Registro que corresponda para que se asiente el acta.
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987) (F. DE E., P.O. 9 DE ABRIL DE 1988)
