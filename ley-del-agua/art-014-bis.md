@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)
+Artículo 14 Bis.- Para ocupar el cargo de titular de la Dirección Ejecutiva de la Junta Central se requiere:
+I. Contar con estudios profesionales y haberse desempeñado en actividades que proporcionen la experiencia técnica y administrativa, necesaria para cumplir con sus funciones.
+II. Para que pueda desempeñar sus funciones sin conflicto de interés y sin estar supeditado a intereses personales y/o económicos, no deberán ser prestadores de servicios, proveedores, contratistas, deudores o acreedores de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general; concesionarios, consejeros, asesores o empleados de una persona moral que sea prestador de servicios, proveedor, contratista, deudor o acreedor de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general.
+Quien ocupe la titularidad de la Dirección Ejecutiva de la Junta Central será aprobada por el Consejo, a propuesta de quien lo presida, y participará en las reuniones del Consejo de Administración con derecho a voz, pero sin voto.

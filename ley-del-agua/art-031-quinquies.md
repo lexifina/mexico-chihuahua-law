@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)
+Artículo 31 Quinquies.- Los Consejos de Administración de los organismos operadores municipales sesionarán ordinariamente una vez al mes, y extraordinariamente cuando así se convoque.
+Las sesiones del Consejo serán dirigidas por quien ocupe su Presidencia.
+El Consejo se instalará válidamente con la presencia de la mayoría de los integrantes.
+Todas sus sesiones deberán de ser públicas y transmitirse vía electrónica, en su caso, en vivo; cada sesión deberá celebrarse de acuerdo a un orden del día, el cual se dará a conocer a los miembros del Consejo, por lo menos con dos días hábiles de anticipación en los casos de sesiones ordinarias, y con veinticuatro horas de anticipación en los casos de sesiones extraordinarias; sus acuerdos se asentarán en el acta correspondiente, en la que se consignarán, por lo menos, las personas integrantes del Consejo que estuvieron presentes y las resoluciones aprobadas, misma que deberá ser inscrita en el Libro de Actas que para cada año corresponda; tendrá quórum legal con la mitad más uno de sus integrantes.
+Sus acuerdos y determinaciones se tomarán por mayoría simple de votos de los presentes y, en caso de empate, tendrá la Presidencia voto de calidad.

@@ -1,0 +1,9 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)
+Artículo 20 Cuáter.- Los integrantes del Consejo de Administración conformarán el Comité Técnico de Evaluación, quienes se encargarán de emitir oportunamente las convocatorias públicas abiertas necesarias para la renovación de los miembros por elección del Consejo de Administración, mencionados en los incisos d), e), f) y g) del artículo 20, en la que señalarán las etapas completas para el procedimiento, criterios de evaluación de idoneidad de las personas aspirantes a integrar el Consejo, fechas límites y plazos, sujetándose a los siguientes términos:
+a) Las personas aspirantes al cargo de Consejería serán electas en el tercer y noveno semestres de cada administración estatal, y entrarán en funciones al inicio del cuarto y décimo semestres, respectivamente.
+b) Podrán ser ratificadas por un período inmediato, en una sola ocasión.
+c) Podrá participar cualquier persona que tenga la ciudadanía mexicana y que cumpla con los requisitos que señala la presente Ley.
+Para cada una de las consejerías mencionadas en los incisos d), e), f) y g) del artículo 20, se nombrará una persona suplente quien entrará en funciones en caso de renuncia o remoción.
+Los cargos de la Consejería serán honoríficos, sin excepción, deberán desempeñar las funciones que el propio Consejo de Administración, la Ley y demás ordenamientos aplicables les asignen, y ejercer por períodos cuya duración y escalonamiento provean al ejercicio autónomo de sus funciones, continuidad de sus acciones y equilibrio en sus decisiones.
+Los integrantes del Consejo que se desempeñan como servidores públicos durarán en el cargo el término que dure su responsabilidad.
+En caso de renuncia o remoción de una persona integrante de la Consejería de los señalados en los incisos d), e), f) y g) del artículo 20, el Consejo llamará al suplente por el término restante de su período.

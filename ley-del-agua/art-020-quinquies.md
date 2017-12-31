@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)
+Artículo 20 Quinquies.- La persona que ocupe la titularidad de la Dirección Ejecutiva de la Junta Municipal será nombrada y removida por el Consejo de Administración de la Junta Central, el nombramiento será a propuesta de una terna que presente el Consejo de Administración de la Junta Municipal. Participará en las reuniones del Consejo de Administración de la Junta Municipal con derecho a voz, pero sin voto.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)
+Artículo 27 Cuáter.- De acuerdo con los términos del artículo 115 Constitucional y la Ley de Aguas Nacionales, corresponde a los municipios el saneamiento de las aguas residuales de los servicios a su cargo, por lo que el servicio de saneamiento será inherente a la prestación del servicio de agua potable, lo mismo que el pago de derechos y sanciones por vertido a cauces nacionales o de jurisdicción estatal, así como lo relativo al drenaje pluvial.
