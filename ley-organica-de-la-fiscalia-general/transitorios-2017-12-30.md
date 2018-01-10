@@ -1,5 +1,6 @@
 P.O. 30 DE DICIEMBRE DE 2017.
-[N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFLEY/0646/2017 I P. O., MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DE LA LEY DE PROTECCIÓN CIVIL Y DE LA LEY ÓRGANICA DE LA FISCALÍA GENERAL, TODOS ORDENAMIENTOS DEL ESTADO DE CHIHUAHUA".]
+(F. DE E., P.O. 10 DE ENERO DE 2018)
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFLEY/0646/2017 1 P.O., MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DE LA LEY DE PROTECCIÓN CIVIL Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL, TODOS ORDENAMIENTOS DEL ESTADO DE CHIHUAHUA".]
 ARTÍCULO PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 ARTÍCULO SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 ARTÍCULO TERCERO.- Se transfieren a la Secretaría General de Gobierno los bienes muebles, archivos y, en general, documentos que tenía destinados a su servicio, manejo y resguardo la Coordinación Estatal de Protección Civil dependiente de la Fiscalía General del Estado, para los efectos a que haya lugar. Así mismo, realícense las gestiones y trámites necesarios en materia presupuestal para que lo relativo quede a partir de la entrada en vigor del presente Decreto, referido, asignado o aplicable respecto a la Secretaría General de Gobierno del Poder Ejecutivo.
