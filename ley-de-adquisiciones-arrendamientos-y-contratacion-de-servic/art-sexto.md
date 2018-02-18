@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- El diseño del Sistema Electrónico de Compras que permita la aplicación de los procedimientos de licitación, en sus modalidades mixta o electrónica, deberá estar concluido en un plazo no mayor a un año, contado a partir de la fecha de entrada en vigor de este Decreto.

@@ -1,0 +1,2 @@
+ARTÍCULO OCTAVO.- Los procedimientos de contratación y demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
+Los contratos de adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.

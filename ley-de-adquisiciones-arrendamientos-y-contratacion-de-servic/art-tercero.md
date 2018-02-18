@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Ejecutivo del Estado expedirá el Reglamento de esta Ley en un plazo no mayor a ciento veinte días naturales, contados a partir del día siguiente en que entre en vigor el presente Decreto.

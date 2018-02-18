@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua, publicada en el Periódico Oficial del Estado número 74, de fecha 13 de septiembre de 1997.

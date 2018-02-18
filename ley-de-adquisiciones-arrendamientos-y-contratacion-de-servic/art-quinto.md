@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Los Comités de Adquisiciones, Arrendamientos y Servicios a los que se hace referencia en esta Ley, deberán constituirse y celebrar su primera sesión en un plazo no mayor de cuarenta días naturales contados a partir de la entrada en vigor del presente Decreto.
