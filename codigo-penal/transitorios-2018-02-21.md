@@ -1,0 +1,3 @@
+P.O. 21 DE FEBRERO DE 2018.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCOD/0706/2018 IX P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
