@@ -1,0 +1,3 @@
+P.O. 28 DE MARZO DE 2018.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. LXV/RFLEY/0732/2018 II P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 24 FRACCIÓN II DE LA LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
