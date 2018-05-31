@@ -910,8 +910,10 @@ DE LA LEGITIMACION
 CAPITULO IV
 DEL RECONOCIMIENTO DE LOS HIJOS NACIDOS FUERA DEL MATRIMONIO
 337.- La filiación de los hijos nacidos fuera del matrimonio resulta, con relación a la madre, del solo hecho del nacimiento. Respecto del padre sólo se establece por el reconocimiento voluntario o por una sentencia que declare la paternidad.
-338.- Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
-339.- El menor de edad no puede reconocer a un hijo sin el consentimiento del que o de los que ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se encuentre, o a falta de éste, sin la autorización judicial.
+(REFORMADO, P.O. 30 DE MAYO DE 2018)
+338.- Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio.
+(REFORMADO, P.O. 30 DE MAYO DE 2018)
+339.- El menor de edad puede reconocer a un hijo con el consentimiento del que o de los que ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se encuentre, o a falta de este, con la autorización judicial.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
 340.- No obstante, el reconocimiento hecho por un menor es anulable si prueba que sufrió engaño al hacerlo, pudiendo intentar la acción correspondiente hasta cuatro años después de cumplida la mayoría de edad.
 341.- Puede reconocerse el hijo que no ha nacido y al que ha muerto si ha dejado descendencia.
@@ -972,7 +974,7 @@ CAPITULO V
 DE LA ADOPCION
 (DEROGADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2009)
 A)
-(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 1447/2016 XX P.E., QUE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 1447/2016 XX P.E., QUE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/)..
 (REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2016)
 367.- LA PERSONA MAYOR DE EDAD, SOLTERA, EN PLENO EJERCICIO DE SUS DERECHOS, PUEDE ADOPTAR A OTRA MENOR DE EDAD O A UNA CON DISCAPACIDAD, AUN CUANDO ESTA SEA MAYOR DE EDAD, SIEMPRE QUE EL ADOPTANTE TENGA QUINCE AÑOS MÁS QUE EL ADOPTADO Y QUE ACREDITE ADEMÁS:
 (REFORMADA, P.O. 28 DE OCTUBRE DE 2009)
