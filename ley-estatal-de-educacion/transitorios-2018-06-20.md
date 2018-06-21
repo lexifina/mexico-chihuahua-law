@@ -1,0 +1,4 @@
+P.O. 20 DE JUNIO DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFLEY/0755/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 130, FRACCIÓN II; 132, PRIMER, SEGUNDO Y TERCER PÁRRAFO; Y 134, FRACCIONES IV Y VI; Y SE ADICIONAN AL ARTÍCULO 132 LOS PÁRRAFOS CUARTO Y QUINTO; TODOS DE LA LEY ESTATAL DE EDUCACIÓN"]
+PRIMERO.- A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con noventa días hábiles para realizar las modificaciones y actualizaciones a que hubiera lugar, al Reglamento Estatal de Asociaciones de Padres de Familia, para los efectos previstos en el mismo, y demás que bajo su esfera de competencia estime convenientes.
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
