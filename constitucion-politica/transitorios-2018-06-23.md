@@ -1,0 +1,4 @@
+P.O. 23 DE JUNIO DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/RFCNT/0769/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de las iniciativas, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaratoria de haber sido aprobada la presente reforma.
