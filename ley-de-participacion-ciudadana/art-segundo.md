@@ -1,0 +1,2 @@
+ARTÍCULO SEGUNDO.- La primera convocatoria para elección de las siete personas a que se refiere el artículo 9, fracción II de la Ley, se expedirá por el Poder Ejecutivo del Estado, dentro de los treinta días posteriores a la entrada en vigor de la Ley.
+En ella se señalará que por única ocasión, cuatro de las personas serán electas por un periodo de dos años, a fin de dar cumplimiento a la renovación escalonada prevista en el artículo 12 de la Ley.
