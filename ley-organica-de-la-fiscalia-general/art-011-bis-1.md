@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 21 DE JULIO DE 2018)
+Artículo 11 Bis 1. La Unidad Especializada en Investigación y Persecución de Delitos de Desaparición Forzada de Personas y la Cometida por Particulares es la Unidad Administrativa de la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada, encargada de la investigación y persecución de los delitos en materia de desaparición forzada de personas en el ámbito de su competencia.
+Dicha unidad tendrá las atribuciones señaladas por el artículo 70 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y demás disposiciones legales y reglamentarias aplicables de la legislación en la materia.

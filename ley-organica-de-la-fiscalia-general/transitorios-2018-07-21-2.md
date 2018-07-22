@@ -1,0 +1,6 @@
+P.O. 21 DE JULIO DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO LXV/RFLYC/0798/2018 XII P.E., POR MEDIO DEL CUAL SE ARMONIZA LA LEGISLACIÓN LOCAL CON LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+ARTÍCULO TERCERO.- A la entrada en vigor del presente Decreto, todos los asuntos en trámite, incluidas las carpetas de investigación, que se estén realizando ante la Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos, se proseguirán por la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada.
+ARTICULO CUARTO.- A la entrada en vigor del presente Decreto, los recursos humanos, materiales y financieros asignados a la Fiscalía Especializada en Investigación de Violaciones a Derechos Humanos, pasarán a formar parte de la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada; sin perjuicio de los ajustes administrativos que de conformidad a la legislación aplicable, realice la Fiscalía General del Estado.

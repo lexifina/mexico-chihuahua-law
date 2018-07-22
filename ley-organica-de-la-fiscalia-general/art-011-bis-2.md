@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE JULIO DE 2018)
+Artículo 11 Bis 2. Los servidores públicos que integren la unidad especializada referida en el artículo anterior, deberán cumplir, como mínimo, los requisitos enunciados en el artículo 69 de Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y demás requisitos legales aplicables.
