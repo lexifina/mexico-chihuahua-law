@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Las autoridades y demás organismos públicos que presten servicios a personas mayores deberán, dentro de los 360 días naturales posteriores a la entrada en vigor de la Ley, adecuar sus manuales de procedimientos, lineamientos y demás aspectos necesarios para la correcta aplicación de la misma.

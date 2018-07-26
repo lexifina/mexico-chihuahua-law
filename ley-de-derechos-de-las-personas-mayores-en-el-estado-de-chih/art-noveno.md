@@ -1,0 +1,1 @@
+ARTÍCULO NOVENO.- Las autoridades responsables deberán prever sus nuevas obligaciones con los recursos humanos, materiales y financieros actualmente asignados. El Poder Ejecutivo Estatal deberá, atendiendo al principio de progresividad, incluir en los subsecuentes Presupuestos de Egresos del Estado, los recursos necesarios para lograr la plena vigencia de la presente Ley.

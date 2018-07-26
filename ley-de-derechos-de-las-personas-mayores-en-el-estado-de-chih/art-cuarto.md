@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Los ayuntamientos deberán instalar los Consejos Municipales, dentro de los noventa días naturales posteriores a la instalación del Consejo de Protección de los Derechos de las Personas Mayores.

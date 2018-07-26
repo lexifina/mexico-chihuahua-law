@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Consejo de Protección de los Derechos de las Personas Mayores, deberá quedar instalado dentro de los noventa días naturales posteriores a la publicación del Reglamento de la Ley.
