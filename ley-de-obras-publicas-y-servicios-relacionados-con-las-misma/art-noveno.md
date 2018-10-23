@@ -1,0 +1,1 @@
+ARTÍCULO NOVENO.- En tanto se expide la Ley Estatal del Procedimiento Administrativo se aplicará en lo conducente el Código Administrativo y el Código de Procedimiento Civiles, ambos del Estado de Chihuahua.

@@ -1,0 +1,3 @@
+ARTÍCULO QUINTO.- Las disposiciones administrativas y reglamentarias expedidas en esta materia, vigentes al momento de la publicación y entrada en vigor del presente Decreto, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+En la utilización del criterio de evaluación mediante el mecanismo de puntos y porcentajes al que se refiere la presente Ley, los Entes Públicos podrán emplear con carácter orientador, los lineamientos federales en la materia.
+La presentación de los documentos para el registro en el Padrón de Contratistas se llevará cabo de manera física, hasta en tanto no se cuente con las herramientas para hacerlo de forma electrónica.

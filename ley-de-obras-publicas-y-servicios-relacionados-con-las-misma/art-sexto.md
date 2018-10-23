@@ -1,0 +1,2 @@
+ARTÍCULO SEXTO.- La Secretaría de la Función Pública pondrá en marcha el sistema electrónico de contrataciones en un término que no exceda de ciento ochenta días naturales contados a partir de la fecha de entrada en vigor de este Decreto.
+La elaboración, control y seguimiento de la bitácora sobre los trabajos de obras públicas y servicios relacionados con las mismas, continuará operando de manera convencional, hasta en tanto no se encuentre disponible el sistema que así lo permita de forma electrónica.
