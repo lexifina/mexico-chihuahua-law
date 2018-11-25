@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)
+ARTICULO 3 Bis.- Los municipios, en el ámbito de sus respectivas competencias, expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en materia de derechos humanos de las mujeres, ratificados por el Estado Mexicano.
+Los Municipios podrán coordinarse con la Federación y el Estado para garantizar el derecho a que se refiere el párrafo anterior, en los términos de la legislación aplicable.
