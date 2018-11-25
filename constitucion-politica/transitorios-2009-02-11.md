@@ -6,5 +6,5 @@ ARTÍCULO CUARTO.- Los integrantes del Consejo General del Instituto Estatal Ele
 ARTÍCULO QUINTO.- Para los efectos de la próxima designación de los integrantes del Consejo General del Instituto Estatal Electoral, se estará a lo siguiente:
 I.- El Consejero Presidente se elegirá por seis años;
 II.- De los seis consejeros electorales, tres de ellos serán designados para un período de seis años y los tres restantes para un período de tres años.
-III.- Los consejeros electorales, incluido el Presidente, que se nombren para los periodos posteriores, durarán en su cargo seis años.
+III.- Los consejeros electorales, incluido el Presidente, que se nombren para los períodos posteriores, durarán en su cargo seis años.
 ARTÍCULO SEXTO.- El Congreso del Estado realizará las adecuaciones a su legislación secundaria a más tardar el 30 de junio de 2009.
