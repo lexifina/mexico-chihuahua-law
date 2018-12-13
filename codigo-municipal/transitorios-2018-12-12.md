@@ -1,0 +1,3 @@
+P.O. 12 DE DICIEMBRE DE 2018.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFCOD/0022/2018 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 11, FRACCIÓN XXX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
