@@ -1,0 +1,2 @@
+Artículo 108-F. Durante el periodo en que el contribuyente se encuentre pagando a plazos, las cantidades determinadas no serán objeto de actualización.
+Lo dispuesto en el párrafo anterior no es aplicable cuando el contribuyente se ubique en alguna causal de revocación, o cuando deje de pagar en tiempo y monto alguna de las parcialidades, supuestos en los cuales se actualizará esta de conformidad con lo previsto por el artículo 23 de este Código, desde la fecha en que debió efectuar el último pago y hasta que este se realice.

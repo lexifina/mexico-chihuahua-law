@@ -1,0 +1,1 @@
+Artículo 108-A. El saldo no cubierto en el pago a plazos se actualizará y causará recargos, de conformidad con lo establecido en los artículos 23 y 24 de este Código, desde la fecha en que se haya efectuado el último pago conforme a la autorización respectiva.
