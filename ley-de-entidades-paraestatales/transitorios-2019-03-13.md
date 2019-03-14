@@ -1,0 +1,4 @@
+P.O. 13 DE MARZO DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/0032/2018 I P.O., SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE VIVIENDA, LEY DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA, LEY DE ENTIDADES PARAESTATALES, LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY ELECTORAL, LEY ORGÁNICA DEL PODER LEGISLATIVO, REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO Y LEY DEL SISTEMA ANTICORRUPCIÓN, TODAS DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Las Comisarías de las entidades paraestatales de la Administración Pública Estatal seguirán desempeñando sus funciones hasta en tanto la Secretaría de la Función Pública del Estado designe a las personas titulares de los Órganos Internos de Control.

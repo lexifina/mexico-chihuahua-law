@@ -1,0 +1,1 @@
+Artículo 272 f. (DEROGADO, P. O. 13 DE MARZO DE 2019)

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE MARZO DE 2019)
+ARTÍCULO 31 C. El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de Evolución Patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal de las personas servidoras públicas del Organismo Garante, en coordinación con la Secretaría responsable del Control Interno del Ejecutivo, de conformidad con la Ley del Sistema Anticorrupción del Estado y la Ley General de Responsabilidades Administrativas.

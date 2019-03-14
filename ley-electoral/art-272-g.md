@@ -1,0 +1,1 @@
+Artículo 272 g. (DEROGADO, P. O. 13 DE MARZO DE 2019)
