@@ -1,0 +1,3 @@
+P.O. 13 DE MARZO DE 2019.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. LXVI/RFLEY/0031/2018 I P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 9, PÁRRAFO TERCERO; Y 19, PÁRRAFO SEGUNDO, AMBOS DE LA LEY DEL AGUA DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
