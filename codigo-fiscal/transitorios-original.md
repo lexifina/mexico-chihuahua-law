@@ -2,7 +2,8 @@ ARTÍCULOS TRANSITORIOS
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 SEGUNDO.- Se abroga el Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado el 30 de Diciembre de 1970.
 Las disposiciones contenidas en el Título Tercero del Libro Primero del Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado de Chihuahua el 30 de diciembre de 1970, permanecerán vigentes mientras no se expida la Ley de Hacienda del Estado de Chihuahua.
-Asimismo, las disposiciones contenidas en el Capítulo III, del Título Segundo, del Libro Segundo, del Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado de Chihuahua el 30 de diciembre de 1970, permanecerán vigentes mientras no se expida un acto legislativo que regule el juicio contencioso administrativo estatal.
+(REFORMADO, P.O. 13 DE MARZO DE 2019)
+Asimismo, las disposiciones contenidas en el Capítulo III, del Título Segundo, del Libro Segundo, del Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado de Chihuahua el 30 de diciembre de 1970, permanecerán vigentes hasta que entre en vigor la Ley de Justicia Administrativa del Estado de Chihuahua.
 De igual forma, las disposiciones contenidas en el Capítulo XVII, del Título Tercero, del Libro Primero, del Código Fiscal del Estado de Chihuahua, publicado en el Periódico Oficial del Estado de Chihuahua el 30 de diciembre de 1970, permanecerán vigentes mientras no entre en vigor la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios.
 TERCERO.- El titular del Poder Ejecutivo deberá expedir el Reglamento de este Código, en un plazo no mayor a 180 días posteriores a la vigencia del mismo.
 CUARTO.- Todos los procedimientos que a la fecha de entrada en vigor del presente Decreto se encuentren en trámite, se concluirán conforme a las disposiciones del Código Fiscal del Estado de Chihuahua que se abroga.
@@ -16,3 +17,4 @@ EN FUNCIONES DE PRESIDENTE. DIP. HEVER QUEZADA FLORES. Rúbrica. SECRETARIA. DIP
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dieciocho días del mes de octubre del año dos mil dieciocho.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
