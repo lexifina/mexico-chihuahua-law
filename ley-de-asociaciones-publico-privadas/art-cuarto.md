@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- El Ejecutivo del Estado y los Municipios contarán con un plazo de 180 días naturales contados a partir del día siguiente en que entre en vigor el presente Decreto, para realizar o promover las acciones y adecuaciones necesarias que permitan la correcta aplicación de esta Ley.

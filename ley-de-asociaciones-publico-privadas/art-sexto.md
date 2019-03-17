@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Una vez que el Sistema Electrónico de Compras del Estado se encuentre en funcionamiento, deberá fungir como medio adicional de difusión y publicación de resultados, además de la página oficial de internet del Ente Público Contratante.

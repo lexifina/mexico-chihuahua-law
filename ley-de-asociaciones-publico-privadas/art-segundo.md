@@ -1,0 +1,2 @@
+ARTÍCULO SEGUNDO.- Se abroga la Ley de Proyectos de Inversión Pública a Largo Plazo del Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 38, del 11 de mayo del 2011.
+Los proyectos de inversión pública a largo plazo que se encuentren contratados o estén en trámite, continuarán rigiéndose por las disposiciones vigentes al momento en el que iniciaron, salvo que exista un acuerdo entre las partes para adecuarse a los términos de la presente Ley.

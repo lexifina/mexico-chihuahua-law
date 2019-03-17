@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- La Secretaría de la Función Pública y la Auditoría Superior, ambas del Estado de Chihuahua, según corresponda, deberán fungir como órganos internos de control en aquellos entes públicos que aún no cuenten con un órgano de esta naturaleza, además vigilarán y comprobarán que se apliquen las disposiciones de esta Ley.
