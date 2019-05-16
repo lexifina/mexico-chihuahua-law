@@ -10,4 +10,9 @@ IV.- Promover, fomentar y estimular el desarrollo de una cultura deportiva nacio
 V.- Difundir el patrimonio cultural deportivo.
 VI.- Promover certámenes, concursos o competiciones de naturaleza cultural deportiva.
 VII.- Las demás que dispongan otras leyes u ordenamientos aplicables.
-Los Juegos Tradicionales, los Autóctonos y la Charrería serán considerados como parte del patrimonio cultural deportivo del país y del Estado. La administración pública estatal y municipal, en el ámbito de sus respectivas competencias, deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre sí y con las Asociaciones Deportivas Estatales y Municipales correspondientes.
+(REFORMADO, P.O. 15 DE MAYO DE 2019)
+La Charrería será considerada como parte del patrimonio cultural deportivo del país y del Estado.
+(ADICIONADO, P.O. 15 DE MAYO DE 2019)
+Asimismo, serán considerados como parte del patrimonio cultural deportivo los Juegos Tradicionales y los Autóctonos.
+(ADICIONADO, P.O. 15 DE MAYO DE 2019)
+La administración pública estatal y municipal, en el ámbito de sus respectivas competencias, deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre sí y con las Asociaciones Deportivas Estatales y Municipales correspondientes.

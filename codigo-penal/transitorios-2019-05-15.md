@@ -1,0 +1,3 @@
+P.O. 15 DE MAYO DE 2019.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFDEC/0322/2019 II P.O., POR MEDIO DEL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. LXV/RFCOD/0388/2017 I P.O."]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
