@@ -1,4 +1,0 @@
-P.O. 19 DE MAYO DE 2018.
-[N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/RFCNT/0705/2018 IX P.E., POR MEDIO DEL CUAL SE ADICIONAN LOS ARTÍCULOS 138 FRACCIÓN IX CON UN INCISO E) Y 144 CON UN INCISO E) AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-SEGUNDO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.

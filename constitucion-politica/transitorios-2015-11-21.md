@@ -1,4 +1,0 @@
-P.O. 21 DE NOVIEMBRE DE 2015.
-PRIMERO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
-SEGUNDO.- El presente Decreto entrará en vigor a los 180 días de su publicación en el Periódico Oficial del Estado.
-TERCERO.- Los Poderes Ejecutivo, Legislativo y Judicial, organismos autónomos, y autoridades municipales, deberán de promover las reformas necesarias y efectuar las acciones pertinentes a fin de que el ejercicio del poder público sea más transparente, abierto e incluyente.

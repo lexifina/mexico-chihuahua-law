@@ -1,5 +1,0 @@
-P.O. 24 DE SEPTIEMBRE DE 2016.
-[N. DE E. TRANSITORIOS DEL "DECRETO NO. 1579/2016 XXI P.E., POR MEDIO DEL CUAL SE ABROGA EL DECRETO NO. 1364/2016 II P.O., PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE CHIHUAHUA, DE ONCE DE JUNIO DE DOS MIL DIECISÉIS, MEDIANTE EL CUAL SE DABA VIDA A LA FISCALÍA ESPECIALIZADA ANTICORRUPCIÓN".]
-ARTÍCULO PRIMERO.- La declaración de invalidez decretada en los resolutivos que recaen a la acción de inconstitucionalidad 58/2016, surtieron sus efectos a partir de su notificación al Congreso del Estado de Chihuahua el día 08 de septiembre del 2016, por ello, ordénese su publicación de manera urgente en el Periódico Oficial del Estado.
-ARTÍCULO SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
-ARTÍCULO TERCERO.- Notifíquese de manera inmediata del cumplimiento de los resolutivos de las sentencias de las acciones de inconstitucionalidad expresadas en el artículo transitorio anterior a la Suprema Corte de Justicia de la Nación.

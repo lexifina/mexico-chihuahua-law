@@ -1,3 +1,0 @@
-P.O. 18 DE OCTUBRE DE 2014.
-ARTÍCULO PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
-ARTÍCULO SEGUNDO.- La reforma constitucional contenida en el presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.

@@ -1,3 +1,0 @@
-P.O. 1 DE SEPTIEMBRE DE 2012.
-ARTÍCULO PRIMERO.- En cumplimiento a lo establecido por el artículo 202 de la Constitución Política del Estado, remítase copia de la Iniciativa, del Dictamen y de los Debates del Honorable Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios de la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
-ARTÍCULO SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
