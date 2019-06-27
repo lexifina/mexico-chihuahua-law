@@ -1,0 +1,7 @@
+P.O. 26 DE JUNIO DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. LXVI/RFLEY/0357/2019 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y DE LA LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES RELACIONADOS CON HECHOS DELICTIVOS PARA EL ESTADO DE CHIHUAHUA".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Todas las referencias hechas al Fondo Auxiliar para la Procuración de Justicia se entenderán hechas al Fondo Auxiliar para la Procuración de Justicia y Seguridad Pública.
+ARTÍCULO TERCERO.- Si las atribuciones de seguridad pública y prevención del delito dejan de ser una función de la Fiscalía General del Estado, los recursos referidos en la fracción VIII, del artículo 36 de la Ley Orgánica de la Fiscalía General del Estado, no integrarán el Fondo Auxiliar para la Procuración de Justicia y Seguridad Pública.
+Los recursos seguirán siendo captados, pero su administración estará a cargo de la entidad que asuma las atribuciones de seguridad pública y prevención del delito, debiendo informar semestralmente a la Auditoría Superior del Estado sobre las actividades desarrolladas con cargo al recurso, hasta en tanto se emita el decreto que disponga lo conducente.
+Estos recursos se destinarán para los fines establecidos en el artículo 38 de la referida Ley, pero en materia de Seguridad Pública.
