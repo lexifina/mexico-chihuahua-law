@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE JULIO DE 2019)
+Artículo 68 Ter. Se podrá determinar la procedencia del régimen de excepción previsto en el presente Apartado, cuando se infiera que la incapacidad total permanente o pérdida de la vida del asegurado, haya sido en respuesta a decisiones o acciones realizadas en el desempeño de su encargo o donde estas se asuman o sean ejecutadas en la lucha contra las estructuras criminales.

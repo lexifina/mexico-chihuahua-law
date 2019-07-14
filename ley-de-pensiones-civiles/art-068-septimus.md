@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE JULIO DE 2019)
+Artículo 68 Séptimus. La pensión deberá resolverse dentro del plazo establecido en el artículo 28 de la presente Ley, una vez que hayan sido cumplidos los requisitos que para tal efecto requiera la Institución, en los cuales se incluirá el dictamen de la Fiscalía General del Estado, donde se haga constar la situación de hecho bajo la cual ocurrió la enfermedad, el accidente o la muerte de la o el integrante de las Instituciones de Seguridad Pública.

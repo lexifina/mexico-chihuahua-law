@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE JULIO DE 2019)
+Artículo 68 Sextus. Quienes integren las Instituciones de Seguridad Pública del Estado o sus beneficiarios, en los términos del artículo 57 de esta Ley, en ningún caso, podrán verse privadas de la pensión ordinaria y/o excepcional correspondiente, derivada de un riesgo de trabajo, como consecuencia de cuotas omitidas en vida por la o el servidor público o aportaciones no enteradas por el patrón, incluidos los casos en que la Junta Directiva determine la improcedencia de la excepcionalidad del régimen.
