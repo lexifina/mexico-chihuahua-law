@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO.- El Consejo Estatal de Mejora Regulatoria deberá instalarse formalmente en un plazo de noventa días hábiles siguientes a la entrada en vigor de la Ley emitida mediante el presente Decreto.

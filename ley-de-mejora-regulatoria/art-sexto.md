@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Los Sujetos Obligados de la Administración Pública Estatal y Municipal elaborarán y enviarán a la Autoridad de Mejora Regulatoria su respectivo Programa de Mejora Regulatoria, en un término de un año posterior a la instalación formal de la Autoridad de Mejora Regulatoria.
