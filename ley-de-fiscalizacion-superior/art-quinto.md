@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Las referencias, remisiones o contenidos del presente Decreto, vinculados con la aplicación de las facultades del Tribunal Estatal de Justicia Administrativa entrarán en vigor en los términos del Artículo Octavo Transitorio del Decreto No. LXV/RFCNT/0362/2017 VI P.E., publicado en el Periódico Oficial del Estado número 69, de fecha 30 de agosto de 2017.

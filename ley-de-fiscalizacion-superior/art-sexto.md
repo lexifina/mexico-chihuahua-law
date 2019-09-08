@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Los procedimientos administrativos de auditoría que se encuentren en trámite o pendientes de resolución a la entrada en vigor del presente Decreto, se resolverán hasta su conclusión definitiva, de acuerdo a la Ley vigente al momento del inicio de los procesos de fiscalización respectivos.

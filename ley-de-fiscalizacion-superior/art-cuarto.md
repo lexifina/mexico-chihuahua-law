@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- La Auditoría Superior tendrá un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para expedir la normatividad interna, a fin de dar certeza a sus actos de fiscalización, incluyendo el Reglamento Interior de la Auditoría Superior del Estado.

@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones a la Ley de Auditoría Superior del Estado de Chihuahua previstas en las leyes locales, así como en cualquier disposición jurídica, se entenderán referidas a la Ley de Fiscalización Superior del Estado de Chihuahua.

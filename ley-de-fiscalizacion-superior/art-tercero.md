@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Se abroga la Ley de Auditoría Superior del Estado de Chihuahua, aprobada mediante Decreto No. 986/07 X P.E., publicada en el Periódico Oficial del Estado de fecha 12 de septiembre de 2007, así como todas aquellas disposiciones que se opongan a lo previsto en el presente Decreto.
