@@ -974,7 +974,7 @@ CAPITULO V
 DE LA ADOPCION
 (DEROGADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2009)
 A)
-(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 1447/2016 XX P.E., QUE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/)..
+(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 1447/2016 XX P.E., QUE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 (REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2016)
 367.- LA PERSONA MAYOR DE EDAD, SOLTERA, EN PLENO EJERCICIO DE SUS DERECHOS, PUEDE ADOPTAR A OTRA MENOR DE EDAD O A UNA CON DISCAPACIDAD, AUN CUANDO ESTA SEA MAYOR DE EDAD, SIEMPRE QUE EL ADOPTANTE TENGA QUINCE AÑOS MÁS QUE EL ADOPTADO Y QUE ACREDITE ADEMÁS:
 (REFORMADA, P.O. 28 DE OCTUBRE DE 2009)
@@ -3963,15 +3963,18 @@ REPRESENTACION
 1696.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la ley.
 Si no se obtiene la ratificación el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
 DEL CONSENTIMIENTO
-1697.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio, la voluntad deba manifestarse expresamente.
+(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)
+1697.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito, por signos inequívocos, por medios electrónicos, ópticos o cualquier otro tipo de tecnología. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio, la voluntad deba manifestarse expresamente.
 1698.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
-1699.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
+(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)
+1699.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla aplicará a la oferta hecha por teléfono, por medios electrónicos, ópticos o por cualquier otro tipo de tecnología que permita la comunicación y recepción inmediata de la oferta.
 1700.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
 1701.- El contrato se forma en el momento en que el proponente recibe la aceptación, estando ligado por su oferta según los artículos precedentes.
 1702.- La oferta se considerará como no hecha si la retira su autor y el destinatario recibe la retractación antes que la oferta. La misma regla se aplica al caso en que se retire la aceptación.
 1703.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el aceptante fuere sabedor de su muerte, quedarán los herederos de aquél obligados a sostener el contrato.
 1704.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considera como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
-1705.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
+(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)
+1705.- La propuesta y aceptación hechas por medios electrónicos, ópticos o por cualquier otro tipo de tecnología, tendrán plena validez legal y producirán todos sus efectos sin haber mediado una estipulación por escrito de las partes, en los términos previstos en el Código de Comercio, en su artículo 89 bis.
 VICIOS DEL CONSENTIMIENTO
 1706.- El consentimiento no es válido si ha sido dado por error, arrancado por violencia o sorprendido por dolo.
 1707.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
