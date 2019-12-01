@@ -1,0 +1,8 @@
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)
+Art. 27 Ter.- Los partidos políticos y los candidatos independientes en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
+(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2008)
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor ni en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en el territorio de Chihuahua de este tipo de mensajes contratados en el extranjero.
+(REFORMADO, P.O. 30 DE AGOSTO DE 2017)
+En la propaganda política o electoral que difundan los partidos políticos y candidatos independientes, así como los actos tendientes a recabar el apoyo ciudadano de estos últimos, deberán abstenerse de expresiones que calumnien a las personas o acciones u omisiones que generen cualquier tipo de violencia política de género.
+(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2008)
+Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social, de toda propaganda gubernamental, estatal y municipal y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.

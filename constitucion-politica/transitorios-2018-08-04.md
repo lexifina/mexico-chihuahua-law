@@ -1,0 +1,4 @@
+P.O. 4 DE AGOSTO DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/CUMRL/0843/2018 XV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 106, QUINTO PÁRRAFO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS PRECEPTOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA. PARA DAR CUMPLIMIENTO A LA RESOLUCIÓN DE LA CONTROVERSIA CONSTITUCIONAL 179/2017".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Notifíquese el presente Decreto a la Suprema Corte de Justicia de la Nación, en cumplimiento a lo ordenado en la Resolución de la Controversia Constitucional número 179/2017.

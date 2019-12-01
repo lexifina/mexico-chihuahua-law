@@ -1,0 +1,4 @@
+P.O. 25 DE FEBRERO DE 2017.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 1564/2016 XXI P.E., MEDIANTE EL CUAL SE REFORMA EL INCISO C) DE LA FRACCIÓN II, DEL ARTÍCULO 144 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.

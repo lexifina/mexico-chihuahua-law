@@ -1,0 +1,4 @@
+P.O. 23 DE OCTUBRE DE 2013.
+DECRETO NÚMERO 1288/2013 P.O. POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 4°. DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA.
+ARTÍCULO PRIMERO.- Remítase copia de la Iniciativa, del Dictamen y de los Debates del Honorable Congreso del Estado, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política del Estado; lo anterior, en cumplimiento a lo establecido por el artículo 202 de la Constitución local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
