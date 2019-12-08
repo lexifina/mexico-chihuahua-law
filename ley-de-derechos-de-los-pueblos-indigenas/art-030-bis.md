@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2019)
+Artículo 30 Bis. La Comisión Estatal para los Pueblos Indígenas, conforme a lo que establece la Ley para la Protección del Patrimonio Cultural del Estado de Chihuahua y demás disposiciones aplicables en la materia, coadyuvará con la Secretaría de Cultura Estatal en la adopción de medidas eficaces para la protección del patrimonio cultural material, inmaterial y biocultural de los pueblos y comunidades indígenas, así como para que estos mantengan y controlen la propiedad intelectual de dicho patrimonio.

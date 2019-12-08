@@ -1,0 +1,3 @@
+P.O. 7 DE DICIEMBRE DE 2019.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFCOD/0396/2019 I P.O. POR MEDIO DEL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.

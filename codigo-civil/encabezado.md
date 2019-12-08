@@ -500,7 +500,7 @@ X.- El matrimonio subsiste con persona distinta de aquella con quien se pretende
 De estos impedimentos solo es dispensable el parentesco de consanguinidad en línea colateral desigual.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 145.- El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción.
-146.- La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
+146.- (DEROGADO, P.O. 7 DE DICIEMBRE DE 2019)
 147.- El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la cual no se le concederá por el Presidente Municipal respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela.
 Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
 148.- Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
@@ -682,7 +682,8 @@ IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan he
 251.- Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomarán las precauciones a que se refiere el capítulo primero del Título Quinto del Libro Tercero.
 252.- Es ilícito pero no nulo el matrimonio:
 I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 147 y cuando se celebre sin que hayan transcurrido los términos fijados en el artículo 146.
+(REFORMADA, P.O. 7 DE DICIEMBRE DE 2019)
+II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 147.
 (REFORMADO, P.O. 23 DE DICIEMBRE DE 2017)
 253. Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con una persona menor y quien autorice esos matrimonios, incurrirán en los delitos que señale el Código Penal.
 CAPITULO IX
@@ -740,8 +741,8 @@ N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRAN
 La protección para los hijos e hijas menores de edad implica las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales corresponderán a los organismos para la asistencia social pública estatal o municipal, a través de su correspondiente Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, por lo que deberá darse vista a estas instancias cuando en la tramitación de un juicio se perciba que se pone en riesgo la seguridad de aquéllos.
 (ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2016)
 Para los efectos de la fracción IV del presente artículo, se podrá establecer un sistema de convivencia supervisada, a través del Centro de Convivencia Familiar o cualquiera de sus unidades de apoyo, en los términos de la Ley Orgánica del Poder Judicial del Estado de Chihuahua, y su Reglamento correspondiente.
-(REFORMADO, P.O. 30 DE MAYO DE 1981)
-257.- Los cónyuges divorciados podrán contraer nuevo matrimonio inmediatamente después de obtenido el divorcio; pero la mujer no podrá hacerlo si no tuviere trescientos días de separada físicamente de su esposo, o mediare examen médico que acredite que no está embarazada.
+(REFORMADO, P.O. 7 DE DICIEMBRE DE 2019)
+257.- Los cónyuges divorciados podrán contraer nuevo matrimonio después de obtenido el divorcio e inscrito en el registro civil.
 258.- Las acciones de divorcio no podrán ejercitarse cuando haya mediado el perdón expreso o tácito debidamente comprobado.
 259.- Antes de que se provea definitivamente sobre la patria potestad o la custodia de los hijos podrán acordar los tribunales, a petición de los abuelos, tíos, o hermanos mayores, cualquiera providencia que se considere benéfica a los menores.
 260.- En todo caso de divorcio en que existan hijos menores se oirá el parecer del Ministerio Público.
@@ -845,9 +846,10 @@ DE LA PATERNIDAD Y FILIACION
 CAPITULO I
 DE LOS HIJOS DEL MATRIMONIO
 301.- Se presumen hijos de los cónyuges:
-I.- Los hijos nacidos después de 180 días contados desde la celebración del matrimonio;
-(REFORMADA, P.O. 30 DE MAYO DE 1981)
-II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio, salvo lo establecido en el artículo 257 de este Código. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
+(REFORMADA, P.O. 7 DE DICIEMBRE DE 2019)
+I.- Los hijos nacidos después de la celebración del matrimonio;
+(REFORMADA, P.O. 7 DE DICIEMBRE DE 2019)
+II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
 302.- Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros 120 días de los 300 que han precedido al nacimiento.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
 303.- El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los diez meses que precedieron al nacimiento no tuvo acceso carnal con su esposa o que había imposibilidad física para engendrar.
@@ -864,13 +866,14 @@ IV.- Si el hijo no nació capaz de vivir.
 308.- Si el marido estaba bajo tutela por causa de discapacidad mental o intelectiva, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 309.- Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
 310.- Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los 180 días de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la demanda, sesenta días contados, desde aquél en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
-311.- Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias dentro del período prohibido por el artículo 146, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2019)
+311.- Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
 (REFORMADA, P.O. 30 DE MAYO DE 1981)
 I.- Se presume que el hijo es del primer matrimonio si nace dentro de los trescientos días siguientes a su disolución y antes de ciento ochenta días de la celebración del segundo, salvo que al celebrarse éste se haya demostrado que la mujer no estaba embarazada.
 (REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 1981)
 II.- Se presume que el hijo es del segundo si nace después de ciento ochenta días de la celebración de éste, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primero, salvo que se haya demostrado, con motivo de la celebración del segundo que la mujer se encontraba embarazada.
 El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye.
-III.- El hijo se presume nacido fuera de matrimonio si nace antes de 180 días de la celebración del segundo matrimonio y después de 300 días de la disolución del primero.
+III.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2019)
 312.- El desconocimiento de un hijo, de parte del marido, o de sus herederos, se hará por demanda en forma ante el Juez competente. Todo desconocimiento practicado de otra manera es nulo.
 313.- En el juicio de contradicción de la paternidad serán oídos la madre y el hijo, a quien si fuere menor, se proveerá de un tutor interino.
 314.- Para los efectos legales, sólo se reputa nacido el feto que desprendido enteramente del seno materno, vive veinticuatro horas o es presentado vivo al Registro Civil. Faltando alguna de estas circunstancias, nunca ni nadie podrá entablar demanda sobre la paternidad.
