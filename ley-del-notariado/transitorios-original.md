@@ -1,0 +1,16 @@
+ARTÍCULOS TRANSITORIOS
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- Se abroga la Ley del Notariado del Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 64, el 12 de agosto de 1995.
+TERCERO.- Las patentes que en su momento fueron expedidas en favor de las actuales notarias y notarios públicos, así como aspirantes al ejercicio del Notariado en el Estado, mantendrán su vigencia y efectos, y tendrán el carácter de permanentes y vitalicias, sin necesidad de reexpedirlas. Las notarias y notarios públicos con patentes expedidas con anterioridad a la entrada en vigor de este Decreto, podrán continuar con la misma numeración en sus libros de protocolos y de instrumentos.
+CUARTO.- Los artículos 123 y 124 entrarán en vigor una vez que el Gobierno del Estado, por conducto de la Secretaría General de Gobierno, haya firmado el convenio de coordinación con la Secretaría de Gobernación del Gobierno Federal.
+QUINTO.- El Capítulo VIII Del Protocolo Electrónico entrará en vigor a los 180 días posteriores a la entrada en vigor de la ley que regule la Firma Electrónica en el Estado de Chihuahua.
+SEXTO.- Una vez que entre en vigor el presente Decreto, el Consejo de Notarios del Estado y los colegios de los distritos judiciales, deberán hacer las adecuaciones necesarias en sus estatutos.
+SÉPTIMO.- El artículo 66 del Capítulo VI entrará en vigor a los 120 días siguientes a la publicación de este Decreto en el Periódico Oficial del Estado; no obstante, a partir de la entrada en vigor del Decreto, la Dirección podrá autorizar los sellos que deberán utilizarse al entrar en vigor el referido artículo. Las notarias y notarios públicos que a la fecha utilicen sellos con las características del artículo 66, podrán seguir usándolos sin necesidad de registro.
+OCTAVO.- Se respetarán los derechos adquiridos y todos los asuntos y trámites iniciados durante la vigencia de la Ley del Notariado que se abroga; serán válidos y seguirán su tramitación conforme a las disposiciones anteriores que les sean aplicables hasta su conclusión.
+NOVENO.- Las notarias y notarios públicos tendrán un término de treinta días contados a partir de la entrada en vigor de este Decreto para cerrar el Libro de Registro de Actos Fuera de Protocolo y, en su caso, abrir el Libro de Registro de Actas.
+DÉCIMO.- Las notarias y notarios tendrán un plazo de noventa días a partir de la entrada en vigor de este Decreto, para cerrar los Libros previamente autorizados, sean de Protocolo Abierto, de Protocolo Cerrado, y el Especial en su caso.
+D A D O en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los doce días del mes de diciembre del año dos mil diecinueve.
+PRESIDENTE. DIP. RENÉ FRÍAS BENCOMO. Rúbrica. SECRETARIA. DIP. CARMEN ROCÍO GONZÁLEZ ALONSO. Rúbrica. SECRETARIO. DIP. LORENZO ARTURO PARGA AMADO. Rúbrica.
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinte días del mes de diciembre del año dos mil diecinueve.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. LUIS FERNANDO MESTA SOULÉ. Rúbrica.
