@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 7 DE JUNIO DE 2017)
-Artículo 15 Ter. La Dirección del Centro Estatal de Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana, es la unidad sustantiva de la Fiscalía General del Estado que tiene a su cargo el área de Prevención del Delito, con las atribuciones señaladas en el apartado A del artículo 2 de la presente Ley y las descritas en otros dispositivos legales, para lo cual se apoyará de las Unidades Orgánicas que señalen las disposiciones aplicables.
+Artículo 15 Ter. (DEROGADO, P.O. 1 DE ENERO DE 2020)

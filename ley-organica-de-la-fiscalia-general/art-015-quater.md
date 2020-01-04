@@ -3,5 +3,5 @@ Artículo 15 Quáter. El Centro Estatal de Información, Análisis y Estadístic
 I. La Dirección de Estadística Criminal.
 II. La Dirección de Integración y Evaluación de Información Delictiva.
 III. La Dirección de Análisis de Evidencia Digital e Informática Forense.
-IV. La Dirección de la Coordinación del Centro de Control, Comando, Comunicaciones y Cómputo.
+IV. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 La información generada por el Sistema Estatal de Seguridad Pública es confidencial y reservada, por lo que solo será suministrada a las Instituciones de Seguridad Pública en los términos de las disposiciones aplicables.

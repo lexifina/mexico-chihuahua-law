@@ -1,3 +1,4 @@
+(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)
+Artículo 5 Bis. En la investigación de los delitos o en el ejercicio de la acción penal, son auxiliares del Ministerio Público las corporaciones de seguridad pública del Estado y de los municipios, así como las corporaciones de seguridad privada.
 (REFORMADO, P.O. 7 DE JUNIO DE 2017)
-Artículo 5 Bis. En la investigación de los delitos o en el ejercicio de la acción penal, son auxiliares del Ministerio Público las corporaciones de seguridad pública de los municipios, así como las corporaciones de seguridad privada.
 Todas las autoridades del Estado y de los Municipios, están obligadas a prestar colaboración inmediata y a proporcionar los datos que les requieran los representantes del Ministerio Público, en ejercicio de sus funciones. Si no se trata de información confidencial, en los términos de la Ley, les facilitarán acceso a libros, documentos y registros, y si les solicitan informes por escrito, deberán atender la petición en un término no mayor de setenta y dos horas.
