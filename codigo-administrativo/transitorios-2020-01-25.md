@@ -1,0 +1,3 @@
+P.O. 25 DE ENERO DE 2020.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFCOD/0620/2019 I P.O., POR MEDIO DEL CUAL SE ADICIONAN LOS ARTÍCULOS 97 BIS, 97 TER ASÍ COMO AL ARTÍCULO 105, LA FRACCIÓN X, TODOS DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de (sic) publicación en el Periódico Oficial del Estado de Chihuahua.
