@@ -1,0 +1,11 @@
+(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)
+Artículo 145 Quinquies. El Consejo Consultivo Estatal y los municipales tendrán, en el ámbito de su competencia, las funciones siguientes:
+I. Emitir recomendaciones al Sistema Estatal de Protección Integral y los sistemas municipales, respectivamente, respecto de las políticas, programas, lineamientos, instrumentos, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes que implementa dicho Sistema.
+II. Recomendar al Sistema Estatal de Protección Integral y a los sistemas municipales, respectivamente, la celebración de convenios y acuerdos para realizar actividades académicas con instituciones públicas o privadas, nacionales o internacionales relacionadas con los derechos de niñas, niños y adolescentes.
+III. Recomendar a la Secretaría Ejecutiva la celebración de conferencias, seminarios, coloquios y, en general, cualquier evento de debate y difusión sobre los derechos de niñas, niños y adolescentes.
+IV. Proponer al Sistema Estatal de Protección Integral y a los sistemas municipales, respectivamente, estudios, investigaciones y otros documentos que contribuyan a la toma de decisiones y elaboración e implementación de políticas públicas relacionadas con los derechos de niñas, niños y adolescentes.
+V. Proponer al Sistema Estatal de Protección Integral y a los sistemas municipales, respectivamente, el proyecto de lineamientos para su integración, organización y funcionamiento.
+VI. Integrar grupos de trabajo especializados para el estudio de temas que le encomiende el Sistema Estatal de Protección Integral y los sistemas municipales, respectivamente, así como incorporarse a las comisiones temporales o permanentes.
+VII. Atender las consultas y formular las opiniones que le sean solicitadas por el Sistema Estatal de Protección Integral y los sistemas municipales, respectivamente, así como por la Secretaría Ejecutiva.
+VIII. Presentar al Sistema Estatal de Protección Integral y a los sistemas municipales, respectivamente, un informe anual de sus actividades.
+IX. Las demás que le encomiende el Sistema Estatal de Protección Integral y los sistemas municipales, así como otras disposiciones jurídicas aplicables.

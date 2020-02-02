@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)
+Artículo 145 Ter. El Consejo Consultivo Estatal estará integrado por diez personas que se elegirán de entre los sectores público, privado, social y académico, nombradas por el Sistema Estatal de Protección Integral, a propuesta de la Secretaría Ejecutiva, quien podrá considerar criterios de paridad de género, pluralidad y de representatividad, que permitan un equilibrio entre los sectores, así como una adecuada representación de las distintas regiones del Estado.
+Quienes integren el Consejo Consultivo Estatal durarán en su cargo tres años y podrán reelegirse para un periodo igual. Manifestarán por escrito a la Secretaría Ejecutiva la aceptación del cargo, el cual ejercerán en forma honorífica, y no recibirán emolumento o contraprestación económica alguna por el mismo.
+Deberán contar con tres años de experiencia en temas relacionados con niñas, niños y adolescentes.
