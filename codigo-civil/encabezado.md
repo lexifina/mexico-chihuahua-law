@@ -1,3 +1,4 @@
+(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO LXVI/EXLEY/0589/2019 I P.O., ÚNICAMENTE EN CUANTO A LA REFORMA DEL ARTÍCULO 367, PÁRRAFO PRIMERO, DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL CINCO DE FEBRERO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 EL CIUDADANO LICENCIADO OSCAR FLORES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
@@ -977,9 +978,9 @@ CAPITULO V
 DE LA ADOPCION
 (DEROGADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2009)
 A)
-(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 1447/2016 XX P.E., QUE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2016)
-367.- LA PERSONA MAYOR DE EDAD, SOLTERA, EN PLENO EJERCICIO DE SUS DERECHOS, PUEDE ADOPTAR A OTRA MENOR DE EDAD O A UNA CON DISCAPACIDAD, AUN CUANDO ESTA SEA MAYOR DE EDAD, SIEMPRE QUE EL ADOPTANTE TENGA QUINCE AÑOS MÁS QUE EL ADOPTADO Y QUE ACREDITE ADEMÁS:
+(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO NÚMERO LXVI/EXLEY/0589/2019 I P.O., QUE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2020)
+367.- LA PERSONA MAYOR DE VEINTICINCO AÑOS DE EDAD, SOLTERA, EN PLENO EJERCICIO DE SUS DERECHOS, PUEDE ADOPTAR A UNA NIÑA, NIÑO O ADOLESCENTE, AUN CUANDO ESTE SEA MAYOR DE EDAD, SIEMPRE QUE EL ADOPTANTE TENGA QUINCE AÑOS MÁS QUE LA PERSONA ADOPTADA Y QUE ACREDITE ADEMÁS:
 (REFORMADA, P.O. 28 DE OCTUBRE DE 2009)
 I. Que tiene medios bastantes para proveer a la subsistencia, la educación y el cuidado de la persona que trate de adoptarse, como de hijo propio, según las circunstancias de la persona que trata de adoptar;
 (REFORMADA, P.O. 28 DE OCTUBRE DE 2009)
@@ -1008,19 +1009,26 @@ En todos los casos prevalecerá el interés superior del adoptado y el respeto a
 373.- El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 374.- Para que se autorice la adopción, deberán consentir en ella, en sus respectivos casos:
-(F. DE E., P.O. 31 DE ENERO DE 2004)
-I.- Quien o quienes ejercen la patria potestad sobre el menor que se pretende adoptar; excepto el que haya incumplido con la obligación de suministrar alimentos;
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE FEBRERO DE 2020)
+I. Quien o quienes ejercen la patria potestad sobre la niña, niño o adolescente que se pretende adoptar, excepto el que haya incumplido con la obligación de suministrar alimentos.
 (ADICIONADO, P.O. 4 DE FEBRERO DE 2012)
 Cuando las personas referidas se presenten ante la Procuraduría de Asistencia Jurídica y Social o ante los Sistemas Estatal o Municipal para el Desarrollo Integral de la Familia, para otorgar el consentimiento en los términos de esta fracción, corresponderá a dichas autoridades trasladarlos ante el juez competente, quien levantará en el mismo acto la constancia relativa, siguiendo el procedimiento establecido para las diligencias de jurisdicción voluntaria, aun y cuando no se hubiese iniciado el trámite de adopción.
-II.- El tutor;
+(REFORMADA, P.O. 5 DE FEBRERO DE 2020)
+II. El tutor o la tutriz.
 (REFORMADA, P.O. 28 DE OCTUBRE DE 2009)
 III. El organismo para la asistencia social pública estatal o municipal correspondiente, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, cuando no hubiere las personas a que se refieren las dos fracciones anteriores.
 En su caso, estas instituciones pedirán la opinión de la persona que lo haya acogido durante seis meses anteriores a la solicitud de adopción y lo trate como un hijo, y
-IV.- El Ministerio Público en todos los casos.
+IV. El Ministerio Público en todos los casos.
+(ADICIONADA, P.O. 5 DE FEBRERO DE 2020)
+V. La persona adolescente que se pretenda adoptar. Para el caso de niñas y niños, se deberá tomar en cuenta su opinión, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+(ADICIONADA, P.O. 5 DE FEBRERO DE 2020)
+VI. La Procuraduría de Protección de Niñas, Niños y Adolescentes.
+(ADICIONADA, P.O. 5 DE FEBRERO DE 2020)
+VII. Las personas solicitantes.
 (REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE OCTUBRE DE 2009)
 375.- Para los efectos del artículo anterior, si el tutor, el Ministerio Público, el organismo para la asistencia social pública estatal o municipal, según corresponda, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, no consienten en la adopción, deberán expresar la causa en que se funden. El Juez valorará la objeción y atendiendo a los intereses de quien se pretende adoptar, resolverá lo que a su recto criterio proceda.
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
-376.- El procedimiento judicial para llevar a cabo la adopción se sujetará a lo establecido en el Código de Procedimientos Civiles.
+(REFORMADA, P.O. 5 DE FEBRERO DE 2020)
+376.- El procedimiento administrativo y judicial para llevar a cabo la adopción se sujetará a lo establecido en la Ley de Adopciones, y en lo dispuesto por el Código de Procedimientos Familiares, ambos ordenamientos del Estado de Chihuahua.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)
 377.- La adopción quedará consumada una vez que cause ejecutoria la resolución que la autorice.
 378.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
@@ -1144,12 +1152,12 @@ III.- Cuando por las costumbres depravadas de los padres, maltrato infantil, exp
 IV.- Cuando quien la ejerza deje expósito al menor por un plazo de más de 30 días naturales;
 V.- Cuando quien la ejerza deje de asistir y convivir injustificadamente con el menor por más de 7 días naturales cuando éste se encuentre acogido en una Institución pública de asistencia social; o
 VI.- Por abandono del menor durante un plazo de 60 días naturales, aun cuando no se comprometa su salud, seguridad o moralidad.
-(ADICIONADA, P.O. 25 DE AGOSTO DE 2010)
-VII.- Cuando quien la ejerza otorgue su consentimiento de dar en adopción a la persona menor de edad, en cuyo caso, el Juez de lo Familiar se asegurará de que haya sido otorgado sin vicio alguno.
+(REFORMADA, P.O. 5 DE FEBRERO DE 2020)
+VII. Cuando quien la ejerza haya entregado voluntariamente a su hija o hijo en alguna institución de asistencia social, o bien, cuando otorga su consentimiento para dar en adopción a su hija o hijo.
 (ADICIONADA, P.O. 25 DE AGOSTO DE 2010)
 VIII.- Cuando la persona menor de edad estuviese en un establecimiento asistencial y quienes la ejerzan se hubieran desentendido totalmente de la misma durante un año o cuando el desamparo moral o material resulte evidente, manifiesto y continuo.
-(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2001)
-421 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas por el artículo 300 ter de este Código en contra de las personas sobre las cuales la ejerza.
+(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2020)
+421 BIS.- La patria potestad se perderá cuando quien la ejerce incurra en conductas de violencia familiar previstas por el artículo 300 ter de este Código en contra de las personas sobre las cuales la ejerza.
 (ADICIONADO, P.O. 25 DE AGOSTO DE 2010)
 Cuando se trate de personas menores de edad que se encuentren en situación de desamparo o hayan sido objeto de maltrato por quienes ejercen la patria potestad, según lo dispuesto en el artículo 469 de este Código, y se encuentren internadas en un establecimiento de asistencia social bajo la supervisión de la Procuraduría de Asistencia Jurídica y Social, esta tendrá la facultad de iniciar el juicio de pérdida de patria potestad en un plazo no mayor a treinta días.
 422.- La madre o abuela que pase a segundas nupcias, no pierde por este hecho la patria potestad.
