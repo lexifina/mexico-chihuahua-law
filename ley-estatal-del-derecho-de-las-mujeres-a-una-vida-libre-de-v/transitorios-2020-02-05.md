@@ -1,0 +1,3 @@
+P.O. 5 DE FEBRERO DE 2020.
+[N. DE E. TRANSITORIO DEL "DECRETO Nº LXVI/RFLEY/0582/2019 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 5, FRACCIÓN V, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
