@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Los Poderes Ejecutivo, Legislativo y Judicial, los municipios, los organismos descentralizados estatales y municipales, así como a los Organismos Constitucionales Autónomos, deberán expedir o adecuar, en un plazo de ciento ochenta días naturales, las disposiciones necesarias para el cumplimiento de la presente Ley.

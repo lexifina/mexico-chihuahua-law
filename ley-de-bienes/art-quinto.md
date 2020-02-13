@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Los órganos colegiados a que hace referencia el artículo 103 de esta Ley, deberán constituirse y celebrar su primera sesión en un plazo no mayor de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.

@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Los municipios del Estado, en un plazo que no podrá exceder de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, deberán crear su Registro de Propiedad Municipal.

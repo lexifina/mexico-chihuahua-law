@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- En tanto se expide la Ley del Procedimiento Administrativo del Estado, se aplicará en lo conducente el Código Administrativo del Estado de Chihuahua, así como la legislación procedimental civil aplicable.
