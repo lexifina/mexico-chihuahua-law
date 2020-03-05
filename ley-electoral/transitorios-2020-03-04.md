@@ -1,0 +1,4 @@
+P.O. 4 DE MARZO DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. LXVI/RFLEY/0513/2019 I P.O., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, LEY ORGÁNICA DEL PODER JUDICIAL, LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS Y LA LEY ELECTORAL, TODAS DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- En cumplimiento del Principio de Progresividad que impera en materia de Derechos Humanos, anualmente se incorporarán en los Presupuestos de Egresos para los ejercicios fiscales subsecuentes, las partidas económicas que permitan la mejora continua del Centro de Personas Traductoras e Intérpretes, hasta lograr su consolidación.
