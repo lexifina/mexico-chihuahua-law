@@ -1,0 +1,3 @@
+P.O. 16 DE MAYO DE 2020.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFCOD/0704/2020 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
