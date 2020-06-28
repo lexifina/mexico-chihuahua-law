@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 27 DE JUNIO DE 2020)
+Artículo 12-h.- Las personas mayores de 12 años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes; quienes sean menores de 12 años, solo podrán solicitar las órdenes a través de sus representantes legales.
