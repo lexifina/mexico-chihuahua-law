@@ -1,0 +1,3 @@
+P.O. 1 DE JULIO DE 2020.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0734/2020 VIII P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 28, INCISO 8) Y SE LE ADICIONA EL INCISO 9), DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
