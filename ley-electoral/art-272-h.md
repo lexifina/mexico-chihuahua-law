@@ -25,17 +25,18 @@ Artículo 272 k
 La persona titular del Órgano Interno de Control deberá rendir por escrito informe semestral y anual de actividades al Consejo Estatal del Instituto, del cual enviará copia al Congreso del Estado.
 (ADICIONADO, P.O. 30 DE AGOSTO DE 2017)
 Artículo 272 l
-(REFORMADO PRIMER PÁRRAFO, P. O. 13 DE MARZO DE 2019)
+(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)
 1) La persona titular del Órgano Interno de Control podrá ser sancionada conforme a los artículos 269 y 270 de esta Ley, por las siguientes causas graves de responsabilidad administrativa:
-a) Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y de la legislación en la materia.
+(REFORMADO, P.O. 1 DE JULIO DE 2020)
+a) Utilizar en beneficio propio o de terceras personas la documentación e información confidencial en los términos de la presente Ley y de la legislación en la materia.
 b) Dejar sin causa justificada, de fincar responsabilidades o aplicar sanciones pecuniarias, en el ámbito de su competencia, cuando esté debidamente comprobada la responsabilidad e identificado la o el responsable como consecuencia de las revisiones e investigaciones que realice en el ejercicio de sus atribuciones.
 (REFORMADO, P. O. 13 DE MARZO DE 2019)
 c) Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia o que exista en el Órgano Interno de Control y tenga acceso a ella, con motivo del ejercicio de sus atribuciones.
 d) Conducirse con parcialidad en los procedimientos de supervisión e imposición de sanciones a que se refiere esta Ley.
 (REFORMADO, P. O. 13 DE MARZO DE 2019)
 e) Incurrir en alguna de las infracciones que contempla la Ley General de Responsabilidades Administrativas.
-(REFORMADO, P. O. 13 DE MARZO DE 2019)
-2) El Congreso del Estado resolverá sobre la aplicación de las sanciones a la persona titular del Órgano Interno de Control, incluida entre estas la remoción, por causas graves de responsabilidad administrativa, debiéndole garantizar el derecho de audiencia. La remoción requerirá del voto de al menos las dos terceras partes de las y los miembros presentes en la sesión.
+(REFORMADO, P.O. 1 DE JULIO DE 2020)
+2) El Congreso del Estado resolverá sobre la aplicación de las sanciones a la persona titular del Órgano Interno de Control, incluida entre estas la remoción, por causas graves de responsabilidad administrativa, debiéndole garantizar el derecho de audiencia. La remoción requerirá del voto de al menos las dos terceras partes de las personas integrantes presentes en la sesión.
 (ADICIONADO, P.O. 30 DE AGOSTO DE 2017)
 Artículo 272 m
 (REFORMADO PRIMER PÁRRAFO, P. O. 13 DE MARZO DE 2019)
@@ -47,7 +48,8 @@ d) Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de 
 e) Verificar que las diversas áreas administrativas del Instituto que hubieren recibido, manejado, administrado o ejercido recursos, lo hagan conforme a la normatividad aplicable, los programas aprobados y montos autorizados, así como, en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes.
 f) Revisar que las operaciones presupuestales que realice el Instituto se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias.
 g) Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente al logro de los objetivos y metas de los programas aprobados.
-h) Requerir a terceros que hubieran contratado bienes o servicios con el Instituto la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan.
+(REFORMADO, P.O. 1 DE JULIO DE 2020)
+h) Requerir a terceras personas que hubieran contratado bienes o servicios con el Instituto la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan.
 (REFORMADO, P. O. 13 DE MARZO DE 2019)
 i) Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todas las personas servidoras públicas del propio Órgano Interno de Control del Instituto, así como a las y los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública.
 (REFORMADO, P. O. 13 DE MARZO DE 2019)
@@ -61,7 +63,8 @@ p) Determinar los daños y perjuicios que afecten al Instituto en su patrimonio 
 q) Fincar las responsabilidades e imponer las sanciones en términos de los lineamientos respectivos.
 r) Presentar a la aprobación del Consejo Estatal sus programas anuales de trabajo.
 s) Presentar al Consejo Estatal los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo cuando así lo requiera la Presidencia.
-t) Participar, a través de su titular, con voz pero sin voto, en las reuniones del Consejo Estatal cuando por motivo del ejercicio de sus facultades, así lo considere necesario la Presidencia o alguno de los integrantes del Consejo Estatal.
+(REFORMADO, P.O. 1 DE JULIO DE 2020)
+t) Participar, a través de su titular, con voz pero sin voto, en las reuniones del Consejo Estatal cuando por motivo del ejercicio de sus facultades, así lo considere necesario la Presidencia o alguna de las personas integrantes del Consejo Estatal.
 (REFORMADO, P. O. 13 DE MARZO DE 2019)
 u) Recibir y resguardar las declaraciones patrimoniales que deban presentar las y los servidores públicos del Instituto, a partir del nivel de jefatura de departamento, conforme a los formatos y procedimientos que establezca el propio Órgano Interno de Control. Serán aplicables en lo conducente las normas establecidas en la Ley de la materia.
 v) Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de las y los servidores públicos que corresponda.
@@ -73,9 +76,10 @@ Artículo 272 n
 Artículo 272 o
 (REFORMADO, P. O. 13 DE MARZO DE 2019)
 1) Si transcurrido el plazo establecido por el Órgano Interno de Control, el área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, aquel procederá a fincar las responsabilidades que correspondan conforme a derecho.
-2) El afincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
-(REFORMADO, P. O. 13 DE MARZO DE 2019)
-3) Además de imponer la sanción respectiva, el Órgano Interno de Control, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a treinta días naturales, cumpla con la obligación omitida motivo de la sanción; y si aquel incumple, será sancionado.
+(REFORMADO, P.O. 1 DE JULIO DE 2020)
+2) El afincamiento de responsabilidades y la imposición de sanciones no relevará a la persona infractora de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
+(REFORMADO, P.O. 1 DE JULIO DE 2020)
+3) Además de imponer la sanción respectiva, el Órgano Interno de Control, requerirá a la persona infractora para que dentro del plazo determinado, que nunca será mayor a treinta días naturales, cumpla con la obligación omitida motivo de la sanción; y si aquella incumple, será sancionada.
 4) Durante el desahogo de los procedimientos administrativos tendentes, en su caso, al afincamiento de responsabilidades, las y los servidores públicos tendrán asegurado el ejercicio de las garantías constitucionales.
 (REFORMADO, P. O. 13 DE MARZO DE 2019)
 Artículo 272 p
