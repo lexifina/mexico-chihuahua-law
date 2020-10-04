@@ -1,9 +1,11 @@
 ARTÍCULOS TRANSITORIOS
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-SEGUNDO.- La Secretaría del Trabajo y Previsión Social adoptará las medidas pertinentes para la instalación de la Junta de Gobierno, dentro de los veinte días hábiles siguientes a la publicación del presente Decreto.
+(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)
+SEGUNDO.- La Secretaría del Trabajo y Previsión Social adoptará las medidas pertinentes para la instalación de la Junta de Gobierno, acorde a los términos y plazos que determine el Grupo Interinstitucional para la Implementación de la Reforma laboral para el Estado de Chihuahua.
 TERCERO.- Dentro de los primeros treinta días hábiles siguientes a la instalación de la Junta de Gobierno, la Presidencia convocará a la primera sesión de trabajo.
 CUARTO.- En la misma sesión de instalación, la Dirección presentará, para su aprobación, el Estatuto Orgánico del Centro, así como el cronograma y proyecto de convocatoria para el proceso de selección de las y los conciliadores que integrarán el Centro de Conciliación del Estado de Chihuahua, en los términos que disponga la Ley Federal del Trabajo.
-QUINTO.- El Centro comenzará a prestar el servicio público de conciliación cuando entre en vigor la reforma a la Ley Federal del Trabajo, en la que se establezca el procedimiento que habrá de observarse en la instancia conciliatoria.
+(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)
+QUINTO.- El Centro comenzará a prestar el servicio público de conciliación en la fecha que determine el Grupo Interinstitucional para la Implementación de la Reforma Laboral para el Estado de Chihuahua, siguiendo los procedimientos establecidos en la Ley Federal del Trabajo para tales efectos.
 La Secretaría del Trabajo y Previsión Social llevará a cabo las gestiones necesarias a efecto de que el Centro cuente con los recursos necesarios para su operación.
 SEXTO.- Inscríbase el presente Decreto en el Registro Público de las Entidades Paraestatales de la Secretaría de Hacienda del Estado de Chihuahua.
 SÉPTIMO.- El Ejecutivo del Estado deberá acompañar a la Cuenta Pública Anual, los Estados Financieros del Centro de Conciliación del Estado de Chihuahua.
@@ -12,3 +14,4 @@ PRESIDENTA. DIP. DIANA KARINA VELÁZQUEZ RAMÍREZ. Rúbrica. SECRETARIA. DIP. CA
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los treintaiún días del mes de enero del año dos mil dieciocho.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
