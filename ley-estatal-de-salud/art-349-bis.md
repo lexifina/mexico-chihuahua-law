@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)
+Artículo 349 Bis.- La Secretaría deberá destinar un espacio físico en todas las instituciones de salud en el Estado para instalar los Módulos Auxiliares Registrales, con personal a su cargo para realizar el registro de nacimiento de las personas recién nacidas, antes de abandonar dichos establecimientos.
+Los módulos estarán coordinados y bajo la supervisión de la Oficialía de la Dirección del Registro Civil que corresponda, la cual coadyuvará en la capacitación del personal que designe la institución de salud, y les brindará las herramientas, equipos y materiales necesarios para llevar a cabo el registro de nacimientos.
