@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)
+Artículo 106 Ter. El Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en la Constitución Política de los Estados Unidos Mexicanos, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
