@@ -3963,6 +3963,8 @@ El demandado podrá oponerse a la rescisión, proponiendo las modificaciones suf
 El Juez, oyendo a las partes, resolverá lo que proceda, acorde a la buena fe y a la equidad de intereses.
 (ADICIONADO, P.O. 14 DE OCTUBRE DE 2000)
 1691-E.- Sólo se considerarán como acontecimientos extraordinarios aquellos eventos imprevisibles de carácter general, que producen alteraciones inicuas en lo pactado por las partes, tales como las circunstancias que alteran la situación económica nacional, estatal o regional u otras análogas, de tal manera que de haberlas conocido los contratantes, no habrían pactado en la forma y términos en que lo hicieron o no hubieran contratado.
+(ADICIONADO, P.O. 28 DE OCTUBRE DE 2020)
+Tratándose de epidemias de carácter grave, cuando sean reconocidas por la autoridad sanitaria federal, o estatal competentes, se estará a lo dispuesto por el numeral 2330 y demás disposiciones aplicables del presente Código.
 (ADICIONADO, P.O. 14 DE OCTUBRE DE 2000)
 1691-F.- Para poder ejercitar cualquiera de las acciones previstas en el artículo 1691-b, el obligado deberá estar cumpliendo conforme a lo pactado hasta antes del acontecimiento inusitado.
 (ADICIONADO, P.O. 14 DE OCTUBRE DE 2000)
@@ -5109,6 +5111,10 @@ III.- A servirse de la cosa solamente para el uso convenido conforme a la natura
 2328.- El arrendatario está obligado a pagar la renta que se venza hasta el día que entregue la cosa arrendada.
 2329.- Si el precio del arrendamiento debiere pagarse en frutos, y el arrendatario no los entregare en el tiempo debido, está obligado a pagar en dinero el mayor precio que tuvieren los frutos dentro del tiempo convenido.
 2330.- Si por caso fortuito o fuerza mayor se impide totalmente al arrendatario el uso de la cosa arrendada, no se causará renta mientras dure el impedimento, y si éste dura más de dos meses podrá pedir la rescisión del contrato.
+(ADICIONADO, P.O. 28 DE OCTUBRE DE 2020)
+Si el impedimento para el uso de la cosa arrendada es con motivo de epidemia grave reconocida por la autoridad sanitaria federal, o estatal competentes, será aplicable lo dispuesto en los artículos 1691-a, al 1691-g, del presente Código. En este caso, las partes podrán acordar los términos de la rescisión o las modificaciones del contrato bajo los principios de equidad y buena fe, atendiendo a las circunstancias extraordinarias durante el periodo que permanezcan vigentes, o acudir ante la autoridad jurisdiccional competente, quien deberá ponderar los principios y circunstancias antes mencionadas.
+(ADICIONADO, P.O. 28 DE OCTUBRE DE 2020)
+En el caso del arrendamiento, cuando se trate de aquellas causas derivadas de epidemias de carácter grave reconocidas por la autoridad sanitaria competente, que impidan o modifiquen las condiciones del uso total o parcial de la cosa arrendada, conforme a lo previsto en este artículo, y demás relativos del presente Código, se considerará que no se incurre en mora en el pago de rentas, durante todo el tiempo que permanezcan vigentes las medidas derivadas de la contingencia sanitaria.
 2331.- Si sólo se impide en parte el uso de la cosa, podrá el arrendatario pedir la reducción parcial de la renta, a juicio de peritos, a no ser que las partes opten por la rescisión del contrato, si el impedimento dura el tiempo fijado en el artículo anterior.
 2332.- Lo dispuesto en los artículos anteriores no es renunciable.
 2333.- Si la privación del uso proviene de la evicción del predio, se observará lo dispuesto en el artículo 2330, y si el arrendador procedió con mala fe, responderá también de los daños y perjuicios.
