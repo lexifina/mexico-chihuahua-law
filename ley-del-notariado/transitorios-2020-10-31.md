@@ -1,0 +1,3 @@
+P.O. 31 DE OCTUBRE DE 2020.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0756/2020 I P.O., POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
