@@ -1,0 +1,3 @@
+P.O. 4 DE NOVIEMBRE DE 2020.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0768/2020 I P.O., POR EL QUE SE REFORMA EL ARTÍCULO 53, FRACCIÓN I, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
