@@ -1,0 +1,3 @@
+P.O. 5 DE DICIEMBRE DE 2020.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFCOD/0790/2020 I P.O., POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
