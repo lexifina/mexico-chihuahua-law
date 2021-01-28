@@ -1,0 +1,3 @@
+P.O. 27 DE ENERO DE 2021.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0943/2020 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 13, PÁRRAFO SEGUNDO, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.

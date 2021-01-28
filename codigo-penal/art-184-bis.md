@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 27 DE ENERO DE 2021)
+Artículo 184 Bis.
+A quien, con fines lascivos, mediante el uso de las tecnologías de la información y la comunicación o cualquier otro medio, contacte a persona menor de dieciocho años para concertar un encuentro físico u obtener imágenes, textos, grabaciones de audio o video de contenido erótico o sexual, se le impondrá de uno a tres años de prisión, de cien a trescientos días multa y el sometimiento a tratamiento integral especializado enfocado a la erradicación de la violencia sexual.
+No se aplicará sanción alguna cuando la víctima sea mayor de catorce años, pero menor de dieciocho años de edad y, por su desarrollo y madurez se establezca de manera objetiva y razonable, que hubo consentimiento válido por no existir una relación asimétrica de poder o cualquier otra condición desfavorable de desigualdad respecto del sujeto activo, que viciara ese consentimiento.
