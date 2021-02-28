@@ -1,0 +1,1 @@
+ARTÍCULO DÉCIMO.- Para el año 2022 el personal de la Dirección General de Archivos pasará a formar parte del Archivo General del Estado de Chihuahua, con excepción del Archivo Histórico del Estado que permanecerá adscrito a la Secretaría de Cultura.

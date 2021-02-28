@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados se cubrirán con cargo a sus respectivos presupuestos aprobados para el ejercicio fiscal y los subsecuentes.

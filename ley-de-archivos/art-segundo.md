@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- Hasta en tanto se expidan el Catálogo de Disposición Documental y demás normas para determinar los procedimientos para la disposición documental, no se permitirá la eliminación de ningún documento.

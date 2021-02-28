@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Presupuesto de Egresos del Estado para el año 2022 deberá establecer la previsión presupuestal correspondiente para permitir la integración, funcionamiento y aplicación de la presente Ley.
