@@ -1,6 +1,7 @@
 (ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)
 Artículo 12 Bis.- Las personas que pretendan ocupar el cargo de Consejeros de los señalados en los incisos j), k) y l) del artículo 12, deberán cumplir con los siguientes requisitos:
-I. Tener una representatividad regional.
+(REFORMADA, P.O. 24 DE MARZO DE 2021)
+I. Tener una representatividad activa en el sector que le corresponde.
 II. Haberse desempeñado, durante al menos dos años, ya sea en los ámbitos profesional, empresarial, docente o de investigación, en actividades que proporcionen la experiencia necesaria en el sector del agua y/o administración para cumplir con las funciones de Consejería de la Junta.
 III. No haber sido funcionario público de cualquier orden de gobierno en el año inmediato anterior, ni haber ocupado cargos de elección popular o directivos en partido político alguno, en los tres años inmediatos anteriores al día de la designación.
 IV. No haber sido condenado mediante sentencia firme por delito doloso que le imponga pena de prisión, y tratándose de delitos patrimoniales dolosos, cualquiera que haya sido la pena.

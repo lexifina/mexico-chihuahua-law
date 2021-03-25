@@ -1,0 +1,5 @@
+P.O. 24 DE MARZO DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO N°LXVI/RFLYC/0982/2021 II P.O. MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL AGUA DEL ESTADO DE CHIHUAHUA".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- En lo referente al artículo 10, apartado B), la fracción II Bis, de la Ley del Agua del Estado de Chihuahua, entrará en vigor el primero de enero del año 2024, con la finalidad de la Junta Central de Agua y Saneamiento del Estado, realice las adecuaciones administrativas, presupuestales y técnicas, para llevar a cabo la implementación del servicio profesional de carrera de la Junta Central de Agua y Saneamiento del Estado de Chihuahua, y de las juntas operadoras, derogándose con esta entrada en vigor de los artículos 15 BIS, la fracción IX; y 24 BIS, la fracción VIII.
+TERCERO.- El titular del Poder Ejecutivo del Estado, deberá expedir el Reglamento de la Ley del Agua del Estado de Chihuahua, dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.

@@ -5,7 +5,8 @@ II. Aprobar los nombramientos de las personas aspirantes a ser titulares de las 
 III. Nombrar y remover, en su calidad de Comité Técnico de Evaluación, a los integrantes de la Consejería por elección.
 IV. Aprobar los proyectos de ingresos y egresos, y demás servicios que preste.
 V. Conocer de los informes sobre los estados financieros de la junta operadora y remitirlos al Consejo de la Junta Central para su conocimiento, sin perjuicio de las facultades del Congreso del Estado, en la materia.
-VI. Autorizar los derechos de cobro, las tarifas y sus modificaciones por la prestación de los servicios, y remitirlos al Consejo de la Junta Central para su aprobación.
+(REFORMADA, P.O. 24 DE MARZO DE 2021)
+VI. Autorizar el proyecto de Acta Tarifaria, así como sus modificaciones y remitirlos al Consejo de la Junta Central para su aprobación, a más tardar el último día hábil de octubre del correspondiente año.
 VII. Autorizar el proyecto del Programa Operativo Anual y remitirlo al Consejo de la Junta Central para su aprobación.
 VIII. Autorizar la solicitud al H. Congreso del Estado para contratar el financiamiento para obras, servicios y amortización de pasivos de las juntas operadoras y remitirla al Consejo de la Junta Central para su aprobación, sin perjuicio de las facultades del Congreso del Estado, en la materia.
 IX. Autorizar la solicitud al H. Congreso del Estado para contratar el financiamiento para llevar a cabo la construcción de las obras y adquisición de equipos que requieran, para los sistemas de agua, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos y, en su caso, el alcantarillado pluvial, para la amortización de pasivos, y remitirla al Consejo de la Junta Central para su aprobación, sin perjuicio de las facultades del Congreso del Estado, en la materia.

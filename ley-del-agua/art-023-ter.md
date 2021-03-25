@@ -1,4 +1,5 @@
 (ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)
 Artículo 23 Ter.- Para ocupar el cargo de titular de la Dirección Ejecutiva en las Juntas Municipales se requiere:
-I. Contar con estudios profesionales y haberse desempeñado en actividades que proporcionen la experiencia técnica y administrativa, necesaria para cumplir con sus funciones.
+(REFORMADA, P.O. 24 DE MARZO DE 2021)
+I. Contar con estudios profesionales y haberse desempeñado en actividades vinculadas en la gestión del agua por al menos dos años; a excepción de las Juntas Municipales ubicadas en municipios con población menor a los 30 mil habitantes, en ese caso, el titular podrá contar con uno u otro requisito.
 II. Para que pueda desempeñar sus funciones sin conflicto de interés y sin estar supeditado a intereses personales y/o económicos, no deberán ser prestadores de servicios, proveedores, contratistas, deudores o acreedores de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general; concesionarios, consejeros, asesores o empleados de una persona moral que sea prestador de servicios, proveedor, contratista, deudor o acreedor de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general.
