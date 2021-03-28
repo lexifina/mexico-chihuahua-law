@@ -1,0 +1,6 @@
+P.O. 27 DE MARZO DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFLEY/0988/2021 II P.O."]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- El personal del Instituto de Apoyo al Desarrollo Tecnológico que a la entrada en vigor del presente Decreto se encuentre desempeñando un cargo, comisión o empleo, independientemente de la función que realice, continuará haciéndolo en los mismos términos y condiciones en que lo ha desarrollo al momento de la entrada en vigor del presente Decreto.
+ARTÍCULO TERCERO.- El personal adscrito al Instituto de Apoyo al Desarrollo Tecnológico, sin importar antigüedad o asignación, continuará gozando de condiciones laborales, salariales y prestacionales iguales a las que guardaba antes de la entrada en vigor de este Decreto, exceptuando a las prestaciones de seguridad social, que se regirán por lo estipulado en el presente instrumento legal.
+ARTÍCULO CUARTO.- El personal que por disposición legal no sea sujeto de aseguramiento para incorporarse al nuevo régimen, conservará las prestaciones de servicio médico que actualmente goza a la entrada en vigor de la Ley del Instituto de Apoyo al Desarrollo Tecnológico.
