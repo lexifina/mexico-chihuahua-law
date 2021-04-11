@@ -5,3 +5,4 @@ PRESIDENTE. DIP. RENÉ FRÍAS BENCOMO. RÚBRICA. EN FUNCIONES DE SECRETARIA. DIP
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los quince días del mes de enero del año dos mil veinte.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. LUIS FERNANDO MESTA SOLUÉ. Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
