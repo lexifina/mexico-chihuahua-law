@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 12 DE MAYO DE 2021)
+Artículo 67 Bis.- La Secretaría impulsará la participación de los sectores social y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil, así como de lactancia materna, para tal efecto, promoverá la creación de redes de apoyo, con la finalidad de facilitar el acceso de las familias a información en la materia.
