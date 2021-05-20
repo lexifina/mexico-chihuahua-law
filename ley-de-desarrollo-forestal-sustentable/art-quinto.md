@@ -4,3 +4,4 @@ PRESIDENTA. DIP. DIANA KARINA VELÁZQUEZ RAMÍREZ. Rúbrica. SECRETARIA. DIP. CA
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 En la ciudad de Chihuahua, Palacio de Gobierno del Estado, a los tres días del mes de octubre del año dos mil dieciocho.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁREGUI ROBLES. Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
