@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- El Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Rural, constituirá el Fondo Estatal para el Desarrollo de Actividades de Sanidad e Inocuidad Vegetal, en un plazo no mayor a 180 días hábiles, a partir de la fecha en que entre en vigor el presente Decreto.

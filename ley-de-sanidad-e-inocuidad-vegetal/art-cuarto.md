@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- El Ejecutivo del Estado, por conducto de las Secretarías de Desarrollo Rural, de Salud y General de Gobierno, expedirá los Reglamentos adicionales en un plazo no mayor a 360 días naturales, que permitan la correcta aplicación de la presente Ley.

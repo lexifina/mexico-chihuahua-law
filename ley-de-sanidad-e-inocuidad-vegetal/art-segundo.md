@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- El Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Rural, expedirá el Reglamento de la presente Ley en un plazo de 180 días hábiles, a partir de la fecha en que entre en vigor el presente ordenamiento.

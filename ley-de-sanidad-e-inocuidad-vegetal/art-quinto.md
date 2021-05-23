@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- El Ejecutivo del Estado, por conducto de las Secretarías de Hacienda y de Desarrollo Rural, deberá etiquetar cada año los recursos económicos necesarios para la aplicación de la Ley de Sanidad e Inocuidad Vegetal del Estado de Chihuahua.
