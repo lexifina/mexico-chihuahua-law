@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)
-Artículo 40 Ter.- Para garantizar que las instancias que operen bajo el Modelo Homologado de Módulos de Atención a la Violencia Familiar y de Género, otorguen una atención integral a las mujeres y a las demás víctimas de la violencia de género, cuando menos deberá de ser transversal, multidisciplinaria, multicultural, enfocada a los derechos humanos y con perspectiva de género.
+(REFORMADO, P.O. 9 DE JUNIO DE 2021)
+Artículo 40 TER. Para garantizar que brinden un servicio integral a las mujeres y a las demás víctimas de la violencia de género, los Módulos de Atención a la Violencia Familiar y de Género otorgarán una atención transversal, multidisciplinaria, multicultural, enfocada a los derechos humanos y con perspectiva de género.

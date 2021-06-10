@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 27 DE FEBRERO DE 2021)
-Artículo 40 Sextus.- Los Módulos de Atención deberán registrar la información respectiva de las víctimas en el Sistema Único a cargo del Consejo.
+(REFORMADO, P.O. 9 DE JUNIO DE 2021)
+Artículo 40 SEXTUS. Los Módulos de Atención a la Violencia Familiar y de Género, deberán llevar un registro de las víctimas.
