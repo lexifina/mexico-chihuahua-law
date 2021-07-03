@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Los municipios del Estado, deberán armonizar sus reglamentos de conformidad con la Ley de los Cuerpos de Bomberos para el Estado de Chihuahua, para que entren en vigor cuando lo haga el presente Decreto.
