@@ -1,0 +1,6 @@
+P.O. 28 DE JULIO DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/EXLEY/0996/2021 II P.O.".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+ARTÍCULO SEGUNDO.- La primera convocatoria para la elección de las cinco personas a que se refiere el artículo 18 de la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil, Agrupaciones y Redes del Estado de Chihuahua, se expedirá por el Poder Ejecutivo del Estado, dentro de los sesenta días posteriores a su entrada en vigor. En dicha convocatoria deberá señalarse que, por única ocasión, dos de las personas serán electas por un periodo de dos años, a fin de dar cumplimiento a la renovación escalonada.
+ARTÍCULO TERCERO.- El Consejo Estatal deberá quedar instalado y en funcionamiento dentro de Los noventa días posteriores a la entrada en vigor de la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil, Agrupaciones y Redes del Estado de Chihuahua.
+ARTÍCULO CUARTO.- El Poder Ejecutivo Estatal deberá expedir el Reglamento de la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil, Agrupaciones y Redes del Estado de Chihuahua, dentro de los noventa días posteriores a su entrada en vigor.
