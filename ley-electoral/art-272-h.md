@@ -10,7 +10,8 @@ Artículo 272 i
 (ADICIONADO, P.O. 4 DE MARZO DE 2020)
 CUANDO EN EL EJERCICIO DE SUS ATRIBUCIONES SE VINCULE A PARTICULARES, Y ESTOS RESULTAREN AUTOADSCRIBIRSE COMO INDÍGENAS, DICHO ÓRGANO DEBE GARANTIZAR QUE CUENTEN CON LA ASISTENCIA DE PERSONA DEFENSORA, TRADUCTORA O INTÉRPRETE, SEGÚN CORRESPONDA. TRATÁNDOSE DE LAS DOS ÚLTIMAS, PODRÁ RECURRIR AL APOYO DEL CENTRO DE PERSONAS TRADUCTORAS E INTÉRPRETES A QUE SE REFIERE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO.
 3) La persona titular del Órgano Interno de Control será designada por el Congreso del Estado, con el voto de al menos las dos terceras partes de las y los diputados presentes, mediante el procedimiento y plazos que determine la Ley Orgánica del Poder Legislativo del Estado. La persona electa rendirá la protesta de ley ante el Consejo Estatal.
-4) El Órgano Interno de Control contará con la estructura orgánica, personal y recursos que apruebe el Consejo Estatal a propuesta de su titular, de conformidad con las reglas previstas en este Capítulo.
+(REFORMADO, P.O. 7 DE AGOSTO DE 2021)
+4) La persona titular del Órgano Interno de Control será su representante legal y tendrá un nivel jerárquico equivalente al de la Secretaría Ejecutiva en el organigrama del Instituto. En su estructura orgánica garantizará la independencia de funciones entre las autoridades que lo conforman, las que serán al menos con atribuciones de investigación, de substanciación y resolución, en su caso, así como las de auditoría interna y mejora de la gestión pública, que ocuparán un nivel jerárquico de dirección ejecutiva en la estructura orgánica del Instituto. Para lo cual, contará con los recursos necesarios que apruebe el Consejo Estatal a propuesta de su titular, de conformidad con las reglas previstas en este Capítulo.
 5) En su desempeño, el Órgano Interno de Control se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, presunción de inocencia, congruencia, verdad material, objetividad y respeto a los derechos humanos.
 Artículo 272 j
 (REFORMADO PRIMER PÁRRAFO, P. O. 13 DE MARZO DE 2019)
@@ -20,9 +21,9 @@ b) (DEROGADO, (P.O. 13 DE MARZO DE 2019)
 c) (DEROGADO, (P.O. 13 DE MARZO DE 2019)
 d) (DEROGADO, (P.O. 13 DE MARZO DE 2019)
 e) (DEROGADO, (P.O. 13 DE MARZO DE 2019)
-(REFORMADO, P. O. 13 DE MARZO DE 2019)
+(REFORMADO, P.O. 7 DE AGOSTO DE 2021)
 Artículo 272 k
-La persona titular del Órgano Interno de Control deberá rendir por escrito informe semestral y anual de actividades al Consejo Estatal del Instituto, del cual enviará copia al Congreso del Estado.
+La persona titular del Órgano Interno de Control deberá remitir al Congreso del Estado, copia de su informe de gestión anual, en el mes de febrero del año siguiente al que se reporta.
 (ADICIONADO, P.O. 30 DE AGOSTO DE 2017)
 Artículo 272 l
 (REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)
@@ -41,34 +42,63 @@ e) Incurrir en alguna de las infracciones que contempla la Ley General de Respon
 Artículo 272 m
 (REFORMADO PRIMER PÁRRAFO, P. O. 13 DE MARZO DE 2019)
 1) El Órgano Interno de Control tendrá las facultades siguientes:
-a) Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto.
-b) Establecer las normas, procedimientos, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones.
+(REFORMADO, P.O. 7 DE AGOSTO DE 2021)
+a) Fijar los criterios para la realización de las auditorías, visitas de inspección e intervenciones de control, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto.
+(REFORMADO, P.O. 7 DE AGOSTO DE 2021)
+b) Establecer las normas, procedimientos, así como aquellos elementos que permitan la práctica idónea de las auditorías, visitas de inspección, intervenciones de control y revisiones, que realice en el cumplimiento de sus funciones.
 c) Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos.
-d) Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto.
+(REFORMADO, P.O. 7 DE AGOSTO DE 2021)
+d) Evaluar el cumplimiento de los objetivos, metas y acciones fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto, así como de los programas o planes gubernamentales en el ámbito federal o estatal cuyo cumplimiento incumba al Instituto.
 e) Verificar que las diversas áreas administrativas del Instituto que hubieren recibido, manejado, administrado o ejercido recursos, lo hagan conforme a la normatividad aplicable, los programas aprobados y montos autorizados, así como, en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes.
 f) Revisar que las operaciones presupuestales que realice el Instituto se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias.
 g) Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente al logro de los objetivos y metas de los programas aprobados.
 (REFORMADO, P.O. 1 DE JULIO DE 2020)
 h) Requerir a terceras personas que hubieran contratado bienes o servicios con el Instituto la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan.
-(REFORMADO, P. O. 13 DE MARZO DE 2019)
-i) Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todas las personas servidoras públicas del propio Órgano Interno de Control del Instituto, así como a las y los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública.
+(REFORMADO, P.O. 7 DE AGOSTO DE 2021)
+i) Solicitar y obtener la información y documentación necesarias para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, financiera o fiscal, les será aplicable a todas las personas servidoras públicas del propio Órgano Interno de Control del Instituto, así como a las y los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública.
+Las facultades a que se refiere esta fracción podrán realizarse por la persona titular del Órgano Interno de Control o por conducto de las diversas áreas del propio Órgano Interno de Control a las que se les asignen de forma concurrente las mismas.
 (REFORMADO, P. O. 13 DE MARZO DE 2019)
 j) Instruir, desahogar, resolver y calificar los procedimientos administrativos respecto de las denuncias que se presenten en contra de las y los servidores públicos del Instituto, y llevar el registro de las y los servidores públicos sancionados.
-k) Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto.
-l) Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Instituto por parte de las y los servidores públicos del mismo y desahogar los procedimientos a que haya lugar.
-m) Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas.
+(REFORMADO, P.O. 7 DE AGOSTO DE 2021)
+k) Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna presunta falta administrativa y de particulares en términos de la Ley General de Responsabilidades Administrativas respecto de las y los servidores públicos del Instituto.
+(REFORMADO, P.O. 7 DE AGOSTO DE 2021)
+l) Recibir denuncias o quejas directamente relacionadas con presuntas faltas administrativas y de particulares en términos de la Ley General de Responsabilidades Administrativas respecto de las personas servidoras públicas del Instituto; asimismo, iniciar e integrar las investigaciones, así como substanciar y resolver los procedimientos administrativos que sean de su competencia conforme a la Ley de la materia.
+(REFORMADO, P.O. 7 DE AGOSTO DE 2021)
+m) Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto para solicitar la exhibición de los libros, información en cualquier formato y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas.
 n) Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que las y los servidores públicos del Instituto cumplan adecuadamente con sus responsabilidades administrativas.
 o) Formular pliegos de observaciones en materia administrativa.
 p) Determinar los daños y perjuicios que afecten al Instituto en su patrimonio y fincar directamente a las y los responsables las indemnizaciones y sanciones pecuniarias correspondientes.
 q) Fincar las responsabilidades e imponer las sanciones en términos de los lineamientos respectivos.
-r) Presentar a la aprobación del Consejo Estatal sus programas anuales de trabajo.
-s) Presentar al Consejo Estatal los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo cuando así lo requiera la Presidencia.
+(REFORMADO, P.O. 7 DE AGOSTO DE 2021)
+r) Presentar de manera informativa al Consejo Estatal, en el mes de diciembre, un plan anual de trabajo para el siguiente ejercicio, el cual podrá ser modificado en atención a las circunstancias operativas del Órgano Interno de Control.
+(REFORMADO, P.O. 7 DE AGOSTO DE 2021)
+s) Presentar al Consejo Estatal un informe de gestión anual en el mes de febrero, respecto del ejercicio inmediato anterior al que se reporta.
 (REFORMADO, P.O. 1 DE JULIO DE 2020)
 t) Participar, a través de su titular, con voz pero sin voto, en las reuniones del Consejo Estatal cuando por motivo del ejercicio de sus facultades, así lo considere necesario la Presidencia o alguna de las personas integrantes del Consejo Estatal.
-(REFORMADO, P. O. 13 DE MARZO DE 2019)
-u) Recibir y resguardar las declaraciones patrimoniales que deban presentar las y los servidores públicos del Instituto, a partir del nivel de jefatura de departamento, conforme a los formatos y procedimientos que establezca el propio Órgano Interno de Control. Serán aplicables en lo conducente las normas establecidas en la Ley de la materia.
-v) Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de las y los servidores públicos que corresponda.
-w) Las demás que le otorgue esta Ley o las leyes aplicables en la materia.
+(REFORMADO, P.O. 7 DE AGOSTO DE 2021)
+u) Recibir, resguardar y verificar las declaraciones patrimoniales, de intereses y la constancia de declaración fiscal que deban presentar las y los servidores públicos del Instituto; y en caso de detectar presuntas faltas administrativas, iniciar la investigación que permita identificarlas conforme a la normatividad aplicable en la materia.
+(REFORMADO, P.O. 7 DE AGOSTO DE 2021)
+v) Realizar la investigación de la evolución del patrimonio de las y los servidores públicos del Instituto, así como instrumentar el procedimiento de verificación patrimonial, conforme lo dispone la Ley General de Responsabilidades Administrativas.
+(REFORMADO, P.O. 7 DE AGOSTO DE 2021)
+w) Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de las y los servidores públicos que corresponda.
+(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)
+x) Nombrar y remover libremente al personal del Órgano Interno de Control.
+(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)
+y) Certificar las copias de los documentos que se encuentren en los archivos del Órgano Interno de Control, así como de aquellos que por las actividades que realiza, tenga acceso o tenga a la vista, para el cumplimiento de sus funciones.
+(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)
+z) Llevar los registros y libros de gobierno de los asuntos de su competencia.
+(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)
+aa) Emitir reglamentos, lineamientos, manuales, guías y disposiciones de carácter general que se requieran para la debida organización y funcionamiento del Órgano Interno de Control, así como para el ejercicio de las atribuciones que las leyes y demás ordenamientos jurídicos le otorgan; debiendo ordenar, en su caso, la publicación en el Periódico Oficial del Estado.
+(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)
+bb) Presentar, a las diversas áreas administrativas del Instituto, propuestas de mejora, diagnósticos, evaluaciones, programas, proyectos, sistemas tecnológicos o cualquier mecanismo para su mejor funcionamiento y operación del control interno institucional, incluyendo las del propio Órgano Interno de Control.
+(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)
+cc) Concertar y celebrar, en los casos que estime necesarios, convenios de coordinación con las instancias que requiera con el propósito de apoyar y hacer más eficiente la fiscalización, sin detrimento de sus atribuciones directas.
+(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)
+dd) Recibir, tramitar y resolver las inconformidades, intervenciones de oficio, procedimientos y recursos administrativos que se promuevan en términos de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios, de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, ambos ordenamientos jurídicos del Estado de Chihuahua, y sus Reglamentos.
+(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)
+ee) Llevar a cabo notificaciones y todas aquellas diligencias que resulten necesarias, en los términos establecidos en la Ley General de Responsabilidades Administrativas y demás normatividad aplicable.
+(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)
+ff) Las demás que le confieran otros ordenamientos.
 (REFORMADO, P. O. 13 DE MARZO DE 2019)
 Artículo 272 n
 1) Los órganos, áreas ejecutivas y las personas servidoras públicas del Instituto estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
