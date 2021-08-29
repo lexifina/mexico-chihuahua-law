@@ -1,0 +1,3 @@
+P.O. 28 DE AGOSTO DE 2021.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFCOD/1033/2021 XII P.E., POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
