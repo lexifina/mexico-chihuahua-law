@@ -1,0 +1,3 @@
+(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)
+Artículo 36 Ter.- Las rutas turísticas a que se refiere el artículo 36 Bis, tendrán el carácter de permanentes y serán incorporadas en el Atlas Turístico del Estado, además estarán disponibles en el acceso principal de la página web de la Secretaría, misma que contendrá un apartado para que las personas puedan dar de alta un correo electrónico y recibir información de estas rutas.
+Asimismo, la Secretaría instalará módulos turísticos en los que se facilite orientación, asistencia e información al público en general, sobre dichas rutas, los cuales serán ubicados en los centros de mayor afluencia turística.

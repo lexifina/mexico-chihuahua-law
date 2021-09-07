@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2021)
+Artículo 10 Bis. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública es un órgano administrativo desconcentrado de la Fiscalía General del Estado, dotado de autonomía técnica y de gestión, con las atribuciones descritas en la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones aplicables, para cuyos efectos contará con la Dirección de Planeación, Control de Recursos y Programas Federales.
