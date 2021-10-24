@@ -492,9 +492,10 @@ I. La falta de edad requerida por la Ley;
 II.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2017)
 III.- El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medio hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 IV.- El parentesco de afinidad en la línea recta, sin limitación alguna;
-V.- El adulterio habido entre las personas que pretenden contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
+V.- (DEROGADA, P.O. 23 DE OCTUBRE DE 2021)
 VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
-VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
+(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)
+VII.- La fuerza o miedo grave.
 VIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2007)
 (REFORMADA, P.O. 23 DE JULIO DE 2011)
 IX.- La discapacidad mental o intelectiva;
@@ -636,8 +637,7 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 9
 229.- El parentesco de consanguinidad no dispensado anula el matrimonio, pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
 (REFORMADO, P.O. 23 DE DICIEMBRE DE 2017)
 230. La acción de nulidad que dimana del parentesco de afinidad en línea recta, puede ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
-231.- La acción de nulidad que nace de la causa prevista en la fracción V del artículo 144, podrá deducirse por el cónyuge ofendido o por el Ministerio Público, en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público, si este matrimonio se ha disuelto por muerte del cónyuge ofendido.
-En uno y en otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
+231.- (DEROGADO, P.O. 23 DE OCTUBRE DE 2021)
 232.- La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público, dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
 233.- El miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
 I.- Que uno u otra importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
@@ -955,7 +955,8 @@ V.- Por confesión judicial directa y expresa.
 (REFORMADO, P.O. 30 DE MAYO DE 1981)
 358.- En el caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la guarda y custodia el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de Primera Instancia o de lo Familiar del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
 359.- La investigación de la paternidad de los hijos nacidos fuera de matrimonio, está permitida:
-I.- En los casos de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción;
+(REFORMADA, P.O. 23 DE OCTUBRE DE 2021)
+I.- En los casos de estupro o violación, cuando la época del delito coincida con la de la concepción;
 II.- Cuando el hijo se encuentre en posesión de estado de hijo del presunto padre;
 III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre habitaba bajo el mismo techo con el pretendido padre, viviendo maritalmente;
 IV.- Cuando el hijo tenga a su favor un principio de prueba contra el pretendido padre.
