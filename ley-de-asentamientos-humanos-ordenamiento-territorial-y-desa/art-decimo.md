@@ -1,0 +1,2 @@
+ARTÍCULO DÉCIMO.- Los planes y programas de desarrollo urbano y ordenamiento territorial de competencia municipal, deberán formularse o adecuarse y estar publicados, conforme a lo previsto en este ordenamiento, en un plazo no mayor a dos años contados a partir de la entrada en vigor del presente Decreto.
+El Estado, a través de la Secretaría de Desarrollo Urbano y Ecología, deberá apoyar y asesorar técnicamente a los municipios en la elaboración de los planes y programas de desarrollo urbano y ordenamiento territorial de su competencia.

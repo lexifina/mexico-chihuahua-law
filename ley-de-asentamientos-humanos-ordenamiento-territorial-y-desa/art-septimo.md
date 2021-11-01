@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO.- Las licencias, permisos y autorizaciones expedidas con anterioridad a la entrada en vigor de esta Ley, seguirán vigentes en los términos que fueron otorgadas. Las que se encuentren en trámite, continuarán el proceso de autorización de las etapas subsecuentes, según lo previsto en la ley vigente al inicio de la etapa o trámite que corresponda.

@@ -1,0 +1,1 @@
+ARTÍCULO SEXTO.- Las disposiciones administrativas expedidas en la materia, vigentes al momento de la publicación de este Decreto, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.

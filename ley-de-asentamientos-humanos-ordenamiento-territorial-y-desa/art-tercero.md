@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Las referencias que se realicen en otros ordenamientos jurídicos del Estado a la Ley de Desarrollo Urbano Sostenible que se abroga, se entenderán hechas a la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Chihuahua.

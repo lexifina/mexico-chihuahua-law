@@ -1,0 +1,1 @@
+ARTÍCULO UNDÉCIMO.- El Estado y los municipios deberán realizar las acciones conducentes para que en el ejercicio presupuestal del año 2022, se asignen los recursos necesarios para llevar a cabo la formulación y actualización de los planes y programas de desarrollo urbano y ordenamiento territorial correspondientes.

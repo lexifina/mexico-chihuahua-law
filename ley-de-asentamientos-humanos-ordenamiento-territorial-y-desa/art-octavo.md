@@ -1,0 +1,1 @@
+ARTÍCULO OCTAVO.- En un plazo no mayor a seis meses contados a partir de la entrada en vigor de este Decreto, el Estado y los municipios deberán instalar o ratificar los órganos colegiados a que se refiere este ordenamiento.

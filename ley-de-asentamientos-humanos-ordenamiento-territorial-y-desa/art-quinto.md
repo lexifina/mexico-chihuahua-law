@@ -1,0 +1,1 @@
+ARTÍCULO QUINTO.- Los municipios contarán con un plazo de un año contado a partir de la entrada en vigor del presente Decreto, para realizar las acciones y adecuaciones necesarias a sus disposiciones reglamentarias que permitan la correcta aplicación de esta Ley, en el ámbito de su competencia.
