@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)
+Artículo 88 Bis. Para dar cumplimiento al derecho de acceso a la justicia se debe garantizar que niñas, niños y adolescentes, así como sus madres, padres, defensores, tutores o representantes legales, en su caso, puedan utilizar el sistema legal para proteger sus derechos humanos.
+El sistema legal debe proporcionar a niñas, niños y adolescentes, los medios para obtener una respuesta rápida, eficaz y justa para proteger sus derechos, así como los mecanismos para prevenir y resolver los conflictos, garantizando, en todo momento, su derecho al debido proceso y a la reparación integral del daño.
