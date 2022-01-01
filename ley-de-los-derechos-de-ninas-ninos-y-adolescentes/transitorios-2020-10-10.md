@@ -1,5 +1,3 @@
 P.O. 10 DE OCTUBRE DE 2020.
-[N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVI/RFLYC/0758/2020 I P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA, LEY ESTATAL DE SALUD, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
-ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil veintiuno, previa su publicación en el Periódico Oficial del Estado.
-ARTÍCULO SEGUNDO.- La Secretaría General de Gobierno, a través de la Dirección del Registro Civil, y la Secretaría de Salud, ambas del Gobierno del Estado de Chihuahua, en el ámbito de sus respectivas competencias, deberán realizar las previsiones necesarias en su proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2021 y demás acciones necesarias, a fin de generar la coordinación para la implementación del presente Decreto.
-ARTÍCULO TERCERO.- El Poder Ejecutivo del Estado deberá realizar las adecuaciones al Reglamento Interior del Registro Civil del Estado de Chihuahua, en un plazo de 90 días hábiles a partir de la entrada en vigor del presente Decreto.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0759/2020 I P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
