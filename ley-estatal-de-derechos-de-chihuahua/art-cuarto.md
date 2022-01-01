@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- En tanto la Secretaría de Hacienda dé a conocer las formas oficiales que en su caso apruebe para efectuar el pago de los derechos que se establecen en esta Ley se usarán los recibos o formas oficiales que se venían utilizando con anterioridad a la fecha de entrada en vigor de esta Ley.
