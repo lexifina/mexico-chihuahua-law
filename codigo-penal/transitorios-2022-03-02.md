@@ -1,0 +1,3 @@
+P.O. 2 DE MARZO DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0198/2022 II P.E., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 264 BIS; Y AL ARTÍCULO 288, LA FRACCIÓN X, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
