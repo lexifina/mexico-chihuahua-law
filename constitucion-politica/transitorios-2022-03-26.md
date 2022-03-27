@@ -1,0 +1,5 @@
+P.O. 26 DE MARZO DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFCNT/0099/2021 I P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO CUARTO, CON UN NUEVO PÁRRAFO OCTAVO, RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO PRIMERO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y de los debates a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su momento, hágase el cómputo de los votos de los Ayuntamientos y la declaratoria de haber sido aprobada la presente adición.
+ARTÍCULO SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO TERCERO.- Para los efectos previstos en la presente adición, se harán las previsiones, reasignaciones o transferencias que fueran necesarias, siguiendo los principios de equilibrio presupuestal, transparencia y rendición de cuentas aplicables.
