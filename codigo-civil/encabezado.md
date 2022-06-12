@@ -827,7 +827,8 @@ La pensión alimenticia provisional podrá ser modificada durante la tramitació
 En aquellos casos en los que la custodia de los acreedores alimentarios se encuentre a cargo de una institución gubernamental, esta podrá fungir como administradora de los alimentos, quedando exenta de garantizar el manejo del cargo.
 296.- En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, si ésta no alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
 297.- Cesa la obligación de dar alimentos:
-I.- Cuando el que la tiene carece de medios para cumplirla;
+(REFORMADA, P.O. 11 DE JUNIO DE 2022)
+I.- Cuando quien la tenga se encuentre imposibilitada para cumplirla, mientras subsista la causa.
 II.- Cuando el alimentista deja de necesitar los alimentos;
 III.- En caso de injuria, falta o daño graves inferidos por el alimentista contra el que debe prestarlos.
 IV.- Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan estas causas;
