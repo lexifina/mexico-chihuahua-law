@@ -761,6 +761,10 @@ El marido, en todo caso, sólo tendrá derecho a alimentos cuando esté imposibi
 267.- La situación de los hijos e hijas menores se determinará por medio de convenio o, en la ausencia de éste, por el juez competente. En ambos casos se hará conforme a lo establecido por el artículo 247.
 La sentencia que se pronuncie en definitiva, fijará la situación de los hijos e hijas, para lo cual el juez competente deberá resolver todo lo relativo a los derechos y deberes inherentes a la guarda y custodia.
 268.- La situación de los hijos a que se refiere el artículo anterior, puede ser modificada por el juez en interés justificado de ellos.
+(ADICIONADO, P.O. 25 DE JUNIO DE 2022)
+268 Bis.- En la disolución del concubinato o del matrimonio contraído bajo el régimen de separación de bienes, cualquiera de las personas concubinarias o cónyuges que haya realizado trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o cuidado de la familia de manera cotidiana, tendrá derecho a la repartición de los bienes adquiridos durante el matrimonio o el concubinato hasta por el cincuenta por ciento.
+La autoridad jurisdiccional habrá de resolver atendiendo al tiempo que duró el matrimonio o el concubinato; los bienes con que cuenten los cónyuges; la custodia de la descendencia; y las demás circunstancias especiales de cada caso.
+Se exceptúan de los bienes establecidos en este artículo, los que se adquieran por sucesión y donación.
 (REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2001)
 TITULO SEXTO
 DEL PARENTESCO, DE LOS ALIMENTOS Y DE LA VIOLENCIA FAMILIAR
