@@ -1,0 +1,3 @@
+P.O. 15 DE OCTUBRE DE 2022.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFCOD/0294/2022 I P.O., MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 105 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA".
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
