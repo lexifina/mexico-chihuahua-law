@@ -1,6 +1,7 @@
 (ADICIONADO, P.O. 28 DE OCTUBRE DE 2020)
 ARTÍCULO 62 BIS.- La educación física promoverá, fomentará y difundirá la cultura física en todas sus manifestaciones, a favor de la formación integral y con calidad, de todos los escolares de la educación básica, para lo cual:
-I. Estimulará la competencia motriz, la alfabetización física, el ejercicio físico y las disciplinas deportivas y de recreación en las instituciones de educación básica, así como su práctica recomendablemente:
+(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)
+I. Estimulará la competencia motriz, la alfabetización física, el ejercicio físico y las disciplinas deportivas y de recreación en las instituciones de educación básica, así como su práctica puntual:
 a) En educación preescolar, 30 minutos diarios semanalmente.
 b) En educación primaria, secundaria y media superior, una hora diaria semanalmente.
 II. Procurará la salud y el bienestar físico de los educandos, a través de la construcción de estilos de vida saludables fundamentalmente activos.
