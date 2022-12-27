@@ -4,3 +4,4 @@ PRESIDENTA. DIP. GEORGINA ALEJANDRA BUJANDA RÍOS. Rúbrica. SECRETARIO. DIP. Ó
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiún días del mes de diciembre del año dos mil veintiuno.
 LA GOBERNADORA CONSTITUCIONAL DEL ESTADO. MTRA. MARÍA EUGENIA CAMPOS GALVÁN. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. CÉSAR GUSTAVO JÁUREGUI MORENO. Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
