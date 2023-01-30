@@ -6,7 +6,6 @@ II. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 III. La Comisión Ejecutiva de Atención a Víctimas.
 IV. El Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
 V. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2021)
-(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2021)
-VI. Prevención y Reinserción Social.
+VI. (DEROGADA, P.O. 30 DE ENERO DE 2023)
 (ADICIONADA, P.O. 18 DE DICIEMBRE DE 2021)
 VII. Los Centros de Justicia para las Mujeres.
