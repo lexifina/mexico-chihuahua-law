@@ -1,0 +1,5 @@
+P.O. 25 DE MARZO DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFCNT/0528/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO PRIMERO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y de los debates a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su momento, hágase el cómputo de los votos de los Ayuntamientos y la declaratoria de haber sido aprobada la presente reforma.
+ARTÍCULO SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Chihuahua.
+ARTÍCULO TERCERO.- Lo dispuesto en el segundo párrafo del artículo 94 entrará en vigor el 8 de septiembre de 2027, siendo aplicable para los nombramientos que se realicen con posterioridad a su entrada en vigor, respetando los derechos laborales de las personas servidoras públicas nombradas previamente a esta.
