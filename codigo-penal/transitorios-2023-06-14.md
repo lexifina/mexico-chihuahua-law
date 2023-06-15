@@ -1,0 +1,3 @@
+P.O. 14 DE JUNIO DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0572/2023 II P.O., MEDIANTE EL CUAL SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
