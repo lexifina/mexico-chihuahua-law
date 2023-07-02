@@ -1,3 +1,4 @@
-(ADICIONADO, P. O. 13 DE MARZO DE 2019)
+(REFORMADO, P.O. 1 DE JULIO DE 2023)
 Artículo 301 BIS
-1) El Órgano Interno de Control estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. En la designación de su titularidad deberá observarse lo dispuesto por la Constitución Política del Estado y tendrá las mismas atribuciones que su similar en el Instituto, previstas en el Libro Sexto, Título Segundo, Capítulo Segundo, Sección Tercera de esta Ley, en lo conducente.
+El Órgano Interno de Control estará dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. El Pleno del Tribunal Electoral determinará la estructura suficiente para el desempeño de sus atribuciones de investigación, auditoría interna y de substanciación y resolución.
+Para ello, el Pleno del Tribunal Estatal Electoral, dispondrá de una partida presupuestal específica.

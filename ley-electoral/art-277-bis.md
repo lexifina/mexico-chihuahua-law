@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 1 DE JULIO DE 2023)
+Artículo 277 BIS
+El Instituto Estatal Electoral contará con un registro de peritos, que lo auxiliarán con el carácter de peritos terceros, como profesionales independientes, quienes deberán tener título debidamente registrado en la técnica, ciencia o arte a que pertenezca la cuestión sobre la que deba rendirse el peritaje o proporcionarse la asesoría, si la profesión, técnica o arte estuvieren legalmente reglamentados y, si no lo estuvieren, deberán ser personas versadas en la materia. Para la integración del registro y permanencia en el mismo, así como para la contratación y pago de honorarios de peritos, se estará a los lineamientos que señale el Reglamento.

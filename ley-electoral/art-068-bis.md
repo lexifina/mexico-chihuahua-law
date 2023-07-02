@@ -5,7 +5,9 @@ a) Preparar el orden del día de las sesiones del Consejo Estatal; declarar el c
 b) Auxiliar a la Presidencia del Instituto Estatal Electoral en las funciones que le encomiende.
 c) Ejecutar los acuerdos del Consejo Estatal cuando se le instruya por dicho órgano; dando cuenta de ello a la Presidencia.
 d) Supervisar bajo los lineamientos que emita la Presidencia, las funciones de las Direcciones y comisiones del Instituto Estatal Electoral.
-e) Sustanciar los procedimientos administrativos sancionadores y elaborar el proyecto de resolución correspondiente.
+(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA REFORMA DEL INCISO e) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "e) Sustanciar los procedimientos administrativos sancionadores y elaborar el proyecto de resolución correspondiente."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(REFORMADO, P.O. 1 DE JULIO DE 2023)
+e) TRAMITAR EL PROCEDIMIENTO ESPECIAL SANCIONADOR Y REMITIRLO AL TRIBUNAL ELECTORAL.
 f) Elaborar el proyecto de resolución de los medios de impugnación que sean competencia del Consejo Estatal.
 g) Dar cuenta de los proyectos de dictamen de las comisiones y subcomisiones que establezca el Consejo Estatal.
 h) Expedir los documentos que acrediten la personalidad de las Consejeras y Consejeros Electorales y representantes de los partidos políticos.

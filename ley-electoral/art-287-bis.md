@@ -1,6 +1,7 @@
 (ADICIONADO, P.O. 1 DE JULIO DE 2020)
 Artículo 287 BIS
-1) En los procedimientos relacionados con violencia política contra las mujeres en razón de género, la Secretaría Ejecutiva del Instituto Estatal Electoral ordenará en forma sucesiva iniciar el procedimiento, así como resolver sobre las medidas cautelares y de protección que fueren necesarias. Cuando las medidas de protección sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
+(REFORMADO, P.O. 1 DE JULIO DE 2023)
+1) En los procedimientos relacionados con violencia política contra las mujeres en razón de género, la Secretaría Ejecutiva del Instituto Estatal Electoral ordenará en forma sucesiva iniciar el procedimiento. Cuando las medidas de protección sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
 2) Cuando la conducta infractora sea del conocimiento de las autoridades electorales administrativas distritales, municipales o locales, de inmediato la remitirán, a la Secretaría Ejecutiva del Instituto Estatal Electoral para que ordene iniciar el procedimiento correspondiente.
 3) Cuando las denuncias presentadas sean en contra de alguna persona servidora pública, la Secretaría Ejecutiva dará vista de las actuaciones, así como de su resolución, a las autoridades competentes en materia de responsabilidades administrativas, para que en su caso apliquen las sanciones que correspondan en términos de la Ley General de Responsabilidades Administrativas.
 4) La denuncia deberá contener lo siguiente:
