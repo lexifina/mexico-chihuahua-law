@@ -13,6 +13,13 @@ a) Anual de actividades.
 b) De cumplimiento de acuerdos del Consejo de Administración.
 c) De resultados de los estados financieros.
 d) Mensual de actividades que incluya el Sistema de Indicadores, el reporte de las Incidencias sobre la Observancia de la Normatividad Administrativa, el avance del cumplimiento de los Programas Operativo Anual y de Operación y las recomendaciones emitidas para corregir las observaciones detectadas.
+(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 12 DE JULIO DE 2023)
+e) Anual de diagnóstico y resultados obtenidos de las acciones implementadas para lograr la promoción y fomento del uso eficiente y la preservación del agua, así como de la cultura del agua, a más tardar en la primera semana del mes de marzo de cada año, mismo que deberá ser incluido en el informe anual de la Junta Central.
+Dicho Informe deberá ser público, y mínimo contendrá lo siguiente:
+1. Indicadores que muestren el diagnóstico e impacto en la implementación o ejecución del Programa para el uso eficiente y de Cultura del Agua.
+2. Cantidad de usuarios, sus demandas y si cuentan con medidores.
+3. Calidad de Agua y su abastecimiento, en cuanto a la calidad de agua, incluir los análisis de organismos certificados o acreditados en la materia.
+4. Metas, estrategias, acciones, indicadores para el logro de la gestión integral en el uso y aprovechamiento eficiente y sustentable del agua.
 VIII. Nombrar y remover libremente al personal de la Junta Municipal, a excepción de las Direcciones, lo cual informará al Consejo de Administración en sesión inmediata posterior.
 IX. Verificar la realización de los estudios y análisis técnicos, económicos y financieros necesarios para evaluar la relación costo-beneficio de las obras y su impacto social.
 X. Elaborar y actualizar los indicadores institucionales de la Junta Municipal, en coordinación con la Junta Central, así como coadyuvar en el establecimiento de estándares de calidad y productividad para cada indicador institucional.

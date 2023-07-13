@@ -13,7 +13,8 @@ VII. Autorizar las erogaciones correspondientes del presupuesto y someter a la a
 VIII. Rendir los informes siguientes:
 a) Anual de actividades de la Junta Central.
 b) De cumplimiento de acuerdos del Consejo de Administración.
-c) (DEROGADO, P.O. 24 DE MARZO DE 2021)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE JULIO DE 2023)
+c) Anual de diagnóstico y resultados de la ejecución del Programa Estatal de Cultura del Agua, y remitirlo en el mes de marzo de cada año, al H. Congreso del Estado; dicho informe será turnado a la Comisión de Dictamen Legislativo correspondiente, para su conocimiento.
 d) Mensual de actividades que incluya el Sistema de Indicadores, el Reporte de las Incidencias sobre la Observancia de la Normatividad Administrativa, el avance del cumplimiento del Programa Operativo Anual y las recomendaciones emitidas para corregir las observaciones detectadas.
 IX. Nombrar y remover libremente al personal de la Junta Central, a excepción de las Direcciones, lo cual informará al Consejo de Administración en sesión inmediata posterior.
 X. Emitir dictámenes, así como efectuar rescisiones de los contratos, convenios, o cualquier acuerdo de voluntades celebrado con los empleados, usuarios, prestadores de servicios, proveedores, contratistas o cualquier persona física o moral, privada o pública.
