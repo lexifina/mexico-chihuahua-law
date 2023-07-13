@@ -7,3 +7,5 @@ Para cada una de las consejerías mencionadas en los incisos d), e), f) y g) del
 Los cargos de la Consejería serán honoríficos, sin excepción, deberán desempeñar las funciones que el propio Consejo de Administración, la Ley y demás ordenamientos aplicables les asignen, y ejercer por períodos cuya duración y escalonamiento provean al ejercicio autónomo de sus funciones, continuidad de sus acciones y equilibrio en sus decisiones.
 Los integrantes del Consejo que se desempeñan como servidores públicos durarán en el cargo el término que dure su responsabilidad.
 En caso de renuncia o remoción de una persona integrante de la Consejería de los señalados en los incisos d), e), f) y g) del artículo 20, el Consejo llamará al suplente por el término restante de su período.
+(ADICIONADO, P.O. 12 DE JULIO DE 2023)
+Para la renovación de cada una de las Consejerías del inciso e) del artículo 20, se emitirá una convocatoria a los Organismos mencionados, solicitando propongan o en su caso, ratifiquen a los Consejeros y sus suplentes que los representarán en el Consejo de Administración.

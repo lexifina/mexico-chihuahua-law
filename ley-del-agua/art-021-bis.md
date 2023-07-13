@@ -1,6 +1,7 @@
 (ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)
 Artículo 21 Bis.- El Consejo de Administración de las Juntas Municipales tendrá las siguientes facultades:
-I. Proponer, al Consejo de la Junta Central, una terna para la elección de las personas que ocupen la Presidencia del Consejo de Administración, conformada por personas externas al propio Consejo de Administración de la junta municipal y deberá representar la pluralidad de los integrantes, así como una terna para ocupar la Dirección Ejecutiva.
+(REFORMADA, P.O. 12 DE JULIO DE 2023)
+I. Proponer, al Consejo de la Junta Central, una terna para la elección de las personas que ocupen la Presidencia del Consejo de Administración, conformada por personas externas al propio Consejo de Administración de la junta municipal, de conformidad con el artículo 20, fracción I de esta Ley, y deberá representar la pluralidad de los integrantes, así como una terna para ocupar la Dirección Ejecutiva.
 II. Aprobar los nombramientos de las personas aspirantes a ser titulares de las Direcciones de la Junta Municipal y, en su caso, su remoción.
 III. Nombrar y remover, en su calidad de Comité Técnico de Evaluación, a los integrantes de la Consejería por elección.
 IV. Aprobar los proyectos de ingresos y egresos, y demás servicios que preste.
@@ -19,4 +20,7 @@ XV. Aprobar la enajenación de bienes muebles de la junta municipal, cuando el v
 XVI. Aprobar la celebración de contratos de obra y adquisiciones, servicios profesionales, saneamiento, tratamiento de aguas residuales, disposición final de lodos y demás actos de la junta operadora, así como todos los actos de carácter extraordinario.
 XVII. Autorizar su propuesta de estructura orgánica y remitirla al Consejo de Administración de la Junta Central para su aprobación.
 XVIII. Realizar todas las actividades que sean necesarias, en el ámbito de su competencia, para lograr que las juntas operadoras presten a la comunidad servicios adecuados y eficientes, de conformidad con la presente Ley y demás normatividad aplicable.
-XIX. Las demás que señale esta Ley, el Reglamento, el Código Administrativo del Estado, el Estatuto Orgánico y otras disposiciones legales.
+(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JULIO DE 2023)
+XIX. Nombrar a las y los Consejeros y sus suplentes, que tendrán representación en el Consejo de Administración de la Junta Central, de conformidad al artículo 12, inciso k) de esta Ley.
+(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE JULIO DE 2023)
+XX. Las demás que señale esta Ley, y otras disposiciones legales en la materia.

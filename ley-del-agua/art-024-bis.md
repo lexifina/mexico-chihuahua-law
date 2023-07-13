@@ -23,5 +23,7 @@ XIV. Realizar todas las actividades que sean necesarias para lograr que la Junta
 XV. Nombrar a las personas que habrán de desempeñarse como inspectores, ejecutores, visitadores, verificadores y notificadores, los cuales tendrán fe pública para los trámites relacionados con el organismo operador; las facultades, funciones y obligaciones de estos se determinarán en el reglamento.
 (REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2021)
 XVI. Delegar atribuciones inherentes al debido funcionamiento de la entidad mediante acuerdo específico.
-(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 24 DE MARZO DE 2021)
-XVII. Las demás que le correspondan de acuerdo con esta Ley, el Código Administrativo del Estado de Chihuahua, los estatutos y los reglamentos respectivos o los que le otorgue el Consejo de Administración.
+(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JULIO DE 2023)
+XVII. Emitir dictámenes, así como aplicar penas convencionales y efectuar recisiones de los contratos, convenios o cualquier acuerdo de voluntades celebrado con los empleados, usuarios, prestadores de servicios, proveedores, contratistas o cualquier persona física o moral, privada o pública.
+(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE JULIO DE 2023)
+XVIII. Las demás que señale esta Ley, y otras disposiciones legales de la materia.
