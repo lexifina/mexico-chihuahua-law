@@ -12,7 +12,7 @@ VI.- Promover certámenes, concursos o competiciones de naturaleza cultural depo
 VII.- Las demás que dispongan otras leyes u ordenamientos aplicables.
 (REFORMADO, P.O. 15 DE MAYO DE 2019)
 La Charrería será considerada como parte del patrimonio cultural deportivo del país y del Estado.
-(ADICIONADO, P.O. 15 DE MAYO DE 2019)
-Asimismo, serán considerados como parte del patrimonio cultural deportivo los Juegos Tradicionales y los Autóctonos.
+(REFORMADO, P.O. 2 DE AGOSTO DE 2023)
+En el mismo sentido, serán considerados como parte del patrimonio cultural deportivo del Estado de Chihuahua, los Juegos Tradicionales y los Autóctonos. Así mismo, se considerarán como prácticas de importancia estatal y tradicionales de la cultura chihuahuense: el senderismo en sus diversas modalidades, maratón, escalada y montañismo.
 (ADICIONADO, P.O. 15 DE MAYO DE 2019)
 La administración pública estatal y municipal, en el ámbito de sus respectivas competencias, deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre sí y con las Asociaciones Deportivas Estatales y Municipales correspondientes.
