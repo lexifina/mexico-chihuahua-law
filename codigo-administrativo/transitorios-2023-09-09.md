@@ -1,0 +1,3 @@
+P.O. 9 DE SEPTIEMBRE DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0582/2023 VIII P.E., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 76 BIS AL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA".
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
