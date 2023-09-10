@@ -1,0 +1,1 @@
+ARTÍCULO SEGUNDO.- La persona titular del Poder Ejecutivo del Estado, deberá emitir el Reglamento de la presente Ley, dentro de los ciento ochenta días hábiles contados a partir de la entrada en vigor de este Decreto.

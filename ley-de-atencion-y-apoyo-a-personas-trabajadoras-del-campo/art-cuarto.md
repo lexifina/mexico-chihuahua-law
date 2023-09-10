@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Las autoridades competentes de la Administración Pública Estatal, deberán realizar las modificaciones y adecuaciones pertinentes a sus programas, de acuerdo con lo establecido en esta Ley.

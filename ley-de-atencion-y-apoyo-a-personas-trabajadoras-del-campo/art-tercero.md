@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Dentro de los ciento ochenta días hábiles, contados a partir de la entrada en vigor del Reglamento de la presente Ley, la persona titular del Poder Ejecutivo del Estado, deberá emitir el Protocolo correspondiente en la materia.
