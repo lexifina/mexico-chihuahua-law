@@ -9,4 +9,7 @@ VI. Fomentar la conservación de los recursos naturales mediante su aprovechamie
 VII. Promover la participación de organismos públicos, privados y sociales, en proyectos estratégicos de desarrollo rural municipal.
 VIII. Incentivar la realización de estudios técnicos que permitan conocer las zonas de productividad rural y socioeconómica municipales.
 IX. Celebrar acuerdos y convenios de coordinación, cooperación y concertación con los Órdenes de Gobierno e Instituciones de toda índole, en materia de desarrollo rural sustentable.
-X. Las demás que conforme a esta Ley y su Reglamento, le correspondan.
+(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2023)
+X. Impulsar la producción agrícola o cultivo tradicional con métodos productivos de acuerdo a las zonas geográficas, sociales, económicas y culturales.
+(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE OCTUBRE DE 2023)
+XI. Las demás que conforme a esta Ley y su Reglamento le correspondan.
