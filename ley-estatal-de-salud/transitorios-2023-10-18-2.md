@@ -1,0 +1,3 @@
+P.O. 18 DE OCTUBRE DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0611/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
