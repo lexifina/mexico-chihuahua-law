@@ -1,3 +1,6 @@
 P.O. 12 DE JULIO DE 2023.
 [N. DE E. TRANSITORIO DEL "DECRETO NO LXVII/RFLEY/0556/2023 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL AGUA DEL ESTADO DE CHIHUAHUA".]
-ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2023)
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2023)
+ARTÍCULO SEGUNDO.- Para la designación de las personas integrantes de los Consejos de Administración de las Juntas Municipales de Agua y Saneamiento en el Estado, señaladas en el artículo 20, párrafo primero, fracción III, inciso e), así como en el párrafo cuarto, fracción III, inciso e), de la Ley del Agua del Estado de Chihuahua, la convocatoria respectiva será emitida de manera extraordinaria, por única ocasión a la entrada en vigor del presente Decreto, tomando en cuenta a las personas consejeras del sector productivo que ya fueron integradas en el cuarto semestre de esta administración estatal, pudiendo estas últimas ser ratificadas por una sola ocasión, a solicitud del Consejo de Administración que corresponda; la entrada en funciones de dichas personas será a partir de su designación.
