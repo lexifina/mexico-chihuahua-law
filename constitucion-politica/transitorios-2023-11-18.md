@@ -1,0 +1,5 @@
+P.O. 18 DE NOVIEMBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFCNT/0594/2023 XI P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 93 FRACCIÓN IX DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO PRIMERO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y de los debates, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su momento, hágase el cómputo de los votos de los Ayuntamientos y la declaratoria de haber sido aprobada la presente reforma.
+ARTÍCULO SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Chihuahua.
+ARTÍCULO TERCERO.- El Poder Ejecutivo del Estado, a más tardar el 31 de diciembre de 2023, deberá expedir las disposiciones reglamentarias o lineamientos que establezcan los procedimientos para la determinación, organización, desarrollo, ejercicio, seguimiento y control del presupuesto participativo del Estado, así como la regionalización correspondiente, conforme a lo previsto en el presente Decreto.
