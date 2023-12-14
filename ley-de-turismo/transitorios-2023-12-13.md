@@ -1,0 +1,3 @@
+P.O. 13 DE DICIEMBRE DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0644/2023 I P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
