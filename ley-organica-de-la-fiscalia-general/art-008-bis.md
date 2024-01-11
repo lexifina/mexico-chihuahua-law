@@ -1,11 +1,16 @@
 (REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2021)
 Artículo 8 Bis. La Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género y a la Familia, tendrá a su cargo:
-(ADICIONADO [N. DE E. REFORMADO CON SUS INCISOS], P.O. 4 DE FEBRERO DE 2012)
-A. El ejercicio de las atribuciones a que se refiere el Apartado B del artículo 2 de esta Ley, cuando se trate de hechos en los que se haya privado de la vida a mujeres por razones de violencia de género; igualmente en los casos de los siguientes hechos o conductas delictivas en que la víctima sea mujer:
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ENERO DE 2024)
+A. El ejercicio de las atribuciones a que se refiere el Apartado B del artículo 2 de esta Ley, cuando se trate de hechos en los que se haya privado de la vida a mujeres por razones de violencia de género; igualmente en los casos de los siguientes hechos o conductas delictivas en que la víctima sea mujer, con las excepciones aquí previstas:
+(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE FEBRERO DE 2012)
 a) Que atenten contra la libertad y seguridad sexual y el normal desarrollo psicosexual;
-b) Violencia familiar;
+(REFORMADO, P.O. 10 DE ENERO DE 2024)
+b) Violencia familiar; y cuando en el hecho victimizante, además, sea víctima un niño o adolescente;
+(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE FEBRERO DE 2012)
 c) Que atenten contra la obligación alimentaria;
+(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE FEBRERO DE 2012)
 d) Desaparición de mujeres respecto de hechos no vinculados a la delincuencia organizada, y
+(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE FEBRERO DE 2012)
 e) Discriminación por razones de género.
 (ADICIONADO, P.O. 7 DE JUNIO DE 2017)
 f) Delitos en materia de trata de personas previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, inclusive tratándose de niños en los términos de las disposiciones aplicables.

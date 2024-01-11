@@ -33,6 +33,8 @@ VIII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a 
 IX. El cuerpo de la víctima sea expuesto, depositado, arrojado o exhibido en circunstancias tales que pueda ser visto por otras personas.
 X. El cuerpo de la víctima sea enterrado u ocultado.
 XI. Cuando la víctima se encuentre en estado de indefensión.
+(ADICIONADA, P.O. 10 DE ENERO DE 2024)
+XII. Exista en favor de la víctima, una orden o medida de protección impuesta al activo.
 (REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2020)
 Al servidor público que en el ámbito de un procedimiento seguido por feminicidio, cometa alguno de los delitos en contra del adecuado desarrollo de la justicia de los señalados en el Título Décimo Noveno, del Libro Segundo, o el contemplado en el artículo 264, ambos de este Código, la pena que corresponda, incluida su calificativa, atenuante o agravante, se aumentará en una mitad.
 (ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE DICIEMBRE DE 2020)

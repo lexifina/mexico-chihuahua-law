@@ -181,8 +181,8 @@ La Dirección del Registro Civil asentará, de manera gratuita, el registro de n
 Cuando no se pueda acreditar la filiación de la persona recién nacida, la o el Oficial del Registro Civil lo hará del conocimiento del Organismo Público Descentralizado denominado Desarrollo Integral de la Familia del Estado de Chihuahua, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 (DEROGADO CUARTO PÁRRAFO, P.O. 10 DE OCTUBRE DE 2020)
 (DEROGADO QUINTO PÁRRAFO, P.O. 10 DE OCTUBRE DE 2020)
-(ADICIONADO, P.O. 10 DE OCTUBRE DE 2020)
-55 BIS.- En caso de que la o el Oficial del Registro Civil, advierta que se pudiera haber proporcionado información con el propósito de alterar la filiación de la persona a registrar, hará la denuncia penal correspondiente.
+(REFORMADO, P.O. 10 DE ENERO DE 2024)
+55 BIS.- En caso de que la o el Oficial del Registro Civil, advierta que se pudiera haber proporcionado información con el propósito de alterar la filiación de la persona a registrar, o que el padre o la madre tuvieran menos de catorce años en la época probable de la concepción, hará la denuncia penal correspondiente.
 56.- (DEROGADO, P.O. 10 DE OCTUBRE DE 2020)
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987) (F. DE E., P.O. 3 DE OCTUBRE DE 1987)
 57.- En las poblaciones en que no haya Registro Civil, el niño deberá ser presentado a la autoridad administrativa y ésta dará la constancia respectiva que los interesados llevarán al Registro que corresponda para que se asiente el acta.
