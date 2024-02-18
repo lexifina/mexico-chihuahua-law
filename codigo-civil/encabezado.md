@@ -742,9 +742,8 @@ III.- Ordenar la prohibición de ir a un lugar determinado para alguno de los c�
 (REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2007)
 IV.- Poner a los hijos e hijas al cuidado de la persona más apta e idónea que mantenga un lazo de parentesco por consanguinidad, estableciendo un régimen de convivencia progresiva de conformidad con las necesidades y edades de los menores. El juez competente dictará las medidas considerando siempre el interés superior del menor y, en su caso, previo estudio psicológico que se practique por un perito autorizado, tanto a los hijos menores como a los progenitores, tomando en cuenta la opinión del menor a través de los medios idóneos.
 Se debe entender por Régimen de Convivencia Progresiva, las circunstancias en que deberá llevarse a cabo la convivencia entre los menores hijos e hijas y el progenitor que no tenga la guarda y custodia de éstos, para lo cual deberá considerarse que las mismas no pongan en riesgo la estabilidad de los menores y procurando que ésta aumente.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
-La protección para los hijos e hijas menores de edad implica las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales corresponderán a los organismos para la asistencia social pública estatal o municipal, a través de su correspondiente Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, por lo que deberá darse vista a estas instancias cuando en la tramitación de un juicio se perciba que se pone en riesgo la seguridad de aquéllos.
+(REFORMADO, P.O. 17 DE FEBRERO DE 2024)
+La protección para los hijos e hijas menores de edad implica las medidas de seguridad, seguimiento y terapias necesarias para evitar conductas que generen violencia familiar, las cuales corresponderán a los organismos para la asistencia social pública estatal o municipal, a través de su correspondiente Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, por lo que deberá darse vista a estas instancias cuando en la tramitación de un juicio se perciba que se pone en riesgo la seguridad de aquellos.
 (ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2016)
 Para los efectos de la fracción IV del presente artículo, se podrá establecer un sistema de convivencia supervisada, a través del Centro de Convivencia Familiar o cualquiera de sus unidades de apoyo, en los términos de la Ley Orgánica del Poder Judicial del Estado de Chihuahua, y su Reglamento correspondiente.
 (REFORMADO, P.O. 7 DE DICIEMBRE DE 2019)
@@ -849,8 +848,9 @@ CAPITULO III
 DE LA VIOLENCIA FAMILIAR
 (REFORMADO, P.O. 4 DE AGOSTO DE 2010)
 300 BIS.- Toda persona integrante de la familia o unidad doméstica tiene derecho a que los demás miembros le respeten su integridad física, sexual, psicológica, patrimonial y económica, con el objeto de contribuir a su sano desarrollo. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes, para prevenir y combatir conductas de violencia familiar.
+(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2024)
+300 TER.- Quienes integren una familia o unidad doméstica o que tengan cualquier otra relación interpersonal están obligados a evitar conductas que generen violencia familiar. Queda prohibido que la madre, padre o cualquier otra persona en la familia utilice el castigo corporal o cualquier otro tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños y adolescentes. Se define el castigo corporal y humillante, según lo dispuesto por el artículo 7 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Chihuahua.
 (REFORMADO, P.O. 4 DE AGOSTO DE 2010)
-300 TER.- Quienes integren una familia o unidad doméstica o que tengan cualquier otra relación interpersonal están obligados a evitar conductas que generen violencia familiar.
 Por violencia familiar se entiende cualquier acción u omisión que pueda causar la muerte, daño o sufrimiento físico, sexual, psicológico, patrimonial o económico, que tenga lugar dentro de la familia o unidad doméstica o en cualquier otra relación interpersonal, ya sea que la o el agresor comparta o haya compartido el mismo domicilio que el o la agredida.
 TITULO SEPTIMO
 DE LA PATERNIDAD Y FILIACION
@@ -1111,9 +1111,12 @@ N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRAN
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (REFORMADO, P.O. 28 DE OCTUBRE DE 2009)
 Cuando llegue a conocimiento de los Consejos Locales de Tutela o de cualquier autoridad administrativa que dichas personas no cumplen con la obligación referida, lo avisarán al Ministerio Público y al organismo para la asistencia social pública estatal o municipal, según corresponda, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, para que promueva lo que corresponda.
-(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2001)
-400.- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
-La facultad de corregir no implica infligir al menor actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 300 ter de este Código.
+(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2024)
+400.- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan niñas, niños y adolescentes bajo su custodia, tienen la facultad de corregirlos; la obligación de otorgarles orientación, cuidado y disciplina; y la obligación de observar una conducta que sirva a estos de buen ejemplo.
+(REFORMADO, P.O. 17 DE FEBRERO DE 2024)
+La facultad de corregir no implica infligir a niñas, niños y adolescentes actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 300 ter de este Código, por lo que queda prohibido el castigo corporal y humillante o cualquier otro tipo de trato degradante como forma de corrección disciplinaria.
+(ADICIONADO, P.O. 17 DE FEBRERO DE 2024)
+Las autoridades auxiliarán a quienes ejercen la patria potestad, tutela o guarda, custodia y crianza, siempre que sean requeridas para ello, en su formación sobre crianza respetuosa en favor de las niñas, niños y adolescentes.
 401.- El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el Juez.
 CAPITULO II
 DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
@@ -1272,9 +1275,8 @@ N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRAN
 470.- los directores de los albergues, casas hogar y demás establecimientos de asistencia social donde se reciban personas menores de edad en calidad de expósitos, abandonadas, maltratadas, víctimas de violencia familiar, explotadas, migrantes, repatriadas o por cualquier otra circunstancia que atente contra su integridad física o mental, deberán dar aviso al Ministerio Público y al organismo para la asistencia social pública estatal o municipal, según corresponda, para que por conducto de su respectiva Procuraduría de Asistencia Jurídica y Social se aboquen al desempeño de la tutela de aquéllas con arreglo a las leyes.
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)
-471.- Las personas menores de edad o incapacitadas que se encuentran bajo la patria potestad o la tutela en los términos de este Código y que hayan sido recogidas en albergues, casas hogar y demás establecimientos de asistencia social privada, quedarán bajo la custodia y guarda de los directores de éstos, teniendo el deber de asistirlos, educarlos y corregirlos convenientemente, de acuerdo a los lineamientos que al efecto dicte el organismo para la asistencia social pública estatal o municipal, según corresponda, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, quien tendrá la representación del menor para todos los efectos legales.
+(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2024)
+471.- Las personas menores de edad o incapacitadas que se encuentran bajo la patria potestad o la tutela en los términos de este Código y que hayan sido recogidas en albergues, casas hogar y demás establecimientos de asistencia social privada, quedarán bajo la custodia y guarda de los directores de estos, teniendo la obligación de otorgarles asistencia, educación, orientación, cuidado y disciplina, de acuerdo con los lineamientos que al efecto dicte el organismo para la asistencia social pública estatal o municipal, según corresponda, a través de su respectiva Procuraduría de Asistencia Jurídica y Social o dependencia equivalente, quien tendrá la representación del menor para todos los efectos legales.
 (REFORMADO, P.O. 2 DE FEBRERO DE 1994)
 Después de transcurrido seis meses, los que ejerzan la patria potestad o la tutela sólo podrán recuperar la guarda y custodia mediante resolución judicial, en caso de negativa de estas instituciones.
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
