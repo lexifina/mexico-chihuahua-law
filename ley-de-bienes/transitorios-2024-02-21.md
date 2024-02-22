@@ -1,0 +1,3 @@
+P.O. 21 DE FEBRERO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. LXVII/RFLEY/0727/2023 I P.O., MEDIANTE EL CUAL SE ADICIONAN AL ARTÍCULO 5, LOS PÁRRAFOS SEGUNDO Y TERCERO, DE LA LEY DE BIENES DEL ESTADO DE CHIHUAHUA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
