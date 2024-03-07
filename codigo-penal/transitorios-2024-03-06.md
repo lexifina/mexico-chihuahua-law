@@ -1,0 +1,3 @@
+P.O. 6 DE MARZO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0796/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de (sic) publicación en el Periódico Oficial del Estado.
