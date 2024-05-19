@@ -1,0 +1,3 @@
+P.O. 18 DE MAYO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0847/2024 II P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 56 BIS, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
