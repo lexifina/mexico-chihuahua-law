@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 19 DE JUNIO DE 2024)
+Artículo 50 Bis.- Las Plataformas digitales, por cuenta de la persona prestadora de servicios turísticos, están obligadas a realizar la determinación y retención del Impuesto Sobre Hospedaje a los usuarios de sus servicios, y enterarlo a la autoridad fiscal correspondiente; así como al cumplimiento de todas las obligaciones en materia fiscal, establecidas en la legislación aplicable.
