@@ -1162,7 +1162,10 @@ III.- Por la mayor edad del hijo.
 421.- Los derechos derivados de la patria potestad se pierden:
 I.- Cuando el que la ejerza es condenado expresamente a la pérdida de este derecho, o cuando es condenado dos o más veces por infracciones antisociales graves, o cuando es condenado por uno o más delitos graves, siempre que a criterio del Juez se pueda poner en peligro la persona o bienes del menor;
 II.- En los casos de divorcio cuando así lo disponga la ley;
-III.- Cuando por las costumbres depravadas de los padres, maltrato infantil, exposición o abandono de sus deberes, pudiera comprometerse la salud la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la Ley Penal;
+(REFORMADA, P.O. 29 DE JUNIO DE 2024)
+III.- Cuando por las costumbres depravadas de quienes ejercen la patria potestad, maltrato infantil, exposición o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la integridad de niñas, niños y adolescentes sobre las que se ejerce, aun cuando esos hechos no cayeren bajo la sanción de la Ley Penal.
+(ADICIONADO, P.O. 29 DE JUNIO DE 2024)
+La pérdida de la patria potestad, procederá cuando la medida resulte necesaria, idónea y razonable para brindar la protección más amplia, atendiendo al interés superior de la niñez.
 IV.- Cuando quien la ejerza deje expósito al menor por un plazo de más de 30 días naturales;
 V.- Cuando quien la ejerza deje de asistir y convivir injustificadamente con el menor por más de 7 días naturales cuando éste se encuentre acogido en una Institución pública de asistencia social; o
 VI.- Por abandono del menor durante un plazo de 60 días naturales, aun cuando no se comprometa su salud, seguridad o moralidad.
@@ -1170,6 +1173,8 @@ VI.- Por abandono del menor durante un plazo de 60 días naturales, aun cuando n
 VII. Cuando quien la ejerza haya entregado voluntariamente a su hija o hijo en alguna institución de asistencia social, o bien, cuando otorga su consentimiento para dar en adopción a su hija o hijo.
 (ADICIONADA, P.O. 25 DE AGOSTO DE 2010)
 VIII.- Cuando la persona menor de edad estuviese en un establecimiento asistencial y quienes la ejerzan se hubieran desentendido totalmente de la misma durante un año o cuando el desamparo moral o material resulte evidente, manifiesto y continuo.
+(ADICIONADA, P.O. 29 DE JUNIO DE 2024)
+IX.- Cuando a quien la ejerza, se le haya impuesto condena ejecutoriada por el delito de feminicidio en cualquier grado, en contra de la madre de sus hijas e hijos.
 (REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2020)
 421 BIS.- La patria potestad se perderá cuando quien la ejerce incurra en conductas de violencia familiar previstas por el artículo 300 ter de este Código en contra de las personas sobre las cuales la ejerza.
 (ADICIONADO, P.O. 25 DE AGOSTO DE 2010)
