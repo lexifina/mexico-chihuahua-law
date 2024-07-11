@@ -1,1 +1,0 @@
-ARTÍCULO SEGUNDO.- El Ejecutivo del Estado emitirá la reglamentación que resulte necesaria para mejor proveer en la esfera administrativa para el cumplimento del presente ordenamiento, en los términos y tiempos que sean convenientes.
