@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)
+Artículo 66-E.- Las personas deportistas destacadas y de alto rendimiento colaborarán con el Instituto en los proyectos de difusión del deporte base y de la práctica deportiva en general, y en aquellas actividades que promocionen la educación para la salud, la prevención de farmacodependencia y especialmente aquellas actividades destinadas a fomentar la práctica deportiva, así como promover la igualdad de género, la participación de la mujer y de los grupos vulnerables en el deporte.
+Las colaboraciones a las que hace referencia el párrafo anterior, se realizarán en los tiempos disponibles de las personas deportistas, a fin de que no afecte su preparación y participación en competencias.
