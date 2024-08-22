@@ -1,0 +1,3 @@
+P.O. 21 DE AGOSTO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0870/2024 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 268 BIS, PRIMER Y SEGUNDO PÁRRAFOS DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
