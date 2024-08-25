@@ -1123,7 +1123,8 @@ Las autoridades auxiliarán a quienes ejercen la patria potestad, tutela o guard
 CAPITULO II
 DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
 402.- Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
-403.- Cuando la patria potestad se ejerza a la vez por el padre y por la madre; o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será el varón; pero consultará en todos los negocios a su consorte, y requerirá su consentimiento expreso para los actos más importantes de la administración.
+(REFORMADO, P.O. 24 DE AGOSTO DE 2024)
+403.- Cuando la patria potestad se ejerza a la vez por el padre y por la madre; o por el abuelo y la abuela, o por los adoptantes, la administración de los bienes será conjunta, y se requerirá el consentimiento expreso de ambas personas para los actos más importantes de la administración.
 404.- La persona que ejerza la patria potestad representará también a los hijos en juicio; pero no podrá celebrar ningún arreglo para terminarlo, si no es con el consentimiento expreso de su consorte, y con la autorización judicial cuando la ley lo requiera expresamente.
 405.- Los bienes del hijo, mientras esté en la patria potestad, se dividen en dos clases:
 I.- Bienes que adquiera por su trabajo;
@@ -1138,7 +1139,8 @@ Sin embargo, si los hijos adquieren bienes por herencia, legado o donación, y e
 I.- Cuando los que ejerzan la patria potestad han sido declarados en quiebra, o estén concursados;
 II.- Cuando contraigan ulteriores nupcias;
 III.- Cuando su administración sea notoriamente ruinosa para los hijos.
-412.- Cuando por la ley o por la voluntad del padre, el hijo tenga la administración de los bienes, se le considerará respecto de la administración como emancipado, con la restricción que establece la ley para enajenar, gravar o hipotecar bienes raíces.
+(REFORMADO, P.O. 24 DE AGOSTO DE 2024)
+412.- Cuando por la ley o por la voluntad de quienes ejerzan la patria potestad, la hija o hijo tenga la administración de los bienes, se le considerará respecto de la administración como emancipado, con la restricción que establece la ley para enajenar, gravar o hipotecar bienes raíces.
 413.- Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo los bienes inmuebles y los muebles preciosos que correspondan al hijo, sino por causa de absoluta necesidad o de eminente beneficio, y previa la autorización del juez competente.
 Tampoco podrán celebrar contrato de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de los hijos o remisión voluntaria de los derechos de éstos; ni dar fianza en representación de los hijos.
 414.- Siempre que el Juez conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente al menor, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó, y para que el resto se invierta en la adquisición de un inmueble o se imponga con segura hipoteca en favor del menor.
