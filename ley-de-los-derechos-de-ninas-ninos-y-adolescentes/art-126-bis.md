@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE AGOSTO DE 2024)
+Artículo 126 Bis. Los tribunales estatales deberán suministrar, intercambiar, sistematizar y actualizar la información que se genere sobre el incumplimiento de las obligaciones alimentarias, en el ámbito de sus competencias, a través de los sistemas e instrumentos tecnológicos del Sistema Nacional DIF, para integrar el Registro Nacional de Obligaciones Alimentarias.

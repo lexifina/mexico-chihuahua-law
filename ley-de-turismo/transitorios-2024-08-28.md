@@ -1,0 +1,3 @@
+P.O. 28 DE AGOSTO DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. LXVII/RFLEY/0857/2024 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
