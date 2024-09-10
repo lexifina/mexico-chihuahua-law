@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 11 DE OCTUBRE DE 2023)
+ARTICULO 71 BIS.- La persona titular de la Dirección de Obras Públicas Municipales de aquellos municipios que cuenten con centros poblacionales con una concentración igual o superior a los cien mil habitantes, deberá elaborar un padrón con modalidad anual que contenga las especificaciones referentes a las obras de pavimentación de calles y avenidas ubicadas dentro de los límites del Municipio de su correspondencia, que hayan sido objeto de una reparación parcial o total, mediante el cual se informen las circunstancias de tales obras.
+Este padrón deberá ser concluido a más tardar el 30 de abril del año posterior al ejercicio fiscal que corresponda.
+De existir irregularidades dentro del referido padrón, deberán denunciarse en los términos legales correspondientes, según la naturaleza de la irregularidad.
