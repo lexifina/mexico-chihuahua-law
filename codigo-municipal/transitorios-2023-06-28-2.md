@@ -1,0 +1,3 @@
+P.O. 28 DE JUNIO DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFCOD/0561/2023 II P.O., MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 31 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
