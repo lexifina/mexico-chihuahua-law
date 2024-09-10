@@ -5,5 +5,6 @@ II. Promover la cultura institucional para la igualdad laboral entre mujeres y h
 III. Establecer las bases normativas para la transversalización de la perspectiva de género en los planes, políticas y acciones del Ayuntamiento;
 IV. Impulsar la igualdad sustantiva y no discriminación al interior como al exterior del Ayuntamiento;
 V. Garantizar los derechos humanos en todo el territorio municipal;
-VI. Garantizar un enfoque integral, transversal, con perspectiva de derechos humanos, de género e interculturalidad en el diseño y la instrumentación de políticas y programas de gobierno;
+(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)
+VI. Garantizar un enfoque integral, transversal, con perspectiva de derechos humanos, de género, interculturalidad y de familia, en el diseño y la instrumentación de políticas y programas de gobierno;
 VII. Establecer los procedimientos de impugnación de actos del Ayuntamiento.
