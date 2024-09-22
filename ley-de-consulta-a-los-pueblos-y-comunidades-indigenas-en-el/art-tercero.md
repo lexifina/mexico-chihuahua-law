@@ -1,0 +1,1 @@
+ARTÍCULO TERCERO.- Los poderes del Estado y los municipios deberán difundir el contenido de la Ley, en el ámbito de sus respectivas competencias, a los pueblos y comunidades indígenas que residen en la entidad, a través de los medios que considere idóneos y pertinentes.
