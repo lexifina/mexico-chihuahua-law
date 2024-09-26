@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2024)
+ARTÍCULO 111 BIS.- El Estado reconoce la importancia y coadyuvará a procurar que las instituciones de educación superior se constituyan como espacios libres de todo tipo y modalidad de violencia y de discriminación, para garantizar el acceso pleno al derecho a la educación superior.
+En el ámbito de su competencia, conforme a sus procedimientos normativos y de acuerdo con sus características, las instituciones de educación superior promoverán, entre otras, la adopción de las siguientes medidas:
+I. Emisión de diagnósticos, programas y protocolos para la prevención, atención, sanción y erradicación de todos los tipos y modalidades de violencia.
+II. Desarrollo de investigación multidisciplinaria encaminada a crear modelos para la detección y erradicación de la violencia en las instituciones de educación superior.
+III. Emisión de programas, protocolos y realización de acciones que garanticen el acceso, la continuidad y culminación de la educación superior de las mujeres, y que promuevan la lactancia materna durante los primeros seis meses de nacimiento de su hija o hijo, respetando su autonomía y decisión.
+Bajo ninguna circunstancia, las instituciones de educación superior podrán prohibir la entrada a las hijas e hijos, en etapa de primera infancia, de madres y padres estudiantes, así como a sus redes de apoyo. Debiendo proveer, en coordinación con el Estado, la construcción de espacios de atención infantil dentro de los recintos para ofrecer un lugar donde resguardar a sus niñas o niños mientras estudian.
+Cuando las instalaciones no cuenten con el espacio para albergar esta infraestructura o personal requerido, se deberán gestionar los convenios pertinentes.
