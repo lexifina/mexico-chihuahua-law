@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- Los trámites relacionados con la entrada en vigor de esta Ley, tales como multas, sanciones e infracciones, así como en su caso procedimientos administrativos o judiciales, que hayan sido iniciados con anterioridad a dicha entrada en vigor, se concluirán conforme a las disposiciones anteriores que resulten aplicables.
