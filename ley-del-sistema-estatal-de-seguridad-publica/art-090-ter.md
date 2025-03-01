@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 1 DE MARZO DE 2025)
+Artículo 90 Ter. El H. Congreso del Estado, a través de la Comisión de Seguridad Pública y Protección Civil o aquella que sea su equivalente, se coordinará con la Secretaría y la Secretaría de Hacienda del Estado, a efecto de que se realicen las previsiones presupuestales necesarias para la entrega del reconocimiento expuesto en la convocatoria correspondiente.
