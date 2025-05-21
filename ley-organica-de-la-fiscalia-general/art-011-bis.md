@@ -6,8 +6,8 @@ I. Unidad de Análisis y Contexto.
 II. Comisión Local de Búsqueda.
 (REFORMADA, P.O. 21 DE JULIO DE 2018)
 III. Unidad Especializada en Investigación y Persecución de Delitos de Desaparición Forzada de Personas y la Cometida por Particulares.
-(REFORMADA, P.O. 21 DE JULIO DE 2018)
-IV. Unidad Especializada en Investigación de Violaciones a los Derechos Humanos y Tortura.
+(REFORMADA, P.O. 21 DE MAYO DE 2025)
+IV. Unidad Especializada en Investigación de Violaciones a los Derechos Humanos.
 (ADICIONADA, P.O. 7 DE JUNIO DE 2017)
 V. Las demás que determinen las disposiciones aplicables y que autorice el presupuesto.
 (ADICIONADO, P.O. 7 DE JUNIO DE 2017)

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE MAYO DE 2025)
+Artículo 11 Septies. El personal sustantivo, para ser integrante y permanecer en la Fiscalía Especializada en Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, deberá cumplir como mínimo los requisitos establecidos en el artículo 58 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.

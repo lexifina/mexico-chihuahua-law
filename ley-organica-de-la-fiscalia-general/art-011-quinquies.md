@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE MAYO DE 2025)
+Artículo 11 Quinquies. La Fiscalía Especializada en Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, en el ámbito de su competencia, realizará funciones de prevención, investigación y persecución de los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, conforme lo dispone la citada Ley General, la presente Ley y demás ordenamientos legales aplicables.
