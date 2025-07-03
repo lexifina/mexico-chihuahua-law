@@ -1,0 +1,4 @@
+P.O. 2 DE JULIO DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFCNT/0088/2024 I P.O., MEDIANTE EL CUAL SE ADICIONAN AL ARTÍCULO 4º, LOS PÁRRAFOS VIGÉSIMO OCTAVO Y VIGÉSIMO NOVENO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA".]
+ARTÍCULO PRIMERO.- En atención a lo que dispone el artículo 202 de la Constitución Política del Estado Libre y Soberano de Chihuahua, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+ARTÍCULO SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
