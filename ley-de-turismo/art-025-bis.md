@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 29 DE OCTUBRE DE 2025)
+Artículo 25 Bis. La Secretaría, en coordinación con las dependencias y entidades de la administración pública estatal, así como con los municipios con vocación turística, llevarán a cabo todas aquellas acciones necesarias para que, en el mobiliario urbano destinado a información turística, además del español, sean señalizados en varios idiomas, atendiendo a la afluencia más común de turistas extranjeros.
