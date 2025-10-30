@@ -9,3 +9,4 @@ PRESIDENTA. DIP. ADRIANA TERRAZAS PORRAS. Rúbrica. SECRETARIA. DIP. DIANA IVETT
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dos días del mes de febrero del año dos mil veinticuatro.
 LA GOBERNADORA CONSTITUCIONAL DEL ESTADO. MTRA. MARÍA EUGENIA CAMPOS GALVÁN. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SANTIAGO DE LA PEÑA GRAJEDA. Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
