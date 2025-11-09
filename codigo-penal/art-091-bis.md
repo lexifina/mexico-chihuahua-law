@@ -14,6 +14,6 @@ II. Libertad anticipada.
 a) Tratamiento preliberacional;
 b) Libertad preparatoria; y
 c) Remisión parcial de la pena.
-III. Indulto.
+III. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2025)
 IV. Condena condicional.
 V. Sustitución de sanciones.
