@@ -1,0 +1,5 @@
+P.O. 26 DE NOVIEMBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVIII/RFLEY/0278/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE CHIHUAHUA Y DE LA LEY ESTATAL DE EDUCACIÓN".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Hacienda, destinará, en la medida financiera posible, una partida presupuestal suficiente para garantizar el costo de las capacitaciones que se impartirán al personal que asignen las autoridades educativas, para los efectos previstos en el presente Decreto.
+TERCERO.- La Secretaría de Educación y Deporte del Estado deberá emitir las disposiciones reglamentarias correspondientes dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, a fin de establecer los criterios y lineamientos necesarios para la aplicación de lo dispuesto en el artículo 4, fracción X, tercer párrafo, de la Ley de Seguridad Escolar para el Estado de Chihuahua.
