@@ -1,0 +1,6 @@
+P.O. 24 DE DICIEMBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFLYC/0462/2025 I P.O.".]
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor el día primero del mes de enero del año dos mil veintiséis, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+ARTÍCULO SEGUNDO.- Durante los ejercicios fiscales de 2026 y 2027, en lugar de aplicar la tasa establecida en el artículo 75 de la Ley de Hacienda del Estado de Chihuahua, sobre el monto mensual de las erogaciones a que se refiere el artículo 74 de la citada Ley, se aplicará la tasa del 4%.
+Los ingresos adicionales que se obtengan por la aplicación de la tasa señalada en el párrafo anterior, deberán aplicarse preferentemente al rubro de inversión pública productiva y el remanente, a lo dispuesto en el artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+Las contribuciones extraordinarias a que se refieren los Decretos 266/94/XI/ P.E. y 842/2012 VI P.E., publicados en el Periódico Oficial del Estado de Chihuahua del 30 de abril de 1994 y del 22 de septiembre de 2012, respectivamente, se determinarán tomando como base de las mismas, el impuesto sobre nóminas causado, considerando la tasa del 3%.
