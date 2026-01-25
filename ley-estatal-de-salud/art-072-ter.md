@@ -7,6 +7,8 @@ IV. La Secretaría de Desarrollo Humano y Bien Común.
 V. La Secretaría de Pueblos y Comunidades Indígenas.
 VI. El Desarrollo Integral de la Familia del Estado de Chihuahua.
 VII. Los Municipios del Estado, en el ámbito de sus competencias, o conforme a los convenios establecidos.
+(ADICIONADA, P.O. 24 DE ENERO DE 2026)
+VIII. La Procuraduría de Protección de Niñas, Niños y Adolescentes.
 La Secretaría de Salud, encabezará la Presidencia, y las demás dependencias fungirán como vocales.
 La Comisión Estatal de los Derechos Humanos, será invitada permanente, a fin de que brinde asesoría en la materia a su cargo, la cual contará únicamente con derecho al uso de la voz.
 Las resoluciones se tomarán por mayoría simple y, en caso de empate, la Presidencia tendrá voto de calidad.
