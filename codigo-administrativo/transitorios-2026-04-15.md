@@ -1,0 +1,3 @@
+P.O. 15 DE ABRIL DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFCOD/0478/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 105, PÁRRAFO PRIMERO, LA FRACCIÓN XVI, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
