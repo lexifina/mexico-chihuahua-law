@@ -1,0 +1,3 @@
+P.O. 18 DE ABRIL DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0380/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
