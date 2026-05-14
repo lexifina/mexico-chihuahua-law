@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 13 DE MAYO DE 2026)
+ARTICULO 29 BIS. Los Ayuntamientos, en el ámbito de su autonomía, promoverán la cultura de paz, la legalidad, la convivencia social y la prevención de la violencia en todas sus formas, a través de políticas públicas, programas educativos y actividades culturales, deportivas y artísticas.
+En todo momento se considerará la igualdad sustantiva, la perspectiva de género, la diversidad cultural y la inclusión como principios rectores de dichas acciones.
+Además, podrán establecer los lineamientos necesarios para regular los eventos públicos que se realicen en su circunscripción territorial y promocionar las diversas formas de expresión distintas a la apología del delito, mensajes que normalicen la violencia, particularmente contra las mujeres, o que vulneren los derechos humanos o la dignidad de las personas.
