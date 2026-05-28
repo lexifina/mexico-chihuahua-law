@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 27 DE MAYO DE 2026)
+Artículo 8 Bis. En la atención de víctimas niñas, niños o adolescentes dentro del Estado de Chihuahua, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán observar las medidas especiales siguientes:
+I. Brindar a la niña, niño o adolescente, información completa sobre sus derechos, sobre el proceso de atención y sobre el estado de los procedimientos legales vinculados a su caso, en forma clara, comprensible y acorde a su edad y nivel de desarrollo.
+II. Evitar en todo momento la revictimización institucional. Ninguna autoridad deberá someter a la víctima a trámites o diligencias repetitivas o innecesarias que le causen angustia o revivan el trauma.
+III. Proporcionar acompañamiento y apoyo emocional especializado durante todo el proceso de asistencia. La autoridad competente deberá asegurar que psicólogos o personal especializado en atención infantil estén presentes o disponibles para atender las necesidades emocionales de la niña, niño o adolescente.

@@ -1,0 +1,3 @@
+P.O. 27 DE MAYO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0485/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.p
