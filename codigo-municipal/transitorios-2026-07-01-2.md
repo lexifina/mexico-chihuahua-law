@@ -1,0 +1,3 @@
+P.O. 1 DE JULIO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFCOD/0528/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 31, FRACCIÓN IX, UN INCISO C), DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
