@@ -1,0 +1,3 @@
+P.O. 29 DE AGOSTO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFCOD/0504/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 278, UN SEGUNDO PÁRRAFO, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
