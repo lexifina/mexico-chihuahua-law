@@ -1,0 +1,4 @@
+P.O. 17 DE OCTUBRE DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFCNT/0552/2026 VIII P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA.]
+ARTÍCULO PRIMERO.- En atención a lo que dispone el artículo 202 de la Constitución Política del Estado Libre y Soberano de Chihuahua, envíese copia de las Iniciativas, del Dictamen y del Diario de los Debates del H. Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios que integran a la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+ARTÍCULO SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
