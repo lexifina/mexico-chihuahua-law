@@ -1,0 +1,11 @@
+{
+  "path": "mx-chh",
+  "code": "MX-CHH",
+  "name": "Chihuahua",
+  "level": "state",
+  "parent": "mx",
+  "repo": "https://github.com/lexifina/mexico-chihuahua-law",
+  "build": "built: constitution, codes and laws (149 ordenamientos, 1737 versions) from SCJN Legislación",
+  "language": "es",
+  "sources": 1
+}
